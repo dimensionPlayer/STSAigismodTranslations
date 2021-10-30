@@ -1,0 +1,266 @@
+{
+  "CharTooltipsID": {
+    "TEXT": [
+      "Witch", "Enemies attacked by this card receives temporary #ySlow.",
+      "Archer", "This card #bignores enemy powers that activate when they are #yattacked, like Thorns.",
+      "Princess", "Gain 1 Max HP when you add a Princess card to your Deck.",
+      "Undead", "This class activates #badditional effects when #yexhausted.",
+      "Black Rarity", "This type of character have #ybranching paths when #yupgrading. Only Rare cards may have this property.",
+      "Eastern Country", "This card applies for other effects listing Eastern Country cards.",
+      "Hero", "This card can be upgraded any number of times. NL Only obtainable by the #yHero #yCrystal relic and #yTower #yof #yHeroes event.",
+      "White Empire", "This card has synergies with effects listing Imperial cards, only in the card pool of #yThe #yEmperor.",
+      "Curse User", "When played, add the #yCurse this card previews to your Master Deck if you don't have it.",
+      "Demon", "If this card is in Exhaust Pile at the start of your turn: add this to your hand with -1 of its Original cost for that turn.",
+      "Aerial", "When played shuffle 1 Air Signal to your Draw Pile. Increase damage by 1 for each Air Signal Exhausted.",
+      "Necromancer", "Increase damage by 1 for each #yUndead #yExhausted. When this deals unblocked damage, add #b1 #ySkeleton #yUnit to your hand."
+    ]
+  },
+
+  "AmbrosePDiscardAction": {
+    "TEXT": [
+      "discard (up to 3)",
+      "discard."
+    ]
+  },
+
+  "ArmorSmithAction": {
+    "TEXT": [
+      "upgrade."
+    ]
+  },
+
+  "CindyAction": {
+    "TEXT": [
+      "discard."
+    ]
+  },
+
+  "CursedBoundaryAction": {
+    "TEXT": [
+      "discard."
+    ]
+  },
+
+  "EasternMaidAction": {
+    "TEXT": [
+      "reduce it's cost for the turn."
+    ]
+  },
+
+  "DengunsCommandAction": {
+    "TEXT": [
+      "Select a card to put at the top of the Draw Pile.",
+      "Select cards to put at the top of the Draw Pile.",
+      "I don't have an Eastern Country in Draw Pile..."
+    ]
+  },
+
+  "LepuruAction": {
+    "TEXT": [
+      "return to draw pile.",
+      "return to draw pile."
+    ]
+  },
+
+  "OldClergymanAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+
+  "SuzuneAction": {
+    "TEXT": [
+      "Choose a card to add to your hand."
+    ]
+  },
+
+  "SwordSmithAction": {
+    "TEXT": [
+      "upgrade."
+    ]
+  },
+
+  "TowaAction": {
+    "TEXT": [
+      "Choose 1 witch to add to top of Draw Pile.",
+      "Choose 2 witches to add to top of Draw Pile.",
+      "I don't have a witch card in my deck..."
+    ]
+  },
+
+  "VampireHunterDPAction": {
+    "TEXT": [
+      "Choose a card to exhaust."
+    ]
+  },
+
+  "YashimaAction": {
+    "TEXT": [
+      "Choose a card to copy it's effect."
+    ]
+  },
+
+  "PrincessMaidAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "Choose cards to add to your hand.",
+      "i don't have a princess card in my deck..."
+    ]
+  },
+
+  "RisleyAction": {
+    "TEXT": [
+      "reduce it's cost."
+    ]
+  },
+
+  "ShizukaAction": {
+    "TEXT": [
+      "discard.",
+      "I don't have an Eastern Country in hand..."
+    ]
+  },
+
+  "AirshipAction": {
+    "TEXT": [
+      "Select an Imperial card to add to your hand.",
+      "I don't have an Imperial Card in deck..."
+    ]
+  },
+
+  "LilyAction": {
+    "TEXT": [
+      "play from your hand. (Optional)"
+    ]
+  },
+
+  "BlitzkriegAction": {
+    "TEXT": [
+      " what Imperial cards to play. (Optional) ",
+      " what Imperial card to play. (Optional)",
+      "Can Select: "
+    ]
+  },
+
+  "LieselotteAction": {
+    "TEXT": [
+      "Discard. (Optional)"
+    ]
+  },
+
+  "MephistoAction": {
+    "TEXT": [
+      "Select an Imperial or Demon card to exhaust. (Optional)",
+      "I don't have an Imperial or Demon Card in deck..."
+    ]
+  },
+  "AuroraAction": {
+    "TEXT": [
+      "Select cards to Exhausts. (Optional)"
+    ]
+  },
+  "WhiteDevotionAction": {
+    "TEXT": [
+      "exhaust. (Optional)"
+    ]
+  },
+  "CallingYouAction": {
+    "TEXT": [
+      "Choose a character to add to your hand.",
+      "Choose characters to add to your hand.",
+      "i don't have an Imperial character in my discard pile..."
+    ]
+  },
+  "AirSignalAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "Choose cards to add to your hand.",
+      "i don't have an Aerial card in my discard pile..."
+    ]
+  },
+  "DemonCommandAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "HelmineAction": {
+    "TEXT": [
+      "exhaust.",
+      "I don't have cards in hand..."
+    ]
+  },
+  "StrikeModifStrings": {
+    "TEXT": [
+      "Vulnerable.",
+      "Poison.",
+      " NL Apply ", " Vulnerable.",
+      " NL Apply ", " Poison."
+    ]
+  },
+  "BelpheAction": {
+    "TEXT": [
+      "Exhaust ", " cards. (Optional)", "I don't have anything in discard pile..."
+    ]
+  },
+  "ImperialInventorAction": {
+    "TEXT": [
+      "upgrade. (Optional)"
+    ]
+  },
+  "MakaiCookingAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "NormaAction": {
+    "TEXT": [
+      "You can exhaust up to ", " Demon card.", "I don't have Demons in discard Pile..."
+    ]
+  },
+  "OtherworldCallAction": {
+    "TEXT": [
+      "Choose ", " Demons to exhaust.", "I don't have Demons in my Draw Pile..."
+    ]
+  },
+  "NatalieAction": {
+    "TEXT": [
+      "discard."
+    ]
+  },
+  "TsugumiExhaustAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "TsugumiRecoverAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "I don't have Eastern Country cards in Discard Pile..."
+    ]
+  },
+  "EstrieAction": {
+    "TEXT": [
+      "You can exhaust up to ", " Undead cards.", "I don't have an Undead in discard Pile..."
+    ]
+  },
+  "SpookyPhenomenonAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "FedoraAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "TenguBlazeAction": {
+    "TEXT": [
+      "exhaust."
+    ]
+  },
+  "UndeadWorldAction": {
+    "TEXT": [
+      "Choose 1 Undead to add to your hand.", "i don't have an Undead card in Exhaust Pile..."
+    ]
+  }
+}

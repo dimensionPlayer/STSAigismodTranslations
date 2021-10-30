@@ -1,0 +1,104 @@
+{
+  "aigisMod:BattleTank": {
+    "NAME": "Battle Tank",
+    "MOVES": [
+      "SplashAttack.",
+      "PiercingAttack.",
+      "On turn end, deal #b", " Splash damage to a random enemy.",
+      "On turn end, deal #b", " True damage to a random enemy."
+    ]
+  },
+  "aigisMod:EnergyAthanor": {
+    "NAME": "Energy Athanor",
+    "MOVES": [
+      "Generate Energy.",
+      "On turn start, gain #b", " Energy."
+    ]
+  },
+  "aigisMod:Solais": {
+    "NAME": "Solais",
+    "MOVES": [
+      "Charge",
+      "Eternal Star"
+    ],
+    "DIALOG": [
+      "The twinkling stars will descend"
+    ]
+  },
+  "aigisMod:Sanara": {
+    "NAME": "Sanara",
+    "MOVES": [
+      "Geotoken",
+      "Megalith",
+      "Master Geomancer"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Yuugen": {
+    "NAME": "Yuugen",
+    "MOVES": [
+      "Break Shot",
+      "Pain Shot"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Alva": {
+    "NAME": "Alva",
+    "MOVES": [
+      "Cruadin Replica",
+      "Seven Fortress",
+      "Divine Sword Gea Curruid"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tuan": {
+    "NAME": "Tuan",
+    "MOVES": [
+      "Rapid Overrun",
+      "Impregnable Recklessness"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tram": {
+    "NAME": "Tram",
+    "MOVES": [
+      "Mac an Luin",
+      "Silver Authority",
+      "",
+      "Sword of Brilliance"
+    ],
+    "DIALOG": [
+      "Flash of Silver"
+    ]
+  },
+  "aigisMod:Ambrose": {
+    "NAME": "Ambrose",
+    "MOVES": [
+      "Flowering Magic",
+      "Magic Garden",
+      "Aval Garden"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Arge": {
+    "NAME": "Arge",
+    "MOVES": [
+      "Attack Fortification Semias",
+      "Defense Magic Drone",
+      "Attack Mechanism Miach"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  }
+}

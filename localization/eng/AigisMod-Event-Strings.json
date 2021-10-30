@@ -1,0 +1,19 @@
+{
+  "aigisMod:TowerOfHeroes": {
+    "NAME": "Tower of heroes",
+    "DESCRIPTIONS": [
+      "You reach a floor still recognizable as the Tower of Heroes. NL The Heroes overseeing the tower are now giving you a choice: NL They can lend you a portion of their power NL OR NL You can test your determination and fight for a greater power.",
+      "Confident with your decision, you leave the floor and continue your adventure.",
+      "You will have a tremendous power at your command.",
+      "You surpassed their expectations."
+    ],
+    "OPTIONS": [
+      "[Recruit] #gGain #gan #gUncommon #gHero #gCard.",
+      "[Fight] #gUpgrade #gan #gUncommon #gHero #gCard #gto #gRare.",
+      "[Leave]",
+      "Choose a Hero card to add to your deck.",
+      "[Recruit] #gGain #ga #grare #gHero #gCard.",
+      "[LOCKED] You don't have a Hero card to upgrade to rare."
+    ]
+  }
+}

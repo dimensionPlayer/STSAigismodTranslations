@@ -1,0 +1,279 @@
+{
+        "aigisMod:CursedRitesPower": {
+                "NAME": "Cursed Rite",
+                "DESCRIPTIONS": ["You can't heal while you have this power. Remove #b1 stack at your end of turn."]
+        },
+
+        "aigisMod:Geotoken": {
+                "NAME": "Geotoken",
+                "DESCRIPTIONS": ["On turn end, gain #b" , " Temporary HP."]
+        },
+
+        "aigisMod:DamageAura": {
+                "NAME": "Damage aura",
+                "DESCRIPTIONS": ["On turn end, enemies receive #b" , " damage."]
+        },
+
+        "aigisMod:Ninjutsu": {
+                "NAME": "Ninjutsu",
+                "DESCRIPTIONS": ["At the start of your turn, create a #yshuriken. #yShurikens gain #b", " extra damage and #b", " extra hits when created."]
+        },
+
+        "aigisMod:AzamiNinjutsuPower": {
+                "NAME": "Azami Ninjutsu",
+                "DESCRIPTIONS": ["On enemy death, add to hand #b1 shuriken."]
+        },
+
+        "aigisMod:CounterPower": {
+                "NAME": "Counter",
+                "DESCRIPTIONS": ["Deal, #b", " damage back to enemies when attacked. Remove this power at start of turn."]
+        },
+
+        "aigisMod:LoseDamageAura": {
+                "NAME": "Lose Damage Aura",
+                "DESCRIPTIONS": ["On start of turn, lose #r", " Damage Aura."]
+        },
+
+        "aigisMod:Sluggish": {
+                "NAME": "Sluggish",
+                "DESCRIPTIONS": ["On end of turn, reduce #b1 stack, remove #ySlow when this has no stacks."]
+        },
+
+        "aigisMod:ArmorSmith": {
+                "NAME": "ArmorSmith",
+                "DESCRIPTIONS": ["On start of turn, upgrade #b", " non-hero skill cards in hand."]
+        },
+
+        "aigisMod:SwordSmith": {
+                "NAME": "SwordSmith",
+                "DESCRIPTIONS": ["On start of turn, upgrade #b", " non-hero attack cards in hand."]
+        },
+
+        "aigisMod:RagingFlameFormation": {
+                "NAME": "Flame Formation",
+                "DESCRIPTIONS": ["Once per turn, for each #b", " attacks played, gain #b", " energy.", "You played #b3 attack cards, power activated this turn."]
+        },
+
+        "aigisMod:SteamGuardianPower": {
+                "NAME": "Steam Guardian",
+                "DESCRIPTIONS": ["You receive #b", "% less damage when #yattacked. Damage by #ylose #yHP and #ythorns is not reduced."]
+        },
+
+        "aigisMod:SacrificePower": {
+                "NAME": "Sacrifice",
+                "DESCRIPTIONS": ["Increase this power #gheal when taking damage or HP loss. At the start of your next turn, #gheal half of #b", " and remove this power."]
+        },
+
+        "aigisMod:EliteAssaultCommand": {
+                "NAME": "Assault Command",
+                "DESCRIPTIONS": ["If you play #b", " cards, gain #b", " energy and apply #b", " Vulnerable to enemies.", "If you play #b", " card, gain #b"]
+        },
+
+        "aigisMod:OutlawMaid": {
+                "NAME": "Outlaw Maid",
+                "DESCRIPTIONS": ["If you play #b", " cards with #yassassination , gain #b", " #yStrength.", "If you play #b", " card with #yassassination, gain #b"]
+        },
+
+        "aigisMod:BloomPetal": {
+                "NAME": "Bloom Petal",
+                "DESCRIPTIONS": ["On your #b", "nd turn end, all enemies take #b", " damage and gain #b2 #yWeak and #b2 #yVulnerable, then remove this power.",
+                                 "On your next turn end, all enemies take #b", " damage and gain #b2 #yWeak and #b2 #yVulnerable, then remove this power."]
+        },
+        "aigisMod:CalamityAverting": {
+                "NAME": "Calamity Averting",
+                "DESCRIPTIONS": ["On Death, if you have Calamity Averting Mirror on hand, use it to heal instead of dying."]
+        },
+        "aigisMod:ForgeEquipment": {
+                "NAME": "Forge Equipment",
+                "DESCRIPTIONS": ["Everytime a skill is played, gain #b", " #yDexterity for the turn.", " Everytime an attack is played, gain #b", " #yStrength for the turn."]
+        },
+        "aigisMod:SpeedCooking": {
+                "NAME": "Speed Cooking",
+                "DESCRIPTIONS": ["At the start of turn, gain #b", " #yStrength and #b", " #yDexterity."]
+        },
+        "aigisMod:NumbingPoisonPower": {
+                "NAME": "Numbing Poison",
+                "DESCRIPTIONS": ["Attacks with #yshurikens will give #b", " #ypoison to target monster."]
+        },
+        "aigisMod:AllTreasure": {
+                "NAME": "All Treasure",
+                "DESCRIPTIONS": ["On Battle end, remove the following #yrelics: "]
+        },
+        "aigisMod:LightningSpeed": {
+                "NAME": "Lightning Speed",
+                "DESCRIPTIONS": ["Once per turn, when you deal unblocked damage, gain #b", " #yStrength.", "This power has been activated this turn."]
+        },
+        "aigisMod:PrincessMaid": {
+                "NAME": "Princess Maid",
+                "DESCRIPTIONS": ["At turn start, add #b", " princess card form your deck.", "Choose a card to add to hand.", "I don't have a princess card in my deck..."]
+        },
+        "aigisMod:EasternMaid": {
+                "NAME": "Eastern Maid",
+                "DESCRIPTIONS": ["At turn start, choose #b", " eastern cards form hand, reduce their cost by #b1 this turn."]
+        },
+        "aigisMod:Blitzkrieg": {
+                "NAME": "Blitzkrieg",
+                "DESCRIPTIONS": ["At turn end, if you have no energy, you can choose #b", " Imperial cards to play from hand."]
+        },
+        "aigisMod:EightTrigrams": {
+                "NAME": "Eight Trigrams",
+                "DESCRIPTIONS": ["If you play #b", " Imperial cards, gain #b", " #yDexterity and #b1 intangible.", " Imperial card, gain #b"]
+        },
+        "aigisMod:MarikaPower": {
+                "NAME": "Iai Slash",
+                "DESCRIPTIONS": ["When you defeat an enemy, #b", " #yImperial cards are cost #b0 for the turn."]
+        },
+        "aigisMod:DemonReturnPower": {
+                "NAME": "Demon Return",
+                "DESCRIPTIONS": ["At the start of , #b", " #yImperial cards are cost #b0 for the turn. This description should not appear..."]
+        },
+        "aigisMod:VictorySword": {
+                "NAME": "Victory Sword",
+                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial #yCharacter, draw #b", "This power has been activated."]
+        },
+        "aigisMod:ImperialCooking": {
+                "NAME": "Imperial Cooking",
+                "DESCRIPTIONS": ["If you play #b", " #yImperial cards, gain #b", " #yDexterity and #b", " #yStrength.", " #yImperial card, gain #b"]
+        },
+        "aigisMod:ImperialInventor": {
+                "NAME": "Imperial Inventor",
+                "DESCRIPTIONS": ["On start of turn, upgrade #b", " #yImperial cards in hand."]
+        },
+        "aigisMod:WhiteMajesty": {
+                "NAME": "White Majesty",
+                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial #ycharacter #yAttack Card, Strikes gain #b", " damage this combat", "This power has been activated."]
+        },
+        "aigisMod:WhiteDevotion": {
+                "NAME": "White Devotion",
+                "DESCRIPTIONS": ["On turn end, if you have cards in #yhand, you can exhaust #b1 card from hand and gain #b1 #yartifact.", " You can use this effect #b", " times"]
+        },
+        "aigisMod:CallingYou": {
+                "NAME": "Calling You",
+                "DESCRIPTIONS": ["At the start of your turn, You can add #b", " #yImperial #ycharacters from #ydiscard #ypile to your #yhand."]
+        },
+        "aigisMod:RangerTrap": {
+                "NAME": "Ranger Trap",
+                "DESCRIPTIONS": ["When receiving #yunblocked #ybattle #ydamage, deal #b", " damage back, then remove this power."]
+        },
+        "aigisMod:YataWing": {
+                "NAME": "Yata Wing",
+                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial card, exhaust #b", " status cards.", "You have already exhausted a card."]
+        },
+        "aigisMod:AerialSupremacy": {
+                "NAME": "Aerial Supremacy",
+                "DESCRIPTIONS": ["When creating #yAir #ySignal, upgrade it."]
+        },
+        "aigisMod:MakaiCooking": {
+                "NAME": "Makai Cooking",
+                "DESCRIPTIONS": ["On turn end, you can exhaust #b1 Demon from your #yhand to gain #b", " #yStrength."]
+        },
+        "aigisMod:OtherworldCall": {
+                "NAME": "Otherworld Call",
+                "DESCRIPTIONS": ["On turn end, you can exhaust #b", " #yDemons from your #yDraw #yPile."]
+        },
+        "aigisMod:EnergyAthanorPower": {
+                "NAME": "Energy Athanor",
+                "DESCRIPTIONS": ["When you use a #ypotion, refill all your [E] and gain #b", " #ygold."]
+        },
+        "aigisMod:AcidBomb": {
+                "NAME": "Acid Bomb",
+                "DESCRIPTIONS": ["When you use a #ypotion, deal #b", " #ydamage to all enemies. On battle end, gain 1 potion."]
+        },
+        "aigisMod:Stealth": {
+                "NAME": "Stealth",
+                "DESCRIPTIONS": ["When player plays an skill card, gain #b", " #yblock."]
+        },
+        "aigisMod:Watchdog": {
+                "NAME": "Watchdog",
+                "DESCRIPTIONS": ["When you play an #yImperial card, deal #b", " damage to a random enemy."]
+        },
+        "aigisMod:AirElemental": {
+                "NAME": "Air Elemental",
+                "DESCRIPTIONS": ["When you play an #ySkill card, deal #b", " damage to this enemy. Remove #b1 stack at the end of the turn if this enemy attacked."]
+        },
+        "aigisMod:CurseVoice": {
+                "NAME": "Cursed Voice",
+                "DESCRIPTIONS": ["The next #b", " buffs that are applied to this monster are negated."]
+        },
+        "aigisMod:MikoInspiration": {
+                "NAME": "Miko Inspiration",
+                "DESCRIPTIONS": ["When a curse is #yexhausted, gain #b", " #yblock and #b", " #ystregth."]
+        },
+        "aigisMod:Burn": {
+                "NAME": "Burn",
+                "DESCRIPTIONS": ["At the end of your turn, if the enemy intends to attack, it takes #b", " #ydamage. Burn is reduced at the start of the turn."]
+        },
+        "aigisMod:Golemology": {
+                "NAME": "Golemology",
+                "DESCRIPTIONS": ["Golem Fragment gains #b", " #ydamage and #b", " #yblock."]
+        },
+        "aigisMod:GolemTactics": {
+                "NAME": "Golem Tactics",
+                "DESCRIPTIONS": ["When you create a Golem Fragment, all enemies gain #b", " #yweak and #yvulnerable."]
+        },
+        "aigisMod:SealTalisman": {
+                "NAME": "Seal Talisman",
+                "DESCRIPTIONS": ["When this monster intends to attack, this loses #b1 #yStrength. Seal Talisman is reduced by #y1 at the start of your turn."]
+        },
+        "aigisMod:CursedWhirlwind": {
+                "NAME": "Cursed Whirlwind",
+                "DESCRIPTIONS": ["When a curse is #yexhausted, all enemies lose #b", " #yStrength."]
+        },
+        "aigisMod:CursedClaws": {
+                "NAME": "Cursed Claws",
+                "DESCRIPTIONS": ["When a curse is #yexhausted, all enemies lose #b", " % of their current HP."]
+        },
+        "aigisMod:DevilishRejection": {
+                "NAME": "Devilish Rejection",
+                "DESCRIPTIONS": ["When you draw a curse or status card, draw #b1 card and gain #b", " #yBlock."]
+        },
+        "aigisMod:DragonFortune": {
+                "NAME": "Dragon's Fortune",
+                "DESCRIPTIONS": ["At end of your turn, gain #b", " #yBlock for each #yCurse in your Master Deck."]
+        },
+        "aigisMod:DragonWrath": {
+                "NAME": "Dragon Wrath",
+                "DESCRIPTIONS": ["At end of your turn, all enemies lose #b", " #yHP for each #ystack of each #ydebuff."]
+        },
+        "aigisMod:FlameExorcism": {
+                "NAME": "Flame of Exorcism",
+                "DESCRIPTIONS": ["At end of your turn, all enemies lose #b", " #yHP for each #ycurse in your Master Deck."]
+        },
+        "aigisMod:CarryingProvisions": {
+                "NAME": "Carrying Provisions",
+                "DESCRIPTIONS": ["When you play an #yArcher card, gain #b", " #yBlock."]
+        },
+        "aigisMod:HermitSanctuary": {
+                "NAME": "Hermit Sanctuary",
+                "DESCRIPTIONS": ["When you play a Tree of Life card, gain #b1 #yIntangible and remove #b1 #yStack of this power."]
+        },
+        "aigisMod:VampireBite": {
+                "NAME": "Vampire Bite",
+                "DESCRIPTIONS": ["When this has #b", " more stacks, remove this and #yStun this enemy, also this enemy gains #b1 #yStun #yResistance. At the end of turn, remove #b6 Vampire Bite."]
+        },
+        "aigisMod:CorpseMarionette": {
+                "NAME": "Corpse Marionette",
+                "DESCRIPTIONS": ["Reduce #ystacks of this when you take #yunblocked damage. At start of turn, if this has #b0 #ystacks, stun all enemies and remove this power."]
+        },
+        "aigisMod:SpookyPhenomenon": {
+                "NAME": "Spooky Phenomenon",
+                "DESCRIPTIONS": ["At end of turn, you can #yexhaust #b1 character in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
+        },
+        "aigisMod:ClearAndSerene": {
+                "NAME": "Clear and Serene",
+                "DESCRIPTIONS": ["When you apply a #ydebuff to an enemy, gain #b.", " #yVigor."]
+        },
+        "aigisMod:StunResistance": {
+                "NAME": "Stun Resistance",
+                "DESCRIPTIONS": ["Negate the next #b", " times this enemy can be stunned."]
+        },
+
+        "aigisMod:StrengthForTheTurnPower": {
+                "NAME": "Strength for the Turn",
+                "DESCRIPTIONS": ["This turn, increases attack #ydamage by #b", "This turn, decreases attack #ydamage by #b", "."]
+        },
+        "aigisMod:DexterityForTheTurnPower": {
+                "NAME": "Dexterity for the Turn",
+                "DESCRIPTIONS": ["This turn, increases #yBlock gained from cards by #b" ,"This turn, decreases #yBlock gained from cards by #b", "."]
+        }
+}
