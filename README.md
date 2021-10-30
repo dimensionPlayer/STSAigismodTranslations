@@ -3,4 +3,4 @@ This repository is for translating the Aigis mod from Slay the Spire. Link to th
 
 Take the english text as a starting base when translating.
 
-Once you finish translating the text, send a Pull request and i will add your translation to the mod.
+Once you finish translating the text, send a Pull request and the translation will be added to the mod.
