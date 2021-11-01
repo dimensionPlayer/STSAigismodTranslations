@@ -338,5 +338,16 @@
       "#yVampire #yBite is reduced by #b3 instead. ",
       "When you attack an enemy with #yVampire #yBite, gain #b1 #yTemporary #yHP."
     ]
+  },
+
+
+
+
+  "aigisMod:AigisShrine": {
+    "NAME": "Aigis Shrine",
+    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "DESCRIPTIONS": [
+      "Receive an extra #ycard #yreward on normal and elite combats which contains cards from the other characters."
+    ]
   }
 }

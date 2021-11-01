@@ -9,11 +9,11 @@
         },
         "aigisMod:SlowPotion": {
                 "NAME": "Space Time Potion",
-                "DESCRIPTIONS": ["Target becomes #ySlow."]
+                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
         },
         "aigisMod:SlowPotionEmperor": {
                 "NAME": "Space Time Potion",
-                "DESCRIPTIONS": ["Target becomes #ySlow."]
+                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
         },
         "aigisMod:CounterPotion": {
                 "NAME": "Counter Potion",

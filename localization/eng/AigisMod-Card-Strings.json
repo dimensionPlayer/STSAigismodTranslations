@@ -546,7 +546,7 @@
   "aigisMod:Uzume": {
     "NAME": "Uzume",
     "DESCRIPTION": "Once per turn, if you play 3 attacks, gain [E]",
-    "UPGRADE_DESCRIPTION": "Once per turn, if you play 3 attacks, gain [E] [E]",
+    "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, if you play 3 attacks, gain [E] [E]",
     "EXTENDED_DESCRIPTION" : [
       "Earth Strategist"
     ]
@@ -1276,7 +1276,7 @@
   },
   "aigisMod:Velty": {
     "NAME": "Velty",
-    "DESCRIPTION": "Gain !M! aigismod:Damage_aura",
+    "DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
     "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner"
@@ -1869,7 +1869,7 @@
   "aigisMod:Mammon": {
     "NAME": "Mammon",
     "DESCRIPTION": "Deal !D! Damage. NL If fatal, gain !M! Gold.",
-    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL if Fatal, gain !M! Gold.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL If Fatal, gain !M! Gold.",
     "EXTENDED_DESCRIPTION" : [
       "Majin of Greed"
     ]
@@ -1967,8 +1967,8 @@
   },
   "aigisMod:Tanya": {
     "NAME": "Tanya",
-    "DESCRIPTION": "Draw 2 cards. NL Gain [E] NL Gain !M! Gold NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Gain [E] [E] NL Gain !M! Gold NL Exhaust",
+    "DESCRIPTION": "Draw 2 cards. NL Gain !M! Gold. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Gain [E] NL Gain !M! Gold. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Merchant"
     ]
