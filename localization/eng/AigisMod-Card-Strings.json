@@ -260,8 +260,8 @@
   },
   "aigisMod:Benibotan": {
     "NAME": "Benibotan",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. Deal !D! damage to a random enemy, if it kills add a copy of this to discard pile. Exhaust. NL Ethereal.",
+    "DESCRIPTION": "Gain 1 Intangible. NL All enemies gain !M! Strength. NL Exhaust. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL All enemies gain !M! Strength. NL Exhaust. NL Ethereal.",
     "EXTENDED_DESCRIPTION" : [
       "Leading Kabuki Performer"
     ]
@@ -593,11 +593,11 @@
 
   "aigisMod:Towa": {
     "NAME": "Towa",
-    "DESCRIPTION": "Deal !D! damage (1 per Witch played this combat) to all enemies and apply aigismod:Sluggish. NL Draw !M! Witch.",
+    "DESCRIPTION": "Deal !D! damage +1 per Witch played this combat to all enemies and apply aigismod:Sluggish. NL Draw !M! Witch.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage + 1 per Witch played this combat to all enemies and apply aigismod:Sluggish. NL Draw !M! Witch",
     "EXTENDED_DESCRIPTION" : [
       "Arbiter of Time",
-      "Deal !D! damage (1 per Witch played this combat) to all enemies and apply aigismod:Sluggish. NL Draw up to !M! Witches."
+      "Deal !D! damage +1 per Witch played this combat to all enemies and apply aigismod:Sluggish. NL Draw up to !M! Witches."
     ]
   },
   "aigisMod:Dina": {
@@ -1257,45 +1257,20 @@
       "Gain !aigisMod:SecondMagic! Strength and !aigisMod:SecondMagic! Dexterity. NL Gain !M! aigismod:Damage_aura."
     ]
   },
-  "aigisMod:Livre": {
-    "NAME": "Livre",
-    "DESCRIPTION": "Gain !M! aigismod:Damage_aura",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
-    "EXTENDED_DESCRIPTION" : [
-      "Demon Summoner"
-    ]
-  },
-
   "aigisMod:LivreEmperor": {
     "NAME": "Livre",
-    "DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:Damage_aura",
+    "DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:Damage_aura.",
     "UPGRADE_DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:Damage_aura.",
-    "EXTENDED_DESCRIPTION" : [
-      "Demon Summoner"
-    ]
-  },
-  "aigisMod:Velty": {
-    "NAME": "Velty",
-    "DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner"
     ]
   },
   "aigisMod:VeltyEmperor": {
     "NAME": "Velty",
-    "DESCRIPTION": "Gain !M! aigismod:Damage_aura",
+    "DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
     "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner"
-    ]
-  },
-  "aigisMod:Isla": {
-    "NAME": "Isla",
-    "DESCRIPTION": "Gain !M! aigismod:Damage_aura",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura. NL Apply 2 Weak to enemies.",
-    "EXTENDED_DESCRIPTION" : [
-      "Demon Summoner Child"
     ]
   },
   "aigisMod:IslaEmperor": {
@@ -1453,11 +1428,11 @@
   },
   "aigisMod:Diana": {
     "NAME": "Diana",
-    "DESCRIPTION": "aigismod:Imperial_knight: Gain [E]. NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)",
-    "UPGRADE_DESCRIPTION": "aigismod:Imperial_knight : Gain [E]. NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)",
+    "DESCRIPTION": "aigismod:Imperial_knight: Gain [E] NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)",
+    "UPGRADE_DESCRIPTION": "aigismod:Imperial_knight: Gain [E] NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Knight Leader",
-      "aigismod:Imperial_knight: Gain [E] [E]. NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)"
+      "aigismod:Imperial_knight: Gain [E] [E] NL For each Imperial Character in Master Deck, deal !D! damage to all enemies. (hit !M! times)"
     ]
   },
   "aigisMod:Gertrude": {
@@ -1495,10 +1470,10 @@
   "aigisMod:Angeline": {
     "NAME": "Angeline",
     "DESCRIPTION": "Gain 1 Block for each Imperial card in Master Deck. NL (Gain !B! block)",
-    "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Gain 1 Block for each Imperial in Master Deck. NL (Gain !B! block)",
+    "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Gain 1 Block for each Imperial card in Master Deck. NL (Gain !B! block)",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "Gain 1 Block for each Imperial in Master Deck. NL Gain 1 blur. NL (Gain !B! block)"
+      "Gain 1 Block for each Imperial card in Master Deck. NL Gain 1 blur. NL (Gain !B! block)"
     ]
   },
   "aigisMod:Christa": {
@@ -1719,7 +1694,7 @@
   },
   "aigisMod:Mine": {
     "NAME": "Mine",
-    "DESCRIPTION": "Gain 4 Land Mines. Exhaust. Power: Gain 2 Land Mines when an enemy attacks. When this reaches 10 or more: all enemies receive damage equal to this number then reset it to 0.",
+    "DESCRIPTION": "Gain 4 Land Mines. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Gain 7 Land Mines.",
     "EXTENDED_DESCRIPTION" : [
       "Combat Engineer"
@@ -2900,14 +2875,14 @@
   },
   "aigisMod:ShengPu": {
     "NAME": "Jin-Guang Sheng-Pu",
-    "DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Cursed: add 1 Jin-Guang Sheng-Pu Clone to draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Cursed: add 1 Jin-Guang Sheng-Pu Clone+ to draw pile. NL Exhaust.",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Cursed: add 1 Sheng-Pu Clone to draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Cursed: add 1 Sheng-Pu Clone+ to draw pile. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:ShengPuClone": {
-    "NAME": "Jin-Guang Sheng-Pu",
+    "NAME": "Sheng-Pu Clone",
     "DESCRIPTION": "Deal !D! damage. NL aigismod:Cursed: Gain !M! Vigor. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Cursed: Gain !M! Vigor. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
