@@ -126,7 +126,7 @@
       "Draw an additional card at the start of combat. NL Every #b4 combats won, obtain a permanent effect, up to #b4 effects.",
       " NL #y1. After first turn, draw an additional card each turn.",
       " NL #y2. Start with an additional [E] each combat.",
-      " NL #y3. Double the first effect.",
+      " NL #y3. Double the first additional (1) effect.",
       " NL #y4. Gain an [E] on your second turn."
     ]
   },

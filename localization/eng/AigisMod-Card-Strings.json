@@ -367,8 +367,8 @@
   },
   "aigisMod:Katie": {
     "NAME": "Katie",
-    "DESCRIPTION": "Gain !B! Block. NL Next turn gain !M! Block and gain [E]",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Next turn gain !M! Block and gain [E]",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn: gain !M! fixed Block and [E]",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Next turn: gain !M! fixed Block and [E]",
     "EXTENDED_DESCRIPTION" : [
       "Tactics Instructor"
     ]
@@ -1174,8 +1174,8 @@
   },
   "aigisMod:Early": {
     "NAME": "Early",
-    "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! for the combat.",
-    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! for the combat.",
+    "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! once this combat.",
+    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! once this combat.",
     "EXTENDED_DESCRIPTION" : [
       "Time Witch"
     ]
@@ -1339,8 +1339,8 @@
   },
   "aigisMod:Charme": {
     "NAME": "Charme",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL If you have another Imperial in hand gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL If you have another Imperial in hand gain !B! Block.",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL When you play this original card, if you have another Imperial in hand gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL When you play this original card, if you have another Imperial in hand gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
       "Dragon Imperial Princess"
     ]
@@ -1965,6 +1965,48 @@
       "Angel Chief"
     ]
   },
+  "aigisMod:Sasanqua": {
+    "NAME": "Sasanqua",
+    "DESCRIPTION": "When drawn: Gain !M! Temporal HP. NL Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "When drawn: Gain !M! Temporal HP. NL Deal !D! damage.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Oni Girl"
+    ]
+  },
+  "aigisMod:Irma": {
+    "NAME": "Irma",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain 1 Fire Potion. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain 1 Fire Potion. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Mage"
+    ]
+  },
+  "aigisMod:Erde": {
+    "NAME": "Erde",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable to all enemies.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Heavy Knight"
+    ]
+  },
+  "aigisMod:Katerina": {
+    "NAME": "Katerina",
+    "DESCRIPTION": "Deal !D! Damage to all enemies, if target enemy has Slow gain !M! Strength. NL Gain 1 Space Time Potion. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage to all enemies, if target enemy has Slow gain !M! Strength. NL Gain 1 Space Time Potion. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Chief Engineer",
+      "Deal !D! Damage to all enemies, if target enemy has Slow gain !M! Strength. NL Gain 1 Space Time Potion. NL Exhaust."
+    ]
+  },
+  "aigisMod:Margot": {
+    "NAME": "Margot",
+    "DESCRIPTION": "Gain !B! Block. NL Defends gain 1 more Block. NL Next turn gain [E]",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Defends gain 1 more Block. NL Next turn gain [E]",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Instructing Commander",
+      "Gain !B! Block. NL Defends gain 1 more Block. NL Next turn gain [E] [E]"
+    ]
+  },
 
 
 
@@ -2509,8 +2551,8 @@
   },
   "aigisMod:Fran": {
     "NAME": "Fran",
-    "DESCRIPTION": "You can exhaust 1 card from hand. NL Gain !B! Block. NL Gain !M! Block next turn.",
-    "UPGRADE_DESCRIPTION": "You can exhaust 1 card from hand and discard pile. NL Gain !B! Block. NL Gain !M! Block next turn.",
+    "DESCRIPTION": "You can exhaust 1 card from hand. NL Gain !B! Block. NL Gain !M! fixed Block next turn.",
+    "UPGRADE_DESCRIPTION": "You can exhaust 1 card from hand and discard pile. NL Gain !B! Block. NL Gain !M! fixed Block next turn.",
     "EXTENDED_DESCRIPTION" : [
       "Half-Breed Hunter"
     ]
@@ -2729,11 +2771,11 @@
   },
   "aigisMod:Rovinia": {
     "NAME": "Rovinia",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap.",
+    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap. NL Draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap. NL Draw 1 card.",
     "EXTENDED_DESCRIPTION" : [
       "Forest Guard of Heat Haze",
-      "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap."
+      "Deal !D! aigismod:archer damage. NL Gain !M! aigismod:Ranger_trap. NL Draw 1 card."
     ]
   },
   "aigisMod:Maya": {
