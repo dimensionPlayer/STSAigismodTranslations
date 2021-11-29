@@ -347,7 +347,21 @@
     "NAME": "Aigis Shrine",
     "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats which contains cards from the other characters."
+      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+    ]
+  },
+  "aigisMod:AigisShrineEmperor": {
+    "NAME": "Aigis Shrine",
+    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "DESCRIPTIONS": [
+      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+    ]
+  },
+  "aigisMod:AigisShrineAvenger": {
+    "NAME": "Aigis Shrine",
+    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "DESCRIPTIONS": [
+      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
     ]
   }
 }

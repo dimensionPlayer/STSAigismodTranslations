@@ -82,7 +82,7 @@
       "Ranger_trap",
       "ranger_trap"
     ],
-    "DESCRIPTION": "When you take an #yunblocked damage, deal damage to that enemy equal to #yamount and lose this power.."
+    "DESCRIPTION": "The next time you take #yunblocked damage, deal damage to that enemy equal to #yamount and lose this power."
   },
   {
     "PROPER_NAME": "Seal Talisman",

@@ -3,16 +3,16 @@
     "TEXT": [
       "Witch", "Enemies attacked by this card receives temporary #ySlow.",
       "Archer", "This card #bignores enemy powers that activate when they are #yattacked, like Thorns.",
-      "Princess", "Gain 1 Max HP when you add a Princess card to your Deck.",
+      "Princess", "Gain #b1 #yMax #yHP when you add a #yPrincess card to your Deck.",
       "Undead", "This class activates #badditional effects when #yexhausted.",
       "Black Rarity", "This type of character have #ybranching paths when #yupgrading. Only Rare cards may have this property.",
-      "Eastern Country", "This card applies for other effects listing Eastern Country cards.",
+      "Eastern Country", "This card applies for other effects listing #yEastern #yCountry cards.",
       "Hero", "This card can be upgraded any number of times. NL Only obtainable by the #yHero #yCrystal relic and #yTower #yof #yHeroes event.",
       "White Empire", "This card has synergies with effects listing Imperial cards, only in the card pool of #yThe #yEmperor.",
       "Curse User", "When played, add the #yCurse this card previews to your Master Deck if you don't have it.",
-      "Demon", "If this card is in Exhaust Pile at the start of your turn: add this to your hand with -1 of its Original cost for that turn.",
-      "Aerial", "When played shuffle 1 Air Signal to your Draw Pile. Increase damage by 1 for each Air Signal Exhausted.",
-      "Necromancer", "Increase damage by 1 for each #yUndead #yExhausted. When this deals unblocked damage, add #b1 #ySkeleton #yUnit to your hand."
+      "Demon", "If this card is in Exhaust Pile at the start of your turn: add this to your hand with -1 of its #yOriginal cost for that turn.",
+      "Aerial", "When played, shuffle #b1 #yAir #ySignal to your Draw Pile. Increase damage by #b1 for each #yAir #ySignal Exhausted.",
+      "Necromancer", "Increase damage by #b1 for each #yUndead #yExhausted. When this deals unblocked damage, add #b1 #ySkeleton #yUnit to your hand."
     ]
   },
 

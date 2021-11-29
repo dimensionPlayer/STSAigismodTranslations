@@ -420,7 +420,7 @@
     "UPGRADE_DESCRIPTION": "Innate. NL Gain aigismod:Ninjutsu. Shurikens gains !M! additional hit.",
     "EXTENDED_DESCRIPTION" : [
       "Ninja",
-      "Gain aigismod:Ninjutsu. NL Shurikens gains !M! additional hit."
+      "Gain aigismod:Ninjutsu. NL Shurikens gains !M! additional hits."
     ]
   },
 
@@ -2836,8 +2836,8 @@
     },
   "aigisMod:Nimue": {
     "NAME": "Nimue",
-    "DESCRIPTION": "At the end of your turn, you can exhaust 1 character in hand to apply 1 Weak to all enemies. Has !M! charges. aigismod:Undead: Gain 1 Artifact.",
-    "UPGRADE_DESCRIPTION": "At the end of your turn, you can exhaust 1 character in hand to apply 1 Weak to all enemies. Has !M! charges. aigismod:Undead: Gain 1 Artifact.",
+    "DESCRIPTION": "At the end of your turn, you can exhaust 1 character in hand to apply 1 Weak to all enemies. Has !M! charges. aigismod:Undead: Gain 2 Artifact.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, you can exhaust 1 character in hand to apply 1 Weak to all enemies. Has !M! charges. aigismod:Undead: Gain 2 Artifact.",
     "EXTENDED_DESCRIPTION" : [
       "Lonely Guardian of the Labyrinth"
     ]

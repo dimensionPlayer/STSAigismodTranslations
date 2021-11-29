@@ -153,7 +153,7 @@
         },
         "aigisMod:RangerTrap": {
                 "NAME": "Ranger Trap",
-                "DESCRIPTIONS": ["When receiving #yunblocked #ybattle #ydamage, deal #b", " damage back, then remove this power."]
+                "DESCRIPTIONS": ["The next time you receive #yunblocked #ybattle #ydamage, deal #b", " damage back, then remove this power."]
         },
         "aigisMod:YataWing": {
                 "NAME": "Yata Wing",
