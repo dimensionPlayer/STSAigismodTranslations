@@ -1,35 +1,35 @@
 {
   "aigisMod:ThePrinceCharacter": {
     "NAMES": [
-      "The Prince",
-      "the Prince"
+      "王子",
+      "王子"
     ],
     "TEXT": [
-      "While training in the Tower of Heroes a strange phenomenon appeared. NL The prince and his companions now explore a place identified as the Spire.",
-      "You order your units to attack the heart.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~your~ ~highness,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "英傑の塔での訓練中に奇妙なことが起こった。 NL 王子と仲間たちは今、尖塔と呼ばれる場所を探索している。",
+      "あなたは仲間に心臓への攻撃を命じ…",
+      "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式の NL ようなものを行っているところに出くわした。あなたが近づくと、 NL 薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった NL 彼らは長く青白い手をあなたに伸ばしてくる。 NL 「王子よ我らと共に、そして塔の温もりを肌で感じるのだ」"
     ]
   },
   "aigisMod:TheEmperorCharacter": {
     "NAMES": [
-      "The Emperor",
-      "the Emperor"
+      "皇帝",
+      "皇帝"
     ],
     "TEXT": [
-      "The White Emperor leads an expedition to investigate NL the mysterious powers hidden in the Spire.",
-      "You attack the heart along your comrades.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~warrior,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "白の皇帝は調査隊を率いて尖塔に隠された不思議な力を探検している。",
+      "仲間と共に心臓を攻撃し…",
+      "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式の NL ようなものを行っているところに出くわした。あなたが近づくと、 NL 薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった NL 彼らは長く青白い手をあなたに伸ばしてくる。 NL 「戦士よ我らと共に、そして塔の温もりを肌で感じるのだ」"
     ]
   },
   "aigisMod:TheAvengerCharacter": {
     "NAMES": [
-      "The Avenger",
-      "the Avenger"
+      "復讐者",
+      "復讐者"
     ],
     "TEXT": [
-      "Vincent travels the world in order to make amends to his family and not being able to save them. NL Now he will explore the Spire, but he is not alone.",
-      "You prepare your Final Trump Card against the heart.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~hunter,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "ヴィンセントは家族を救えなかったことへの贖罪の旅をしている。 NL 彼は今、尖塔を探索しているが、その姿は一人ではなかった。",
+      "あなたは心臓に対して最後の切り札を用意し…",
+      "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式の NL ようなものを行っているところに出くわした。あなたが近づくと、 NL 薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった NL 彼らは長く青白い手をあなたに伸ばしてくる。 NL 「狩人よ我らと共に、そして塔の温もりを肌で感じるのだ」"
     ]
   }
 }

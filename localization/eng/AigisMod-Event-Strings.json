@@ -1,19 +1,19 @@
 {
   "aigisMod:TowerOfHeroes": {
-    "NAME": "Tower of heroes",
+    "NAME": "英傑の塔",
     "DESCRIPTIONS": [
-      "You reach a floor still recognizable as the Tower of Heroes. NL The Heroes overseeing the tower are now giving you a choice: NL They can lend you a portion of their power NL OR NL You can test your determination and fight for a greater power.",
-      "Confident with your decision, you leave the floor and continue your adventure.",
-      "You will have a tremendous power at your command.",
-      "You surpassed their expectations."
+      "見慣れた英傑の塔のフロアにたどりついた。 NL 塔を管理する英傑たちは、あなたに選択肢を与えてくる。 NL 彼らの力の一部を借りるか NL もしくは NL 自らの力を示し、より大きな力を得るかだ。",
+      "自分の決断を確信し、フロアを出て冒険を続けた。",
+      "あなたの選択は大いなる力をもたらすでしょう。。",
+      "あなたは彼らの期待に答えた。"
     ],
     "OPTIONS": [
-      "[Recruit] #gGain #gan #gUncommon #gHero #gCard.",
-      "[Fight] #gUpgrade #gan #gUncommon #gHero #gCard #gto #gRare.",
-      "[Leave]",
-      "Choose a Hero card to add to your deck.",
-      "[Recruit] #gGain #ga #grare #gHero #gCard.",
-      "[LOCKED] You don't have a Hero card to upgrade to rare."
+      "[力を借りる] #gアンコモン英傑カードを1枚得る",
+      "[戦う] #r英傑と戦う。 #gアンコモン英傑カードをレアにアップグレードする",
+      "[立ち去る]",
+      "アップグレードする英傑カードを1枚選ぶ。",
+      "[力を借りる] #gレア英傑カードにアップグレードする。",
+      "[LOCKED] アンコモン英傑カードを持っていません。"
     ]
   }
 }

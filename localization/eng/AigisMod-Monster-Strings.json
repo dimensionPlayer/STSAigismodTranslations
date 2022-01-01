@@ -1,101 +1,101 @@
 {
   "aigisMod:BattleTank": {
-    "NAME": "Battle Tank",
+    "NAME": "バトルタンク",
     "MOVES": [
-      "SplashAttack.",
-      "PiercingAttack.",
-      "On turn end, deal #b", " Splash damage to a random enemy.",
-      "On turn end, deal #b", " True damage to a random enemy."
+      "拡散弾",
+      "貫通弾",
+      "ターン終了時ランダムな敵に  #b", " の 拡散 ダメージを与える",
+      "ターン終了時ランダムな敵に  #b", " の 貫通 ダメージを与える"
     ]
   },
   "aigisMod:EnergyAthanor": {
-    "NAME": "Energy Athanor",
+    "NAME": "エナジーアタノール",
     "MOVES": [
-      "Generate Energy.",
-      "On turn start, gain #b", " Energy."
+      "エネルギー生産",
+      "ターン開始時 #b", " のエナジーを得る"
     ]
   },
   "aigisMod:Solais": {
-    "NAME": "Solais",
+    "NAME": "ソラス",
     "MOVES": [
-      "Charge",
-      "Eternal Star"
+      "星天召喚の儀",
+      "エターナルスター"
     ],
     "DIALOG": [
-      "The twinkling stars will descend"
+      "きらめく星が降り注ぐ"
     ]
   },
   "aigisMod:Sanara": {
-    "NAME": "Sanara",
+    "NAME": "サナラ",
     "MOVES": [
-      "Geotoken",
-      "Megalith",
-      "Master Geomancer"
+      "ジオトークン",
+      "メガリス",
+      "マスタージオマンサー"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Yuugen": {
-    "NAME": "Yuugen",
+    "NAME": "ユージェン",
     "MOVES": [
-      "Break Shot",
-      "Pain Shot"
+      "ブレイクショット",
+      "ペインショット"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Alva": {
-    "NAME": "Alva",
+    "NAME": "アルヴァ",
     "MOVES": [
-      "Cruadin Replica",
-      "Seven Fortress",
-      "Divine Sword Gea Curruid"
+      "クルージーンレプリカ",
+      "セヴンフォートレス",
+      "神剣ゲイ・クリード"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Tuan": {
-    "NAME": "Tuan",
+    "NAME": "トゥアン",
     "MOVES": [
-      "Rapid Overrun",
-      "Impregnable Recklessness"
+      "いと疾き蹂躙の咆哮",
+      "蛮勇不落の破砕者"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Tram": {
-    "NAME": "Tram",
+    "NAME": "トラム",
     "MOVES": [
-      "Mac an Luin",
-      "Silver Authority",
+      "マク・ア・ルーイン",
+      "銀なる威光",
       "",
-      "Sword of Brilliance"
+      "輝きの剣"
     ],
     "DIALOG": [
-      "Flash of Silver"
+      "銀なる威光"
     ]
   },
   "aigisMod:Ambrose": {
-    "NAME": "Ambrose",
+    "NAME": "アンブローズ",
     "MOVES": [
-      "Flowering Magic",
-      "Magic Garden",
-      "Aval Garden"
+      "フラワリングマジック",
+      "マジックガーデン",
+      "アヴァルガーデン"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Arge": {
-    "NAME": "Arge",
+    "NAME": "アージェ",
     "MOVES": [
-      "Attack Fortification Semias",
-      "Defense Magic Drone",
-      "Attack Mechanism Miach"
+      "拡散打撃要塞セミアス",
+      "防衛魔動騎",
+      "遠隔打撃要塞エスラス"
     ],
     "DIALOG": [
       ""
