@@ -1754,7 +1754,7 @@
     ]
   },
   "aigisMod:Mine": {
-    "NAME": "マイン（未実装）",
+    "NAME": "マイン",
     "DESCRIPTION": "設置爆弾 を 4 枚得る。 NL 廃棄",
     "UPGRADE_DESCRIPTION": "設置爆弾 を 7 枚得る。",
     "EXTENDED_DESCRIPTION" : [
@@ -2388,7 +2388,7 @@
   },
 
   "aigisMod:Nenya": {
-    "NAME": "ネーニャ（未実装）",
+    "NAME": "ネーニャ",
     "DESCRIPTION": "!D! ダメージを与える。 aigismod:鈍足 を与える。 1 ターン に 1 回、 [E] を得る。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 aigismod:鈍足 を与える。 1 ターン に 1 回、 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
@@ -2396,7 +2396,7 @@
     ]
   },
   "aigisMod:Calliope": {
-    "NAME": "カリオペ（未実装）",
+    "NAME": "カリオペ",
     "DESCRIPTION": "!D! ダメージを与える。 aigismod:鈍足 を与える。 aigismod:クールタイム : !M! : NL 効果が 2 回発動する。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 aigismod:鈍足 を与える。 aigismod:クールタイム : !M! : NL 効果が 2 回発動する。",
     "EXTENDED_DESCRIPTION" : [
@@ -2512,8 +2512,8 @@
     ]
   },
   "aigisMod:Estelle": {
-    "NAME": "エステル（未実装？）",
-    "DESCRIPTION": "prince card Power. 魔法のチューニング。2つ。ターンの終了時に、 スロー を持つ敵は10ダメージを受ける。",
+    "NAME": "エステル",
+    "DESCRIPTION": "prince card Power. Magical tuning. 2 img. ターンの終了時に、 スロー を持つ敵は10ダメージを受ける。",
     "UPGRADE_DESCRIPTION": "ターンの終了時に、 スロー を持つ敵は15ダメージを受ける。",
     "EXTENDED_DESCRIPTION" : [
       "魔法皇女",
@@ -2521,8 +2521,8 @@
     ]
   },
   "aigisMod:Grace": {
-    "NAME": "グレース（未実装？）",
-    "DESCRIPTION": "王子カード 2 イメージ。 10 ブロック を得る。 あなたのブロック数に等しい aigismod:拡散 ダメージを与える。",
+    "NAME": "グレース",
+    "DESCRIPTION": "prince card 2 img. 10 ブロック を得る。 あなたのブロック数に等しい aigismod:拡散 ダメージを与える。",
     "UPGRADE_DESCRIPTION": "16 ブロック を得る。 あなたのブロック数に等しい aigismod:拡散 ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "魔導鎧姫",
