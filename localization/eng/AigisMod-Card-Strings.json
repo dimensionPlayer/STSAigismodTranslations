@@ -111,6 +111,67 @@
       "She Who Inherits Shadows"
     ]
   },
+  "aigisMod:RawalAPlatinum": {
+    "NAME": "Rawal",
+    "DESCRIPTION": "aigismod:Magical_ignition. NL Deal !D! damage. NL Draw 1 Card. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:RawalBPlatinum": {
+    "NAME": "Shield of Rawal",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain !B! Block. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:RawalCPlatinum": {
+    "NAME": "Spear of Rawal",
+    "DESCRIPTION": "Apply 1 Vulnerable to all enemies, then deal !D! damage to all enemies. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:RawalABlack": {
+    "NAME": "Rawal",
+    "DESCRIPTION": "aigismod:Magical_ignition. NL Deal !D! damage. NL Draw 2 Cards. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:RawalBBlack": {
+    "NAME": "Shield of Rawal",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain !B! Block. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:RawalCBlack": {
+    "NAME": "Spear of Rawal",
+    "DESCRIPTION": "Apply 3 Vulnerable to all enemies, then deal !D! damage to all enemies. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Harbors Sorcery"
+    ]
+  },
+  "aigisMod:HorteusPlatinum": {
+    "NAME": "Horteus",
+    "DESCRIPTION": "Enemy loses !M! HP. NL Gain !M! Temporal HP. NL Add 1 Sphinx to hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Rules the Sphinxes"
+    ]
+  },
+  "aigisMod:HorteusBlack": {
+    "NAME": "Horteus",
+    "DESCRIPTION": "Enemy loses !M! HP. NL Gain !M! Temporal HP. NL Add 1 Sphinx to hand. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Rules the Sphinxes"
+    ]
+  },
+  "aigisMod:Sphinx": {
+    "NAME": "Sphinx",
+    "DESCRIPTION": "Retain: NL All enemies lose !M! HP. NL Gain !B! Block. NL Exhaust."
+  },
+
 
   "aigisMod:Strike": {
     "NAME": "Strike",
@@ -426,7 +487,7 @@
 
   "aigisMod:Olivier": {
     "NAME": "Olivier",
-    "DESCRIPTION": "Lose 8 HP damage. NL Gain 1 Intangible. NL Exhaust.",
+    "DESCRIPTION": "Lose 8 HP. NL Gain 1 Intangible. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "You and all enemies lose 8 HP. NL Gain 1 Intangible. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "",
@@ -451,11 +512,11 @@
   },
   "aigisMod:Teeny": {
     "NAME": "Teeny",
-    "DESCRIPTION": "Gain 1 Strength and Dexterity. When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Strength and Dexterity. When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn.",
+    "DESCRIPTION": "When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn.",
+    "UPGRADE_DESCRIPTION": "When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn.",
     "EXTENDED_DESCRIPTION" : [
       "Dwarven Princess",
-      "Gain 2 Strength and 1 Dexterity. When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn."
+      "Gain 1 Strength and 1 Dexterity. When you play an Attack/Skill gain 1 Strength/Dexterity (respectively) for the turn."
     ]
   },
   "aigisMod:Carat": {
@@ -510,10 +571,10 @@
   "aigisMod:Matsuri": {
     "NAME": "Matsuri",
     "DESCRIPTION": "Once per turn, when you deal unblocked damage gain !M! Strength.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Strength. Once per turn, when you deal unblocked damage gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, when you deal unblocked damage gain !M! Strength.",
     "EXTENDED_DESCRIPTION" : [
       "Red Armored Wise General",
-      "Gain 2 Dexterity. Once per turn, when you deal unblocked damage gain !M! Strength."
+      "Gain 1 Dexterity. NL Once per turn, when you deal unblocked damage gain !M! Strength."
     ]
   },
   "aigisMod:Kanon": {
@@ -815,8 +876,8 @@
   },
   "aigisMod:Chloe": {
     "NAME": "Chloe",
-    "DESCRIPTION": "Draw 2 cards and Gain 2 Dexterity for the turn. aigismod:Cooldown: !M! Deal !D! damage to a random enemy and gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards and Gain 2 Dexterity for the turn. aigismod:Cooldown: !M! deal !D! damage to a random enemy and gain !B! Block",
+    "DESCRIPTION": "Gain 1 Dexterity. NL aigismod:Cooldown: !M! Deal !D! damage to a random enemy and gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL aigismod:Cooldown: !M! deal !D! damage to a random enemy and gain !B! Block",
     "EXTENDED_DESCRIPTION" : [
       "Fallen Angel"
     ]
@@ -2270,7 +2331,8 @@
     "DESCRIPTION": "Enemy loses HP equal to its Block then remove its Block. NL Apply 2 Vulnerable.",
     "UPGRADE_DESCRIPTION": "All enemies lose HP equal to its Block then remove their Block. NL Apply 2 Vulnerable to all enemies.",
     "EXTENDED_DESCRIPTION" : [
-      "Armor-Sealing Swordswoman"
+      "Armor-Sealing Swordswoman",
+      "Enemy loses HP equal to its Block then remove its Block. NL Apply 2 Vulnerable."
     ]
   },
   "aigisMod:Ragnhild": {
@@ -2278,7 +2340,8 @@
     "DESCRIPTION": "Deal !D! damage. NL Remove all buffs from target enemy. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Remove all buffs from target enemy. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
-      "Demon-Sealing Swordswoman"
+      "Demon-Sealing Swordswoman",
+      "Deal !D! damage. NL Remove all buffs from target enemy."
     ]
   },
   "aigisMod:Hakunokami": {

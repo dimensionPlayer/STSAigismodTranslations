@@ -114,6 +114,7 @@
     ],
     "DESCRIPTION": "#yCurse. Unplayable, retain, innate, cannot be removed from your deck. When you take #yunblocked #ydamage, lose #b8 #ygold."
   },
+
   {
     "NAMES": [
       "Assassination",
@@ -215,5 +216,16 @@
       "burn:"
     ],
     "DESCRIPTION": "At the end of your turn, if the enemy #yintends to #yattack, that enemy #ytakes #ydamage. Burn is reduced at the start of the turn"
+  },
+  {
+    "PROPER_NAME": "Magical Ignition",
+    "NAMES": [
+      "Magical Ignition",
+      "Magical_ignition.",
+      "Magical_ignition",
+      "magical_ignition"
+    ],
+    "DESCRIPTION": "At the start of the combat, add #yRawal #yShield and #yRawal #ySpear to the Draw Pile."
   }
+
 ]
