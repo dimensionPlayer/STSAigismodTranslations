@@ -1235,8 +1235,8 @@
   },
   "aigisMod:Early": {
     "NAME": "Early",
-    "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! once this combat.",
-    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Slow by !aigisMod:SecondMagic! once this combat.",
+    "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Sluggish by !aigisMod:SecondMagic! once this combat.",
+    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Sluggish by !aigisMod:SecondMagic! once this combat.",
     "EXTENDED_DESCRIPTION" : [
       "Time Witch"
     ]
@@ -1400,8 +1400,8 @@
   },
   "aigisMod:Charme": {
     "NAME": "Charme",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL When you play this original card, if you have another Imperial in hand gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL When you play this original card, if you have another Imperial in hand gain !B! Block.",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL If you have another Imperial in hand gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL If you have another Imperial in hand gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
       "Dragon Imperial Princess"
     ]
@@ -2202,8 +2202,8 @@
   },
   "aigisMod:Shikioni": {
     "NAME": "Shikioni",
-    "DESCRIPTION": "Gain !B! Block. NL aigismod:Cursed: Gain !M! Counter. NL Retain. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL aigismod:Cursed: Gain !M! Counter. NL Retain. NL Exhaust.",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL aigismod:Cursed: Gain !M! Counter. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain !B! Block. NL aigismod:Cursed: Gain !M! Counter. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2883,7 +2883,7 @@
   },
   "aigisMod:MakaiMiasma": {
     "NAME": "Makai Miasma",
-    "DESCRIPTION": "Unplayable. NL At the end of you turn, gain 1 Vulnerable."
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Vulnerable."
   },
   "aigisMod:Nightmares": {
     "NAME": "Nightmares",

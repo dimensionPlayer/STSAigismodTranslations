@@ -96,7 +96,7 @@
     ]
   },
   "aigisMod:FidelityHarmony": {
-    "NAME": "Fidelity of Harmony",
+    "NAME": "Half-Moon's Awakening",
     "FLAVOR": "Kaguya:It was just a political marriage, but ... I'm glad you were my husband.",
     "DESCRIPTIONS": [
       "Add #b1 #yKaguya or #yHikage (if you have Kaguya) to your Deck. Each #b5 #yEastern #yCountry or #yShuriken cards you play gain [E] Reset counter on battle end."
@@ -325,7 +325,7 @@
   },
   "aigisMod:UndeadWorld": {
     "NAME": "Undead World",
-    "FLAVOR": "Metus: You want to be my friend? Sure, if you're willing to become a ghost.",
+    "FLAVOR": "Metus: Human bodies sure are inconvenient. I suppose this is what it means to be alive.",
     "DESCRIPTIONS": [
       "Start each combat with #b3 Skeleton Unit and #b1 Metus in Exhaust Pile. ",
       "Once per combat, if you have #b30% of HP or less, you can #yRight-click this relic, add #b1 Undead from Exhaust Pile to hand."
