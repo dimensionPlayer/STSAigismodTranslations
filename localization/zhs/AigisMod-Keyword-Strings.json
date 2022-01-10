@@ -1,0 +1,315 @@
+[
+  {
+    "PROPER_NAME": "能量聚集",
+    "NAMES": [
+      "能量聚集",
+      "能量聚集",
+      "能量聚集",
+      "Skill Charge",
+      "Skill_charge",
+      "skill_charge"
+    ],
+    "DESCRIPTION": " #y保留 . 保留 时,提升该牌属性."
+  },
+  {
+    "PROPER_NAME": "帝国骑士",
+    "NAMES": [
+      "帝国骑士",
+      "帝国骑士",
+      "帝国骑士",
+      "Imperial Knight",
+      "Imperial_knight",
+      "imperial_knight"
+    ],
+    "DESCRIPTION": " #y每回合 打出 #y帝国 牌时，手中的 帝国 牌获得强化."
+  },
+  {
+    "PROPER_NAME": "死亡领域",
+    "NAMES": [
+      "死亡领域",
+      "死亡领域",
+      "死亡领域",
+      "Damage Aura",
+      "Damage_aura",
+      "damage_aura"
+    ],
+    "DESCRIPTION": "回合结束时,造成敌人数量的 #y伤害 ."
+  },
+  {
+    "PROPER_NAME": "直击灵魂",
+    "NAMES": [
+      "直击灵魂",
+      "直击灵魂",
+      "直击灵魂",
+      "直击灵魂伤害",
+      "直击灵魂伤害.",
+      "True Damage",
+      "True_damage",
+      "true_damage"
+
+    ],
+    "DESCRIPTION": "此攻击无视 #y格挡 , #y荆棘 , #y生气 , #y生气 ,  #y蜷身 ."
+  },
+  {
+    "PROPER_NAME": "盛放花雨",
+    "NAMES": [
+      "盛放花雨",
+      "盛放花雨",
+      "盛放花雨",
+      "Bloom Petal",
+      "Bloom_petal",
+      "bloom_petal"
+    ],
+    "DESCRIPTION": "下回合:所有敌人受到伤害(等同于该计数), 施加 #b2 #y虚弱 和 #b2 #y易伤 , 结束该效果."
+  },
+  {
+    "PROPER_NAME": "诅咒仪式",
+    "NAMES": [
+      "诅咒仪式",
+      "诅咒仪式.",
+      "诅咒仪式",
+      "诅咒仪式",
+      "Cursed Rite",
+      "Cursed_rite.",
+      "Cursed_rite",
+      "cursed_rite"
+    ],
+    "DESCRIPTION": "你无法获得治愈."
+  },
+  {
+    "PROPER_NAME": "诅咒之声",
+    "NAMES": [
+      "诅咒之声",
+      "诅咒之声.",
+      "诅咒之声",
+      "诅咒之声",
+      "Cursed Voice",
+      "Cursed_voice.",
+      "Cursed_voice",
+      "cursed_voice"
+    ],
+    "DESCRIPTION": "驱散敌人获得的下个 #b增益 ."
+  },
+  {
+    "PROPER_NAME": "空之境界",
+    "NAMES": [
+      "空之境界",
+      "空之境界.",
+      "空之境界",
+      "空之境界",
+      "Air_elemental.",
+      "Air_elemental",
+      "air_elemental"
+    ],
+    "DESCRIPTION": "当你打出 #y技能牌 , 敌人 #y失去 空元素 层数 的 #y生命值 . 敌人的 #y攻击 将抹消 #b1 层空元素 ."
+  },
+  {
+    "PROPER_NAME": "暴怒反击",
+    "NAMES": [
+      "暴怒反击",
+      "暴怒反击.",
+      "暴怒反击",
+      "暴怒反击",
+      "Ranger Trap",
+      "Ranger_trap.",
+      "Ranger_trap",
+      "ranger_trap"
+    ],
+    "DESCRIPTION": "受到 #y未被阻挡 的伤害,反击 #y伤害 并结束该效果."
+  },
+  {
+    "PROPER_NAME": "驱邪护符",
+    "NAMES": [
+      "驱邪护符",
+      "驱邪护符.",
+      "驱邪护符",
+      "驱邪护符",
+      "Seal Talisman",
+      "Seal_talisman.",
+      "Seal_talisman",
+      "seal_talisman"
+    ],
+    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 . #y驱邪护符 每回合计数减1."
+  },
+  {
+    "PROPER_NAME": "亡灵傀儡",
+    "NAMES": [
+      "亡灵傀儡",
+      "亡灵傀儡.",
+      "亡灵傀儡",
+      "亡灵傀儡",
+      "Corpse Marionette",
+      "Corpse_marionette.",
+      "Corpse_marionette",
+      "corpse_marionette"
+    ],
+    "DESCRIPTION": "承受 #y未被格挡 的伤害时, 减少亡灵军团 #y层数 以抵消伤害 . 层数归 #b0 时, 眩晕所有敌人."
+  },
+  {
+    "PROPER_NAME": "落井下石",
+    "NAMES": [
+      "落井下石",
+      "落井下石.",
+      "落井下石",
+      "落井下石",
+      "Ambushed Caravan",
+      "Ambushed_caravan.",
+      "Ambushed_caravan",
+      "ambushed_caravan"
+    ],
+    "DESCRIPTION": "#y诅咒 . 无法打出 , 保留 , 固有 , 无法逃脱. 受到 #y未被阻挡 #y伤害时, 失去 #b8 枚 #y金币 ."
+  },
+  {
+    "NAMES": [
+      "刺杀",
+      "刺杀",
+      "Assassination",
+      "assassination"
+    ],
+    "DESCRIPTION": " #y杀死 敌人时, 将其返回手牌，本回合费用变为 #b0 ."
+  },
+  {
+    "NAMES": [
+      "枯萎",
+      "枯萎",
+      "枯萎.",
+      "Sluggish",
+      "sluggish",
+      "sluggish."
+    ],
+    "DESCRIPTION": "枯萎存在时,敌人获得 #y缓慢 .  #y枯萎 每回合计数减1."
+  },
+  {
+  "NAMES": [
+    "反击",
+    "反击",
+    "反击.",
+    "反击.",
+    "Counter",
+    "counter",
+    "Counter.",
+    "counter."
+  ],
+  "DESCRIPTION": "#y被攻击 时, 回敬伤害(反击计数). 下回合移除."
+  },
+  {
+    "NAMES": [
+      "刀光剑影",
+      "刀光剑影",
+      "刀光剑影.",
+      "刀光剑影伤害",
+      "刀光剑影伤害.",
+      "刀光剑影伤害。",
+      "Splash",
+      "splash",
+      "splash."
+    ],
+    "DESCRIPTION": "其余敌人受到目标敌人所受一半的伤害 (向下取整) ."
+  },
+  {
+    "NAMES": [
+      "冷却",
+      "冷却",
+      "Cooldown",
+      "cooldown"
+    ],
+    "DESCRIPTION": "冷却归 #b0 时, 才能造成对应效果."
+  },
+  {
+    "NAMES": [
+      "双子星",
+      "双子星",
+      "Pair",
+      "pair"
+    ],
+    "DESCRIPTION": "将另 #b1 张双子，从 #y抽牌堆 加入 #y手牌 ."
+  },
+  {
+    "NAMES": [
+      "神箭手",
+      "神箭手",
+      "Archer",
+      "archer"
+    ],
+    "DESCRIPTION": "高超的箭术 #b无视 #y荆棘 , #y生气 ,  #y蜷身 ."
+  },
+  {
+    "NAMES": [
+      "东瀛忍术",
+      "东瀛忍术",
+      "Ninjutsu",
+      "ninjutsu"
+    ],
+    "DESCRIPTION": "每回合获得 #b1 张 #y手里剑 . 继续使用 #y东瀛忍术 将提升 #y手里剑 ."
+  },
+  {
+    "NAMES": [
+      "缠身",
+      "缠身",
+      "Entangled",
+      "entangled"
+    ],
+    "DESCRIPTION": "无法打出 #y攻击 牌. 回合初解除."
+  },
+
+  {
+    "NAMES": [
+      "不死族",
+      "不死族",
+      "不死族:",
+      "不死族:",
+      "Undead",
+      "undead",
+      "Undead:",
+      "undead:"
+    ],
+    "DESCRIPTION": " #y被消耗 时触发该效果."
+  },
+  {
+    "NAMES": [
+      "血裔",
+      "血裔",
+      "Vampire",
+      "vampire"
+    ],
+    "DESCRIPTION": "#y未被阻挡 的伤害附加 #y血族撕咬 . #y血族撕咬 达到 #b60 后, 眩晕该敌人,施加 #b1 层 #y眩晕抵抗 ."
+  },
+  {
+    "NAMES": [
+      "邪咒师",
+      "邪咒师",
+      "邪咒师:",
+      "邪咒师:",
+      "Cursed",
+      "cursed",
+      "Cursed:",
+      "cursed:"
+    ],
+    "DESCRIPTION": "牌组中每有一张 #b诅咒 , 施加以下效果."
+  },
+  {
+    "NAMES": [
+      "灼伤",
+      "灼伤",
+      "灼伤:",
+      "灼伤:",
+      "Burn",
+      "burn",
+      "Burn:",
+      "burn:"
+    ],
+    "DESCRIPTION": "回合结束时,  #y意图攻击 的敌人, 承受灼伤. 下回合开始时灼伤消失"
+  },
+  {
+    "PROPER_NAME": "神奇的生命形",
+    "NAMES": [
+      "神奇的生命形",
+      "神奇的生命形.",
+      "Magical Ignition",
+      "Magical_ignition.",
+      "Magical_ignition",
+      "magical_ignition"
+    ],
+    "DESCRIPTION": "在战斗开始时, 在你的抽牌堆中加入2张 #y拉瓦尔 牌. 这些卡的升级数量与此卡相同 ."
+  }
+]

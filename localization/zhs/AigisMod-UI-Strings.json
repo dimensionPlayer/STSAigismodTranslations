@@ -1,0 +1,267 @@
+{
+  "CharTooltipsID": {
+    "TEXT": [
+      "巫师", "当敌人受该牌攻击，获得 临时 #y缓慢 .",
+      "神箭手", "神箭手 #b无视 敌人的各种 #y受击 能力, 像 荆棘 这些能力.",
+      "女皇", "当你向牌组加入 女皇 牌时，获得 1 最大生命值.",
+      "不死族", "不死族被 #y消耗 时，获得 #b额外 效果 .",
+      "暗金秘宝", "暗金秘宝牌在 #y升级 时有 #y分支 可供选择 .只有稀有牌可能获得该特性.",
+      "东瀛", " 东瀛 牌有联动效果.",
+      "英雄", "英雄 牌可无限制升级. NL 只能从 #y英雄 #y水晶 遗物和 #y英雄 #y之 #y塔 事件中获得.",
+      "白色国度", "帝国 牌有联动效果.",
+      "邪咒师", "打出邪咒师时, 如果你没有该 #y诅咒 ，将其加入到你的牌组.",
+      "恶魔", "在回合开始时，如果有恶魔牌在消耗堆: 将其费用-1并加入到手牌.",
+      "翼族", "打出翼族时，将 1 空元素 加入到抽牌堆. 每 消耗 一张 空元素 提升伤害1点.",
+      "亡灵法师", "每 #y消耗 一张 #y不死族 提升1点伤害. 伤害未被格挡时，将 #b1 张 #y亡灵战士 加入到手牌."
+    ]
+  },
+
+  "AmbrosePDiscardAction": {
+    "TEXT": [
+      "弃牌 (最多3张)",
+      "弃牌."
+    ]
+
+  },
+
+  "ArmorSmithAction": {
+    "TEXT": [
+      "升级."
+    ]
+  },
+
+  "CindyAction": {
+    "TEXT": [
+      "弃牌."
+    ]
+  },
+
+  "CursedBoundaryAction": {
+    "TEXT": [
+      "弃牌."
+    ]
+  },
+
+  "EasternMaidAction": {
+    "TEXT": [
+      "本回合费用降低."
+    ]
+  },
+
+  "DengunsCommandAction": {
+    "TEXT": [
+      "选择1张 东瀛 牌加入到抽牌堆最上方.",
+      "选择 东瀛 牌加入到抽牌堆最上方.",
+      "我的抽牌堆中没有 东瀛 牌..."
+    ]
+  },
+
+  "LepuruAction": {
+    "TEXT": [
+      "返回到抽牌堆.",
+      "返回到抽牌堆."
+    ]
+  },
+
+  "OldClergymanAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+
+  "SuzuneAction": {
+    "TEXT": [
+      "选择一张牌加入到手牌."
+    ]
+  },
+
+  "SwordSmithAction": {
+    "TEXT": [
+      "升级."
+    ]
+  },
+
+  "TowaAction": {
+    "TEXT": [
+      "选择1张 巫师 牌加入到抽牌堆最上方.",
+      "选择2张 巫师 牌加入到抽牌堆最上方.",
+      "我的牌组里没有 巫师 牌..."
+    ]
+  },
+
+  "VampireHunterDPAction": {
+    "TEXT": [
+      "选择一张牌， 消耗 ."
+    ]
+  },
+
+  "YashimaAction": {
+    "TEXT": [
+      "选择一张牌，复制其效果 ."
+    ]
+  },
+
+  "PrincessMaidAction": {
+    "TEXT": [
+      "选择一张 女皇 牌加入到手牌.",
+      "选择 女皇 牌加入到手牌.",
+      "我的牌组里没有 女皇 牌..."
+    ]
+  },
+
+  "RisleyAction": {
+    "TEXT": [
+      "减少其花费."
+    ]
+  },
+
+  "ShizukaAction": {
+    "TEXT": [
+      "丢弃.",
+      "我的手牌中没有 东瀛 牌..."
+    ]
+  },
+
+  "AirshipAction": {
+    "TEXT": [
+      "选择一张 帝国 牌加入到手牌.",
+      "我的牌组中没有 帝国 牌..."
+    ]
+  },
+
+  "LilyAction": {
+    "TEXT": [
+      "从手牌中打出 帝国 牌. (自选)"
+    ]
+  },
+
+  "BlitzkriegAction": {
+    "TEXT": [
+      " 打出一张 帝国 牌. (自选) ",
+      " 打出 帝国 牌. (自选)",
+      "可选择: "
+    ]
+  },
+
+  "LieselotteAction": {
+    "TEXT": [
+      "弃牌. (自选)"
+    ]
+  },
+
+  "MephistoAction": {
+    "TEXT": [
+      "选择一张 帝国 或 恶魔 牌 消耗 . (自选)",
+      "我的牌组中没有帝国 和 恶魔 牌..."
+    ]
+  },
+  "AuroraAction": {
+    "TEXT": [
+      "选择牌 消耗 . (自选)"
+    ]
+  },
+  "WhiteDevotionAction": {
+    "TEXT": [
+      " 消耗 . (自选)"
+    ]
+  },
+  "CallingYouAction": {
+    "TEXT": [
+      "选择一张 帝国 角色牌加入到手牌.",
+      "选择 帝国 角色牌加入到手牌.",
+      "我的弃牌堆中没有 帝国 角色牌..."
+    ]
+  },
+  "AirSignalAction": {
+    "TEXT": [
+      "选择一张 翼族 牌加入到手牌.",
+      "选择 翼族 牌加入到手牌.",
+      "我的弃牌堆中没有 翼族 牌..."
+    ]
+  },
+  "DemonCommandAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "HelmineAction": {
+    "TEXT": [
+      " 消耗 .",
+      "手中没有牌了..."
+    ]
+  },
+  "StrikeModifStrings": {
+    "TEXT": [
+      " 易伤 .",
+      " 中毒 .",
+      " NL 施加 ", " 易伤 .",
+      " NL 施加 ", "  中毒 ."
+    ]
+  },
+  "BelpheAction": {
+    "TEXT": [
+      " 消耗 ", " 张牌. (自选)", "我的弃牌堆里没有牌..."
+    ]
+  },
+  "ImperialInventorAction": {
+    "TEXT": [
+      "升级. (自选)"
+    ]
+  },
+  "MakaiCookingAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "NormaAction": {
+    "TEXT": [
+      "你至多可以 消耗 ", "张 恶魔 牌.", "我的弃牌堆里没有 恶魔 牌..."
+    ]
+  },
+  "OtherworldCallAction": {
+    "TEXT": [
+      "选择 ", "  张 恶魔 牌 消耗  .", "我的抽牌堆里没有 恶魔 牌..."
+    ]
+  },
+  "NatalieAction": {
+    "TEXT": [
+      "弃牌."
+    ]
+  },
+  "TsugumiExhaustAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "TsugumiRecoverAction": {
+    "TEXT": [
+      "选择一张牌加入到手牌.",
+      "我的弃牌堆中没有 东瀛 牌..."
+    ]
+  },
+  "EstrieAction": {
+    "TEXT": [
+      "你至多可以 消耗  ", " 张 不死族 牌.", "我的弃牌堆中没有 不死族 牌..."
+    ]
+  },
+  "SpookyPhenomenonAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "FedoraAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "TenguBlazeAction": {
+    "TEXT": [
+      " 消耗 ."
+    ]
+  },
+  "UndeadWorldAction": {
+    "TEXT": [
+      "选择一张 不死族 加入到手牌.", "我没有被 消耗 的 不死族 牌..."
+    ]
+  }
+}

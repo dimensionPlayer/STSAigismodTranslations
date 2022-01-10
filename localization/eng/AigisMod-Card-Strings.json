@@ -169,8 +169,10 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "Sphinx",
-    "DESCRIPTION": "Retain: NL All enemies lose !M! HP. NL Gain !B! Block. NL Exhaust."
+    "DESCRIPTION": "Retain. NL All enemies lose !M! HP. NL Gain !B! Block. NL Exhaust."
   },
+
+
 
 
   "aigisMod:Strike": {
@@ -1131,10 +1133,10 @@
   "aigisMod:Chiyome": {
     "NAME": "Chiyome",
     "DESCRIPTION": "Gain aigismod:Ninjutsu. NL Enemies gain !aigisMod:SecondMagic! poison for each Shuriken hit they take.",
-    "UPGRADE_DESCRIPTION": "Gain aigismod:Ninjutsu. Shurikens gains !M! additional hit. NL Enemies gain !aigisMod:SecondMagic! poison when attacked by Shuriken.",
+    "UPGRADE_DESCRIPTION": "Gain aigismod:Ninjutsu. Shurikens gains !M! additional hit. NL Enemies gain !aigisMod:SecondMagic! poison for each Shuriken hit they take.",
     "EXTENDED_DESCRIPTION" : [
       "kunoichi",
-      "Gain aigismod:Ninjutsu. NL Enemies gain !aigisMod:SecondMagic! poison when attacked by Shuriken."
+      "Gain aigismod:Ninjutsu. NL Enemies gain !aigisMod:SecondMagic! poison for each Shuriken hit they take."
     ]
   },
   "aigisMod:Remii": {

@@ -1,0 +1,104 @@
+{
+  "aigisMod:BattleTank": {
+    "NAME": "强袭坦克",
+    "MOVES": [
+      "溅射攻击.",
+      "穿刺攻击.",
+      "回合结束时, 对任意敌人造成 #b", " 点 刀光剑影 伤害 .",
+      "回合结束时, 对任意敌人造成 #b", " 点 直击灵魂 伤害."
+    ]
+  },
+  "aigisMod:EnergyAthanor": {
+    "NAME": "能源熔炉",
+    "MOVES": [
+      "产生能量.",
+      "回合开始, 获得 #b", " 点 [E] ."
+    ]
+  },
+  "aigisMod:Solais": {
+    "NAME": "索拉斯",
+    "MOVES": [
+      "充能",
+      "永恒之星"
+    ],
+    "DIALOG": [
+      "闪耀之星降临"
+    ]
+  },
+  "aigisMod:Sanara": {
+    "NAME": "萨那拉",
+    "MOVES": [
+      "Geotoken",
+      "远古石碑",
+      "风水大师"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Yuugen": {
+    "NAME": "幽幻",
+    "MOVES": [
+      "碎裂弹头",
+      "苦痛弹头"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Alva": {
+    "NAME": "阿尔瓦",
+    "MOVES": [
+      "Cruadin 之影",
+      "七重圆环",
+      "圣神之剑—— Gea Curruid"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tuan": {
+    "NAME": "图安",
+    "MOVES": [
+      "冲破桎梏",
+      "不顾一切的决意"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tram": {
+    "NAME": "图姆",
+    "MOVES": [
+      "Mac an Luin",
+      "圣银权能",
+      "",
+      "光辉大剑"
+    ],
+    "DIALOG": [
+      "闪光之银"
+    ]
+  },
+  "aigisMod:Ambrose": {
+    "NAME": "安布萝斯",
+    "MOVES": [
+      "花之魔法",
+      "魔幻花园",
+      "Aval Garden"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Arge": {
+    "NAME": "阿尔盖",
+    "MOVES": [
+      "构筑铁壁--进攻",
+      "魔法无人机--防御",
+      "机械师米娅可--攻击"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  }
+}
