@@ -234,7 +234,7 @@
   "aigisMod:Nanaly": {
     "NAME": "ナナリー",
     "DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL この戦闘中、攻撃回数が 1 減少する (最小 5 )。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL 戦闘中、攻撃回数が 1 減少する (最小 5 )。",
     "EXTENDED_DESCRIPTION" : [
       "白き射手",
       " !D! aigismod:弓 ダメージ を !M! 回与える。"
@@ -1139,8 +1139,8 @@
   },
   "aigisMod:Remii": {
     "NAME": "レミィ",
-    "DESCRIPTION": "このカードを引いた時全ての敵に NL !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に NL !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時全ての敵に NL !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に NL !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時全ての敵に !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時全ての敵に !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "雷神の娘",
       "このカードを引いた時 aigismod:ペア : ラミィ NL (このターンコスト 1 )。 NL 全ての敵に NL !D! ダメージを与える。"
@@ -1303,8 +1303,8 @@
   },
   "aigisMod:Lucia": {
     "NAME": "ルチア",
-    "DESCRIPTION": "HPを !M! 回復する。 NL 敵が攻撃を予定している時、回復量は !aigisMod:SecondMagic! になる。 NL デッキ内のラピスを 1 枚 廃棄 する。 廃棄",
-    "UPGRADE_DESCRIPTION": "HPを !M! 回復する。 NL 敵が攻撃を予定している時、回復量は !aigisMod:SecondMagic! になる。 NL デッキ内のラピスを 1 枚 廃棄 する。 廃棄",
+    "DESCRIPTION": "HPを !M! 回復する。 NL 敵の攻撃予定時、 NL 回復量は !aigisMod:SecondMagic! になる。 NL デッキ内のラピスを 1 枚 廃棄 する。 廃棄",
+    "UPGRADE_DESCRIPTION": "HPを !M! 回復する。 NL 敵の攻撃予定時、 NL 回復量は !aigisMod:SecondMagic! になる。 NL デッキ内のラピスを 1 枚 廃棄 する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国神官戦士"
     ]
@@ -1384,8 +1384,8 @@
   },
   "aigisMod:Lieselotte": {
     "NAME": "リーゼロッテ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 帝国カードを 1 枚捨てて、カードを !M!枚引くことができる。 NL 次のターン [E] を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 帝国カードを 1 枚捨てて、カードを !M!枚引くことができる。 NL 次のターン [E] を得る。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 帝国カードを 1 枚捨てて、カードを !M! 枚引くことができる。 NL 次のターン [E] を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 帝国カードを 1 枚捨てて、カードを !M! 枚引くことができる。 NL 次のターン [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国兵長"
     ]
@@ -1400,8 +1400,8 @@
   },
   "aigisMod:Charme": {
     "NAME": "シャルム",
-    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 手札に他のの帝国カードがある時、 !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 手札に他のの帝国カードがある時、 !B! ブロック を得る。",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 手札に他の帝国カードがある時、 !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 手札に他の帝国カードがある時、 !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "炎の竜皇女"
     ]
