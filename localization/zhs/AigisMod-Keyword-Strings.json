@@ -1,15 +1,15 @@
 [
   {
-    "PROPER_NAME": "能量聚集",
+    "PROPER_NAME": "技能充能",
     "NAMES": [
-      "能量聚集",
-      "能量聚集",
-      "能量聚集",
+      "技能充能",
+      "技能充能",
+      "技能充能",
       "Skill Charge",
       "Skill_charge",
       "skill_charge"
     ],
-    "DESCRIPTION": " #y保留 . 保留 时,提升该牌属性."
+    "DESCRIPTION": " #y保留 。保留时提升此卡牌属性."
   },
   {
     "PROPER_NAME": "帝国骑士",
@@ -21,46 +21,46 @@
       "Imperial_knight",
       "imperial_knight"
     ],
-    "DESCRIPTION": " #y每回合 打出 #y帝国 牌时，手中的 帝国 牌获得强化."
+    "DESCRIPTION": "在手牌时 #y每回合触发一次，打出 #y帝国牌 时产生效果。"
   },
   {
-    "PROPER_NAME": "死亡领域",
+    "PROPER_NAME": "伤害光环",
     "NAMES": [
-      "死亡领域",
-      "死亡领域",
-      "死亡领域",
+      "伤害光环",
+      "伤害光环",
+      "伤害光环",
       "Damage Aura",
       "Damage_aura",
       "damage_aura"
     ],
-    "DESCRIPTION": "回合结束时,造成敌人数量的 #y伤害 ."
+    "DESCRIPTION": "每回合结束时，根据数值对所有敌人造成 #y伤害。"
   },
   {
-    "PROPER_NAME": "直击灵魂",
+    "PROPER_NAME": "真实",
     "NAMES": [
-      "直击灵魂",
-      "直击灵魂",
-      "直击灵魂",
-      "直击灵魂伤害",
-      "直击灵魂伤害.",
+      "真实",
+      "真实",
+      "真实",
+      "真实伤害",
+      "真实伤害.",
       "True Damage",
       "True_damage",
       "true_damage"
 
     ],
-    "DESCRIPTION": "此攻击无视 #y格挡 , #y荆棘 , #y生气 , #y生气 ,  #y蜷身 ."
+    "DESCRIPTION": "这张牌的攻击无视格挡和  #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
   },
   {
-    "PROPER_NAME": "盛放花雨",
+    "PROPER_NAME": "开花阵",
     "NAMES": [
-      "盛放花雨",
-      "盛放花雨",
-      "盛放花雨",
+      "开花阵",
+      "开花阵",
+      "开花阵",
       "Bloom Petal",
       "Bloom_petal",
       "bloom_petal"
     ],
-    "DESCRIPTION": "下回合:所有敌人受到伤害(等同于该计数), 施加 #b2 #y虚弱 和 #b2 #y易伤 , 结束该效果."
+    "DESCRIPTION": "在你获得此能力的第二个回合：所有敌人受到伤害(根据开花阵的数值）, 施加 #b2  层 #y虚弱 和 #b2  层 #y易伤 , 之后移除此能力。"
   },
   {
     "PROPER_NAME": "诅咒仪式",
@@ -74,7 +74,7 @@
       "Cursed_rite",
       "cursed_rite"
     ],
-    "DESCRIPTION": "你无法获得治愈."
+    "DESCRIPTION": "你无法回血。"
   },
   {
     "PROPER_NAME": "诅咒之声",
@@ -88,96 +88,96 @@
       "Cursed_voice",
       "cursed_voice"
     ],
-    "DESCRIPTION": "驱散敌人获得的下个 #b增益 ."
+    "DESCRIPTION": "无效敌人获得的下一个 #y增益 效果。"
   },
   {
-    "PROPER_NAME": "空之境界",
+    "PROPER_NAME": "风元素",
     "NAMES": [
-      "空之境界",
-      "空之境界.",
-      "空之境界",
-      "空之境界",
+      "风元素",
+      "风元素.",
+      "风元素",
+      "风元素",
       "Air_elemental.",
       "Air_elemental",
       "air_elemental"
     ],
-    "DESCRIPTION": "当你打出 #y技能牌 , 敌人 #y失去 空元素 层数 的 #y生命值 . 敌人的 #y攻击 将抹消 #b1 层空元素 ."
+    "DESCRIPTION": "当你打出 #y技能 牌时，敌人根据层数 #y失去 HP。回合结束时如果敌人进行过攻击则移除 #b1 层。"
   },
   {
-    "PROPER_NAME": "暴怒反击",
+    "PROPER_NAME": "游侠陷阱",
     "NAMES": [
-      "暴怒反击",
-      "暴怒反击.",
-      "暴怒反击",
-      "暴怒反击",
+      "游侠陷阱",
+      "游侠陷阱.",
+      "游侠陷阱",
+      "游侠陷阱",
       "Ranger Trap",
       "Ranger_trap.",
       "Ranger_trap",
       "ranger_trap"
     ],
-    "DESCRIPTION": "受到 #y未被阻挡 的伤害,反击 #y伤害 并结束该效果."
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时，对那名敌人造成此能力 #y数值 的伤害，并且 #y失去 此能力。"
   },
   {
-    "PROPER_NAME": "驱邪护符",
+    "PROPER_NAME": "退魔守护灵符",
     "NAMES": [
-      "驱邪护符",
-      "驱邪护符.",
-      "驱邪护符",
-      "驱邪护符",
+      "退魔守护灵符",
+      "退魔守护灵符.",
+      "退魔守护灵符",
+      "退魔守护灵符",
       "Seal Talisman",
       "Seal_talisman.",
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 . #y驱邪护符 每回合计数减1."
+    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 。每回合开始时 #y退魔守护灵符 减少 #b1 层。"
   },
   {
-    "PROPER_NAME": "亡灵傀儡",
+    "PROPER_NAME": "操尸人",
     "NAMES": [
-      "亡灵傀儡",
-      "亡灵傀儡.",
-      "亡灵傀儡",
-      "亡灵傀儡",
+      "操尸人",
+      "操尸人.",
+      "操尸人",
+      "操尸人",
       "Corpse Marionette",
       "Corpse_marionette.",
       "Corpse_marionette",
       "corpse_marionette"
     ],
-    "DESCRIPTION": "承受 #y未被格挡 的伤害时, 减少亡灵军团 #y层数 以抵消伤害 . 层数归 #b0 时, 眩晕所有敌人."
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数。回合开始时，如果 #y层数 为#b0 ，眩晕所有敌人并移除此效果。"
   },
   {
-    "PROPER_NAME": "落井下石",
+    "PROPER_NAME": "被伏击的商队",
     "NAMES": [
-      "落井下石",
-      "落井下石.",
-      "落井下石",
-      "落井下石",
+      "被伏击的商队",
+      "被伏击的商队.",
+      "被伏击的商队",
+      "被伏击的商队",
       "Ambushed Caravan",
       "Ambushed_caravan.",
       "Ambushed_caravan",
       "ambushed_caravan"
     ],
-    "DESCRIPTION": "#y诅咒 . 无法打出 , 保留 , 固有 , 无法逃脱. 受到 #y未被阻挡 #y伤害时, 失去 #b8 枚 #y金币 ."
+    "DESCRIPTION": "#y诅咒 。不能被打出 , 保留 , 固有 , 不能从牌组中移除. 当你受到 #y未被格挡 的伤害时, 失去 #b8  #y金币 。"
   },
   {
     "NAMES": [
-      "刺杀",
-      "刺杀",
+      "暗杀",
+      "暗杀",
       "Assassination",
       "assassination"
     ],
-    "DESCRIPTION": " #y杀死 敌人时, 将其返回手牌，本回合费用变为 #b0 ."
+    "DESCRIPTION": " 用此卡 #y打败 敌人时, 将其返回 #y手牌 ，本回合其耗能变为 #b0 。"
   },
   {
     "NAMES": [
-      "枯萎",
-      "枯萎",
-      "枯萎.",
+      "减速",
+      "减速",
+      "减速.",
       "Sluggish",
       "sluggish",
       "sluggish."
     ],
-    "DESCRIPTION": "枯萎存在时,敌人获得 #y缓慢 .  #y枯萎 每回合计数减1."
+    "DESCRIPTION": "被施加时获得 #y缓慢 。 #y减速 层数为 #b0 时，移除 #y缓慢 。"
   },
   {
   "NAMES": [
@@ -190,21 +190,21 @@
     "Counter.",
     "counter."
   ],
-  "DESCRIPTION": "#y被攻击 时, 回敬伤害(反击计数). 下回合移除."
+  "DESCRIPTION": " #y被攻击 时, 根据反击层数对敌人造成伤害。自己的回合开始时移除。"
   },
   {
     "NAMES": [
-      "刀光剑影",
-      "刀光剑影",
-      "刀光剑影.",
-      "刀光剑影伤害",
-      "刀光剑影伤害.",
-      "刀光剑影伤害。",
+      "溅射",
+      "溅射",
+      "溅射.",
+      "溅射伤害",
+      "溅射伤害.",
+      "溅射伤害。",
       "Splash",
       "splash",
       "splash."
     ],
-    "DESCRIPTION": "其余敌人受到目标敌人所受一半的伤害 (向下取整) ."
+    "DESCRIPTION": "其余敌人受到目标敌人所受伤害的一半 (向下取整)。"
   },
   {
     "NAMES": [
@@ -213,34 +213,34 @@
       "Cooldown",
       "cooldown"
     ],
-    "DESCRIPTION": "冷却归 #b0 时, 才能造成对应效果."
+    "DESCRIPTION": "当层数为 #b0 时, 下次使用获得额外效果。"
   },
   {
     "NAMES": [
-      "双子星",
-      "双子星",
+      "搭档",
+      "搭档",
       "Pair",
       "pair"
     ],
-    "DESCRIPTION": "将另 #b1 张双子，从 #y抽牌堆 加入 #y手牌 ."
+    "DESCRIPTION": "将 #b1 张记有名字的卡牌从 #y抽牌堆 加入 #y手牌 。"
   },
   {
     "NAMES": [
-      "神箭手",
-      "神箭手",
+      "弓箭手",
+      "弓箭手",
       "Archer",
       "archer"
     ],
-    "DESCRIPTION": "高超的箭术 #b无视 #y荆棘 , #y生气 ,  #y蜷身 ."
+    "DESCRIPTION": "此卡 #b无视 #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
   },
   {
     "NAMES": [
-      "东瀛忍术",
-      "东瀛忍术",
+      "忍术",
+      "忍术",
       "Ninjutsu",
       "ninjutsu"
     ],
-    "DESCRIPTION": "每回合获得 #b1 张 #y手里剑 . 继续使用 #y东瀛忍术 将提升 #y手里剑 ."
+    "DESCRIPTION": "每回合开始时获得 #b1 张 #y手里剑 。每打出一次额外的 #y忍术提升 #y手里剑 的攻击次数 #b1 次。"
   },
   {
     "NAMES": [
@@ -249,43 +249,43 @@
       "Entangled",
       "entangled"
     ],
-    "DESCRIPTION": "无法打出 #y攻击 牌. 回合初解除."
+    "DESCRIPTION": "你无法打出 #y攻击牌 。你的回合开始时，移除 #b1 层。"
   },
 
   {
     "NAMES": [
-      "不死族",
-      "不死族",
-      "不死族:",
-      "不死族:",
+      "不死",
+      "不死",
+      "不死:",
+      "不死:",
       "Undead",
       "undead",
       "Undead:",
       "undead:"
     ],
-    "DESCRIPTION": " #y被消耗 时触发该效果."
+    "DESCRIPTION": " 被 #y消耗 时触发此效果。"
   },
   {
     "NAMES": [
-      "血裔",
-      "血裔",
+      "吸血鬼",
+      "吸血鬼",
       "Vampire",
       "vampire"
     ],
-    "DESCRIPTION": "#y未被阻挡 的伤害附加 #y血族撕咬 . #y血族撕咬 达到 #b60 后, 眩晕该敌人,施加 #b1 层 #y眩晕抵抗 ."
+    "DESCRIPTION": "被攻击的敌人根据造成的 #y未被格挡 的伤害附加相应层数的 #y吸血鬼噬咬 。 #y吸血鬼噬咬 达到 #b60 层时, 击晕该敌人并且施加 #b1 层 #y击晕抗性 。"
   },
   {
     "NAMES": [
-      "邪咒师",
-      "邪咒师",
-      "邪咒师:",
-      "邪咒师:",
+      "诅咒",
+      "诅咒",
+      "诅咒:",
+      "诅咒:",
       "Cursed",
       "cursed",
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "牌组中每有一张 #b诅咒 , 施加以下效果."
+    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出非复制的原卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -298,18 +298,18 @@
       "Burn:",
       "burn:"
     ],
-    "DESCRIPTION": "回合结束时,  #y意图攻击 的敌人, 承受灼伤. 下回合开始时灼伤消失"
+    "DESCRIPTION": "回合结束时,  #y意图为攻击 的敌人 #y受到伤害 。 灼伤在回合开始时减少。"
   },
   {
-    "PROPER_NAME": "神奇的生命形",
+    "PROPER_NAME": "魔导生命体",
     "NAMES": [
-      "神奇的生命形",
-      "神奇的生命形.",
+      "魔导生命体",
+      "魔导生命体.",
       "Magical Ignition",
       "Magical_ignition.",
       "Magical_ignition",
       "magical_ignition"
     ],
-    "DESCRIPTION": "在战斗开始时, 在你的抽牌堆中加入2张 #y拉瓦尔 牌. 这些卡的升级数量与此卡相同 ."
+    "DESCRIPTION": "战斗开始时, 将 #y盾之拉瓦尔 和 #y矛之拉瓦尔 加入抽牌堆。他们的升级数量与此卡相同。"
   }
 ]
