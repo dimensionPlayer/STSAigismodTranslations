@@ -1,34 +1,34 @@
 {
         "aigisMod:StrengthDownPotion": {
-                "NAME": "枯萎药剂",
-                "DESCRIPTIONS": ["目标失去 #b", " 点 #y力量 ."]
+                "NAME": "力量降低药水",
+                "DESCRIPTIONS": ["目标失去 #b", " 点 #y力量 。"]
         },
         "aigisMod:StrengthDownPotionEmperor": {
-                "NAME": "枯萎合剂",
-                "DESCRIPTIONS": ["目标失去 #b", " 点 #y力量 ."]
+                "NAME": "力量降低药水",
+                "DESCRIPTIONS": ["目标失去 #b", " 点 #y力量 。"]
         },
         "aigisMod:SlowPotion": {
-                "NAME": "缓时药剂",
-                "DESCRIPTIONS": ["目标获得 #y枯萎 ."]
+                "NAME": "时空药水",
+                "DESCRIPTIONS": ["目标获得 #b", " 层 #y减速 。"]
         },
         "aigisMod:SlowPotionEmperor": {
-                "NAME": "缓时合剂",
-                "DESCRIPTIONS": ["目标获得 #y枯萎 ."]
+                "NAME": "时空药水",
+                "DESCRIPTIONS": ["目标获得 #b", " 层 #y减速 。"]
         },
         "aigisMod:CounterPotion": {
-                "NAME": "反击药剂",
-                "DESCRIPTIONS": ["获得 #b", " 点 #y反击 ."]
+                "NAME": "反击药水",
+                "DESCRIPTIONS": ["获得 #b", " 层 #y反击 。"]
         },
         "aigisMod:CounterPotionEmperor": {
-                "NAME": "反击合剂",
-                "DESCRIPTIONS": ["获得 #b", " 点 #y反击 ."]
+                "NAME": "反击药水",
+                "DESCRIPTIONS": ["获得 #b", " 层 #y反击 。"]
         },
         "aigisMod:DemonicDrink": {
-                "NAME": "恶魔之血",
-                "DESCRIPTIONS": ["获得 #b", " 层 #y死亡领域 ."]
+                "NAME": "恶魔饮料",
+                "DESCRIPTIONS": ["获得 #b", " 层 #y伤害光环 。"]
         },
         "aigisMod:DemonicDrinkEmperor": {
-                "NAME": "魔王之血",
-                "DESCRIPTIONS": ["获得 #b", " 层 #y死亡领域 ."]
+                "NAME": "恶魔饮料",
+                "DESCRIPTIONS": ["获得 #b", " 层 #y伤害光环 。"]
         }
 }
