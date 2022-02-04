@@ -11,7 +11,7 @@
 
         "aigisMod:DamageAura": {
                 "NAME": "伤害光环",
-                "DESCRIPTIONS": ["回合结束时, 敌人受到 #b" , " 点伤害。"]
+                "DESCRIPTIONS": ["回合结束时, 敌人受到 #b" , " 点伤害 。"]
         },
 
         "aigisMod:Ninjutsu": {
@@ -56,7 +56,7 @@
 
         "aigisMod:SteamGuardianPower": {
                 "NAME": "蒸汽守护者",
-                "DESCRIPTIONS": ["你被攻击时受到的伤害减少 #b", "% #y失去生命 和 #y荆棘 造成的伤害不会减少。"]
+                "DESCRIPTIONS": ["你被攻击时受到的伤害减少 #b", "% 。 #y失去生命 和 #y荆棘 造成的伤害不会减少。"]
         },
 
         "aigisMod:SacrificePower": {
@@ -76,8 +76,8 @@
 
         "aigisMod:BloomPetal": {
                 "NAME": "开花阵",
-                "DESCRIPTIONS": ["在你的第 #b", "回合结束时，所有敌人受到 #b", "点伤害，获得 #b2  层 #y虚弱 和 #b2  层 #y易伤 ，然后移除此能力。",
-                                 "在你的下回合结束时，所有敌人受到 #b", " 点伤害，获得 #b2  层 #y虚弱 和 #b2  层 #y易伤 ，然后移除此能力。"]
+                "DESCRIPTIONS": ["在你的第 #b", "回合结束时，所有敌人受到 #b", "点伤害，获得 #b2 层 #y虚弱 和 #b2 层 #y易伤 ，然后移除此能力。",
+                        "在你的下回合结束时，所有敌人受到 #b", " 点伤害，获得 #b2  层 #y虚弱 和 #b2 层 #y易伤 ，然后移除此能力。"]
         },
         "aigisMod:CalamityAverting": {
                 "NAME": "避祸预知",
@@ -89,7 +89,7 @@
         },
         "aigisMod:SpeedCooking": {
                 "NAME": "快速烹饪",
-                "DESCRIPTIONS": ["回合开始时，获得 #b", "  点 #y力量 和 #b", "  点 #y敏捷 。"]
+                "DESCRIPTIONS": ["回合开始时，获得 #b", " 点 #y力量 和 #b", " 点 #y敏捷 。"]
         },
         "aigisMod:NumbingPoisonPower": {
                 "NAME": "痹脉之毒",
@@ -133,7 +133,7 @@
         },
         "aigisMod:ImperialCooking": {
                 "NAME": "帝国式料理术",
-                "DESCRIPTIONS": ["打出 #b", " 张帝国牌时，获得 #b", " 点 #y敏捷 和 #b", " 点 #y力量 .", " #y帝国 牌，获得 #b"]
+                "DESCRIPTIONS": ["打打出 #b", " 张帝国牌时，获得 #b", " 点 #y敏捷 和 #b", " 点 #y力量 .", " #y帝国 牌，获得 #b"]
         },
         "aigisMod:ImperialInventor": {
                 "NAME": "帝国发明家",
@@ -145,7 +145,7 @@
         },
         "aigisMod:WhiteDevotion": {
                 "NAME": "白之献身",
-                "DESCRIPTIONS": ["回合结束时，如果有 #y手牌 , 可以消耗手牌中的 #b1 张牌并获得 #b1 层 #y人工制品 。", "你可以使用此效果 #b", " 次"]
+                "DESCRIPTIONS": ["回合结束时，如果有 #y手牌 , 可以消耗手牌中的 #b1 张牌并获得 #b1 层 #y人工制品 。", "你可以使用此效果 #b", " 次。"]
         },
         "aigisMod:CallingYou": {
                 "NAME": "现世的呼唤",
@@ -153,7 +153,7 @@
         },
         "aigisMod:RangerTrap": {
                 "NAME": "游侠陷阱",
-                "DESCRIPTIONS": ["下一次受到 #y未被格挡 的战斗伤害时，对攻击者造成 #b", " 点伤害，然后移除此效果"]
+                "DESCRIPTIONS": ["下一次受到 #y未被格挡 的战斗伤害时，对攻击者造成 #b", " 点伤害，然后移除此效果。"]
         },
         "aigisMod:YataWing": {
                 "NAME": "八咫之翼",
@@ -201,7 +201,7 @@
         },
         "aigisMod:Burn": {
                 "NAME": "灼伤",
-                "DESCRIPTIONS": ["回合结束时, 如果敌人意图为攻击,则其受到 #b", " 点 #y伤害 . 灼伤的层数在回合开始时减少。"]
+                "DESCRIPTIONS": ["回合结束时, 如果敌人意图为攻击,则其受到 #b", " 点 #y伤害 。 灼伤的层数在回合开始时减少。"]
         },
         "aigisMod:Golemology": {
                 "NAME": "魔像学",
@@ -249,7 +249,7 @@
         },
         "aigisMod:VampireBite": {
                 "NAME": "吸血鬼噬咬",
-                "DESCRIPTIONS": ["达到 #b", " 层时，移除此能力并击晕该敌人，敌人获得 #b1 层 #y击晕抗性 。回合结束时，吸血鬼噬咬层数减少 #b6 层  。"]
+                "DESCRIPTIONS": ["达到 #b", " 层时，移除此能力并击晕该敌人，敌人获得 #b1 层 #y击晕抗性 。回合结束时，吸血鬼噬咬层数减少 #b6 层 。"]
         },
         "aigisMod:CorpseMarionette": {
                 "NAME": "操尸人",
@@ -261,7 +261,7 @@
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明镜止水",
-                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b.", " 层 #y活力 ."]
+                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时， 获得 #b.", " 层 #y活力 。"]
         },
         "aigisMod:StunResistance": {
                 "NAME": "击晕抗性",

@@ -36,7 +36,7 @@
   },
   "aigisMod:ArgeBlack": {
     "NAME": "阿杰",
-    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:真实 伤害 并减少1层充能。 NL aigismod:技能充能 : 获得 2 充能。  每有一层充能提升 !aigisMod:SecondMagic! 点伤害。 (充能 !M! 层)",
+    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:真实 伤害 并减少1层充能。 NL aigismod:技能充能 : 获得 2 充能。 NL 每有一层充能提升 !aigisMod:SecondMagic! 点伤害。 (充能 !M! 层)",
     "EXTENDED_DESCRIPTION" : [
       "万机始祖者"
     ]
@@ -99,14 +99,14 @@
   },
   "aigisMod:YuugenPlatinum": {
     "NAME": "尤金",
-    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱。 aigismod:暗杀",
+    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱 。 aigismod:暗杀",
     "EXTENDED_DESCRIPTION" : [
       "继承阴影者"
     ]
   },
   "aigisMod:YuugenBlack": {
     "NAME": "尤金",
-    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱。 NL 所有弓箭手牌伤害+1。 NL aigismod:暗杀",
+    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱 。 NL 所有弓箭手牌伤害+1。 NL aigismod:暗杀",
     "EXTENDED_DESCRIPTION" : [
       "继承阴影者"
     ]
@@ -169,7 +169,7 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "斯芬克斯",
-    "DESCRIPTION": " 保留 。 NL 所有敌人失去 !M! 点 点生命。 NL 获得 !B! 点 格挡。 NL 消耗。"
+    "DESCRIPTION": " 保留 。 NL 所有敌人失去 !M! 点 生命。 NL 获得 !B! 点 格挡。 NL 消耗 。"
   },
 
 
@@ -516,11 +516,11 @@
   },
   "aigisMod:Teeny": {
     "NAME": "蒂尼",
-    "DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。",
-    "UPGRADE_DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。",
+    "DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。",
+    "UPGRADE_DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "矮人公主",
-      "获得1点 力量 和 敏捷。 NL 当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。"
+      "获得1点 力量 和 敏捷 。 NL 当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。"
     ]
   },
   "aigisMod:Carat": {
@@ -575,10 +575,10 @@
   "aigisMod:Matsuri": {
     "NAME": "祭",
     "DESCRIPTION": "一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
-    "UPGRADE_DESCRIPTION": "获得1点力量 。 NL 一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "获得1点 力量 。 NL 一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "朱铠智将",
-      "获得1点敏捷 。 NL 一回合一次,造成未被格挡的伤害时, 获得 !M! 点 力量 。"
+      "获得1点 敏捷 。 NL 一回合一次,造成未被格挡的伤害时, 获得 !M! 点 力量 。"
     ]
   },
   "aigisMod:Kanon": {
@@ -619,7 +619,7 @@
   "aigisMod:Luvea": {
     "NAME": "露薇雅",
     "DESCRIPTION": "每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
-    "UPGRADE_DESCRIPTION": "获得1点敏捷 。 NL 每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "获得1点 敏捷 。 NL 每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
     "EXTENDED_DESCRIPTION" : [
       "战场指挥官"
     ]
@@ -799,8 +799,8 @@
   },
   "aigisMod:Sharqi": {
     "NAME": "莎琪",
-    "DESCRIPTION": "本回合获得2点力量 。",
-    "UPGRADE_DESCRIPTION": "本回合获得2点力量和敏捷 。",
+    "DESCRIPTION": "本回合获得2点 力量 。",
+    "UPGRADE_DESCRIPTION": "本回合获得2点 力量 和 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "舞娘"
     ]
@@ -952,7 +952,7 @@
   "aigisMod:Prim": {
     "NAME": "普琳姆",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 施加 aigismod:减速 。 NL aigismod:冷却 !M! 下次打出后, 此牌耗能变为0。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 第一次打出: 将1张宦光静 加入牌组并始此牌耗能为0。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 第一次打出: 将1张 幻光镜 加入牌组并始此牌耗能为0。",
     "EXTENDED_DESCRIPTION" : [
       "幻光魔女"
     ]
@@ -1118,7 +1118,7 @@
   "aigisMod:Shiranui": {
     "NAME": "不知火",
     "DESCRIPTION": "将3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "抽到时: 获得 3荆棘 。 NL 3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽到时: 获得 3 荆棘 。 NL 3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "涂壁"
     ]
@@ -1315,7 +1315,7 @@
   },
   "aigisMod:Lapis": {
     "NAME": "拉比斯",
-    "DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 ",
+    "DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "UPGRADE_DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "大恶魔召唤士",
@@ -1333,7 +1333,7 @@
 
   "aigisMod:LivreEmperor": {
     "NAME": "利弗尔",
-    "DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 ",
+    "DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "UPGRADE_DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "恶魔召唤士"
@@ -1349,7 +1349,7 @@
   },
   "aigisMod:VeltyEmperor": {
     "NAME": "维尔蒂",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 ",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
     "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "恶魔召唤士"
@@ -1429,8 +1429,8 @@
   },
   "aigisMod:Charme": {
     "NAME": "莎姆",
-    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点格挡",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点格挡",
+    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点 格挡 。",
     "EXTENDED_DESCRIPTION" : [
       "火龙皇女"
     ]
@@ -1909,8 +1909,8 @@
   },
   "aigisMod:Ethnea": {
     "NAME": "伊斯妮亚",
-    "DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点力量 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1点力量 。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点 力量 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "黑翼的魔兵"
     ]
@@ -1925,8 +1925,8 @@
   },
   "aigisMod:Kihor": {
     "NAME": "齐霍尔",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点力量 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点力量 。",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点 力量 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "魔界料理人"
     ]
@@ -2725,7 +2725,7 @@
   "aigisMod:Fiore": {
     "NAME": "菲欧蕾",
     "DESCRIPTION": "下一次打出生命之树 时获得1层 无实体 。",
-    "UPGRADE_DESCRIPTION": "下两次打出生命之树 时获得1层 无实体 ",
+    "UPGRADE_DESCRIPTION": "下两次打出生命之树 时获得1层 无实体 。",
     "EXTENDED_DESCRIPTION" : [
       "森之隐者",
       "所有敌人失去 3 力量 。 NL 下一次打出生命之树 时获得1层 无实体 。"

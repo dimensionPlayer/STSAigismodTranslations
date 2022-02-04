@@ -168,14 +168,14 @@
     "TEXT": [
       "Choose a character to add to your hand.",
       "Choose characters to add to your hand.",
-      "i don't have an Imperial character in my discard pile..."
+      "I don't have an Imperial character in my discard pile..."
     ]
   },
   "AirSignalAction": {
     "TEXT": [
       "Choose a card to add to your hand.",
       "Choose cards to add to your hand.",
-      "i don't have an Aerial card in my discard pile..."
+      "I don't have an Aerial card in my discard pile..."
     ]
   },
   "DemonCommandAction": {
@@ -261,6 +261,12 @@
   "UndeadWorldAction": {
     "TEXT": [
       "Choose 1 Undead to add to your hand.", "i don't have an Undead card in Exhaust Pile..."
+    ]
+  },
+
+  "HeroCrystalText": {
+    "TEXT": [
+      "Viewing the Hero cards."
     ]
   }
 }

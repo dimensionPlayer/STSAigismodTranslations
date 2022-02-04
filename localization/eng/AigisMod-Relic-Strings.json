@@ -52,7 +52,7 @@
   },
   "aigisMod:DarknessAura": {
     "NAME": "Suppressing Darkness Aura",
-    "FLAVOR": "Dark Knight: I already gave up mine own life. Use me as naught more than a sacrificial pawn..",
+    "FLAVOR": "Dark Knight: I already gave up mine own life. Use me as naught more than a sacrificial pawn.",
     "DESCRIPTIONS": [
       "If you played no #bAttack cards in a turn apply #b1 #yWeak to all enemies and gain #b8 #yblock."
     ]
@@ -114,9 +114,9 @@
     "FLAVOR": "Solais: As a reward for conquering the tower's (Spire's) floors, I'll give you 'Hero Crystals.",
     "DESCRIPTIONS": [
       "Gain #b1 point for winning a combat. ",
-      "While on the Map screen (outside of combat/event/campfire), #yRight-click this relic and spend #b200 #yGold and #b5 points to add a #yUncommon #yHero Card. Adding a duplicate upgrades the card instead.",
+      "While on the Map screen (outside of combat/event/campfire), if you have #b200 #yGold and #b5 points, #yRight-click this relic to add a #yUncommon #yHero Card. Adding a duplicate upgrades the card instead.",
       "I can't use this right now...",
-      "Choose a Hero card to add to your deck."
+      "Spend 200 gold and 5 points to add a Hero card to your deck."
     ]
   },
   "aigisMod:DescendantHero": {
@@ -169,7 +169,7 @@
     ]
   },
   "aigisMod:ImperialAgent": {
-    "NAME": "Imperial Agent",
+    "NAME": "Imperial Dark Bureau",
     "FLAVOR": "Viktor: I was once known as the Empire’s most heinous criminal.",
     "DESCRIPTIONS": [
       "When an enemy is #ydefeated, apply #b2 #yWeak and #b2 #yVulnerable to all enemies."

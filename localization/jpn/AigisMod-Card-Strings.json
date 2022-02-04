@@ -504,8 +504,8 @@
   },
   "aigisMod:Ignis": {
     "NAME": "イグニス",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 活力 !M! を得る。 NL aigismod:バーン !M! を与える。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 活力 !M! を得る。 NL aigismod:バーン !M! を与える。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 活力 !M! を得る。 NL aigismod:バーン !M! を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 活力 !M! を得る。 NL aigismod:バーン !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "火竜の"
     ]
@@ -1514,16 +1514,16 @@
   },
   "aigisMod:Viola": {
     "NAME": "ヴィオラ",
-    "DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 2 を得る。 NL デッキの帝国パワーカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 4 を得る。 NL デッキの帝国パワーカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 2 を得る。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 4 を得る。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
   },
   "aigisMod:Lux": {
     "NAME": "ルークス",
-    "DESCRIPTION": "エセリアル NL aigismod:帝国騎士 : ランダムな敵に 6 固定のダメージを与える。 NL デッキのストライクの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : ランダムな敵に 9 固定のダメージを与える。 NL デッキのストライクと防御の数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : ランダムな敵に 6 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。 NL( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : ランダムな敵に 9 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。 NL( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
@@ -2004,7 +2004,7 @@
   "aigisMod:Tanya": {
     "NAME": "ターニャ",
     "DESCRIPTION": "カードを 2 枚引く。 NL !M! ゴールドを得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL [E] を得る。 NL !M! ゴールドを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL [E] を得る。 NL ゴールドを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国商人"
     ]
