@@ -105,11 +105,11 @@
         },
         "aigisMod:PrincessMaid": {
                 "NAME": "Princess Maid",
-                "DESCRIPTIONS": ["At turn start, add #b", " princess card form your deck.", "Choose a card to add to hand.", "I don't have a princess card in my deck..."]
+                "DESCRIPTIONS": ["At turn start, add #b", " princess card from your deck.", "Choose a card to add to hand.", "I don't have a princess card in my deck..."]
         },
         "aigisMod:EasternMaid": {
                 "NAME": "Eastern Maid",
-                "DESCRIPTIONS": ["At turn start, choose #b", " eastern cards form hand, reduce their cost by #b1 this turn."]
+                "DESCRIPTIONS": ["At turn start, choose #b", " eastern cards from hand, reduce their cost by #b1 this turn."]
         },
         "aigisMod:Blitzkrieg": {
                 "NAME": "Blitzkrieg",
@@ -167,9 +167,17 @@
                 "NAME": "Makai Cooking",
                 "DESCRIPTIONS": ["On turn end, you can exhaust #b1 Demon from your #yhand to gain #b", " #yStrength."]
         },
+        "aigisMod:BarricadeInstallation": {
+                "NAME": "Barricade Installation",
+                "DESCRIPTIONS": ["At start of turn, you can discard up to #b", " cards from #yhand to add #yBarricade to hand equal to cards discarded."]
+        },
+        "aigisMod:ExplosiveBarricade": {
+                "NAME": "Explosive Barricade",
+                "DESCRIPTIONS": ["When you play #yBarricade, deal #b", " damage to a random enemy."]
+        },
         "aigisMod:OtherworldCall": {
                 "NAME": "Otherworld Call",
-                "DESCRIPTIONS": ["On turn end, you can exhaust #b", " #yDemons from your #yDraw #yPile."]
+                "DESCRIPTIONS": ["On turn end, you can exhaust up to #b", " #yDemons from your #yDraw #yPile."]
         },
         "aigisMod:EnergyAthanorPower": {
                 "NAME": "Energy Athanor",

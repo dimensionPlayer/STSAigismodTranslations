@@ -1398,7 +1398,7 @@
   "aigisMod:Leora": {
     "NAME": "蕾欧拉",
     "DESCRIPTION": "在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
-    "UPGRADE_DESCRIPTION": "获得1力量 。 NL 在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
+    "UPGRADE_DESCRIPTION": "获得2 力量 。 NL 在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
     "EXTENDED_DESCRIPTION" : [
       "帝国元帅"
     ]
