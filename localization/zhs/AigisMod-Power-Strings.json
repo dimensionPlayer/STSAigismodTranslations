@@ -167,6 +167,14 @@
                 "NAME": "魔界式烹饪",
                 "DESCRIPTIONS": ["回合结束时，你可以消耗手牌中 #b1 张恶魔牌来获得 #b", " 点 #y力量 。"]
         },
+        "aigisMod:BarricadeInstallation": {
+                "NAME": "路障安装",
+                "DESCRIPTIONS": ["回合开始时，你最多可以丢弃 #b", " 张 #y手牌 ，每次弃牌 创造一张 #y路障 。"]
+        },
+        "aigisMod:ExplosiveBarricade": {
+                "NAME": "爆炸路障准备好了！",
+                "DESCRIPTIONS": ["当你打出 #y路障 牌时，对一名随机敌人造成 #b", "  点伤害。"]
+        },
         "aigisMod:OtherworldCall": {
                 "NAME": "异界的呼唤",
                 "DESCRIPTIONS": ["回合结束时，你可以消耗 #y抽牌堆 中 #b", " 张 #y恶魔 牌。"]

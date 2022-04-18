@@ -1291,7 +1291,7 @@
   },
   "aigisMod:Barricade": {
     "NAME": "バリケード",
-    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル : 保留するたび、ブロック が 1 減少する。 NL 廃棄"
+    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル : 保留するたび、ブロック が 2 減少する。 NL 廃棄"
   },
   "aigisMod:Isabelle": {
     "NAME": "イザベラ",

@@ -183,7 +183,7 @@
   },
   "aigisMod:Defend": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点格挡。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
 
 
@@ -1266,7 +1266,7 @@
   },
   "aigisMod:DefendEmperor": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点格挡。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
 
   "aigisMod:AdamasTreasure": {
@@ -1287,15 +1287,15 @@
   },
   "aigisMod:Patricia": {
     "NAME": "派特希亚",
-    "DESCRIPTION": "将1张路障 加入手牌。",
-    "UPGRADE_DESCRIPTION": "将1张路障 加入手牌。 NL 对所有敌人施加 !M! 层 虚弱 。",
+    "DESCRIPTION": "回合开始时,你可以丢弃1张，1张路障 加入手牌。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 2 层 虚弱 。 NL 回合开始时,你可以丢弃1张，1张路障 加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       "帝国防塞工兵"
     ]
   },
   "aigisMod:Barricade": {
     "NAME": "路障",
-    "DESCRIPTION": "获得 !B! 点格挡。 NL aigismod:技能充能 : 减少此牌1格挡。 NL 消耗 。"
+    "DESCRIPTION": "获得 !B! 点格挡。 NL aigismod:技能充能 : 减少此牌2格挡。 NL 消耗 。"
   },
   "aigisMod:Isabelle": {
     "NAME": "伊莎贝尔",
@@ -1656,7 +1656,8 @@
     "DESCRIPTION": "在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。",
     "UPGRADE_DESCRIPTION": "消耗所有状态 牌。 NL 在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。",
     "EXTENDED_DESCRIPTION" : [
-      "帝国主教"
+      "帝国主教",
+      "在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。"
     ]
   },
   "aigisMod:Hecatie": {
@@ -1697,7 +1698,8 @@
     "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。",
     "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。",
     "EXTENDED_DESCRIPTION" : [
-      "迷途幻兽使"
+      "迷途幻兽使",
+      "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。"
     ]
   },
   "aigisMod:Keitridge": {
@@ -2096,6 +2098,49 @@
       "获得 !B! 点格挡。 NL 防御 额外获得 1 点。 NL 下回合,获得 [E] [E]"
     ]
   },
+  "aigisMod:Marleen": {
+    "NAME": "Marleen",
+    "DESCRIPTION": "打出路障 牌时 ,对随机敌人造成 !M! 点伤害。 将1张路障 加入手牌。",
+    "UPGRADE_DESCRIPTION": "打出路障 牌时 ,对随机敌人造成 !M! 点伤害。 将1张路障 加入手牌。",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Engineer"
+    ]
+  },
+  "aigisMod:Laura": {
+    "NAME": "Laura",
+    "DESCRIPTION": "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。",
+    "EXTENDED_DESCRIPTION" : [
+      "White Dragon Miko",
+      "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。"
+    ]
+  },
+  "aigisMod:Lehne": {
+    "NAME": "Lehne",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张随机帝国 牌从抽牌堆加入手牌。",
+    "UPGRADE_DESCRIPTION": "造成两次 !D! 点伤害。 NL 将1张随机帝国 牌从抽牌堆加入手牌。",
+    "EXTENDED_DESCRIPTION" : [
+      "Thief of the Imperial Capital"
+    ]
+  },
+  "aigisMod:Kaoru": {
+    "NAME": "Kaoru",
+    "DESCRIPTION": "弃掉1张 牌, 获得等于其成本的 力量 和 如果是帝国牌 获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "弃掉1张 牌, 获得等于其成本的 力量 和 如果是帝国牌 获得 !B! 点 格挡 。",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Battle Miko"
+    ]
+  },
+  "aigisMod:Irmgard": {
+    "NAME": "Irmgard",
+    "DESCRIPTION": "消耗抽牌堆中的1张 恶魔 牌来抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "消耗抽牌堆中的1张 恶魔 牌来抽 !M! 张牌。",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Demon General"
+    ]
+  },
+
+
 
 
 
@@ -2110,7 +2155,7 @@
   },
   "aigisMod:DefendAvenger": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点格挡。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
 
 

@@ -343,6 +343,69 @@
 
 
 
+
+
+
+  "aigisMod:MeteorSword": {
+    "NAME": "Meteor Sword Technique",
+    "FLAVOR": "Decius: This is the Special Technique...!? To be able to drop meteors is t-too unfair....",
+    "DESCRIPTIONS": [
+      "Start the combat with #b2 #yMeteor.",
+      "At the end of the first 3 turns gain #b5 #yBlock."
+    ]
+  },
+  "aigisMod:KnightProtection": {
+    "NAME": "Holy Knight's Protection",
+    "FLAVOR": "Cornelia: Even if this is the power of the demons, what I must accomplish remains the same.",
+    "DESCRIPTIONS": [
+      "The first time you play an Attack each turn gain #b3 #yBlock.",
+      "When you play a #yDark #yKnight gain #b1 #yBlur."
+    ]
+  },
+  "aigisMod:ShieldBless": {
+    "NAME": "Shield Bless",
+    "FLAVOR": "Heios: Even a sword fallen into darkness can protect its brilliance.",
+    "DESCRIPTIONS": [
+      "When you play a Skill gain #b2 #yCounter.",
+      "When you play a #yDark #yKnight or Strike card gain #b3 #yBlock"
+    ]
+  },
+  "aigisMod:SuperMeteor": {
+    "NAME": "Super Meteor Tactics",
+    "FLAVOR": "Aisha: What, I don't look like a tactician to you?.",
+    "DESCRIPTIONS": [
+      "Refund the cost of #yMeteor cards played in the fist turn."
+    ]
+  },
+  "aigisMod:BlastingEnhancement": {
+    "NAME": "Secret Art of Blasting Enhancement",
+    "FLAVOR": "Garania: Mastering the spirit of magic, that's my mission.",
+    "DESCRIPTIONS": [
+      "Start the combat gain #b2 #yMeteor for each enemy",
+      "When an Enemy appears in combat gain #b1 #yMeteor."
+    ]
+  },
+  "aigisMod:BlastingBall": {
+    "NAME": "Super Human Blasting Ball",
+    "FLAVOR": "Dina: I wonder if it's because of my armor... My muscles are all worn out.",
+    "DESCRIPTIONS": [
+      "At the end of your turn deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+    ]
+  },
+  "aigisMod:GuardianAngel": {
+    "NAME": "Whimsical Guardian Angel",
+    "FLAVOR": "Chloe: Even fallen angels have something to defend.",
+    "DESCRIPTIONS": [
+      "Start the combat with #b2 #yBlur.",
+      "If you end your first turn with #b12 #yBlock or more gain #b1 #yArtifact."
+    ]
+  },
+
+
+
+
+
+
   "aigisMod:AigisShrine": {
     "NAME": "Aigis Shrine",
     "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
