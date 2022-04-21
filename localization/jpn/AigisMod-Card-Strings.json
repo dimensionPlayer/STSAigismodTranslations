@@ -2633,7 +2633,7 @@
   "aigisMod:Sue": {
     "NAME": "スー",
     "DESCRIPTION": "!D! aigismod:弓 ダメージを !M! 回与える。 NL 手札を 1枚 廃棄 できる。 NL アーチャーカードは 1 の追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを !M! 回与える。 NL 手札を 1枚 廃棄 できる。 NL アーチャーカードは 1 の追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを !M! 回与える。 NL 手札と捨て札を 1枚ずつ 廃棄 できる。 NL アーチャーカードは 1 の追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "霊鳥の射手",
       "!D! aigismod:弓 ダメージを !M! 回与える。 NL 手札を 1枚 廃棄 できる。 NL アーチャーカードは 1 の追加ダメージ。"
