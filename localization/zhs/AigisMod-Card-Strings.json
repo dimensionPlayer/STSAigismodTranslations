@@ -15,14 +15,14 @@
   },
   "aigisMod:SolaisPlatinum": {
     "NAME": "索拉斯",
-    "DESCRIPTION": " 固有 。 NL 对所有敌人造成两次 !D! 点伤害。 NL aigismod:技能充能 :本场战斗提升 !M! 点伤害。",
+    "DESCRIPTION": " 固有 。 NL 对所有敌人造成 !D! 点伤害两次。 NL aigismod:技能充能 :本场战斗提升 !M! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "咏唱星辰者"
     ]
   },
   "aigisMod:SolaisBlack": {
     "NAME": "索拉斯",
-    "DESCRIPTION": " 固有 。 NL 对所有敌人造成两次 !D! 点伤害。 NL aigismod:技能充能 :本场战斗提升 !M! 点伤害。",
+    "DESCRIPTION": " 固有 。 NL 对所有敌人造成 !D! 点伤害两次。 NL aigismod:技能充能 :本场战斗提升 !M! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "咏唱星辰者"
     ]
@@ -36,7 +36,7 @@
   },
   "aigisMod:ArgeBlack": {
     "NAME": "阿杰",
-    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:真实 伤害 并减少1层充能。 NL aigismod:技能充能 : 获得 2 充能。 NL 每有一层充能提升 !aigisMod:SecondMagic! 点伤害。 (充能 !M! 层)",
+    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:真实 伤害 并减少1层充能。 NL aigismod:技能充能 : 获得 2 充能。  每有一层充能提升 !aigisMod:SecondMagic! 点伤害。 (充能 !M! 层)",
     "EXTENDED_DESCRIPTION" : [
       "万机始祖者"
     ]
@@ -99,14 +99,14 @@
   },
   "aigisMod:YuugenPlatinum": {
     "NAME": "尤金",
-    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱 。 aigismod:暗杀",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害两次并施加 1 层 虚弱 两次。 aigismod:暗杀",
     "EXTENDED_DESCRIPTION" : [
       "继承阴影者"
     ]
   },
   "aigisMod:YuugenBlack": {
     "NAME": "尤金",
-    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害并施加两次 1 层 虚弱 。 NL 所有弓箭手牌伤害+1。 NL aigismod:暗杀",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害两次并施加 1 层 虚弱 两次。 NL 所有弓箭手牌伤害+1。 NL aigismod:暗杀",
     "EXTENDED_DESCRIPTION" : [
       "继承阴影者"
     ]
@@ -127,7 +127,7 @@
   },
   "aigisMod:RawalCPlatinum": {
     "NAME": "矛之拉瓦尔",
-    "DESCRIPTION": "对所有敌人施加1层 易伤 ，然后对所有敌人造成 !D! 点伤害。 NL 在本场战斗中所有拉瓦尔牌的伤害增加 !M! 。",
+    "DESCRIPTION": "对所有敌人施加1层易伤，然后对所有敌人造成 !D! 点伤害。 NL 在本场战斗中所有拉瓦尔牌的伤害增加 !M! 。",
     "EXTENDED_DESCRIPTION" : [
       "寄宿魔导者"
     ]
@@ -148,7 +148,7 @@
   },
   "aigisMod:RawalCBlack": {
     "NAME": "矛之拉瓦尔",
-    "DESCRIPTION": "对所有敌人施加3层 易伤 ，然后对所有敌人造成 !D! 点伤害。 NL 在本场战斗中所有拉瓦尔牌的伤害增加 !M! 。",
+    "DESCRIPTION": "对所有敌人施加3层易伤，然后对所有敌人造成 !D! 点伤害。 NL 在本场战斗中所有拉瓦尔牌的伤害增加 !M! 。",
     "EXTENDED_DESCRIPTION" : [
       "寄宿魔导者"
     ]
@@ -169,10 +169,8 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "斯芬克斯",
-    "DESCRIPTION": " 保留 。 NL 所有敌人失去 !M! 点 生命。 NL 获得 !B! 点 格挡。 NL 消耗 。"
+    "DESCRIPTION": "保留。 NL 所有敌人失去 !M! 点 点生命。 NL 获得 !B! 点 格挡。 NL 消耗。"
   },
-
-
 
 
 
@@ -183,7 +181,7 @@
   },
   "aigisMod:Defend": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点 格挡 。"
+    "DESCRIPTION": "获得 !B! 点格挡。"
   },
 
 
@@ -219,8 +217,8 @@
   },
   "aigisMod:Emelda": {
     "NAME": "艾美尔达",
-    "DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害。 NL aigismod:技能充能 :下次打出本牌时对所有敌人造成伤害。",
-    "UPGRADE_DESCRIPTION": "造成两次 !D! 点 aigismod:弓箭手 伤害。 NL aigismod:技能充能 :下次打出本牌时对所有敌人造成伤害。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 2 次。 NL aigismod:技能充能 :下次打出本牌时对所有敌人造成伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 2 次。 NL aigismod:技能充能 :下次打出本牌时对所有敌人造成伤害。",
     "EXTENDED_DESCRIPTION" : [
       "翠森弓骑兵",
       "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:技能充能 : 本场战斗提升本牌7点伤害。"
@@ -228,20 +226,20 @@
   },
   "aigisMod:Duo": {
     "NAME": "杜欧",
-    "DESCRIPTION": "造成 !M! 次 !D! 点伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !M! 次 !D! 点伤害。",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。",
     "EXTENDED_DESCRIPTION" : [
       "无双海贼",
-      "造成 !M! 次 !D! 点伤害。 NL 每回合一次, 场上有2名以上敌人时，此牌返回手牌。"
+      "造成 !D! 点伤害 !M! 次。 NL 每回合一次, 场上有2名以上敌人时，此牌返回手牌。"
     ]
   },
   "aigisMod:Nanaly": {
     "NAME": "娜娜莉",
-    "DESCRIPTION": "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。 NL 本场战斗减少此牌攻击次数1次 (最少5次)。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。 NL 本场战斗减少此牌攻击次数1次 (最少5次)。",
     "EXTENDED_DESCRIPTION" : [
       "白之射手",
-      "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。"
+      "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。"
     ]
   },
   "aigisMod:Despia": {
@@ -255,11 +253,11 @@
   },
   "aigisMod:Berna": {
     "NAME": "贝娜",
-    "DESCRIPTION": "造成 !M! 次 !D! 点伤害。 本场战斗提升此牌  !aigisMod:SecondMagic!  点伤害。 NL  aigismod:暗杀 。",
-    "UPGRADE_DESCRIPTION": "造成 !M! 次 !D! 点伤害。 本场战斗提升此牌  !aigisMod:SecondMagic!  点伤害。 NL  aigismod:暗杀 ,获得 2 点 力量 。",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 提升此牌  !aigisMod:SecondMagic!  点伤害。 NL  aigismod:暗杀 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 提升此牌  !aigisMod:SecondMagic!  点伤害。 NL  aigismod:暗杀 ,获得 2 点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "盗贼",
-      "造成 !D! 点伤害 !M! 次。本场战斗提升此牌  !aigisMod:SecondMagic!  点伤害。 aigismod:暗杀 "
+      "造成 !D! 点伤害 !M! 次。 NL 提升此牌  !aigisMod:SecondMagic!  点伤害。 NL aigismod:暗杀 "
     ]
   },
   "aigisMod:Minette": {
@@ -445,6 +443,7 @@
     "EXTENDED_DESCRIPTION" : [
       "治癒士"
     ]
+
   },
   "aigisMod:Soma": {
     "NAME": "索玛",
@@ -456,8 +455,8 @@
   },
   "aigisMod:Kazuha": {
     "NAME": "和叶",
-    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:冷却 : 造成两次 !M! 点伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:冷却 :造成两次 !M! 点伤害。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:冷却 : 造成 !M! 点伤害两次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:冷却 :造成 !M! 点伤害两次。",
     "EXTENDED_DESCRIPTION" : [
       "弓武者"
     ]
@@ -516,11 +515,11 @@
   },
   "aigisMod:Teeny": {
     "NAME": "蒂尼",
-    "DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。",
-    "UPGRADE_DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。",
+    "DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。",
+    "UPGRADE_DESCRIPTION": "当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "矮人公主",
-      "获得1点 力量 和 敏捷 。 NL 当打出 攻击牌/技能牌, 本回合内分别获得1 力量 / 敏捷 。"
+      "获得1点 力量 和 敏捷。 NL 当打出 攻击牌/技能牌, 本回合内分别获得1力量 /敏捷 。"
     ]
   },
   "aigisMod:Carat": {
@@ -575,10 +574,10 @@
   "aigisMod:Matsuri": {
     "NAME": "祭",
     "DESCRIPTION": "一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
-    "UPGRADE_DESCRIPTION": "获得1点 力量 。 NL 一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "获得1点力量 。 NL 一回合一次, 造成未被格挡的伤害时, 获得 !M! 点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "朱铠智将",
-      "获得1点 敏捷 。 NL 一回合一次,造成未被格挡的伤害时, 获得 !M! 点 力量 。"
+      "获得1点敏捷 。 NL 一回合一次,造成未被格挡的伤害时, 获得 !M! 点 力量 。"
     ]
   },
   "aigisMod:Kanon": {
@@ -619,7 +618,7 @@
   "aigisMod:Luvea": {
     "NAME": "露薇雅",
     "DESCRIPTION": "每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
-    "UPGRADE_DESCRIPTION": "获得1点 敏捷 。 NL 每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "获得1点敏捷 。 NL 每打出8张牌, 获得 [E] 并 对所有敌人施加 !M! 层 易伤 。",
     "EXTENDED_DESCRIPTION" : [
       "战场指挥官"
     ]
@@ -799,8 +798,8 @@
   },
   "aigisMod:Sharqi": {
     "NAME": "莎琪",
-    "DESCRIPTION": "本回合获得2点 力量 。",
-    "UPGRADE_DESCRIPTION": "本回合获得2点 力量 和 敏捷 。",
+    "DESCRIPTION": "本回合获得2点力量 。",
+    "UPGRADE_DESCRIPTION": "本回合获得2点力量和敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "舞娘"
     ]
@@ -952,7 +951,7 @@
   "aigisMod:Prim": {
     "NAME": "普琳姆",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 施加 aigismod:减速 。 NL aigismod:冷却 !M! 下次打出后, 此牌耗能变为0。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 第一次打出: 将1张 幻光镜 加入牌组并始此牌耗能为0。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 第一次打出: 将1张宦光静 加入牌组并始此牌耗能为0。",
     "EXTENDED_DESCRIPTION" : [
       "幻光魔女"
     ]
@@ -1069,8 +1068,8 @@
   },
   "aigisMod:Renge": {
     "NAME": "莲华",
-    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 施加 !M! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。 NL 对抗boss和精英时, 负面效果变为两倍。 消耗",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 施加 !M! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。 NL 对抗boss和精英时, 负面效果变为两倍。 消耗",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 NL  施加 !M! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。 NL 对抗boss和精英时, 负面效果变为两倍。 消耗 ",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 NL  施加 !M! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。 NL 对抗boss和精英时, 负面效果变为两倍。 消耗 ",
     "EXTENDED_DESCRIPTION" : [
       "封妖弓士 "
     ]
@@ -1118,7 +1117,7 @@
   "aigisMod:Shiranui": {
     "NAME": "不知火",
     "DESCRIPTION": "将3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "抽到时: 获得 3 荆棘 。 NL 3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽到时: 获得 3荆棘 。 NL 3张涂壁的分身 加入抽牌堆。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "涂壁"
     ]
@@ -1137,7 +1136,7 @@
     "DESCRIPTION": "获得 aigismod:忍术 。 NL 所有敌人，每受到一次手里剑伤害,就获得 !aigisMod:SecondMagic! 层 中毒 。",
     "UPGRADE_DESCRIPTION": "获得 aigismod:忍术 。 手里剑 获得 !M! 次打击次数。 NL 所有敌人，每受到一次手里剑伤害,就获得 !aigisMod:SecondMagic! 层 中毒 。",
     "EXTENDED_DESCRIPTION" : [
-      "kunoichi",
+      "女忍",
       "获得 aigismod:忍术 。 NL 所有敌人，每受到一次手里剑伤害,就获得 !aigisMod:SecondMagic! 层 中毒 。"
     ]
   },
@@ -1266,7 +1265,7 @@
   },
   "aigisMod:DefendEmperor": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点 格挡 。"
+    "DESCRIPTION": "获得 !B! 点格挡。"
   },
 
   "aigisMod:AdamasTreasure": {
@@ -1279,18 +1278,10 @@
   },
   "aigisMod:Airship": {
     "NAME": "帝国飞空艇",
-    "DESCRIPTION": "将1张帝国 牌从抽牌堆加入手牌。 NL 消耗 ",
-    "UPGRADE_DESCRIPTION": "将1张帝国 牌从抽牌堆加入手牌。",
+    "DESCRIPTION": "将1张帝国牌从抽牌堆加入手牌。 NL 消耗 ",
+    "UPGRADE_DESCRIPTION": "将1张帝国牌从抽牌堆加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       ""
-    ]
-  },
-  "aigisMod:Patricia": {
-    "NAME": "派特希亚",
-    "DESCRIPTION": "回合开始时,你可以丢弃1张，1张路障 加入手牌。",
-    "UPGRADE_DESCRIPTION": "对所有敌人施加 2 层 虚弱 。 NL 回合开始时,你可以丢弃1张，1张路障 加入手牌。",
-    "EXTENDED_DESCRIPTION" : [
-      "帝国防塞工兵"
     ]
   },
   "aigisMod:Barricade": {
@@ -1307,15 +1298,15 @@
   },
   "aigisMod:Lucia": {
     "NAME": "露琪亚",
-    "DESCRIPTION": "回复 !M! 点生命或敌人意图为攻击时,回复 !aigisMod:SecondMagic! 点生命。 NL 消耗 此牌和 1 张拉比斯。",
-    "UPGRADE_DESCRIPTION": "回复 !M! 点生命或敌人意图为攻击时,回复 !aigisMod:SecondMagic! 点生命。 NL 消耗 此牌和 1 张拉比斯。",
+    "DESCRIPTION": "回复 !M! 点生命 NL 或敌人意图为攻击时,回复 !aigisMod:SecondMagic! 点生命。 NL 消耗 此牌和 1 张拉比斯。",
+    "UPGRADE_DESCRIPTION": "回复 !M! 点生命 NL 或敌人意图为攻击时,回复 !aigisMod:SecondMagic! 点生命。 NL 消耗 此牌和 1 张拉比斯。",
     "EXTENDED_DESCRIPTION" : [
       "帝国神官战士"
     ]
   },
   "aigisMod:Lapis": {
     "NAME": "拉比斯",
-    "DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 。",
+    "DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 ",
     "UPGRADE_DESCRIPTION": "获得 !aigisMod:SecondMagic! 点 力量 和 !aigisMod:SecondMagic! 点 敏捷 。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "大恶魔召唤士",
@@ -1333,7 +1324,7 @@
 
   "aigisMod:LivreEmperor": {
     "NAME": "利弗尔",
-    "DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 。",
+    "DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 ",
     "UPGRADE_DESCRIPTION": "受到 3 点伤害。 NL 获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "恶魔召唤士"
@@ -1349,7 +1340,7 @@
   },
   "aigisMod:VeltyEmperor": {
     "NAME": "维尔蒂",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 ",
     "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "恶魔召唤士"
@@ -1398,7 +1389,7 @@
   "aigisMod:Leora": {
     "NAME": "蕾欧拉",
     "DESCRIPTION": "在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
-    "UPGRADE_DESCRIPTION": "获得2 力量 。 NL 在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
+    "UPGRADE_DESCRIPTION": "获得1力量 。 NL 在回合结束时, 如果你没有剩余 [E] ,你可以从手牌打出1张帝国 牌。",
     "EXTENDED_DESCRIPTION" : [
       "帝国元帅"
     ]
@@ -1429,8 +1420,8 @@
   },
   "aigisMod:Charme": {
     "NAME": "莎姆",
-    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点 格挡 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点 格挡 。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点格挡",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 如果你手牌中还有帝国 牌,则获得 !B! 点格挡",
     "EXTENDED_DESCRIPTION" : [
       "火龙皇女"
     ]
@@ -1651,15 +1642,6 @@
       "回复 !M! 点生命。 NL 可以从手牌和弃牌堆中消耗任意张牌。 NL 消耗 。"
     ]
   },
-  "aigisMod:Eleonora": {
-    "NAME": "艾蕾欧诺拉",
-    "DESCRIPTION": "在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。",
-    "UPGRADE_DESCRIPTION": "消耗所有状态 牌。 NL 在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。",
-    "EXTENDED_DESCRIPTION" : [
-      "帝国主教",
-      "在回合结束时, 可以消耗1张手牌来获得1 人工制品 , 最多 !M! 次。"
-    ]
-  },
   "aigisMod:Hecatie": {
     "NAME": "赫卡蒂",
     "DESCRIPTION": "回合开始时, 将1张帝国 牌从弃牌堆加入手牌。",
@@ -1691,15 +1673,6 @@
     "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 NL 获得 !M! 层 aigismod:游侠陷阱 。 NL aigismod:暗杀 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国游击兵"
-    ]
-  },
-  "aigisMod:Tsukiko": {
-    "NAME": "月子",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。",
-    "EXTENDED_DESCRIPTION" : [
-      "迷途幻兽使",
-      "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当打出帝国 牌时, 随机移除1张状态 牌。"
     ]
   },
   "aigisMod:Keitridge": {
@@ -1911,8 +1884,8 @@
   },
   "aigisMod:Ethnea": {
     "NAME": "伊斯妮亚",
-    "DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点 力量 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点 力量 。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1 点力量 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 被消耗时: 提升此牌 !M! 点伤害 并 获得1点力量 。",
     "EXTENDED_DESCRIPTION" : [
       "黑翼的魔兵"
     ]
@@ -1927,8 +1900,8 @@
   },
   "aigisMod:Kihor": {
     "NAME": "齐霍尔",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点 力量 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点 力量 。",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点力量 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 在回合结束时, 可以 消耗 手牌中1张 恶魔 牌来获得1点力量 。",
     "EXTENDED_DESCRIPTION" : [
       "魔界料理人"
     ]
@@ -2098,45 +2071,71 @@
       "获得 !B! 点格挡。 NL 防御 额外获得 1 点。 NL 下回合,获得 [E] [E]"
     ]
   },
-  "aigisMod:Marleen": {
-    "NAME": "Marleen",
-    "DESCRIPTION": "打出路障 牌时 ,对随机敌人造成 !M! 点伤害。 将1张路障 加入手牌。",
-    "UPGRADE_DESCRIPTION": "打出路障 牌时 ,对随机敌人造成 !M! 点伤害。 将1张路障 加入手牌。",
+  "aigisMod:Patricia": {
+    "NAME": "派特希亚",
+    "DESCRIPTION": "你的回合开始时，你可以弃一张牌并将 1 张路障加入手牌 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 2 层 虚弱 。 NL 你的回合开始时，你可以弃一张牌并将 1 张路障加入手牌 。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Engineer"
+      "帝国防塞工兵"
+    ]
+  },
+  "aigisMod:Marleen": {
+    "NAME": "玛露琳",
+    "DESCRIPTION": "当你打出路障时，对一名随机敌人造成 !M! 点伤害。 NL 将 1 张路障加入手牌。",
+    "UPGRADE_DESCRIPTION": "当你打出路障时，对一名随机敌人造成 !M! 点伤害。 NL 将 1 张路障加入手牌 。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国建机工兵"
     ]
   },
   "aigisMod:Laura": {
-    "NAME": "Laura",
-    "DESCRIPTION": "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。",
+    "NAME": "劳拉",
+    "DESCRIPTION": "获得 !M! 点临时生命。 NL 从你的弃牌堆中消耗至多 !aigisMod:SecondMagic! 张 角色 。 ",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点临时生命。 NL 从你的弃牌堆中消耗至多 !aigisMod:SecondMagic! 张 角色 。",
     "EXTENDED_DESCRIPTION" : [
-      "White Dragon Miko",
-      "获得 !M! 点临时生命。 NL 最多可消耗 !aigisMod:SecondMagic! 张弃牌堆。"
+      "白之龙巫女",
+      "获得 !M! 点临时生命。 NL 从你的弃牌堆中消耗至多 !aigisMod:SecondMagic! 张 角色 。"
     ]
   },
   "aigisMod:Lehne": {
-    "NAME": "Lehne",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张随机帝国 牌从抽牌堆加入手牌。",
-    "UPGRADE_DESCRIPTION": "造成两次 !D! 点伤害。 NL 将1张随机帝国 牌从抽牌堆加入手牌。",
+    "NAME": "蕾涅",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将 1 张随机帝国牌从抽牌堆加入手牌 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次。 NL 将 1 张随机帝国牌从抽牌堆加入手牌 。",
     "EXTENDED_DESCRIPTION" : [
-      "Thief of the Imperial Capital"
+      "帝都的大盗贼"
     ]
   },
   "aigisMod:Kaoru": {
-    "NAME": "Kaoru",
-    "DESCRIPTION": "弃掉1张 牌, 获得等于其成本的 力量 和 如果是帝国牌 获得 !B! 点 格挡 。",
-    "UPGRADE_DESCRIPTION": "弃掉1张 牌, 获得等于其成本的 力量 和 如果是帝国牌 获得 !B! 点 格挡 。",
+    "NAME": "薰",
+    "DESCRIPTION": "弃置 1 张牌， 根据其消耗获得力量， 如果是帝国牌额外获得 !B! 点格挡 。",
+    "UPGRADE_DESCRIPTION": "弃置 1 张牌， 根据其消耗获得力量， 如果是帝国牌额外获得 !B! 点格挡 。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Battle Miko"
+      "帝国的战巫女"
     ]
   },
   "aigisMod:Irmgard": {
-    "NAME": "Irmgard",
-    "DESCRIPTION": "消耗抽牌堆中的1张 恶魔 牌来抽 !M! 张牌。",
-    "UPGRADE_DESCRIPTION": "消耗抽牌堆中的1张 恶魔 牌来抽 !M! 张牌。",
+    "NAME": "伊鲁姆加特",
+    "DESCRIPTION": "从抽牌堆消耗 1 张恶魔 牌，如果你这么做了抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆消耗 1 张恶魔 牌，如果你这么做了抽 !M! 张牌。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Demon General"
+      "暗炎的魔将"
+    ]
+  },
+  "aigisMod:Tsukiko": {
+    "NAME": "月子",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当你打出帝国 牌时, 随机移除1张状态牌 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当你打出帝国 牌时, 随机移除1张状态牌 。",
+    "EXTENDED_DESCRIPTION" : [
+      "迷途幻兽使",
+      "获得 !M! 层 aigismod:伤害光环 。 NL 一回合一次,当你打出帝国 牌时, 随机移除1张状态牌 。"
+    ]
+  },
+  "aigisMod:Eleonora": {
+    "NAME": "艾蕾欧诺拉",
+    "DESCRIPTION": "在回合结束时, 可以消耗1张手牌来获得 1 层人工制品 , 最多 !M! 次。",
+    "UPGRADE_DESCRIPTION": "消耗所有状态牌。 NL 在回合结束时, 可以消耗 1 张手牌来获得 1 层人工制品 , 最多 !M! 次。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国主教",
+      "在回合结束时, 可以消耗 1 张手牌来获得 1 层人工制品 , 最多 !M! 次。"
     ]
   },
 
@@ -2155,7 +2154,7 @@
   },
   "aigisMod:DefendAvenger": {
     "NAME": "防御",
-    "DESCRIPTION": "获得 !B! 点 格挡 。"
+    "DESCRIPTION": "获得 !B! 点格挡。"
   },
 
 
@@ -2437,11 +2436,11 @@
   },
   "aigisMod:Rion": {
     "NAME": "莉昂",
-    "DESCRIPTION": "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。",
+    "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。",
     "EXTENDED_DESCRIPTION" : [
       "月影弓骑兵 ",
-      "造成 !M! 次 !D! 点 aigismod:弓箭手 伤害。"
+      "造成 !D! 点 aigismod:弓箭手 伤害 !M! 次。"
     ]
   },
   "aigisMod:Bella": {
@@ -2578,16 +2577,16 @@
   },
   "aigisMod:Alice": {
     "NAME": "爱丽丝",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得 aigismod:反击 ,等同于未被格挡的伤害。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 造成 !D! 点伤害。 NL 获得 aigismod:反击 , 等同于未被格挡的伤害。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
     "EXTENDED_DESCRIPTION" : [
       "武王姬",
-      "造成 !D! 点伤害。 NL 获得 aigismod:反击 ,等同于未被格挡的伤害。"
+      "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。"
     ]
   },
   "aigisMod:Estelle": {
     "NAME": "埃斯特尔",
-    "DESCRIPTION": "公主 Power。 Magical tuning。 2 img。 在回合结束时,有缓慢 的敌人受到10 点伤害。",
+    "DESCRIPTION": "princess Power。 Magical tuning。 2 img。 在回合结束时,有缓慢 的敌人受到10 点伤害。",
     "UPGRADE_DESCRIPTION": "在回合结束时,有缓慢 的敌人受到15点伤害",
     "EXTENDED_DESCRIPTION" : [
       "魔法皇女",
@@ -2596,7 +2595,7 @@
   },
   "aigisMod:Grace": {
     "NAME": "格蕾丝",
-    "DESCRIPTION": "公主 2 img。 获得 10 点格挡。 造成 aigismod:溅射 伤害,等同于格挡数值。",
+    "DESCRIPTION": "princess card 2 img。 获得 10 点格挡。 造成 aigismod:溅射 伤害,等同于格挡数值。",
     "UPGRADE_DESCRIPTION": "获得 16 点格挡。造成 aigismod:溅射 伤害,等同于格挡数值。",
     "EXTENDED_DESCRIPTION" : [
       "魔导铠姬",
@@ -2770,7 +2769,7 @@
   "aigisMod:Fiore": {
     "NAME": "菲欧蕾",
     "DESCRIPTION": "下一次打出生命之树 时获得1层 无实体 。",
-    "UPGRADE_DESCRIPTION": "下两次打出生命之树 时获得1层 无实体 。",
+    "UPGRADE_DESCRIPTION": "下两次打出生命之树 时获得1层 无实体 ",
     "EXTENDED_DESCRIPTION" : [
       "森之隐者",
       "所有敌人失去 3 力量 。 NL 下一次打出生命之树 时获得1层 无实体 。"
@@ -2984,7 +2983,7 @@
       "DESCRIPTION": "获得 !B! 点格挡。 NL 被 虚弱 的敌人 失去 !M! 点生命。",
       "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 被 虚弱 的敌人 失去 !M! 点生命。",
       "EXTENDED_DESCRIPTION" : [
-        "重步兵章"
+        "重步兵长"
       ]
   },
   "aigisMod:Abby": {
@@ -3096,6 +3095,602 @@
     "EXTENDED_DESCRIPTION" : [
       "召唤士"
     ]
+  },
+
+
+
+
+
+
+
+
+
+
+  "aigisMod:StrikeKnight": {
+    "NAME": "打击",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "aigisMod:DefendKnight": {
+    "NAME": "防御",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+
+  "aigisMod:Cornelia": {
+    "NAME": "柯奈莉雅",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 24 damage. NL Enemy loses 2 Strength.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 24 damage. NL All enemy lose 3 Strength.",
+    "EXTENDED_DESCRIPTION" : [
+      "叛逆骑士",
+      "aigismod:Dark_Fighter NL Deal 36 damage. NL Enemy loses 2 Strength."
+    ]
+  },
+  "aigisMod:Heios": {
+    "NAME": "海欧斯",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. Nl Gain 1 Buffer.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. Nl Gain 2 Buffer.",
+    "EXTENDED_DESCRIPTION" : [
+      "光暗骑士",
+      "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block +5. Nl Gain 1 Buffer."
+    ]
+  },
+  "aigisMod:Arietta": {
+    "NAME": "艾瑞塔",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 7 damage to all enemies. NL Gain 2 Blur.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 14 damage to all enemies. NL Gain 2 Blur.",
+    "EXTENDED_DESCRIPTION" : [
+      "迅雷之黑骑士"
+    ]
+  },
+  "aigisMod:Yurina": {
+    "NAME": "尤莉娜",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Apply 1 Weak to all enemies. NL Gain 8 Block.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Apply 2 Weak to all enemies. NL Gain 12 Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "暗黑骑士"
+    ]
+  },
+  "aigisMod:DArk": {
+    "NAME": "达尔克",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 25 damage +1 for each 3 HP missing.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 26 damage +1 for each 2 HP missing.",
+    "EXTENDED_DESCRIPTION" : [
+      "暗黑骑士"
+    ]
+  },
+  "aigisMod:Elva": {
+    "NAME": "艾娃",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 15 damage. NL aigismod:Assassination",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 20 damage. NL aigismod:Assassination",
+    "EXTENDED_DESCRIPTION" : [
+      "副团长"
+    ]
+  },
+  "aigisMod:Meteor": {
+    "NAME": "米提亚",
+    "DESCRIPTION": "Deal 7 damage. Gain 1 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Deal 7 damage + amount of aigismod:meteor. Gain 1 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION" : [
+      "剑士"
+    ]
+  },
+  "aigisMod:Aisha": {
+    "NAME": "爱莎",
+    "DESCRIPTION": "Gain 3 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
+    "UPGRADE_DESCRIPTION": "Gain 6 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
+    "EXTENDED_DESCRIPTION" : [
+      "伏龙军师",
+      "Gain 3 aigismod:meteor and 12 Block. NL aigismod:Meteor now hits all enemies."
+    ]
+  },
+  "aigisMod:Gloria": {
+    "NAME": "格洛丽亚",
+    "DESCRIPTION": "Gain 10 Block. All enemies without attack intend lose HP equal to your Block.",
+    "UPGRADE_DESCRIPTION": "Gain 14 Block. All enemies without attack intend lose HP equal to your Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "剑士"
+    ]
+  },
+  "aigisMod:Sandra": {
+    "NAME": "珊朵拉",
+    "DESCRIPTION": "Discard all attacks in your hand then deal 9 aigismod:true_damage to all enemies for each discard.",
+    "UPGRADE_DESCRIPTION": "Discard all attacks in your hand then deal 12 aigismod:true_damage to all enemies for each discard.",
+    "EXTENDED_DESCRIPTION" : [
+      "剑士"
+    ]
+  },
+  "aigisMod:Rischelte": {
+    "NAME": "莉谢尔",
+    "DESCRIPTION": "Deal 15 damage. Take 6 damage.",
+    "UPGRADE_DESCRIPTION": "Deal 21 damage. Take 8 damage.",
+    "EXTENDED_DESCRIPTION": [
+      "纯白剑士"
+    ]
+  },
+  "aigisMod:Salus": {
+    "NAME": "萨露斯",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain 1 Temporal Dexterity",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain 2 Temporal Dexterity",
+    "EXTENDED_DESCRIPTION": [
+      "神锁的救命师"
+    ]
+  },
+  "aigisMod:Lumedia": {
+    "NAME": "勒梅迪雅",
+    "DESCRIPTION": "Apply 2 aigismod:lifelink. NL Gain 8 Block.",
+    "UPGRADE_DESCRIPTION": "Apply 2 aigismod:lifelink. NL Gain 12 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "命锁使"
+    ]
+  },
+  "aigisMod:Saoirse": {
+    "NAME": "夏莎",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL For each enemy gain 5 block.",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL For each enemy gain 7 block.",
+    "EXTENDED_DESCRIPTION": [
+      "绊锁的救命师"
+    ]
+  },
+  "aigisMod:Spiria": {
+    "NAME": "斯碧莉亚",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses 4 HP for each aigismod:lifelink on all enemies.",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL All enemies loses 4 HP for each aigismod:lifelink on all enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "魂锁交织者",
+      "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses 7 HP for each aigismod:lifelink stack on all enemies"
+    ]
+  },
+  "aigisMod:Daniela": {
+    "NAME": "丹妮拉",
+    "DESCRIPTION": "Deal 8 aigismod:archer damage. NL aigismod:Fortress 8:This card gains 4 damage for the combat.",
+    "UPGRADE_DESCRIPTION": "Deal 10 aigismod:archer damage. NL aigismod:Fortress 8:This card gains 5 damage for the combat.",
+    "EXTENDED_DESCRIPTION": [
+      "弓箭手"
+    ]
+  },
+  "aigisMod:Elaine2": {
+    "NAME": "伊莲恩",
+    "DESCRIPTION": "Deal 9 damage. NL aigismod:Fortress 10:Gain 1 Blur.",
+    "UPGRADE_DESCRIPTION": "Deal 12 damage. NL aigismod:Fortress 8:Gain 1 Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "枪骑兵"
+    ]
+  },
+  "aigisMod:Dorca2": {
+    "NAME": "朵卡",
+    "DESCRIPTION": "Gain 6 Temporal HP. NL aigismod:Fortress 10:Gain 1 Dexterity. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 6 Temporal HP. NL aigismod:Fortress 10:Gain 2 Dexterity. NL EXhaust",
+    "EXTENDED_DESCRIPTION": [
+      "回复士"
+    ]
+  },
+  "aigisMod:Cuterie": {
+    "NAME": "丘特莉",
+    "DESCRIPTION": "Deal 10 damage. NL On aigismod:assassination draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Deal 12 damage. NL On aigismod:assassination draw 2 cards.",
+    "EXTENDED_DESCRIPTION": [
+      "怪盗"
+    ]
+  },
+  "aigisMod:Betty": {
+    "NAME": "贝蒂",
+    "DESCRIPTION": "Deal 10 damage. NL On aigismod:assassination deal 6 damage to all enemies.",
+    "UPGRADE_DESCRIPTION": "Deal 13 damage. NL On aigismod:assassination deal 9 damage to all enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "盗贼"
+    ]
+  },
+  "aigisMod:Seven": {
+    "NAME": "小七",
+    "DESCRIPTION": "Deal 10 damage. NL On aigismod:assassination gain 2 Blur.",
+    "UPGRADE_DESCRIPTION": "Deal 14 damage. NL On aigismod:assassination gain 2 Blur..",
+    "EXTENDED_DESCRIPTION": [
+      "盗贼"
+    ]
+  },
+  "aigisMod:Dahlia": {
+    "NAME": "黛莉娅",
+    "DESCRIPTION": "aigismod:armor: 10 NL Everyone's Block becomes 0. NL Gain 3 Dexterity. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "aigismod:armor 5 NL Everyone's Block becomes 0. NL Gain 3 Dexterity. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "黑枪骑士"
+    ]
+  },
+  "aigisMod:Clissa": {
+    "NAME": "克里莎",
+    "DESCRIPTION": "aigismod:armor: 15 NL Deal 18 damage. NL aigismod:Skill_charge: reduce this card armor by 3",
+    "UPGRADE_DESCRIPTION": "aigismod:armor: 15 NL Deal 24 aigismod:true_damage. NL aigismod:Skill_charge: reduce this card armor by 3",
+    "EXTENDED_DESCRIPTION": [
+      "独角兽骑士",
+      "aigismod:armor: 12 NL Deal 18 damage. NL aigismod:Skill_charge: reduce this card armor by 4"
+    ]
+  },
+  "aigisMod:Victoria": {
+    "NAME": "维多利亚",
+    "DESCRIPTION": "Innate NL Deal 14 aigismod:archer damage. NL Apply 2 Weak. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Innate NL Deal 16 aigismod:archer damage. NL Apply 3 Weak. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "猎魔人"
+    ]
+  },
+  "aigisMod:Mehlis": {
+    "NAME": "梅莉丝",
+    "DESCRIPTION": "Gain 2 aigismod:Meteor. NL Draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Gain 2 aigismod:Meteor. NL Draw 2 cards.",
+    "EXTENDED_DESCRIPTION": [
+      "见习魔术师"
+    ]
+  },
+  "aigisMod:Zola": {
+    "NAME": "佐拉",
+    "DESCRIPTION": "If you play 2 Skills in this turn gain 1 aigismod:Meteor.",
+    "UPGRADE_DESCRIPTION": "If you you play 2 Skills in this turn gain 1 aigismod:Meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "魔炮士"
+    ]
+  },
+  "aigisMod:Candy": {
+    "NAME": "甘蒂",
+    "DESCRIPTION": "Trigger aigismod:meteor 2 times. NL Gain 1 aigismod:Meteor.",
+    "UPGRADE_DESCRIPTION": "Trigger aigismod:meteor 3 times. NL Gain 1 aigismod:Meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "糖果魔术师"
+    ]
+  },
+  "aigisMod:Floga": {
+    "NAME": "芙罗迦",
+    "DESCRIPTION": "Trigger aigismod:meteor at the start of your turn.",
+    "UPGRADE_DESCRIPTION": "Trigger aigismod:meteor 2 times at the start of your turn.",
+    "EXTENDED_DESCRIPTION": [
+      "赤红魔术师"
+    ]
+  },
+  "aigisMod:Garania": {
+    "NAME": "伽兰雅",
+    "DESCRIPTION": "Gain 3 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive 5 aigismod:burn.",
+    "UPGRADE_DESCRIPTION": "Gain 4 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive 7 aigismod:burn.",
+    "EXTENDED_DESCRIPTION": [
+      "神秘的探究者"
+    ]
+  },
+  "aigisMod:Mordiberte": {
+    "NAME": "莫尔迪贝特",
+    "DESCRIPTION": "Gain 1 Artifact. Gain 5 aigismod:meteor. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 1 Artifact. Gain 10 aigismod:meteor. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "aigisMod:Sasha": {
+    "NAME": "莎夏",
+    "DESCRIPTION": "Gain 1 Blur. NL Fortress: 9 Gain 2 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Blur. NL Fortress: 7 Gain 2 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "幻惑的魔术师"
+    ]
+  },
+  "aigisMod:Odette": {
+    "NAME": "奥戴特",
+    "DESCRIPTION": "Gain 1 aigismod:meteor. NL Gain Block equal to your aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Gain 2 aigismod:meteor. NL Gain Block equal to your aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "秘法的传承者"
+    ]
+  },
+  "aigisMod:Tytto": {
+    "NAME": "缇特",
+    "DESCRIPTION": "Autoplay. NL Gain 8 aigismod:meteor for the turn. NL Draw 1 card",
+    "UPGRADE_DESCRIPTION": "Autoplay. NL Gain 8 aigismod:meteor for the turn. NL Draw 2 cards",
+    "EXTENDED_DESCRIPTION": [
+      "妖精贤者",
+      "Autoplay. NL Gain 12 aigismod:meteor for the turn. NL Draw 1 card"
+    ]
+  },
+  "aigisMod:April": {
+    "NAME": "艾普萝",
+    "DESCRIPTION": "Deal 3 aigismod:splash damage 3 times. Gain 1 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Deal 4 aigismod:splash damage 3 times. Gain 1 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "炮术教官"
+    ]
+  },
+  "aigisMod:Janna": {
+    "NAME": "珍娜",
+    "DESCRIPTION": "Deal 5 aigismod:splash damage 2 times. Gain 1 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Deal 6 aigismod:splash damage 2 times. Gain 1 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "闪之击炮"
+    ]
+  },
+  "aigisMod:Mel": {
+    "NAME": "梅尔",
+    "DESCRIPTION": "Deal 9 Damage. Play 1 Strike or Meteor attack card from hand at random.",
+    "UPGRADE_DESCRIPTION": "Deal 13 Damage. Play 1 Strike or Meteor attack card from hand at random.",
+    "EXTENDED_DESCRIPTION": [
+      "炮术师"
+    ]
+  },
+  "aigisMod:Sumire": {
+    "NAME": "菫",
+    "DESCRIPTION": "Add 1 aigismod:meteor or Eastern Country attack from Draw Pile to your Hand. Gain 1 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "add 1 aigismod:meteor attack or Eastern Country from Draw Pile to your Hand. Gain 2 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "大炮组长"
+    ]
+  },
+  "aigisMod:Parhelia": {
+    "NAME": "帕菲莉亚",
+    "DESCRIPTION": "Deal 8 damage to all enemies. NL aigismod:Release: gain 10 Block.",
+    "UPGRADE_DESCRIPTION": "Deal 11 damage to all enemies. NL aigismod:Release: gain 14 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使"
+    ]
+  },
+  "aigisMod:Chloe2": {
+    "NAME": "克洛伊",
+    "DESCRIPTION": "Gain 1 Blur at the end of your turn. NL aigismod:Release: gain 1 Dexterity.",
+    "UPGRADE_DESCRIPTION": "Gain 3 Blur at the end of your turn. NL aigismod:Release: gain 1 Dexterity.",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使"
+    ]
+  },
+  "aigisMod:Niel2": {
+    "NAME": "尼尔",
+    "DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to your hand. NL aigismod:Release: gain 2 Temporal Strength.",
+    "UPGRADE_DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to your hand. NL aigismod:Release: gain 4 Temporal Strength",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使"
+    ]
+  },
+  "aigisMod:Erun": {
+    "NAME": "爱兰",
+    "DESCRIPTION": "Draw 2 cards. NL Discard 1 card. NL aigismod:Release: Add 1 Skill character from Draw Pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL aigismod:Release: Add 1 Skill character from Draw Pile to your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使"
+    ]
+  },
+  "aigisMod:Miruno2": {
+    "NAME": "米鲁诺",
+    "DESCRIPTION": "Deal 11 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Deal 14 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 2 cards.",
+    "EXTENDED_DESCRIPTION": [
+      "天使长"
+    ]
+  },
+  "aigisMod:Phonia": {
+    "NAME": "弗妮亚",
+    "DESCRIPTION": "Deal 9 damage !M! times. NL aigismod:Release: this card gains 1 additional hit.",
+    "UPGRADE_DESCRIPTION": "Deal 9 damage !M! times. NL aigismod:Release: this card gains 1 additional hit.",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使"
+    ]
+  },
+  "aigisMod:Sephire2": {
+    "NAME": "塞菲蕾",
+    "DESCRIPTION": "Deal 14 damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
+    "UPGRADE_DESCRIPTION": "Innate NL Deal 15 damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
+    "EXTENDED_DESCRIPTION": [
+      "主天使"
+    ]
+  },
+  "aigisMod:Sophie": {
+    "NAME": "苏菲",
+    "DESCRIPTION": "Gain 1 Artifact. NL All enemies lose 11 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile.",
+    "UPGRADE_DESCRIPTION": "Innate NL Gain 1 Artifact. NL All enemies lose 11 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile.",
+    "EXTENDED_DESCRIPTION": [
+      "堕天使",
+      "Gain 1 Artifact. NL All enemies lose 16 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile."
+    ]
+  },
+  "aigisMod:Dina2": {
+    "NAME": "狄娜",
+    "DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 aigismod:splash damage. NL Gain 1 Blur. NL Pair: Dine",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 aigismod:splash damage. NL Gain 3 Blur. NL Pair: Dine",
+    "EXTENDED_DESCRIPTION": [
+      "怪力少女",
+      "aigismod:Armor: 16. NL Deal 24 aigismod:splash damage. NL Gain 1 Blur. NL Pair: Dine"
+    ]
+  },
+  "aigisMod:Dine": {
+    "NAME": "狄妮",
+    "DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 damage to all enemies. NL At the end of turn gain 10 Block. NL Pair: Dina",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 damage to all enemies. NL At the end of turn gain 18 Block. NL Pair: Dina",
+    "EXTENDED_DESCRIPTION": [
+      "铁腕少女",
+      "aigismod:Armor: 16. NL Deal 24 damage to all enemies. NL At the end of turn gain 10 Block. NL Pair: Dina"
+    ]
+  },
+  "aigisMod:Therese": {
+    "NAME": "特蕾西",
+    "DESCRIPTION": "Gain 1 Dexterity. NL Gain 10 Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 2 Dexterity. NL Gain 12 Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "阳光的狮盾"
+    ]
+  },
+  "aigisMod:Sera": {
+    "NAME": "塞拉",
+    "DESCRIPTION": "Gain 2 Blur or if target enemy intends to attack gain 8 Block.",
+    "UPGRADE_DESCRIPTION": "Gain 3 Blur or if target enemy intends to attack gain 10 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "神官战士"
+    ]
+  },
+  "aigisMod:Flamel": {
+    "NAME": "Flamel",
+    "DESCRIPTION": "Reduce the cost of a random Skill in hand by 1 for the turn and if target enemy intends to attack gain 6 Block.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of a Skill in hand by 1 for the turn and if target enemy intends to attack gain 8 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Priestess Warrior"
+    ]
+  },
+  "aigisMod:Fermi": {
+    "NAME": "弗雷梅尔",
+    "DESCRIPTION": "Reduce the cost of a random Attack in hand by 1 for the turn and if target enemy intends to attack gain 7 Block.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of an Attack in hand by 1 for the turn and if target enemy intends to attack gain 9 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "神官战士"
+    ]
+  },
+  "aigisMod:Ehret": {
+    "NAME": "艾蕾特",
+    "DESCRIPTION": "Reduce your Block by half. NL Gain 2 Blur and 2 Dexterity for the turn.",
+    "UPGRADE_DESCRIPTION": "Reduce your Block by half. NL Gain 2 Blur and 2 Dexterity for the turn.",
+    "EXTENDED_DESCRIPTION": [
+      "神官战士"
+    ]
+  },
+  "aigisMod:Danan": {
+    "NAME": "妲南",
+    "DESCRIPTION": "aigismod:Armor: 5 NL Gain 7 Block and 2 Strength for the turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain 10 Block and 3 Strength for the turn.",
+    "EXTENDED_DESCRIPTION": [
+      "密林守护者"
+    ]
+  },
+  "aigisMod:Miranda": {
+    "NAME": "米兰达",
+    "DESCRIPTION": "aigismod:Armor: 5 NL Gain 7 Block. Deal damage equal to Block. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain 8 Block. Deal damage equal to Block.",
+    "EXTENDED_DESCRIPTION": [
+      "圣锤斗士"
+    ]
+  },
+  "aigisMod:Maribel2": {
+    "NAME": "玛丽蓓尔",
+    "DESCRIPTION": "aigismod:Fortress 10: Gain 9 Block. NL Deal damage equal to Block. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Fortress 10: Gain 9 Block. NL Deal damage equal to Block.",
+    "EXTENDED_DESCRIPTION": [
+      "圣战士"
+    ]
+  },
+  "aigisMod:Vanessa": {
+    "NAME": "凡妮莎",
+    "DESCRIPTION": "aigismod:Armor 10 NL Deal 16 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 1 Strength.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 10 NL Deal 22 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 1 Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "钢之重装炮兵",
+      "aigismod:Armor 10 NL Deal 17 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 2 Strength."
+    ]
+  },
+  "aigisMod:Regina": {
+    "NAME": "蕾吉娜",
+    "DESCRIPTION": "Deal 14 aigismod:splash_damage. NL aigismod:Fortress 8: This is played twice. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 18 aigismod:splash_damage. NL aigismod:Fortress 8: This is played twice. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "重装炮兵"
+    ]
+  },
+  "aigisMod:Anatolia": {
+    "NAME": "阿娜托利亚",
+    "DESCRIPTION": "Deal 24 damage. NL Shuffle 2 Wounds to Draw Pile. NL This turn your HP will not become 0.",
+    "UPGRADE_DESCRIPTION": "Deal 32 damage. NL Shuffle 2 Wounds to Draw Pile. NL This turn your HP will not become 0.",
+    "EXTENDED_DESCRIPTION": [
+      "兽人的英雄",
+      "Deal 25 damage. NL Shuffle 1 Wound to DrawPile. NL This turn your HP will not become 0."
+    ]
+  },
+  "aigisMod:Barbara": {
+    "NAME": "芭芭拉",
+    "DESCRIPTION": "Deal 18 damage. NL Add 1 Wound to Hand. NL If attacked enemy has a Debuff gain 10 Block.",
+    "UPGRADE_DESCRIPTION": "Deal 22 damage. NL Add 1 Wound to Hand. NL If attacked enemy has a Debuff gain 12 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "勇猛剑斗士"
+    ]
+  },
+  "aigisMod:Doula": {
+    "NAME": "杜拉",
+    "DESCRIPTION": "Deal 11 damage. Add 2 Dazed to Discard Pile. If the enemy has Vulnerable or Weak gain [E]",
+    "UPGRADE_DESCRIPTION": "Deal 15 damage. Add 2 Dazed to Discard Pile. If the enemy has Vulnerable or Weak gain [E]",
+    "EXTENDED_DESCRIPTION": [
+      "兽人的剑士"
+    ]
+  },
+  "aigisMod:Ilios": {
+    "NAME": "伊莉奥斯",
+    "DESCRIPTION": "Gain 9 Block. Shuffle 1 Dazed into Draw Pile. This turn apply 1 Weak to all enemies when you play an Attack.",
+    "UPGRADE_DESCRIPTION": "Gain 12 Block. Shuffle 1 Dazed into Draw Pile. This turn apply 1 Weak to all enemies when you play an Attack.",
+    "EXTENDED_DESCRIPTION": [
+      "兽人军师"
+    ]
+  },
+  "aigisMod:Lina": {
+    "NAME": "莉娜",
+    "DESCRIPTION": "Archers deal 1 more damage. NL When a Status card is created gain 4 Block.",
+    "UPGRADE_DESCRIPTION": "Archers deal 2 more damage. NL When a Status card is created gain 5 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "妖魔侍女"
+    ]
+  },
+  "aigisMod:Calope": {
+    "NAME": "凯洛普",
+    "DESCRIPTION": "Deal 1 aigismod:archer damage 3 times. NL Shuffle 1 Wound to Draw Pile. NL If enemy has a debuff gain 5 Block.",
+    "UPGRADE_DESCRIPTION": "Deal 2 aigismod:archer damage 3 times. NL Shuffle 1 Wound to Draw Pile. NL If enemy has a debuff gain 8 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "兽耳射手"
+    ]
+  },
+  "aigisMod:Vine": {
+    "NAME": "拜恩",
+    "DESCRIPTION": "Deal 8 damage. NL aigismod:Fortress 10. Deal 10 damage to all enemies.",
+    "UPGRADE_DESCRIPTION": "Deal 9 damage. NL aigismod:Fortress 10. Deal 14 damage to all enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "兔耳武斗家"
+    ]
+  },
+  "aigisMod:Leone": {
+    "NAME": "雷奥",
+    "DESCRIPTION": "Deal 14 damage. NL aigismod:Fortress 8: Gain 4 Blur. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 20 damage. NL aigismod:Fortress 8: Gain 4 Blur. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "百兽的霸者",
+      "Deal 15 damage. NL aigismod:Fortress 8: Gain 6 Blur. NL Exhaust"
+    ]
+  },
+  "aigisMod:Ur": {
+    "NAME": "乌尔",
+    "DESCRIPTION": "Deal 8 aigismod:true_damage. NL aigismod:Fortress 6: Increase this card's damage by 8 this combat.",
+    "UPGRADE_DESCRIPTION": "Deal 8 aigismod:true_damage. NL aigismod:Fortress 6: Increase this card's damage by 12 this combat.",
+    "EXTENDED_DESCRIPTION": [
+      "猛爪兽"
+    ]
+  },
+  "aigisMod:MeiHua": {
+    "NAME": "梅花",
+    "DESCRIPTION": "Gain 2 Block. NL Permanently increase this Block by 2. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Block. NL Permanently increase this Block by 3. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "咏风少女"
+    ]
+  },
+  "aigisMod:Pippin": {
+    "NAME": "皮皮",
+    "DESCRIPTION": "Gain 5 Block. NL When an Enemy is killed gain 15 Block and 1 Artifact.",
+    "UPGRADE_DESCRIPTION": "Gain 5 Block. NL When an Enemy is killed gain 15 Block and 1 Artifact..",
+    "EXTENDED_DESCRIPTION": [
+      "风水士"
+    ]
+  },
+  "aigisMod:Azumi": {
+    "NAME": "安昙",
+    "DESCRIPTION": "Ethereal. NL All enemies lose Strength for each Curse in Master Deck. Nl Exhaust",
+    "UPGRADE_DESCRIPTION": "NL All enemies lose Strength for each Curse in Master Deck. Nl Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "山姬"
+    ]
+  },
+  "aigisMod:Fujimurasaki": {
+    "NAME": "藤紫",
+    "DESCRIPTION": "Gain 3 Thorns. NL Choose a character in hand and gains this effect:Gain 1 Blur. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 5 Thorns. NL Choose a character in hand and gains this effect:Gain 1 Blur. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "名刀付丧神"
+    ]
   }
 }
+
+
+
+
 

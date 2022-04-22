@@ -17,11 +17,11 @@
         },
         "aigisMod:CounterPotion": {
                 "NAME": "反击药水",
-                "DESCRIPTIONS": ["获得 #b", "  层 #y反击 。"]
+                "DESCRIPTIONS": ["获得 #b", " 层 #y反击 。"]
         },
         "aigisMod:CounterPotionEmperor": {
                 "NAME": "反击药水",
-                "DESCRIPTIONS": ["获得 #b", "  层 #y反击 。"]
+                "DESCRIPTIONS": ["获得 #b", " 层 #y反击 。"]
         },
         "aigisMod:DemonicDrink": {
                 "NAME": "恶魔饮料",
