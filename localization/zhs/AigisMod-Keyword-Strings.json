@@ -9,7 +9,7 @@
       "Skill_charge",
       "skill_charge"
     ],
-    "DESCRIPTION": " #y保留 。保留时提升此卡牌属性。"
+    "DESCRIPTION": " #y保留 。保留时提升此卡牌属性."
   },
   {
     "PROPER_NAME": "帝国骑士",
@@ -21,7 +21,7 @@
       "Imperial_knight",
       "imperial_knight"
     ],
-    "DESCRIPTION": "在手牌时 #y每回合触发一次 ，打出 #y帝国牌 时产生效果。"
+    "DESCRIPTION": "在手牌时 #y每回合触发一次，打出 #y帝国牌 时产生效果。"
   },
   {
     "PROPER_NAME": "伤害光环",
@@ -33,35 +33,34 @@
       "Damage_aura",
       "damage_aura"
     ],
-    "DESCRIPTION": "每回合结束时，根据数值对所有敌人造成 #y伤害 。"
+    "DESCRIPTION": "每回合结束时，根据数值对所有敌人造成 #y伤害。"
   },
   {
-    "PROPER_NAME": "真实伤害",
+    "PROPER_NAME": "真实",
     "NAMES": [
       "真实",
       "真实",
       "真实",
       "真实伤害",
       "真实伤害.",
-      "真实伤害。",
       "True Damage",
       "True_damage",
       "true_damage"
 
     ],
-    "DESCRIPTION": "这张牌的攻击无视格挡和 #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
+    "DESCRIPTION": "这张牌的攻击无视格挡和  #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
   },
   {
     "PROPER_NAME": "开花阵",
     "NAMES": [
-      "盛放花雨",
-      "盛放花雨",
+      "开花阵",
+      "开花阵",
       "开花阵",
       "Bloom Petal",
       "Bloom_petal",
       "bloom_petal"
     ],
-    "DESCRIPTION": "在你获得此能力的第二个回合：所有敌人受到伤害(根据开花阵的数值）, 施加 #b2 层 #y虚弱 和 #b2 层 #y易伤 , 之后移除此能力。"
+    "DESCRIPTION": "在你获得此能力的第二个回合：所有敌人受到伤害(根据开花阵的数值）, 施加 #b2  层 #y虚弱 和 #b2  层 #y易伤 , 之后移除此能力。"
   },
   {
     "PROPER_NAME": "诅咒仪式",
@@ -94,10 +93,10 @@
   {
     "PROPER_NAME": "风元素",
     "NAMES": [
-      "空之境界",
+      "风元素",
       "风元素.",
       "风元素",
-      "风元素。",
+      "风元素",
       "Air_elemental.",
       "Air_elemental",
       "air_elemental"
@@ -107,10 +106,10 @@
   {
     "PROPER_NAME": "游侠陷阱",
     "NAMES": [
-      "暴怒反击",
+      "游侠陷阱",
       "游侠陷阱.",
       "游侠陷阱",
-      "游侠陷阱。",
+      "游侠陷阱",
       "Ranger Trap",
       "Ranger_trap.",
       "Ranger_trap",
@@ -121,48 +120,48 @@
   {
     "PROPER_NAME": "退魔守护灵符",
     "NAMES": [
-      "驱邪护符",
+      "退魔守护灵符",
       "退魔守护灵符.",
       "退魔守护灵符",
-      "退魔守护灵符。",
+      "退魔守护灵符",
       "Seal Talisman",
       "Seal_talisman.",
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 。 每回合开始时 #y退魔守护灵符 减少 #b1 层。"
+    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 。每回合开始时 #y退魔守护灵符 减少 #b1 层。"
   },
   {
     "PROPER_NAME": "操尸人",
     "NAMES": [
-      "亡灵傀儡",
+      "操尸人",
       "操尸人.",
       "操尸人",
-      "操尸人。",
+      "操尸人",
       "Corpse Marionette",
       "Corpse_marionette.",
       "Corpse_marionette",
       "corpse_marionette"
     ],
-    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数 。回合开始时，如果 #y层数 为#b0 ，眩晕所有敌人并移除此效果。."
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数。回合开始时，如果 #y层数 为#b0 ，眩晕所有敌人并移除此效果。"
   },
   {
     "PROPER_NAME": "被伏击的商队",
     "NAMES": [
-      "落井下石",
+      "被伏击的商队",
       "被伏击的商队.",
       "被伏击的商队",
-      "被伏击的商队。",
+      "被伏击的商队",
       "Ambushed Caravan",
       "Ambushed_caravan.",
       "Ambushed_caravan",
       "ambushed_caravan"
     ],
-    "DESCRIPTION": "#y诅咒 。不能被打出 , 保留 , 固有 , 不能从牌组中移除. 当你受到 #y未被格挡 的伤害时, 失去 #b8 枚 #y金币 。"
+    "DESCRIPTION": "#y诅咒 。不能被打出 , 保留 , 固有 , 不能从牌组中移除. 当你受到 #y未被格挡 的伤害时, 失去 #b8  #y金币 。"
   },
   {
     "NAMES": [
-      "刺杀",
+      "暗杀",
       "暗杀",
       "Assassination",
       "assassination"
@@ -172,8 +171,8 @@
   {
     "NAMES": [
       "减速",
-      "减速。",
-      "枯萎",
+      "减速",
+      "减速.",
       "Sluggish",
       "sluggish",
       "sluggish."
@@ -191,18 +190,16 @@
     "Counter.",
     "counter."
   ],
-  "DESCRIPTION": " #y被攻击 时， 根据反击层数对敌人造成伤害。自己的回合开始时移除。"
+  "DESCRIPTION": " #y被攻击 时, 根据反击层数对敌人造成伤害。自己的回合开始时移除。"
   },
   {
     "NAMES": [
-      "溅射伤害",
-      "刀光剑影",
       "溅射",
-      "溅射。",
+      "溅射",
+      "溅射.",
       "溅射伤害",
-      "刀光剑影伤害.",
+      "溅射伤害.",
       "溅射伤害。",
-      "刀光剑影伤害。",
       "Splash",
       "splash",
       "splash."
@@ -257,17 +254,16 @@
 
   {
     "NAMES": [
-
       "不死",
-      "不死族:",
+      "不死",
       "不死:",
-      "不死族",
+      "不死:",
       "Undead",
       "undead",
       "Undead:",
       "undead:"
     ],
-    "DESCRIPTION": "被 #y消耗 时触发此效果。"
+    "DESCRIPTION": " 被 #y消耗 时触发此效果。"
   },
   {
     "NAMES": [
@@ -276,20 +272,20 @@
       "Vampire",
       "vampire"
     ],
-    "DESCRIPTION": "被攻击的敌人根据造成的 #y未被格挡 的伤害附加相应层数的 #y吸血鬼噬咬 。 #y吸血鬼噬咬 达到 #b60 层时， 击晕该敌人并且施加 #b1 层 #y击晕抗性 。"
+    "DESCRIPTION": "被攻击的敌人根据造成的 #y未被格挡 的伤害附加相应层数的 #y吸血鬼噬咬 。 #y吸血鬼噬咬 达到 #b60 层时, 击晕该敌人并且施加 #b1 层 #y击晕抗性 。"
   },
   {
     "NAMES": [
       "诅咒",
-      "邪咒师",
+      "诅咒",
       "诅咒:",
-      "邪咒师:",
+      "诅咒:",
       "Cursed",
       "cursed",
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #y诅咒 ， 施加以下效果。"
+    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出非复制的原卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -302,18 +298,88 @@
       "Burn:",
       "burn:"
     ],
-    "DESCRIPTION": "回合结束时， #y意图为攻击 的敌人 #y受到伤害 。 灼伤在回合开始时减少。"
+    "DESCRIPTION": "回合结束时,  #y意图为攻击 的敌人 #y受到伤害 。 灼伤在回合开始时减少。"
   },
   {
     "PROPER_NAME": "魔导生命体",
     "NAMES": [
       "魔导生命体",
-      "魔导生命体。",
+      "魔导生命体.",
       "Magical Ignition",
       "Magical_ignition.",
       "Magical_ignition",
       "magical_ignition"
     ],
-    "DESCRIPTION": "战斗开始时， 将 #y盾之拉瓦尔 和 #y矛之拉瓦尔 加入抽牌堆。他们的升级数量与此卡相同。"
+    "DESCRIPTION": "战斗开始时, 将 #y盾之拉瓦尔 和 #y矛之拉瓦尔 加入抽牌堆。他们的升级数量与此卡相同。"
+  },
+  {
+    "PROPER_NAME": "流星",
+    "NAMES": [
+      "Meteor",
+      "Meteor.",
+      "meteor",
+      "meteor.",
+      "流星",
+      "流星。"
+    ],
+    "DESCRIPTION": "Passive: deal damage to a random enemy. Triggered when you play an Attack with Meteor keyword or a Strike card."
+  },
+  {
+    "PROPER_NAME": "暗黑斗士",
+    "NAMES": [
+      "Dark Fighter",
+      "Dark Fighter.",
+      "Dark_Fighter",
+      "dark_fighter",
+      "暗黑斗士",
+      "暗黑斗士。"
+    ],
+    "DESCRIPTION": "While this is in your hand when you gain Block reduce this card cost by 1 for the turn."
+  },
+  {
+    "PROPER_NAME": "生命连接",
+    "NAMES": [
+      "Lifelink",
+      "Lifelink.",
+      "lifelink",
+      "lifelink.",
+      "生命连接",
+      "生命连接。"
+    ],
+    "DESCRIPTION": "Each time you receive damage this enemy loses HP equal to that damage. Reduced by 1 when you use a cost 2 or higher Attack."
+  },
+  {
+    "PROPER_NAME": "要塞",
+    "NAMES": [
+      "Fortress",
+      "Fortress:",
+      "要塞",
+      "要塞："
+
+    ],
+    "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
+  },
+  {
+    "PROPER_NAME": "装甲",
+    "NAMES": [
+      "Armor",
+      "Armor:",
+      "装甲",
+      "装甲："
+
+    ],
+    "DESCRIPTION": "Unplayable unless your Block is equal or higher than this amount."
+  },
+  {
+    "PROPER_NAME": "解放",
+    "NAMES": [
+      "Release",
+      "Release:",
+      "解放",
+      "解放："
+
+    ],
+    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur/Barricade"
   }
+
 ]
