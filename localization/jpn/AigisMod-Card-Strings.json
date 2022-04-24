@@ -918,15 +918,15 @@
   "aigisMod:Setsuna": {
     "NAME": "セツナ",
     "DESCRIPTION": "aigismod:ダメージオーラ !aigisMod:SecondMagic! を得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ",
-    "UPGRADE_DESCRIPTION": "セツナ(分身) を山札に加える。 aigismod:ダメージオーラ !aigisMod:SecondMagic! 得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ",
+    "UPGRADE_DESCRIPTION": "セツナ(分身) を山札に加える。 NL aigismod:ダメージオーラ !aigisMod:SecondMagic! を得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ",
     "EXTENDED_DESCRIPTION" : [
       "鬼刃忍"
     ]
   },
   "aigisMod:SetsunaClone": {
     "NAME": "セツナ(分身)",
-    "DESCRIPTION": "使用不可 NL 引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与える。 1 枚引く",
-    "UPGRADE_DESCRIPTION": "引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与える。 無形 1 を得て、 1 枚引く NL 廃棄"
+    "DESCRIPTION": "使用不可 NL 引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 1 枚引く",
+    "UPGRADE_DESCRIPTION": "引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 1 枚引く。 無形 1 を得る。 NL 廃棄"
   },
   "aigisMod:Ramii": {
     "NAME": "ラミィ",
@@ -938,7 +938,7 @@
   },
   "aigisMod:Fuuko": {
     "NAME": "フーコ",
-    "DESCRIPTION": "引いた全ての敵に aigismod:鈍足 1 を与える。全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時全ての敵に aigismod:鈍足 1 を与える。全ての敵に !D! ダメージを与える。",
     "UPGRADE_DESCRIPTION": "このカードを引いた時全ての敵に aigismod:鈍足 1 を与える。全ての敵に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "風神の娘"
@@ -1028,7 +1028,7 @@
     "UPGRADE_DESCRIPTION": "天賦 NL 山札から東の国カードを !M! 枚引く。行えた時、 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "天賦 NL 山札から東の国カードを最大 !M! 枚引ける。 1 枚以上引いた時、 [E] を得る。"
+      "山札から東の国カードを最大 !M! 枚引く。 1 枚以上引いた時、 [E] を得る。"
     ]
   },
   "aigisMod:Kaguya": {
@@ -1773,8 +1773,8 @@
   },
   "aigisMod:Charles": {
     "NAME": "シャルル",
-    "DESCRIPTION": "弱体 !M! を受ける。 NL 機敏ポーション を 1 つ入手する。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "弱体 !M! を受ける。 NL 機敏ポーション を 1 つ入手する。 NL 廃棄",
+    "DESCRIPTION": "弱体 !M! を与える。 NL 機敏ポーション を 1 つ入手する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "弱体 !M! を与える。 NL 機敏ポーション を 1 つ入手する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "神秘の術士"
     ]
@@ -2097,8 +2097,8 @@
   },
   "aigisMod:Kaoru": {
     "NAME": "カオル",
-    "DESCRIPTION": "カードを 1 枚捨て、 NL そのコストの値同じ 筋力 を得る。 NL 帝国カード を捨てた場合 !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "カードを 1 枚捨て、 NL そのコストの同じ 筋力 を得る。 NL 帝国カード を捨てた場合 !B! ブロック を得る。",
+    "DESCRIPTION": "カードを 1 枚捨て、 NL そのコストの値と同じ 筋力 を得る。 NL 帝国カード を捨てた場合 !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "カードを 1 枚捨て、 NL そのコストの値と同じ 筋力 を得る。 NL 帝国カード を捨てた場合 !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国戦巫女"
     ]
