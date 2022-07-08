@@ -276,6 +276,107 @@
                 "DESCRIPTIONS": ["无效下 #b", " 次受到的击晕。"]
         },
 
+
+        "aigisMod:MeteorTactics": {
+                "NAME": "Meteor Tactics",
+                "DESCRIPTIONS": ["Meteor orbs hits all enemies."]
+        },
+
+        "aigisMod:MultiPlosion": {
+                "NAME": "Multiplosion",
+                "DESCRIPTIONS": ["At the start of your turn, trigger the #ypassive of your rightmost orb #b", " times."]
+        },
+
+        "aigisMod:Inferno": {
+                "NAME": "Inferno",
+                "DESCRIPTIONS": ["When a #yMeteor #yorb hits an enemy, apply #b", " #yburn."]
+        },
+
+        "aigisMod:HuntingTime": {
+                "NAME": "Hunting Time",
+                "DESCRIPTIONS": ["When an enemy is killed, gain #b", " #yblock and gain #b1 #yartifact."]
+        },
+
+        "aigisMod:MagicShells": {
+                "NAME": "Magic Shells",
+                "DESCRIPTIONS": ["When you play #b", " #yskill cards, #ychannel #b1 Meteor #yorb."]
+        },
+
+        "aigisMod:ManaControl": {
+                "NAME": "Mana Control",
+                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage this turn."]
+        },
+
+        "aigisMod:LifelinkPower": {
+                "NAME": "Lifelink",
+                "DESCRIPTIONS": ["This enemy loses #yHP equal to the amount of damage you #yBlock completely. Reduced by #b1 when you play a cost #b1 or higher attack."]
+        },
+
+        "aigisMod:DineGainBlockPower": {
+                "NAME": "End of Turn Block",
+                "DESCRIPTIONS": ["Gain #b", " #yBlock at the end of this turn."]
+        },
+
+        "aigisMod:MechaForm": {
+                "NAME": "Mecha Form",
+                "DESCRIPTIONS": ["After #b", " turns", " turn", ", #ystun a random enemy and gain", " #yDexterity and #yBlur."]
+        },
+
+        "aigisMod:BladeOfPursuitPower": {
+                "NAME": "Blade Of Pursuit",
+                "DESCRIPTIONS": ["For the next #b", " turns, #yattack cards that cost #b0 are played twice."]
+        },
+
+        "aigisMod:FlameMirage": {
+                "NAME": "Flame Mirage",
+                "DESCRIPTIONS": ["When a card is exhausted, gain #b1 #yblur. At the end of turn, deal #b", " damage to a random enemy if you have #yblur."]
+        },
+
+        "aigisMod:ExterminationProgram": {
+                "NAME": "Extermination Program",
+                "DESCRIPTIONS": ["Whenever you play a #yskill card, this enemy takes #b", " damage."]
+        },
+
+        "aigisMod:SpiritBoost": {
+                "NAME": "Spirit Boost",
+                "DESCRIPTIONS": ["At the start of turn, #yattack cards in your hand cost #b", " less for the turn. If you #yplay an #yattack card, lose #yALL your #yenergy."]
+        },
+
+        "aigisMod:AnnihilationProgram": {
+                "NAME": "Annihilation Program",
+                "DESCRIPTIONS": ["Whenever the player gains #yblock, take #b", " damage."]
+        },
+
+        "aigisMod:LightweightPower": {
+                "NAME": "Lightweight Power",
+                "DESCRIPTIONS": ["At the end of turn, lose #b1 #ydexterity and gain #b", " #yblur."]
+        },
+
+        "aigisMod:TigerHide": {
+                "NAME": "Fox in a Tiger's Hide",
+                "DESCRIPTIONS": ["When you gain #yblur, deal #b", " #ydamage to all enemies and draw #b1 card."]
+        },
+
+        "aigisMod:FlameBurstPower": {
+                "NAME": "Flame Burst",
+                "DESCRIPTIONS": ["When you gain #yblur, gain #b", " #yStrenght."]
+        },
+
+        "aigisMod:AngelMaid": {
+                "NAME": "Angel Maid",
+                "DESCRIPTIONS": ["At turn start, add #b", " #yrelease card from your deck.", "Choose a card to add to hand.", "I don't have a Release card in my draw pile..."]
+        },
+
+        "aigisMod:EndOfTurnHeal": {
+                "NAME": "End of Turn Heal",
+                "DESCRIPTIONS": ["At turn end, heal #b", " HP."]
+        },
+
+        "aigisMod:DivineStaffDagda": {
+                "NAME": "Divine Staff Dagda",
+                "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
+        },
+
         "aigisMod:Strength ForTheTurnPower": {
                 "NAME": "回合内力量",
                 "DESCRIPTIONS": ["本回合，提升攻击 #y伤害 #b", " 点。本回合，降低攻击 #y伤害 #b", "点。"]

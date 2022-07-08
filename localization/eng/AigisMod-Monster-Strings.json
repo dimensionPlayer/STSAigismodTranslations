@@ -100,5 +100,39 @@
     "DIALOG": [
       ""
     ]
+  },
+  "aigisMod:GoldenMimic": {
+    "NAME": "Golden Mimic",
+    "MOVES": [
+      "Bite",
+      "Escape"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Prince": {
+    "NAME": "Prince",
+    "MOVES": [
+      "Raise Morale",
+      "Sacred Treasure of Aigis",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Anna": {
+    "NAME": "Anna",
+    "MOVES": [
+      "Artillery Support",
+      "Full power support"
+    ],
+    "DIALOG": [
+      ""
+    ]
   }
+
+
+
 }

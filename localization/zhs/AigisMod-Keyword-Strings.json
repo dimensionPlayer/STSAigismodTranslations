@@ -285,7 +285,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出非复制的原卡片时便施加描述效果。"
+    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -322,7 +322,7 @@
       "流星",
       "流星。"
     ],
-    "DESCRIPTION": "Passive: deal damage to a random enemy. Triggered when you play an Attack with Meteor keyword or a Strike card."
+    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
   },
   {
     "PROPER_NAME": "暗黑斗士",
@@ -334,7 +334,7 @@
       "暗黑斗士",
       "暗黑斗士。"
     ],
-    "DESCRIPTION": "While this is in your hand when you gain Block reduce this card cost by 1 for the turn."
+    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
   },
   {
     "PROPER_NAME": "生命连接",
@@ -346,7 +346,7 @@
       "生命连接",
       "生命连接。"
     ],
-    "DESCRIPTION": "Each time you receive damage this enemy loses HP equal to that damage. Reduced by 1 when you use a cost 2 or higher Attack."
+    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
   },
   {
     "PROPER_NAME": "要塞",
@@ -379,7 +379,7 @@
       "解放："
 
     ],
-    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur/Barricade"
+    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur."
   }
 
 ]

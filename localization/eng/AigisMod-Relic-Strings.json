@@ -54,7 +54,8 @@
     "NAME": "Suppressing Darkness Aura",
     "FLAVOR": "Dark Knight: I already gave up mine own life. Use me as naught more than a sacrificial pawn.",
     "DESCRIPTIONS": [
-      "If you played no #bAttack cards in a turn apply #b1 #yWeak to all enemies and gain #b8 #yblock."
+      "At the start of each combat, add #b1 #yDark #yKnight (card) to hand.",
+      " If you played no #bAttack cards in a turn apply #b1 #yWeak to all enemies and gain #b8 #yblock."
     ]
   },
   "aigisMod:AegisTreasure": {
@@ -234,6 +235,14 @@
       "Gain #b1 Potion slot. When you use a #yPotion, #yupgrade all #yCommon and #yUncommon cards in your hand during this #ycombat."
     ]
   },
+  "aigisMod:EmperorAwakening": {
+    "NAME": "Emperor Awakening",
+    "FLAVOR": "White Emperor: No, living within the Empire, is synonymous with continuing to win",
+    "DESCRIPTIONS": [
+      "Start each #yElite and #yBoss combat with #b3 #yStrength and #b3 #yDexterity."
+    ]
+  },
+
 
 
 
@@ -278,7 +287,7 @@
     "NAME": "Cat's Disturbance",
     "FLAVOR": "Koharu: Instilling fear in people is quite boorish. I confer passion.",
     "DESCRIPTIONS": [
-      "All enemies start the combat with #b1 less Strength. On the #b6th turn, all enemies lose #b1 Strength."
+      "All enemies start each combat with #b1 less #yStrength. On the #b6th turn, all enemies lose #b1 Strength."
     ]
   },
   "aigisMod:ScrambleGolem": {
@@ -292,21 +301,21 @@
     "NAME": "Golem Boost",
     "FLAVOR": "Anri: I grant power to lifeless objects. Please make good use of the essence of enchantment.",
     "DESCRIPTIONS": [
-      "Start the each combat with a #yGolem #yFragment+ in hand. When a Golem Fragment is created, #yupgrade it."
+      "At the start of each combat, add to hand 1 #yGolem #yFragment+. When a Golem Fragment is created, #yupgrade it."
     ]
   },
   "aigisMod:WorldTree": {
     "NAME": "World Tree Guard",
     "FLAVOR": "Rovinia: Are you okay? Are you sleeping well?",
     "DESCRIPTIONS": [
-      "Start each combat with #b8 Ranger Trap. #yArchers deal #b1 additional damage while you have #yRanger #yTrap."
+      "At the start each of combat, gain #b8 Ranger Trap. #yArchers deal #b1 additional damage while you have #yRanger #yTrap."
     ]
   },
   "aigisMod:WoundReturning": {
     "NAME": "Wound-Returning Spell",
     "FLAVOR": "Mikoto: Would you allow me to cast misfortunes off of you?",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yShikioni in hand. Shikioni gains #b3 additional Block."
+      "At the start of each combat, add to hand #b1 #yShikioni. #yShikioni gains #b3 additional Block."
     ]
   },
   "aigisMod:SerpentPoison": {
@@ -339,6 +348,13 @@
       "When you attack an enemy with #yVampire #yBite, gain #b1 #yTemporary #yHP."
     ]
   },
+  "aigisMod:BastetGem": {
+    "NAME": "Bastet Gem",
+    "FLAVOR": "Saval: The 'Cursed Gem', in return for granting the bearer immense power, they'll continue to devour their soul.",
+    "DESCRIPTIONS": [
+      "The first #b3 times in a combat you #yexhaust a #yCurse, gain #b1 #yStrength."
+    ]
+  },
 
 
 
@@ -346,60 +362,99 @@
 
 
 
+
+  "aigisMod:ArmoredDecius": {
+    "NAME": "Armored Decius",
+    "FLAVOR": "Meteor: Decius is a despicable man who has no scruples about what he does in order to win!",
+    "DESCRIPTIONS": [
+      "At the end of the first #b4 turns, gain #b5 #yBlock.",
+      " Once per Act, if your HP becomes #b0 in combat gain #b25 HP."
+    ]
+  },
+  "aigisMod:MaouDecius": {
+    "NAME": "Maou Mecha Decius",
+    "FLAVOR": "Decius: Aah, I can hear the voice of the stars. What a beautiful tone...",
+    "DESCRIPTIONS": [
+      "Replaces Armored Decius. Add a Maou Mecha Form to your Deck.",
+      " Once per Act, if your HP becomes #b0 in combat gain #b35 HP. "
+    ]
+  },
   "aigisMod:MeteorSword": {
     "NAME": "Meteor Sword Technique",
     "FLAVOR": "Decius: This is the Special Technique...!? To be able to drop meteors is t-too unfair....",
     "DESCRIPTIONS": [
-      "Start the combat with #b2 #yMeteor.",
-      "At the end of the first 3 turns gain #b5 #yBlock."
+      "Channel #b1 #yMeteor with #b6 damage at the start of each combat.",
+      " When a card #ychannels a #yMeteor, it is created with #b1 more damage."
     ]
   },
   "aigisMod:KnightProtection": {
     "NAME": "Holy Knight's Protection",
     "FLAVOR": "Cornelia: Even if this is the power of the demons, what I must accomplish remains the same.",
     "DESCRIPTIONS": [
-      "The first time you play an Attack each turn gain #b3 #yBlock.",
-      "When you play a #yDark #yKnight gain #b1 #yBlur."
+      "The first time you play an Attack each turn, gain #b3 #yBlock.",
+      " The first time you play a #yDark #yFighter in combat gain #b1 #yBuffer."
     ]
   },
   "aigisMod:ShieldBless": {
     "NAME": "Shield Bless",
     "FLAVOR": "Heios: Even a sword fallen into darkness can protect its brilliance.",
     "DESCRIPTIONS": [
-      "When you play a Skill gain #b2 #yCounter.",
-      "When you play a #yDark #yKnight or Strike card gain #b3 #yBlock"
+      "When you play a #yDark #yFighter gain #b1 #yThorns.",
+      " While your #yHP is at #b50% or less, gain #b2 #yDexterity."
     ]
   },
   "aigisMod:SuperMeteor": {
     "NAME": "Super Meteor Tactics",
-    "FLAVOR": "Aisha: What, I don't look like a tactician to you?.",
+    "FLAVOR": "Aisha: What, I don't look like a tactician to you?",
     "DESCRIPTIONS": [
-      "Refund the cost of #yMeteor cards played in the fist turn."
+      "Once per turn, when you play a #yMeteor card gain [E]"
     ]
   },
   "aigisMod:BlastingEnhancement": {
     "NAME": "Secret Art of Blasting Enhancement",
     "FLAVOR": "Garania: Mastering the spirit of magic, that's my mission.",
     "DESCRIPTIONS": [
-      "Start the combat gain #b2 #yMeteor for each enemy",
-      "When an Enemy appears in combat gain #b1 #yMeteor."
+      "At the start of each combat, #yChannel #b1 #yMeteor if there is more than #b1 enemy.",
+      " When an enemy appears in combat, #yChannel #b1 #yMeteor."
     ]
   },
   "aigisMod:BlastingBall": {
     "NAME": "Super Human Blasting Ball",
     "FLAVOR": "Dina: I wonder if it's because of my armor... My muscles are all worn out.",
     "DESCRIPTIONS": [
-      "At the end of your turn deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+      "At the end of your turn, deal #b10 damage to all enemies if you have #b16 or more #yBlock"
     ]
   },
-  "aigisMod:GuardianAngel": {
-    "NAME": "Whimsical Guardian Angel",
+  "aigisMod:SealRelease": {
+    "NAME": "Divine Seal Release",
     "FLAVOR": "Chloe: Even fallen angels have something to defend.",
     "DESCRIPTIONS": [
-      "Start the combat with #b2 #yBlur.",
-      "If you end your first turn with #b12 #yBlock or more gain #b1 #yArtifact."
+      "Start each combat with #b2 #yBlur."
     ]
   },
+  "aigisMod:IndomitableTraitor": {
+    "NAME": "Indomitable Traitor",
+    "FLAVOR": "Shadia: You humans, thousands of years pass and you remain as foolish as ever.",
+    "DESCRIPTIONS": [
+      "At the end of player's turn #b5, if you have not received #yHP damage, deal #b50 damage to all enemies."
+    ]
+  },
+  "aigisMod:HolyAura": {
+    "NAME": "Holy Aura",
+    "FLAVOR": "Yurina: I can't believe that I still have human feelings...",
+    "DESCRIPTIONS": [
+      "#yDark #yFighter cards are retained.",
+      " At the end of your #b4th turn, gain #b10 #yBlock."
+    ]
+  },
+  "aigisMod:HotSands": {
+    "NAME": "Hot Sand Tactics",
+    "FLAVOR": "Nephty: Leave it to us to guide you through the desert. Come on, let's go with the wind.",
+    "DESCRIPTIONS": [
+      "When you attack an #yElite or #yBoss enemy, gain #b2 Block."
+    ]
+  },
+
 
 
 
@@ -421,6 +476,13 @@
     ]
   },
   "aigisMod:AigisShrineAvenger": {
+    "NAME": "Aigis Shrine",
+    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "DESCRIPTIONS": [
+      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+    ]
+  },
+  "aigisMod:AigisShrineKnight": {
     "NAME": "Aigis Shrine",
     "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
     "DESCRIPTIONS": [

@@ -206,7 +206,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "For each #bcurse #bcard in your #yMaster #yDeck, apply the following effect when playing this original card."
+    "DESCRIPTION": "For each #bcurse #bcard in your #yMaster #yDeck, apply the following effect when playing this card."
   },
   {
     "NAMES": [
@@ -228,61 +228,59 @@
     "DESCRIPTION": "At the start of the combat, add #yShield #yof #yRawal and #ySpear #yof #yRawal to the Draw Pile. These have the same amount of upgrades as this card."
   },
   {
-    "PROPER_NAME": "Meteor",
     "NAMES": [
       "Meteor",
       "Meteor.",
       "meteor",
       "meteor."
     ],
-    "DESCRIPTION": "Passive: deal damage to a random enemy. Triggered when you play an Attack with Meteor keyword or a Strike card."
+    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
   },
   {
     "PROPER_NAME": "Dark Fighter",
     "NAMES": [
       "Dark Fighter",
-      "Dark Fighter.",
-      "Dark_Fighter",
+      "Dark_fighter.",
+      "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "While this is in your hand when you gain Block reduce this card cost by 1 for the turn."
+    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
   },
   {
-    "PROPER_NAME": "Lifelink",
     "NAMES": [
       "Lifelink",
       "Lifelink.",
       "lifelink",
       "lifelink."
     ],
-    "DESCRIPTION": "Each time you receive damage this enemy loses HP equal to that damage. Reduced by 1 when you use a cost 2 or higher Attack."
+    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
   },
   {
-    "PROPER_NAME": "Fortress",
     "NAMES": [
       "Fortress",
-      "Fortress:"
-
+      "Fortress:",
+      "fortress",
+      "fortress:"
     ],
     "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
   },
   {
-    "PROPER_NAME": "Armor",
     "NAMES": [
       "Armor",
-      "Armor:"
-
+      "Armor:",
+      "armor",
+      "armor:"
     ],
-    "DESCRIPTION": "Unplayable unless your Block is equal or higher than this amount."
+    "DESCRIPTION": "#yUnplayable unless your Block is equal or higher than this amount."
   },
   {
-    "PROPER_NAME": "Release",
     "NAMES": [
       "Release",
-      "Release:"
-
+      "Release:",
+      "release",
+      "release:"
     ],
-    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur/Barricade"
+    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur."
   }
 
 ]

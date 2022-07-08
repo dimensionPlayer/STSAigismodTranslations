@@ -1,0 +1,21 @@
+{
+  "myMod:DefaultOrb": {
+    "NAME": "Default Orb",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, draw #b",
+      " card.",
+      " cards.",
+      " NL #yEvoke: Deal #b",
+      " damage to all enemies."
+    ]
+  },
+  "aigisMod:MeteorOrb": {
+    "NAME": "Meteor Orb",
+    "DESCRIPTION": [
+      "#yPassive: When you play a #yMeteor card, increase the damage of this orb by the cost of the played card, then deal #b",
+      " damage to a random enemy.",
+      " NL #yEvoke: Deal #b",
+      " damage to a random enemy."
+    ]
+  }
+}

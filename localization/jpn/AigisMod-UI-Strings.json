@@ -269,5 +269,46 @@
     "TEXT": [
       "英傑カードを見る。"
     ]
+  },
+
+  "SumireAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "I don't have a Meteor or Eastern card in Draw Pile..."
+    ]
+  },
+
+  "NielAction": {
+    "TEXT": [
+      "Select a cost 1 or lower card to add to hand.",
+      "I don't have any cost 1 or lower Card in Discard Pile..."
+    ]
+  },
+
+  "ErunAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "I don't have a Release card in Draw Pile..."
+    ]
+  },
+
+  "NephtyAction": {
+    "TEXT": [
+      "to reduce it's cost for the turn."
+    ]
+  },
+
+  "VivianAction": {
+    "TEXT": [
+      "to reduce it's cost for the combat."
+    ]
+  },
+
+  "AngelMaidAction": {
+    "TEXT": [
+      "Choose a card to add to your hand.",
+      "Choose cards to add to your hand.",
+      "I don't have a Release card in my draw pile..."
+    ]
   }
 }

@@ -15,5 +15,72 @@
       "[招募] #g获得一张稀有英杰卡牌 。",
       "[未解锁] 你没有可以升级至稀有的英杰卡牌。"
     ]
+  },
+
+  "aigisMod:AigisShrine": {
+    "NAME": "Aigis Shrine",
+    "DESCRIPTIONS": [
+      "You come across a familiar shrine. NL It is a manifestation of the Goddess Aigis. NL You can receive a blessing from the Goddess.",
+      "You leave the shrine to continue with your adventure."
+    ],
+    "OPTIONS": [
+      "[Donate] #gOffer #b100 #gGold #gto #gobtain #ga #gRelic.",
+      "[Pray] #gUpgrade #ga #gCard",
+      "[Summon] #gChoose #b1 #gof #b20 #gCards #gto #gadd #gto #gyour #gDeck.",
+      "[Leave]",
+      "Choose a card to add to your deck.",
+      "[LOCKED] You don't have enough Gold(100).",
+      "[LOCKED] You don't have a card to upgrade.",
+      "Choose a card to upgrade."
+    ]
+  },
+
+  "aigisMod:MilitaryExercise": {
+    "NAME": "Military Exercise",
+    "DESCRIPTIONS": [
+      "The Imperial reached the meeting point with the Kingdom army. NL Since there is time before your expedition continues you can spend it to strengthen your army.",
+      "You choose to reorder your units.",
+      "You choose to train with your own army.",
+      "You awakened a new power after this battle."
+    ],
+    "OPTIONS": [
+      "[Regroup] #gAdd #ga #gCard to your deck.",
+      "[Train] #gUpgrade #ga #gCard.",
+      "[Fight] #gChallenge #rThe #rPrince.",
+      "[Leave]",
+      "[LOCKED] You don't have any cards to upgrade.",
+      "Choose a card to upgrade",
+      "[Awaken] #gGain #ga #gRelic."
+    ]
+  },
+
+
+  "aigisMod:CursedGem": {
+    "NAME": "Cursed Gem",
+    "DESCRIPTIONS": [
+      "Before you lies a dead body, it holds a mysterious gem. NL You also see a gold plated chest in the room. You feel some power coming from the gems, but the chest also has your attention.",
+      "With the gem in your hands now you can identify it comes from a cursed cult. You have the duty to safekeep it, but its power may come in handy.",
+      "As suspected, it is a monsters."
+    ],
+    "OPTIONS": [
+      "[Search] #gExamine #gthe #rgold #rchest?",
+      "[Take the Gem] #gGain #ga #gRelic and #ra #rCurse.",
+      "[Leave]",
+      "[Fight]"
+    ]
+  },
+  "aigisMod:TheVoice": {
+    "NAME": "The Voice",
+    "DESCRIPTIONS": [
+      "Navigating trough the floor you suddenly lose your senses and you begin to hear a voice...",
+      "You feel inspired and stronger for some reason.",
+      "You feel a familiar strength within you.",
+      "You should be more aware."
+    ],
+    "OPTIONS": [
+      "[The Stars?] #gMax #gHP +8",
+      "[Commander?] #gGain #ga #gRelic",
+      "[Wake Up] Leave"
+    ]
   }
 }

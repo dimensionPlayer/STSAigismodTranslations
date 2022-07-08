@@ -171,6 +171,36 @@
     "NAME": "Sphinx",
     "DESCRIPTION": "Retain. NL All enemies lose !M! HP. NL Gain !B! Block. NL Exhaust."
   },
+  "aigisMod:EphtraPlatinum": {
+    "NAME": "Ephtra",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL All enemies lose !M! HP, +1 HP for each time you played this card. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Crosses Between Worlds"
+    ]
+  },
+  "aigisMod:EphtraBlack": {
+    "NAME": "Ephtra",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage to all enemies. NL All enemies lose !M! HP, +1 HP for each time you played this card. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Crosses Between Worlds"
+    ]
+  },
+  "aigisMod:ImlauPlatinum": {
+    "NAME": "Imlau",
+    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Extols Life"
+    ]
+  },
+  "aigisMod:ImlauBlack": {
+    "NAME": "Imlau",
+    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Extols Life"
+    ]
+  },
+
+
 
 
 
@@ -310,7 +340,7 @@
     ]
   },
   "aigisMod:Mirage": {
-    "NAME": "Calamity Averting Mirror",
+    "NAME": "Calamity Averting Mirage",
     "DESCRIPTION": "Gain Retain this turn when used. NL If this is in hand when you would die, heal to !M! % of Max HP and Exhaust this."
   },
   "aigisMod:Wonderheart": {
@@ -748,8 +778,8 @@
   },
   "aigisMod:Picky": {
     "NAME": "Picky",
-    "DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy.",
-    "UPGRADE_DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy.",
+    "DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Budding Thief"
     ]
@@ -764,8 +794,8 @@
   },
   "aigisMod:Fei": {
     "NAME": "Fei",
-    "DESCRIPTION": "Heal !M! hp. NL Gain 1 Artifact.",
-    "UPGRADE_DESCRIPTION": "Heal !M! hp. NL Gain 1 Artifact.",
+    "DESCRIPTION": "Heal !M! HP. NL Gain 1 Artifact. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Gain 1 Artifact. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Feng Shui User"
     ]
@@ -838,9 +868,9 @@
   },
   "aigisMod:Kagerou": {
     "NAME": "Kagerou",
-    "DESCRIPTION": "Gain aigismod:Ninjutsu.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Gain aigismod:Ninjutsu.",
-    "EXTENDED_DESCRIPTION" : [
+    "DESCRIPTION": "Discard 1 card to add !M! Shuriken to hand.",
+    "UPGRADE_DESCRIPTION": "Discard 1 card to add !M! Shuriken to hand.",
+    "EXTENDED_DESCRIPTION": [
       "Ninja"
     ]
   },
@@ -1402,8 +1432,8 @@
   },
   "aigisMod:Marika": {
     "NAME": "Marika",
-    "DESCRIPTION": "When you defeat an enemy, 1 random Imperial card in hand becomes cost 0 for the turn.",
-    "UPGRADE_DESCRIPTION": "When you defeat an enemy, 1 random Imperial card in hand becomes cost 0 for the turn.",
+    "DESCRIPTION": "Deal !D! damage. NL Return this card from discard pile to hand when you play an Imperial non attack card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Return this card from discard pile to hand when you play an Imperial non attack card.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Martial Artist"
     ]
@@ -2587,9 +2617,9 @@
   },
   "aigisMod:Yamabuki": {
     "NAME": "Yamabuki",
-    "DESCRIPTION": "When you play an Archer card gain !M! Block.",
-    "UPGRADE_DESCRIPTION": "When you play an Archer card gain !M! Block.",
-    "EXTENDED_DESCRIPTION" : [
+    "DESCRIPTION": "Archers deal 1 more damage. NL Gain !M! Block each time you play an Archer this turn.",
+    "UPGRADE_DESCRIPTION": "Archers deal 1 more damage. NL Gain !M! Block each time you play an Archer this turn.",
+    "EXTENDED_DESCRIPTION": [
       "Eastern Chef"
     ]
   },
@@ -2987,8 +3017,8 @@
   },
   "aigisMod:Momo": {
     "NAME": "Momo",
-    "DESCRIPTION": "Deal !D! damage. NL Gain 2 Block for each Status Exhausted.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain 2 Block for each Status Exhausted.",
+    "DESCRIPTION": "Deal !D! damage. NL Gain 2 Block for each Status Exhausted. NL Add 1 Dazed to hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain 2 Block for each Status Exhausted. NL Add 1 Dazed to hand.",
     "EXTENDED_DESCRIPTION" : [
       "Iron-Armored Fighter",
       " NL (Gain !B! block)"
@@ -3071,6 +3101,10 @@
       "Summoner"
     ]
   },
+  "aigisMod:CursedGem": {
+    "NAME": "Cursed Gem",
+    "DESCRIPTION": "Lose 9 HP to exhaust this card. NL At the end of your turn, all enemies gain 1 Strength."
+  },
 
 
 
@@ -3089,156 +3123,801 @@
     "NAME": "Defend",
     "DESCRIPTION": "Gain !B! block."
   },
+  "aigisMod:EmblemKnight": {
+    "NAME": "Dark Knight´s Emblem",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage. NL Gain !B! block. NL Apply !M! Weak."
+  },
 
 
   "aigisMod:Cornelia": {
     "NAME": "Cornelia",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 24 damage. NL Enemy loses 2 Strength.",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 24 damage. NL All enemy lose 3 Strength.",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage. NL Enemy loses !M! Strength.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage. NL All enemies lose !M! Strength.",
     "EXTENDED_DESCRIPTION" : [
       "Treasonous Knight",
-      "aigismod:Dark_Fighter NL Deal 36 damage. NL Enemy loses 2 Strength."
+      "aigismod:Dark_Fighter NL Deal !D! damage. NL Enemy loses !M! Strength."
     ]
   },
   "aigisMod:Heios": {
     "NAME": "Heios",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. Nl Gain 1 Buffer.",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. Nl Gain 2 Buffer.",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. NL Gain !M! Dexterity.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block. NL Gain !M! Dexterity.",
     "EXTENDED_DESCRIPTION" : [
       "Knight of Light and Darkness",
-      "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block +5. Nl Gain 1 Buffer."
+      "aigismod:Dark_Fighter NL Gain aigismod:Counter equal to block +5. NL Gain !M! Dexterity."
     ]
   },
   "aigisMod:Arietta": {
     "NAME": "Arietta",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 7 damage to all enemies. NL Gain 2 Blur.",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 14 damage to all enemies. NL Gain 2 Blur.",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage to all enemies. NL Gain !M! Blur.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage to all enemies. NL Gain !M! Blur.",
     "EXTENDED_DESCRIPTION" : [
       "Knight of the Thunderclap"
     ]
   },
   "aigisMod:Yurina": {
     "NAME": "Yurina",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Apply 1 Weak to all enemies. NL Gain 8 Block.",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Apply 2 Weak to all enemies. NL Gain 12 Block.",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Apply !M! Weak to all enemies. NL Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Apply !M! Weak to all enemies. NL Gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
       "Dark Knight"
     ]
   },
   "aigisMod:DArk": {
     "NAME": "d'Arc",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 25 damage +1 for each 3 HP missing.",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 26 damage +1 for each 2 HP missing.",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 13 damage +1 for each !M! HP missing.",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 13 damage +1 for each !M! HP missing.",
     "EXTENDED_DESCRIPTION" : [
-      "Dark Knight"
+      "Dark Knight",
+      " NL (Deal !D! damage)"
     ]
   },
   "aigisMod:Elva": {
     "NAME": "Elva",
-    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal 15 damage. NL aigismod:Assassination",
-    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal 20 damage. NL aigismod:Assassination",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage. NL aigismod:Assassination",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Deal !D! damage. NL aigismod:Assassination",
     "EXTENDED_DESCRIPTION" : [
       "Vice Commander"
     ]
   },
+  "aigisMod:DarkKnight": {
+    "NAME": "Dark Knight",
+    "DESCRIPTION": "aigismod:Dark_Fighter NL Draw 2 cards. NL Apply !M! Weak. NL Gain [E] ",
+    "UPGRADE_DESCRIPTION": "aigismod:Dark_Fighter NL Draw 2 cards. NL Apply !M! Weak. NL Gain [E] [E] ",
+    "EXTENDED_DESCRIPTION" : [
+      "Commander"
+    ]
+  },
   "aigisMod:Meteor": {
     "NAME": "Meteor",
-    "DESCRIPTION": "Deal 7 damage. Gain 1 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Deal 7 damage + amount of aigismod:meteor. Gain 1 aigismod:meteor.",
+    "DESCRIPTION": "Channel 1 aigismod:meteor. NL Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Channel 1 aigismod:meteor with 5 damage. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION" : [
       "Swordswoman"
     ]
   },
   "aigisMod:Aisha": {
     "NAME": "Aisha",
-    "DESCRIPTION": "Gain 3 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
-    "UPGRADE_DESCRIPTION": "Gain 6 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
+    "DESCRIPTION": "Channel X aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
+    "UPGRADE_DESCRIPTION": "Channel X+1 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
     "EXTENDED_DESCRIPTION" : [
       "Crouching Dragon Strategist",
-      "Gain 3 aigismod:meteor and 12 Block. NL aigismod:Meteor now hits all enemies."
+      "Channel X aigismod:meteor. NL Gain !B! Block. NL aigismod:Meteor now hits all enemies."
     ]
   },
   "aigisMod:Gloria": {
     "NAME": "Gloria",
-    "DESCRIPTION": "Gain 10 Block. All enemies without attack intend lose HP equal to your Block.",
-    "UPGRADE_DESCRIPTION": "Gain 14 Block. All enemies without attack intend lose HP equal to your Block.",
+    "DESCRIPTION": "Gain !B! Block. NL All enemies without attack intent lose HP equal to your Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL All enemies without attack intent lose HP equal to your Block.",
     "EXTENDED_DESCRIPTION" : [
       "Swordswoman"
     ]
   },
   "aigisMod:Sandra": {
     "NAME": "Sandra",
-    "DESCRIPTION": "Discard all attacks in your hand then deal 9 aigismod:true_damage to all enemies for each discard.",
-    "UPGRADE_DESCRIPTION": "Discard all attacks in your hand then deal 12 aigismod:true_damage to all enemies for each discard.",
+    "DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:true_damage to all enemies for each discard.",
+    "UPGRADE_DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:true_damage to all enemies for each discard.",
     "EXTENDED_DESCRIPTION" : [
       "Swordswoman"
     ]
   },
   "aigisMod:Rischelte": {
     "NAME": "Rischelte",
-    "DESCRIPTION": "Deal 15 damage. Take 6 damage.",
-    "UPGRADE_DESCRIPTION": "Deal 21 damage. Take 8 damage.",
+    "DESCRIPTION": "Deal !D! damage. NL Take !M! fixed damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Take !M! fixed damage.",
     "EXTENDED_DESCRIPTION": [
       "Pure White Swordswoman"
     ]
   },
   "aigisMod:Salus": {
     "NAME": "Salus",
-    "DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain 1 Temporal Dexterity",
-    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain 2 Temporal Dexterity",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain !M! Temporal Dexterity",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain !M! Temporal Dexterity",
     "EXTENDED_DESCRIPTION": [
       "Lifesaver of Divine Chains"
     ]
   },
   "aigisMod:Lumedia": {
     "NAME": "Lumedia",
-    "DESCRIPTION": "Apply 2 aigismod:lifelink. NL Gain 8 Block.",
-    "UPGRADE_DESCRIPTION": "Apply 2 aigismod:lifelink. NL Gain 12 Block.",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink. NL Gain !B! Block.",
     "EXTENDED_DESCRIPTION": [
       "Life Chain User"
     ]
   },
   "aigisMod:Saoirse": {
     "NAME": "Saoirse",
-    "DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL For each enemy gain 5 block.",
-    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL For each enemy gain 7 block.",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink to a random enemy. NL For each enemy, gain !B! block.",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to a random enemy. NL For each enemy, gain !B! block.",
     "EXTENDED_DESCRIPTION": [
       "Lifesaver of Binding Chains"
     ]
   },
   "aigisMod:Spiria": {
     "NAME": "Spiria",
-    "DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses 4 HP for each aigismod:lifelink on all enemies.",
-    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL All enemies loses 4 HP for each aigismod:lifelink on all enemies.",
+    "DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses !M! HP for each aigismod:lifelink stack on all enemies.",
+    "UPGRADE_DESCRIPTION": "Apply 1 aigismod:lifelink to all enemies. NL All enemies lose !M! HP for each aigismod:lifelink stack on all enemies.",
     "EXTENDED_DESCRIPTION": [
       "Spinner of Soul Chain",
-      "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses 7 HP for each aigismod:lifelink stack on all enemies"
+      "Apply 1 aigismod:lifelink to all enemies. NL Target enemy loses !M! HP for each aigismod:lifelink stack on all enemies."
     ]
   },
   "aigisMod:Daniela": {
     "NAME": "Daniela",
-    "DESCRIPTION": "Deal 8 aigismod:archer damage. NL aigismod:Fortress 8:This card gains 4 damage for the combat.",
-    "UPGRADE_DESCRIPTION": "Deal 10 aigismod:archer damage. NL aigismod:Fortress 8:This card gains 5 damage for the combat.",
+    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Fortress 7: This card gains !M! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Fortress 7: This card gains !M! damage.",
     "EXTENDED_DESCRIPTION": [
       "Archer"
     ]
   },
   "aigisMod:Elaine2": {
     "NAME": "Elaine",
-    "DESCRIPTION": "Deal 9 damage. NL aigismod:Fortress 10:Gain 1 Blur.",
-    "UPGRADE_DESCRIPTION": "Deal 12 damage. NL aigismod:Fortress 8:Gain 1 Blur.",
+    "DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress !M! : Gain 1 Blur.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress !M! : Gain 1 Blur.",
     "EXTENDED_DESCRIPTION": [
       "Lancer"
     ]
   },
   "aigisMod:Dorca2": {
     "NAME": "Dorca",
-    "DESCRIPTION": "Gain 6 Temporal HP. NL aigismod:Fortress 10:Gain 1 Dexterity. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 6 Temporal HP. NL aigismod:Fortress 10:Gain 2 Dexterity. NL EXhaust",
+    "DESCRIPTION": "Gain !M! Temporal HP. NL aigismod:Fortress 5: Gain !aigisMod:SecondMagic! Dexterity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Temporal HP. NL aigismod:Fortress 5: Gain !aigisMod:SecondMagic! Dexterity. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Healer"
     ]
   },
+
+  "aigisMod:Seven": {
+    "NAME": "Seven",
+    "DESCRIPTION": "Deal !D! damage. NL On aigismod:assassination gain 1 Blur.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL On aigismod:assassination gain 1 Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "Thief"
+    ]
+  },
+  "aigisMod:Dahlia": {
+    "NAME": "Dahlia",
+    "DESCRIPTION": "aigismod:Armor !M! NL Everyone's Block becomes 0. NL Gain 4 Dexterity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor !M! NL Everyone's Block becomes 0. NL Gain 4 Dexterity. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Black Spear Knight"
+    ]
+  },
+  "aigisMod:Clissa": {
+    "NAME": "Clissa",
+    "DESCRIPTION": "aigismod:Armor: !M! NL Deal !D! damage. NL aigismod:Skill_charge: reduce this card armor by !aigisMod:SecondMagic!",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: !M! NL Deal !D! aigismod:true_damage. NL aigismod:Skill_charge: reduce this card armor by !aigisMod:SecondMagic!",
+    "EXTENDED_DESCRIPTION": [
+      "Unicorn Knight",
+      "aigismod:Armor: !M! NL Deal !D! damage. NL aigismod:Skill_charge: reduce this card armor by !aigisMod:SecondMagic!"
+    ]
+  },
+
+  "aigisMod:Mehlis": {
+    "NAME": "Mehlis",
+    "DESCRIPTION": "Channel 1 aigismod:Meteor. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Channel 1 aigismod:Meteor. NL Draw !M! cards.",
+    "EXTENDED_DESCRIPTION": [
+      "Apprentice Wizard"
+    ]
+  },
+  "aigisMod:Zola": {
+    "NAME": "Zola",
+    "DESCRIPTION": "Gain !B! Block. NL Channel 1 aigismod:Meteor each time you play 2 skills this turn.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel 1 aigismod:Meteor each time you play 2 skills this turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Magic Gunner"
+    ]
+  },
+  "aigisMod:Candy": {
+    "NAME": "Candy",
+    "DESCRIPTION": "Trigger the passive of the rightmost aigismod:meteor !M! times. NL Channel 1 aigismod:Meteor.",
+    "UPGRADE_DESCRIPTION": "Trigger the passive of the rightmost aigismod:meteor !M! times. NL Channel 1 aigismod:Meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "Sweets Magician"
+    ]
+  },
+  "aigisMod:Floga": {
+    "NAME": "Floga",
+    "DESCRIPTION": "Trigger the passive of the rightmost aigismod:meteor at the start of your turn.",
+    "UPGRADE_DESCRIPTION": "Trigger the passive of the rightmost aigismod:meteor 2 times at the start of your turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Crimson Magician"
+    ]
+  },
+  "aigisMod:Garania": {
+    "NAME": "Garania",
+    "DESCRIPTION": "Channel 1 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive !M! aigismod:burn.",
+    "UPGRADE_DESCRIPTION": "Channel 1 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive !M! aigismod:burn.",
+    "EXTENDED_DESCRIPTION": [
+      "Crimson Magician"
+    ]
+  },
+  "aigisMod:Mordiberte": {
+    "NAME": "Mordiberte",
+    "DESCRIPTION": "Gain !M! Artifact. Channel 1 aigismod:meteor. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Artifact. Channel 1 aigismod:meteor. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "aigisMod:Sasha": {
+    "NAME": "Sasha",
+    "DESCRIPTION": "Gain 1 Blur. NL Fortress: !M! Channel 2 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur. NL Fortress: !M! Channel 2 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "Bewitching Magician"
+    ]
+  },
+  "aigisMod:Odette": {
+    "NAME": "Odette",
+    "DESCRIPTION": "Channel 1 aigismod:meteor. NL Gain Block equal to the amount of accumulated aigismod:meteor damage.",
+    "UPGRADE_DESCRIPTION": "Channel 1 aigismod:meteor. NL Gain Block equal to the amount of accumulated aigismod:meteor damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Mystic Folklorist"
+    ]
+  },
+  "aigisMod:Tytto": {
+    "NAME": "Tytto",
+    "DESCRIPTION": "Autoplay. NL aigismod:Meteor gains !M! damage for the turn. NL Draw !aigisMod:SecondMagic! card.",
+    "UPGRADE_DESCRIPTION": "Autoplay. NL aigismod:Meteor gains !M! damage for the turn. NL Draw !aigisMod:SecondMagic! cards.",
+    "EXTENDED_DESCRIPTION": [
+      "Elf Sage",
+      "Autoplay. NL aigismod:Meteor gains !M! damage for the turn. NL Draw !aigisMod:SecondMagic! card."
+    ]
+  },
+  "aigisMod:April": {
+    "NAME": "April",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage 3 times. NL Channel 1 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage 3 times. NL Channel 1 aigismod:meteor.",
+    "EXTENDED_DESCRIPTION": [
+      "Gunnery Instructor"
+    ]
+  },
+  "aigisMod:Janna": {
+    "NAME": "Janna",
+    "DESCRIPTION": "Channel !M! aigismod:meteor. NL Apply !aigisMod:SecondMagic! Weak",
+    "UPGRADE_DESCRIPTION": "Channel !M! aigismod:meteor. NL Apply !aigisMod:SecondMagic! Weak",
+    "EXTENDED_DESCRIPTION": [
+      "Flash Gunner"
+    ]
+  },
+  "aigisMod:Mel": {
+    "NAME": "Mel",
+    "DESCRIPTION": "Deal !D! Damage. NL Play 1 aigismod:meteor card from hand at random.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Play 1 aigismod:meteor card from hand at random.",
+    "EXTENDED_DESCRIPTION": [
+      "Gunner"
+    ]
+  },
+  "aigisMod:Sumire": {
+    "NAME": "Sumire",
+    "DESCRIPTION": "Channel 1 aigismod:meteor. NL Add 1 aigismod:meteor or Eastern Country attack from Draw Pile to hand.",
+    "UPGRADE_DESCRIPTION": "Channel 1 aigismod:meteor. NL Add 1 aigismod:meteor or Eastern Country attack from Draw Pile to hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Artillery Leader"
+    ]
+  },
+  "aigisMod:Parhelia": {
+    "NAME": "Parhelia",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Release: gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Release: gain !B! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel"
+    ]
+  },
+  "aigisMod:Chloe2": {
+    "NAME": "Chloe",
+    "DESCRIPTION": "Gain !B! Block next turn. NL aigismod:Release: gain 1 Dexterity.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block next turn. NL aigismod:Release: gain 1 Dexterity.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel"
+    ]
+  },
+  "aigisMod:Niel2": {
+    "NAME": "Niel",
+    "DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to hand. NL aigismod:Release: gain 2 Strength for the turn.",
+    "UPGRADE_DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to hand. NL aigismod:Release: gain 4 Strength for the turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel"
+    ]
+  },
+  "aigisMod:Erun": {
+    "NAME": "Erun",
+    "DESCRIPTION": "Draw !M! cards, discard 1 card. NL aigismod:Release: Add 1 Release card from Draw Pile to hand.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards, discard 1 card. NL aigismod:Release: Add 1 Release card from Draw Pile to hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel"
+    ]
+  },
+  "aigisMod:Miruno2": {
+    "NAME": "Miruno",
+    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
+    "EXTENDED_DESCRIPTION": [
+      "Angel Chief"
+    ]
+  },
+  "aigisMod:Phonia": {
+    "NAME": "Phonia",
+    "DESCRIPTION": "Deal !D! damage !M! time(s). NL aigismod:Release: this card gains 1 additional hit.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL aigismod:Release: this card gains 1 additional hit.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel"
+    ]
+  },
+  "aigisMod:Sephire2": {
+    "NAME": "Sephire",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal !D! damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
+    "EXTENDED_DESCRIPTION": [
+      "Angel Chief"
+    ]
+  },
+  "aigisMod:Sophie": {
+    "NAME": "Sophie",
+    "DESCRIPTION": "Gain 1 Artifact. NL All enemies lose !M! HP. NL aigismod:Release: Add 1 copy of this to Discard Pile.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain 1 Artifact. NL All enemies lose !M! HP. NL aigismod:Release: Add 1 copy of this to Discard Pile.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel",
+      "Gain 1 Artifact. NL All enemies lose !M! HP. NL aigismod:Release: Add 1 copy of this to Discard Pile."
+    ]
+  },
+  "aigisMod:Dina2": {
+    "NAME": "Dina",
+    "DESCRIPTION": "aigismod:Armor: 16. NL Deal !D! aigismod:splash damage. NL Gain !M! Blur. NL Pair: Dine",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal !D! aigismod:splash damage. NL Gain !M! Blur. NL Pair: Dine",
+    "EXTENDED_DESCRIPTION": [
+      "Superhuman Girl",
+      "aigismod:Armor: 16. NL Deal !D! aigismod:splash damage. NL Gain !M! Blur. NL Pair: Dine"
+    ]
+  },
+  "aigisMod:Dine": {
+    "NAME": "Dine",
+    "DESCRIPTION": "aigismod:Armor: 16. NL Deal !D! damage to all enemies. NL At the end of turn gain !B! Block. NL Pair: Dina",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal !D! damage to all enemies. NL At the end of turn gain !B! Block. NL Pair: Dina",
+    "EXTENDED_DESCRIPTION": [
+      "Iron Arm Maiden",
+      "aigismod:Armor: 16. NL Deal !D! damage to all enemies. NL At the end of turn gain !B! Block. NL Pair: Dina"
+    ]
+  },
+  "aigisMod:Threse": {
+    "NAME": "Therese",
+    "DESCRIPTION": "Gain 2 Dexterity. NL Gain !B! Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 2 Dexterity. NL Gain !B! Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Lion Shield of Sunlight"
+    ]
+  },
+  "aigisMod:Sera": {
+    "NAME": "Sera",
+    "DESCRIPTION": "Gain 1 Blur or if target enemy intends to attack gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur or if target enemy intends to attack gain !B! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Priest Warrior"
+    ]
+  },
+  "aigisMod:Flamel": {
+    "NAME": "Flamel",
+    "DESCRIPTION": "Reduce the cost of a random Skill in hand by 1 for the turn or if target enemy intends to attack gain 8 Block.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of a Skill in hand by 1 for the turn or if target enemy intends to attack gain 11 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Priestess Warrior"
+    ]
+  },
+  "aigisMod:Fermi": {
+    "NAME": "Fermi",
+    "DESCRIPTION": "Reduce the cost of a random Attack in hand by 1 for the turn and if target enemy intends to attack gain 5 Block.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of an Attack in hand by 1 for the turn and if target enemy intends to attack gain 8 Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Priest Warrior"
+    ]
+  },
+  "aigisMod:Ehret": {
+    "NAME": "Ehret",
+    "DESCRIPTION": "Reduce your Block by half. NL Gain 1 Blur and !M! Dexterity for the turn.",
+    "UPGRADE_DESCRIPTION": "Reduce your Block by half. NL Gain 1 Blur and !M! Dexterity for the turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Priestess Warrior"
+    ]
+  },
+  "aigisMod:Danan": {
+    "NAME": "Danan",
+    "DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block and !M! Strength for the turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block and !M! Strength for the turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Guardian of the Jungle"
+    ]
+  },
+  "aigisMod:Miranda": {
+    "NAME": "Miranda",
+    "DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block. NL Deal damage equal to Block. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block. NL Deal damage equal to Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Holy Hammer Warrior",
+      "NL (Deal !D! damage)"
+    ]
+  },
+  "aigisMod:Maribel2": {
+    "NAME": "Maribel",
+    "DESCRIPTION": "Deal damage equal to Block.",
+    "UPGRADE_DESCRIPTION": "Deal damage equal to Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Holy Warrior",
+      " NL (Deal !D! damage)"
+    ]
+  },
+  "aigisMod:Vanessa": {
+    "NAME": "Vanessa",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL aigismod:Fortress 12: All enemies lose !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL aigismod:Fortress 12: All enemies lose !M! Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "Heavy Artillery of Steel",
+      "Deal !D! aigismod:splash damage. NL aigismod:Fortress 12: All enemies lose !M! Strength."
+    ]
+  },
+  "aigisMod:Regina": {
+    "NAME": "Regina",
+    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL aigismod:Fortress 6: This card is played twice. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL aigismod:Fortress 6: This card is played twice. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Heavy Artillery"
+    ]
+  },
+  "aigisMod:MaouMecha": {
+    "NAME": "Maou Mecha Form",
+    "DESCRIPTION": "After 5 turns: NL Stun 1 random enemy, gain !M! Dexterity and Blur.",
+    "UPGRADE_DESCRIPTION": "Innate. NL After 5 turns: NL Stun 1 random enemy, gain !M! Dexterity and Blur.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "aigisMod:Nephty": {
+    "NAME": "Nephty",
+    "DESCRIPTION": "aigismod:Armor 5 NL Gain !B! Block. NL Reduce the cost of an Attack card in hand by !M! until the end of turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 5 NL Gain !B! Block. NL Reduce the cost of an Attack card in hand by !M! until the end of turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Guardian of the Sacred Spear"
+    ]
+  },
+  "aigisMod:Horus": {
+    "NAME": "Horus",
+    "DESCRIPTION": "aigismod:Armor 7. NL Deal !D! Damage twice. NL Discard 1 card.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 7. NL Deal !D! Damage twice. NL Discard 1 card.",
+    "EXTENDED_DESCRIPTION": [
+      "Desert Soldier"
+    ]
+  },
+  "aigisMod:Asar": {
+    "NAME": "Asar",
+    "DESCRIPTION": "aigismod:Armor 6 NL Deal !D! damage. NL Gain [E] next turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 6 NL Deal !D! damage. NL Gain [E] next turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Desert Warrior"
+    ]
+  },
+  "aigisMod:Vivian": {
+    "NAME": "Vivian",
+    "DESCRIPTION": "Reduce the cost of an attack by 1 for the combat. NL Gain 1 Dexterity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of an attack by 1 for the combat. NL Gain 1 Dexterity. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION": [
+      "Foreign Dancer"
+    ]
+  },
+  "aigisMod:Aslaha": {
+    "NAME": "Aslaha",
+    "DESCRIPTION": "This turn, cost 0 Attack cards are played twice.",
+    "UPGRADE_DESCRIPTION": "Retain. NL This turn, cost 0 Attack cards are played twice.",
+    "EXTENDED_DESCRIPTION": [
+      "Knight of the Hot Sands",
+      "For 2 turns, cost 0 Attack cards are played twice."
+    ]
+  },
+  "aigisMod:Tatsumi": {
+    "NAME": "Tatsumi",
+    "DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "Shadow Flame Miko"
+    ]
+  },
+  "aigisMod:Seria": {
+    "NAME": "Seria",
+    "DESCRIPTION": "Add 1 random Spirit card to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add 1 random Spirit card to your hand. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION": [
+      "Friend of the Spirits"
+    ]
+  },
+  "aigisMod:Nina": {
+    "NAME": "Nina",
+    "DESCRIPTION": "Retain. NL Reduce the cost of a Common card in hand by 1 this combat. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Reduce the cost of a Common card in hand to 0 for this combat. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Spirit of Gold"
+    ]
+  },
+  "aigisMod:Celia": {
+    "NAME": "Celia",
+    "DESCRIPTION": "Retain. NL Reduce the cost of a Uncommon card in hand by 1 this combat. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Retain. NL Reduce the cost of a Uncommon card in hand to 0 for this combat. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Spirit of Platinum"
+    ]
+  },
+  "aigisMod:Florika": {
+    "NAME": "Florika",
+    "DESCRIPTION": "Retain. NL Reduce the cost of a Rare card in hand by 1 this combat. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Reduce the cost of a Rare card in hand to 0 for this combat. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Spirit of Black"
+    ]
+  },
+  "aigisMod:Cynthia": {
+    "NAME": "Cynthia",
+    "DESCRIPTION": "At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack.",
+    "UPGRADE_DESCRIPTION": "At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack.",
+    "EXTENDED_DESCRIPTION": [
+      "Spirit of War",
+      "Innate. NL At the start of turn, the cost of attack cards are reduced by !M! for teh turn, but lose your [E] when you play an attack."
+    ]
+  },
+  "aigisMod:Saria": {
+    "NAME": "Saria",
+    "DESCRIPTION": "Gain block equal to the amount of cards in your Master Deck. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain block equal to the amount of cards in your Master Deck. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Affectionate Prayer"
+    ]
+  },
+  "aigisMod:Shadia": {
+    "NAME": "Shadia",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL Apply !M! Weak. NL aigismod:Fortress: !aigisMod:SecondMagic! Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Apply !M! Weak. NL aigismod:Fortress: !aigisMod:SecondMagic! Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Maou's Bodyguard",
+      "Deal !D! aigismod:true_damage. NL Apply !M! Weak. NL aigismod:Fortress: !aigisMod:SecondMagic! Exhaust."
+    ]
+  },
+  "aigisMod:Ruin": {
+    "NAME": "Ruin",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you play a skill card, this enemy takes !M! damage. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Whenever you play a skill card, this enemy takes !M! damage. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Automatic Doll"
+    ]
+  },
+  "aigisMod:Alta1": {
+    "NAME": "Alta",
+    "DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Automatic Doll of Roses"
+    ]
+  },
+  "aigisMod:Wendy": {
+    "NAME": "Wendy",
+    "DESCRIPTION": "aigismod:Armor !M! NL Deal !D! damage to all enemies. NL aigismod:Fortress !aigisMod:SecondMagic! Deal !D! aigismod:splash damage.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor !M! NL Deal !D! damage to all enemies. NL aigismod:Fortress !aigisMod:SecondMagic! Deal !D! aigismod:splash damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Genius Machinist",
+      "aigismod:Armor !M! NL Deal !D! damage to all enemies. NL aigismod:Fortress !aigisMod:SecondMagic! Deal !D! aigismod:splash damage."
+    ]
+  },
+  "aigisMod:Fee": {
+    "NAME": "Fee",
+    "DESCRIPTION": "Retain. NL When you play an attack this turn gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "Retain. NL When you play an attack this turn gain !M! Block. NL Gain 1 Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "Armored Knight"
+    ]
+  },
+  "aigisMod:Tial": {
+    "NAME": "Tial",
+    "DESCRIPTION": "At the end of your turn, gain 1 Blur and lose 1 Dexterity.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, gain 1 Blur and lose 1 Dexterity.",
+    "EXTENDED_DESCRIPTION": [
+      "Soaring Machinist"
+    ]
+  },
+  "aigisMod:Rikka": {
+    "NAME": "Rikka",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy does not intent to attack, set your block to 0.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:True_damage. NL If the enemy does not intent to attack, set your block to 0.",
+    "EXTENDED_DESCRIPTION": [
+      "Machinist"
+    ]
+  },
+  "aigisMod:Vine": {
+    "NAME": "Vine",
+    "DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress 7: Deal !D! damage to all enemies.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress 7: Deal !D! damage to all enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "Rabbit-Eared Martial Artist"
+    ]
+  },
+  "aigisMod:Leone": {
+    "NAME": "Leone",
+    "DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress 5: Gain !M! Blur. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Fortress 5: Gain !M! Blur. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Beasts' Champion",
+      "Deal !D! damage. NL aigismod:Fortress 5: Gain !M! Blur. NL Exhaust."
+    ]
+  },
+  "aigisMod:Ur": {
+    "NAME": "Ur",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
+    "EXTENDED_DESCRIPTION": [
+      "Ferocious Clawed Beast"
+    ]
+  },
+  "aigisMod:MeiHua": {
+    "NAME": "Mei-Hua",
+    "DESCRIPTION": "Gain !B! Block. NL Permanently increase this Block by !M! NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Permanently increase this Block by !M! NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Wind Chanting Girl"
+    ]
+  },
+  "aigisMod:Pippin": {
+    "NAME": "Pippin",
+    "DESCRIPTION": "Gain !B! Block. NL When an Enemy is defeated gain !M! Block and 1 Artifact.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL When an Enemy is defeated gain !M! Block and 1 Artifact.",
+    "EXTENDED_DESCRIPTION": [
+      "Feng Shui Master"
+    ]
+  },
+  "aigisMod:Akane": {
+    "NAME": "Akane",
+    "DESCRIPTION": "Innate. NL Deal !D! damage. NL Gain 1 Blur for each enemy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal !D! damage. NL Gain 1 Blur for each enemy. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Swordswoman"
+    ]
+  },
+  "aigisMod:Hanada": {
+    "NAME": "Hanada",
+    "DESCRIPTION": "Apply !M! Weak. NL Gain !aigisMod:SecondMagic! Blur. NL aigismod:Skill_charge: increase this card´s Blur by 1.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Gain !aigisMod:SecondMagic! Blur. NL aigismod:Skill_charge: increase this card´s Blur by 1",
+    "EXTENDED_DESCRIPTION": [
+      "Wandering Swordswoman"
+    ]
+  },
+  "aigisMod:Inari": {
+    "NAME": "Inari",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL You can exhaust 1 card to gain 1 Blur. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL You can exhaust 1 card to gain 1 Blur. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION": [
+      "Youko"
+    ]
+  },
+  "aigisMod:Izuna": {
+    "NAME": "Izuna",
+    "DESCRIPTION": "When you gain Blur, deal !M! damage to all enemies and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "When you gain Blur deal, !M! damage to all enemies and draw 1 card.",
+    "EXTENDED_DESCRIPTION": [
+      "Youko"
+    ]
+  },
+  "aigisMod:Tamamo": {
+    "NAME": "Tamamo",
+    "DESCRIPTION": "Discard 1 card to gain Blur equal to its cost. NL Take 4 damage.",
+    "UPGRADE_DESCRIPTION": "Discard 1 card to gain Blur equal to its cost. NL Take 4 damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Youko"
+    ]
+  },
+  "aigisMod:Kayou": {
+    "NAME": "Kayou",
+    "DESCRIPTION": "Take 6 damage. NL Each time you gain Blur gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Take 6 damage. NL Each time you gain Blur gain !M! Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "Nine-Tailed Fox",
+      "Retain NL Take 3 damage. NL Each time you gain Blur gain !M! Strength."
+    ]
+  },
+  "aigisMod:Chizuru2": {
+    "NAME": "Chizuru",
+    "DESCRIPTION": "Deal !D! damage. NL Discard all Skill cards. NL Gain 1 Blur.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Discard all Skill cards. NL Gain 1 Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "Vagrant Martial Artist"
+    ]
+  },
+  "aigisMod:Iroha2": {
+    "NAME": "Iroha",
+    "DESCRIPTION": "Deal !D! Damage. NL Gain !M! Blur. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Gain !M! Blur. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Samurai Swordswoman"
+    ]
+  },
+  "aigisMod:Juubei2": {
+    "NAME": "Juubei",
+    "DESCRIPTION": "Lose all Blur and gain an equal amount of Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose all Blur and gain an equal amount of Intangible. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Wielder of the Onikiri",
+      "Lose all Blur and gain an equal amount of Intangible + 1. NL Exhaust."
+    ]
+  },
+  "aigisMod:Fujimurasaki": {
+    "NAME": "Fujimurasaki",
+    "DESCRIPTION": "Gain !M! Thorns. NL Gain 1 Blur for each card played this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Thorns. NL Gain 1 Blur for each card played this turn. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Famous Sword Tsukumogami"
+    ]
+  },
+  "aigisMod:Rinne2": {
+    "NAME": "Rinne",
+    "DESCRIPTION": "Gain X Blur. NL Gain X Metalicize. NL Add 1 Calamity Averting Mirage to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain X+1 Blur. NL Gain X+1 Metalicize. NL Add 1 Calamity Averting Mirage to your hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Fate's Feng Shui Master",
+      "Gain X Blur. NL Gain X Metalicize. NL Add 1 Calamity Averting Mirage+ to your hand."
+    ]
+  },
+  "aigisMod:Mirage2": {
+    "NAME": "Calamity Averting Mirage",
+    "DESCRIPTION": "Retain. NL If you have !M! HP or less, gain 1 Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL If you have !M! HP or less, gain 1 Intangible. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "aigisMod:Ariel": {
+    "NAME": "Ariel",
+    "DESCRIPTION": "At the start of your turn, add 1 Release card to your hand from draw pile.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, add 1 Release card to your hand from draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "Servant of Divine Healing",
+      "Gain !M! Blur. NL At the start of your turn, add 1 Release card to your hand from draw pile."
+    ]
+  },
+
+  "aigisMod:Shemia": {
+    "NAME": "Shemia",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL aigismod:Release: Gain !aigisMod:SecondMagic! aigismod:damage_aura.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL aigismod:Release: Gain !aigisMod:SecondMagic! aigismod:damage_aura.",
+    "EXTENDED_DESCRIPTION": [
+      "Fallen Angel",
+      "Deal !D! damage to a random enemy !M! times. NL aigismod:Release: Gain !aigisMod:SecondMagic! aigismod:damage_aura."
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
   "aigisMod:Cuterie": {
     "NAME": "Cuterie",
     "DESCRIPTION": "Deal 10 damage. NL On aigismod:assassination draw 1 card.",
@@ -3255,414 +3934,58 @@
       "Thief"
     ]
   },
-  "aigisMod:Seven": {
-    "NAME": "Seven",
-    "DESCRIPTION": "Deal 10 damage. NL On aigismod:assassination gain 2 Blur.",
-    "UPGRADE_DESCRIPTION": "Deal 14 damage. NL On aigismod:assassination gain 2 Blur..",
+  "aigisMod:Hina": {
+    "NAME": "Hina",
+    "DESCRIPTION": "Add 2 Shuriken to your hand. NL Gain 3 Block for each Shuriken played this turn.",
+    "UPGRADE_DESCRIPTION": "Add 2 Shuriken+ to your hand. NL Gain 3 Block for each Shuriken played this turn.",
     "EXTENDED_DESCRIPTION": [
-      "Thief"
+      "Ninja"
     ]
   },
-  "aigisMod:Dahlia": {
-    "NAME": "Dahlia",
-    "DESCRIPTION": "aigismod:armor: 10 NL Everyone's Block becomes 0. NL Gain 3 Dexterity. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "aigismod:armor 5 NL Everyone's Block becomes 0. NL Gain 3 Dexterity. NL Exhaust",
+  "aigisMod:Kaname": {
+    "NAME": "Kaname",
+    "DESCRIPTION": "Add 1 Shuriken to your hand. NL Gain 1 Strength for each Shuriken played this turn. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Shuriken to your hand. NL Gain 1 Strength for each Shuriken played this turn. NL Exhaust",
     "EXTENDED_DESCRIPTION": [
-      "Black Spear Knight"
+      "Spirit-Sealing Ninja"
     ]
   },
-  "aigisMod:Clissa": {
-    "NAME": "Clissa",
-    "DESCRIPTION": "aigismod:armor: 15 NL Deal 18 damage. NL aigismod:Skill_charge: reduce this card armor by 3",
-    "UPGRADE_DESCRIPTION": "aigismod:armor: 15 NL Deal 24 aigismod:true_damage. NL aigismod:Skill_charge: reduce this card armor by 3",
+  "aigisMod:Setsuna2": {
+    "NAME": "Setsuna",
+    "DESCRIPTION": "Add 3 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken.",
+    "UPGRADE_DESCRIPTION": "Add 4 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken.",
     "EXTENDED_DESCRIPTION": [
-      "Unicorn Knight",
-      "aigismod:armor: 12 NL Deal 18 damage. NL aigismod:Skill_charge: reduce this card armor by 4"
+      "Kibanin",
+      "Add 3 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken. NL Play all cost 4 cards in your hand."
     ]
   },
-  "aigisMod:Victoria": {
-    "NAME": "Victoria",
-    "DESCRIPTION": "Innate NL Deal 14 aigismod:archer damage. NL Apply 2 Weak. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Innate NL Deal 16 aigismod:archer damage. NL Apply 3 Weak. NL Exhaust",
+  "aigisMod:Tachibana": {
+    "NAME": "Tachibana",
+    "DESCRIPTION": "This turn add 1 Shuriken to your hand each time you play a character card.",
+    "UPGRADE_DESCRIPTION": "This turn add 1 Shuriken+ to your hand each time you play a character card.",
     "EXTENDED_DESCRIPTION": [
-      "Demon Hunter"
+      "Kibanin",
+      "This turn add 1 Shuriken to your hand each time you play a character card. NL Play all cost 4 cards in your hand."
     ]
   },
-  "aigisMod:Mehlis": {
-    "NAME": "Mehlis",
-    "DESCRIPTION": "Gain 2 aigismod:Meteor. NL Draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Gain 2 aigismod:Meteor. NL Draw 2 cards.",
+  "aigisMod:Momiji": {
+    "NAME": "Momiji",
+    "DESCRIPTION": "Gain 2 Strength. NL Add 1 random cost 4 character card to your hand. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 3 Strength. NL Add 1 random cost 4 character card to your hand. NL Exhaust",
     "EXTENDED_DESCRIPTION": [
-      "Apprentice Wizard"
+      "Master Swordswoman"
     ]
   },
-  "aigisMod:Zola": {
-    "NAME": "Zola",
-    "DESCRIPTION": "If you play 2 Skills in this turn gain 1 aigismod:Meteor.",
-    "UPGRADE_DESCRIPTION": "If you you play 2 Skills in this turn gain 1 aigismod:Meteor.",
+  "aigisMod:Kazakiri": {
+    "NAME": "Kazakiri",
+    "DESCRIPTION": "The next Eastern Country attack you use is played twice.",
+    "UPGRADE_DESCRIPTION": "The next Eastern Country attack you use is played twice.",
     "EXTENDED_DESCRIPTION": [
-      "Magic Gunner"
-    ]
-  },
-  "aigisMod:Candy": {
-    "NAME": "Candy",
-    "DESCRIPTION": "Trigger aigismod:meteor 2 times. NL Gain 1 aigismod:Meteor.",
-    "UPGRADE_DESCRIPTION": "Trigger aigismod:meteor 3 times. NL Gain 1 aigismod:Meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Sweets Magician"
-    ]
-  },
-  "aigisMod:Floga": {
-    "NAME": "Floga",
-    "DESCRIPTION": "Trigger aigismod:meteor at the start of your turn.",
-    "UPGRADE_DESCRIPTION": "Trigger aigismod:meteor 2 times at the start of your turn.",
-    "EXTENDED_DESCRIPTION": [
-      "Crimson Magician"
-    ]
-  },
-  "aigisMod:Garania": {
-    "NAME": "Garania",
-    "DESCRIPTION": "Gain 3 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive 5 aigismod:burn.",
-    "UPGRADE_DESCRIPTION": "Gain 4 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive 7 aigismod:burn.",
-    "EXTENDED_DESCRIPTION": [
-      "Crimson Magician"
-    ]
-  },
-  "aigisMod:Mordiberte": {
-    "NAME": "Mordiberte",
-    "DESCRIPTION": "Gain 1 Artifact. Gain 5 aigismod:meteor. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 1 Artifact. Gain 10 aigismod:meteor. NL Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      ""
-    ]
-  },
-  "aigisMod:Sasha": {
-    "NAME": "Sasha",
-    "DESCRIPTION": "Gain 1 Blur. NL Fortress: 9 Gain 2 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Gain 2 Blur. NL Fortress: 7 Gain 2 aigismod:meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Bewitching Magician"
-    ]
-  },
-  "aigisMod:Odette": {
-    "NAME": "Odette",
-    "DESCRIPTION": "Gain 1 aigismod:meteor. NL Gain Block equal to your aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Gain 2 aigismod:meteor. NL Gain Block equal to your aigismod:meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Mystic Folklorist"
-    ]
-  },
-  "aigisMod:Tytto": {
-    "NAME": "Tytto",
-    "DESCRIPTION": "Autoplay. NL Gain 8 aigismod:meteor for the turn. NL Draw 1 card",
-    "UPGRADE_DESCRIPTION": "Autoplay. NL Gain 8 aigismod:meteor for the turn. NL Draw 2 cards",
-    "EXTENDED_DESCRIPTION": [
-      "Elf Sage",
-      "Autoplay. NL Gain 12 aigismod:meteor for the turn. NL Draw 1 card"
-    ]
-  },
-  "aigisMod:April": {
-    "NAME": "April",
-    "DESCRIPTION": "Deal 3 aigismod:splash damage 3 times. Gain 1 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Deal 4 aigismod:splash damage 3 times. Gain 1 aigismod:meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Gunnery Instructor"
-    ]
-  },
-  "aigisMod:Janna": {
-    "NAME": "Janna",
-    "DESCRIPTION": "Deal 5 aigismod:splash damage 2 times. Gain 1 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Deal 6 aigismod:splash damage 2 times. Gain 1 aigismod:meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Flash Gunner"
-    ]
-  },
-  "aigisMod:Mel": {
-    "NAME": "Mel",
-    "DESCRIPTION": "Deal 9 Damage. Play 1 Strike or Meteor attack card from hand at random.",
-    "UPGRADE_DESCRIPTION": "Deal 13 Damage. Play 1 Strike or Meteor attack card from hand at random.",
-    "EXTENDED_DESCRIPTION": [
-      "Gunner"
-    ]
-  },
-  "aigisMod:Sumire": {
-    "NAME": "Sumire",
-    "DESCRIPTION": "Add 1 aigismod:meteor or Eastern Country attack from Draw Pile to your Hand. Gain 1 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "add 1 aigismod:meteor attack or Eastern Country from Draw Pile to your Hand. Gain 2 aigismod:meteor.",
-    "EXTENDED_DESCRIPTION": [
-      "Artillery Leader"
-    ]
-  },
-  "aigisMod:Parhelia": {
-    "NAME": "Parhelia",
-    "DESCRIPTION": "Deal 8 damage to all enemies. NL aigismod:Release: gain 10 Block.",
-    "UPGRADE_DESCRIPTION": "Deal 11 damage to all enemies. NL aigismod:Release: gain 14 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel"
-    ]
-  },
-  "aigisMod:Chloe2": {
-    "NAME": "Chloe",
-    "DESCRIPTION": "Gain 1 Blur at the end of your turn. NL aigismod:Release: gain 1 Dexterity.",
-    "UPGRADE_DESCRIPTION": "Gain 3 Blur at the end of your turn. NL aigismod:Release: gain 1 Dexterity.",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel"
-    ]
-  },
-  "aigisMod:Niel2": {
-    "NAME": "Niel",
-    "DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to your hand. NL aigismod:Release: gain 2 Temporal Strength.",
-    "UPGRADE_DESCRIPTION": "Add 1 cost 1 or lower Attack from Discard Pile to your hand. NL aigismod:Release: gain 4 Temporal Strength",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel"
-    ]
-  },
-  "aigisMod:Erun": {
-    "NAME": "Erun",
-    "DESCRIPTION": "Draw 2 cards. NL Discard 1 card. NL aigismod:Release: Add 1 Skill character from Draw Pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL aigismod:Release: Add 1 Skill character from Draw Pile to your hand.",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel"
-    ]
-  },
-  "aigisMod:Miruno2": {
-    "NAME": "Miruno",
-    "DESCRIPTION": "Deal 11 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Deal 14 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 2 cards.",
-    "EXTENDED_DESCRIPTION": [
-      "Angel Chief"
-    ]
-  },
-  "aigisMod:Phonia": {
-    "NAME": "Phonia",
-    "DESCRIPTION": "Deal 9 damage !M! times. NL aigismod:Release: this card gains 1 additional hit.",
-    "UPGRADE_DESCRIPTION": "Deal 9 damage !M! times. NL aigismod:Release: this card gains 1 additional hit.",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel"
-    ]
-  },
-  "aigisMod:Sephire2": {
-    "NAME": "Sephire",
-    "DESCRIPTION": "Deal 14 damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
-    "UPGRADE_DESCRIPTION": "Innate NL Deal 15 damage to all enemies. NL aigismod:Release: reduce this card cost by 1.",
-    "EXTENDED_DESCRIPTION": [
-      "Angel Chief"
-    ]
-  },
-  "aigisMod:Sophie": {
-    "NAME": "Sophie",
-    "DESCRIPTION": "Gain 1 Artifact. NL All enemies lose 11 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile.",
-    "UPGRADE_DESCRIPTION": "Innate NL Gain 1 Artifact. NL All enemies lose 11 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile.",
-    "EXTENDED_DESCRIPTION": [
-      "Fallen Angel",
-      "Gain 1 Artifact. NL All enemies lose 16 HP. NL aigismod:Release: Add 1 copy of this to Draw Pile."
-    ]
-  },
-  "aigisMod:Dina2": {
-    "NAME": "Dina",
-    "DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 aigismod:splash damage. NL Gain 1 Blur. NL Pair: Dine",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 aigismod:splash damage. NL Gain 3 Blur. NL Pair: Dine",
-    "EXTENDED_DESCRIPTION": [
-      "Superhuman Girl",
-      "aigismod:Armor: 16. NL Deal 24 aigismod:splash damage. NL Gain 1 Blur. NL Pair: Dine"
-    ]
-  },
-  "aigisMod:Dine": {
-    "NAME": "Dine",
-    "DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 damage to all enemies. NL At the end of turn gain 10 Block. NL Pair: Dina",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: 16. NL Deal 16 damage to all enemies. NL At the end of turn gain 18 Block. NL Pair: Dina",
-    "EXTENDED_DESCRIPTION": [
-      "Iron Arm Maiden",
-      "aigismod:Armor: 16. NL Deal 24 damage to all enemies. NL At the end of turn gain 10 Block. NL Pair: Dina"
-    ]
-  },
-  "aigisMod:Therese": {
-    "NAME": "Therese",
-    "DESCRIPTION": "Gain 1 Dexterity. NL Gain 10 Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 2 Dexterity. NL Gain 12 Block. NL Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      "Lion Shield of Sunlight"
-    ]
-  },
-  "aigisMod:Sera": {
-    "NAME": "Sera",
-    "DESCRIPTION": "Gain 2 Blur or if target enemy intends to attack gain 8 Block.",
-    "UPGRADE_DESCRIPTION": "Gain 3 Blur or if target enemy intends to attack gain 10 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Priest Warrior"
-    ]
-  },
-  "aigisMod:Flamel": {
-    "NAME": "Flamel",
-    "DESCRIPTION": "Reduce the cost of a random Skill in hand by 1 for the turn and if target enemy intends to attack gain 6 Block.",
-    "UPGRADE_DESCRIPTION": "Reduce the cost of a Skill in hand by 1 for the turn and if target enemy intends to attack gain 8 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Priestess Warrior"
-    ]
-  },
-  "aigisMod:Fermi": {
-    "NAME": "Fermi",
-    "DESCRIPTION": "Reduce the cost of a random Attack in hand by 1 for the turn and if target enemy intends to attack gain 7 Block.",
-    "UPGRADE_DESCRIPTION": "Reduce the cost of an Attack in hand by 1 for the turn and if target enemy intends to attack gain 9 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Priest Warrior"
-    ]
-  },
-  "aigisMod:Ehret": {
-    "NAME": "Ehret",
-    "DESCRIPTION": "Reduce your Block by half. NL Gain 2 Blur and 2 Dexterity for the turn.",
-    "UPGRADE_DESCRIPTION": "Reduce your Block by half. NL Gain 2 Blur and 2 Dexterity for the turn.",
-    "EXTENDED_DESCRIPTION": [
-      "Priestess Warrior"
-    ]
-  },
-  "aigisMod:Danan": {
-    "NAME": "Danan",
-    "DESCRIPTION": "aigismod:Armor: 5 NL Gain 7 Block and 2 Strength for the turn.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain 10 Block and 3 Strength for the turn.",
-    "EXTENDED_DESCRIPTION": [
-      "Guardian of the Jungle"
-    ]
-  },
-  "aigisMod:Miranda": {
-    "NAME": "Miranda",
-    "DESCRIPTION": "aigismod:Armor: 5 NL Gain 7 Block. Deal damage equal to Block. NL End your turn.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain 8 Block. Deal damage equal to Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Holy Hammer Warrior"
-    ]
-  },
-  "aigisMod:Maribel2": {
-    "NAME": "Maribel",
-    "DESCRIPTION": "aigismod:Fortress 10: Gain 9 Block. NL Deal damage equal to Block. NL End your turn.",
-    "UPGRADE_DESCRIPTION": "aigismod:Fortress 10: Gain 9 Block. NL Deal damage equal to Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Holy Warrior"
-    ]
-  },
-  "aigisMod:Vanessa": {
-    "NAME": "Vanessa",
-    "DESCRIPTION": "aigismod:Armor 10 NL Deal 16 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 1 Strength.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor 10 NL Deal 22 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 1 Strength.",
-    "EXTENDED_DESCRIPTION": [
-      "Heavy Artillery of Steel",
-      "aigismod:Armor 10 NL Deal 17 aigismod:splash_damage. NL aigismod:Fortress 12: All enemies lose 2 Strength."
-    ]
-  },
-  "aigisMod:Regina": {
-    "NAME": "Regina",
-    "DESCRIPTION": "Deal 14 aigismod:splash_damage. NL aigismod:Fortress 8: This is played twice. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal 18 aigismod:splash_damage. NL aigismod:Fortress 8: This is played twice. NL Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      "Heavy Artillery"
-    ]
-  },
-  "aigisMod:Anatolia": {
-    "NAME": "Anatolia",
-    "DESCRIPTION": "Deal 24 damage. NL Shuffle 2 Wounds to Draw Pile. NL This turn your HP will not become 0.",
-    "UPGRADE_DESCRIPTION": "Deal 32 damage. NL Shuffle 2 Wounds to Draw Pile. NL This turn your HP will not become 0.",
-    "EXTENDED_DESCRIPTION": [
-      "Orc Hero",
-      "Deal 25 damage. NL Shuffle 1 Wound to DrawPile. NL This turn your HP will not become 0."
-    ]
-  },
-  "aigisMod:Barbara": {
-    "NAME": "Barbara",
-    "DESCRIPTION": "Deal 18 damage. NL Add 1 Wound to Hand. NL If attacked enemy has a Debuff gain 10 Block.",
-    "UPGRADE_DESCRIPTION": "Deal 22 damage. NL Add 1 Wound to Hand. NL If attacked enemy has a Debuff gain 12 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Valiant Gladiator"
-    ]
-  },
-  "aigisMod:Doula": {
-    "NAME": "Doula",
-    "DESCRIPTION": "Deal 11 damage. Add 2 Dazed to Discard Pile. If the enemy has Vulnerable or Weak gain [E]",
-    "UPGRADE_DESCRIPTION": "Deal 15 damage. Add 2 Dazed to Discard Pile. If the enemy has Vulnerable or Weak gain [E]",
-    "EXTENDED_DESCRIPTION": [
-      "Orc Swordswoman"
-    ]
-  },
-  "aigisMod:Ilios": {
-    "NAME": "Ilios",
-    "DESCRIPTION": "Gain 9 Block. Shuffle 1 Dazed into Draw Pile. This turn apply 1 Weak to all enemies when you play an Attack.",
-    "UPGRADE_DESCRIPTION": "Gain 12 Block. Shuffle 1 Dazed into Draw Pile. This turn apply 1 Weak to all enemies when you play an Attack.",
-    "EXTENDED_DESCRIPTION": [
-      "Orc Strategist"
-    ]
-  },
-  "aigisMod:Lina": {
-    "NAME": "Lina",
-    "DESCRIPTION": "Archers deal 1 more damage. NL When a Status card is created gain 4 Block.",
-    "UPGRADE_DESCRIPTION": "Archers deal 2 more damage. NL When a Status card is created gain 5 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Goblin Maid"
-    ]
-  },
-  "aigisMod:Calope": {
-    "NAME": "Calope",
-    "DESCRIPTION": "Deal 1 aigismod:archer damage 3 times. NL Shuffle 1 Wound to Draw Pile. NL If enemy has a debuff gain 5 Block.",
-    "UPGRADE_DESCRIPTION": "Deal 2 aigismod:archer damage 3 times. NL Shuffle 1 Wound to Draw Pile. NL If enemy has a debuff gain 8 Block.",
-    "EXTENDED_DESCRIPTION": [
-      "Animal-eared Archer"
-    ]
-  },
-  "aigisMod:Vine": {
-    "NAME": "Vine",
-    "DESCRIPTION": "Deal 8 damage. NL aigismod:Fortress 10. Deal 10 damage to all enemies.",
-    "UPGRADE_DESCRIPTION": "Deal 9 damage. NL aigismod:Fortress 10. Deal 14 damage to all enemies.",
-    "EXTENDED_DESCRIPTION": [
-      "Rabbit-Eared Martial Artist"
-    ]
-  },
-  "aigisMod:Leone": {
-    "NAME": "Leone",
-    "DESCRIPTION": "Deal 14 damage. NL aigismod:Fortress 8: Gain 4 Blur. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal 20 damage. NL aigismod:Fortress 8: Gain 4 Blur. NL Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      "Beasts' Champion",
-      "Deal 15 damage. NL aigismod:Fortress 8: Gain 6 Blur. NL Exhaust"
-    ]
-  },
-  "aigisMod:Ur": {
-    "NAME": "Ur",
-    "DESCRIPTION": "Deal 8 aigismod:true_damage. NL aigismod:Fortress 6: Increase this card's damage by 8 this combat.",
-    "UPGRADE_DESCRIPTION": "Deal 8 aigismod:true_damage. NL aigismod:Fortress 6: Increase this card's damage by 12 this combat.",
-    "EXTENDED_DESCRIPTION": [
-      "Ferocious Clawed Beast"
-    ]
-  },
-  "aigisMod:MeiHua": {
-    "NAME": "Mei-Hua",
-    "DESCRIPTION": "Gain 2 Block. NL Permanently increase this Block by 2. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain 2 Block. NL Permanently increase this Block by 3. NL Exhaust.",
-    "EXTENDED_DESCRIPTION": [
-      "Wind Chanting Girl"
-    ]
-  },
-  "aigisMod:Pippin": {
-    "NAME": "Mei-Hua",
-    "DESCRIPTION": "Gain 5 Block. NL When an Enemy is killed gain 15 Block and 1 Artifact.",
-    "UPGRADE_DESCRIPTION": "Gain 5 Block. NL When an Enemy is killed gain 15 Block and 1 Artifact..",
-    "EXTENDED_DESCRIPTION": [
-      "Feng Shui Master"
-    ]
-  },
-  "aigisMod:Azumi": {
-    "NAME": "Azumi",
-    "DESCRIPTION": "Ethereal. NL All enemies lose Strength for each Curse in Master Deck. Nl Exhaust",
-    "UPGRADE_DESCRIPTION": "NL All enemies lose Strength for each Curse in Master Deck. Nl Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      "Yamauba"
-    ]
-  },
-  "aigisMod:Fujimurasaki": {
-    "NAME": "Fujimurasaki",
-    "DESCRIPTION": "Gain 3 Thorns. NL Choose a character in hand and gains this effect:Gain 1 Blur. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 5 Thorns. NL Choose a character in hand and gains this effect:Gain 1 Blur. NL Exhaust",
-    "EXTENDED_DESCRIPTION": [
-      "Famous Sword Tsukumogami"
+      "Decapitation Sword"
     ]
   }
+
+
 }
 
 
