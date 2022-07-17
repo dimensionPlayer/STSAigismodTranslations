@@ -309,58 +309,65 @@
   },
   {
     "NAMES": [
+      "流星",
+      "流星オーブ",
       "Meteor",
       "Meteor.",
       "meteor",
       "meteor."
     ],
-    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
+    "DESCRIPTION": "オーブ: ランダムな敵にダメージを与える。 流星カードをプレイするとダメージが上昇する。"
   },
   {
     "PROPER_NAME": "Dark Fighter",
     "NAMES": [
+      "ダークファイター",
       "Dark Fighter",
       "Dark_fighter.",
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
+    "DESCRIPTION": "#y手札 にある状態で #yブロック を得るたび、このカードのコストがターンの間 #b1 減少する。"
   },
   {
     "NAMES": [
+      "ライフリンク",
       "Lifelink",
       "Lifelink.",
       "lifelink",
       "lifelink."
     ],
-    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
+    "DESCRIPTION": "敵はあなたが完全にブロックしたダメージと同じだけHPを失う。 コスト #b1 以上の攻撃を行うと #b1 減少する。"
   },
   {
     "NAMES": [
+      "要塞",
       "Fortress",
       "Fortress:",
       "fortress",
       "fortress:"
     ],
-    "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
+    "DESCRIPTION": "あなたのブロックがこの値以上のとき、この効果を得る。"
   },
   {
     "NAMES": [
+      "堅物",
       "Armor",
       "Armor:",
       "armor",
       "armor:"
     ],
-    "DESCRIPTION": "#yUnplayable unless your Block is equal or higher than this amount."
+    "DESCRIPTION": "あなたのブロックがこの値以上でないと #y使用不可 。"
   },
   {
     "NAMES": [
+      "封印解除",
       "Release",
       "Release:",
       "release",
       "release:"
     ],
-    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur."
+    "DESCRIPTION": "ブロックが0である、またはブラーを得ている時、以下の効果を得る。"
   }
 
 ]

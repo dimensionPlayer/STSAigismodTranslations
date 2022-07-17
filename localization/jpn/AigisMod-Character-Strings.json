@@ -34,13 +34,13 @@
   },
   "aigisMod:TheDarkKnightCharacter": {
     "NAMES": [
-      "The Dark Knight",
-      "the Dark Knight"
+      "暗黒騎士",
+      "暗黒騎士"
     ],
     "TEXT": [
-      "A warrior who became a living armor is guided by the voice of the stars. NL Through the Spire, he might make an important discovery.",
-      "You are about to use the special technique against the heart.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~knight,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "リビングアーマーとなった戦士は星の声に導かれた。 NL 塔を通じてなにか大切なものを発見するかもしれない。",
+      "あなたは心臓に向かって奥義を使い…",
+      "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式の NL ようなものを行っているところに出くわした。あなたが近づくと、 NL 薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった NL 彼らは長く青白い手をあなたに伸ばしてくる。 NL 「騎士よ我らと共に、そして塔の温もりを感じるのだ」"
     ]
   }
 }

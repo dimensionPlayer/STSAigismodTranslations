@@ -277,103 +277,103 @@
         },
 
         "aigisMod:MeteorTactics": {
-                "NAME": "Meteor Tactics",
-                "DESCRIPTIONS": ["Meteor orbs hits all enemies."]
+                "NAME": "天落岩の計",
+                "DESCRIPTIONS": ["流星オーブが全ての敵を攻撃する。"]
         },
 
         "aigisMod:MultiPlosion": {
-                "NAME": "Multiplosion",
-                "DESCRIPTIONS": ["At the start of your turn, trigger the #ypassive of your rightmost orb #b", " times."]
+                "NAME": "マルチプロージョン",
+                "DESCRIPTIONS": ["ターン開始時、一番右のオーブの自動効果を #b", " 回使用する。"]
         },
 
         "aigisMod:Inferno": {
-                "NAME": "Inferno",
-                "DESCRIPTIONS": ["When a #yMeteor #yorb hits an enemy, apply #b", " #yburn."]
+                "NAME": "インフェルノ",
+                "DESCRIPTIONS": [" #y流星 #yオーブ が攻撃した時、 #バーン #b", " を与える。"]
         },
 
         "aigisMod:HuntingTime": {
-                "NAME": "Hunting Time",
-                "DESCRIPTIONS": ["When an enemy is killed, gain #b", " #yblock and gain #b1 #yartifact."]
+                "NAME": "ハンティングタイム",
+                "DESCRIPTIONS": ["敵を倒した時、 #b", " #yブロック と #yアーティファクト #b1 を得る。"]
         },
 
         "aigisMod:MagicShells": {
-                "NAME": "Magic Shells",
-                "DESCRIPTIONS": ["When you play #b", " #yskill cards, #ychannel #b1 Meteor #yorb."]
+                "NAME": "魔砲弾",
+                "DESCRIPTIONS": ["#yスキル カード を #b", " 枚プレイした時、 流星 #yオーブ を#b1 つ #y生成 する。"]
         },
 
         "aigisMod:ManaControl": {
-                "NAME": "Mana Control",
-                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage this turn."]
+                "NAME": "マナ・コントロール",
+                "DESCRIPTIONS": ["このターン、流星オーブのダメージは #b", " 上昇する。"]
         },
 
         "aigisMod:LifelinkPower": {
-                "NAME": "Lifelink",
-                "DESCRIPTIONS": ["This enemy loses #yHP equal to the amount of damage you #yBlock completely. Reduced by #b1 when you play a cost #b1 or higher attack."]
+                "NAME": "ライフリンク",
+                "DESCRIPTIONS": ["あなたが完全に #yブロック したダメージと同じ値の #yHP を失う。 コスト #b1 以上のアタックをプレイする度、 #b1 減少する。"]
         },
 
         "aigisMod:DineGainBlockPower": {
-                "NAME": "End of Turn Block",
-                "DESCRIPTIONS": ["Gain #b", " #yBlock at the end of this turn."]
+                "NAME": "ターン終了時ブロック獲得",
+                "DESCRIPTIONS": ["ターン終了時、 #b", " #yブロック を得る。"]
         },
 
         "aigisMod:MechaForm": {
-                "NAME": "Mecha Form",
-                "DESCRIPTIONS": ["After #b", " turns", " turn", ", #ystun a random enemy and gain", " #yDexterity and #yBlur."]
+                "NAME": "大爪形態",
+                "DESCRIPTIONS": ["#b", " ターン後 ", " turn", ", ランダムな敵に #yスタン を与え、 #y敏捷性 と #yブラー を #b", " 得る。"]
         },
 
         "aigisMod:BladeOfPursuitPower": {
-                "NAME": "Blade Of Pursuit",
-                "DESCRIPTIONS": ["For the next #b", " turns, #yattack cards that cost #b0 are played twice."]
+                "NAME": "追い討ちの鎌剣",
+                "DESCRIPTIONS": ["#b", " ターンの間、コスト #b0 の #yアタック カードは2回プレイする。"]
         },
 
         "aigisMod:FlameMirage": {
-                "NAME": "Flame Mirage",
-                "DESCRIPTIONS": ["When a card is exhausted, gain #b1 #yblur. At the end of turn, deal #b", " damage to a random enemy if you have #yblur."]
+                "NAME": "影炎の蜃気楼",
+                "DESCRIPTIONS": ["カードを廃棄した時、 #yブラー #b1 を得る。 ターン終了時に #yブラー を持っている場合、ランダムな敵に #b", " ダメージを与える。"]
         },
 
         "aigisMod:ExterminationProgram": {
-                "NAME": "Extermination Program",
-                "DESCRIPTIONS": ["Whenever you play a #yskill card, this enemy takes #b", " damage."]
+                "NAME": "絶滅プログラム",
+                "DESCRIPTIONS": ["#yスキル カードをプレイする度、この敵は #b", " ダメージを受ける。"]
         },
 
         "aigisMod:SpiritBoost": {
-                "NAME": "Spirit Boost",
-                "DESCRIPTIONS": ["At the start of turn, #yattack cards in your hand cost #b", " less for the turn. If you #yplay an #yattack card, lose #yALL your #yenergy."]
+                "NAME": "スピリットブースト",
+                "DESCRIPTIONS": ["ターン開始時、手札の #yアタック カードのコストをこのターン #b", " 減少する。 #yアタック を #yプレイ した時、 #y全て の #yエナジー を消費する。"]
         },
 
         "aigisMod:AnnihilationProgram": {
-                "NAME": "Annihilation Program",
-                "DESCRIPTIONS": ["Whenever the player gains #yblock, take #b", " damage."]
+                "NAME": "絶滅プログラム	",
+                "DESCRIPTIONS": ["#yブロック を得るたび、 #b", " ダメージを与える。"]
         },
 
         "aigisMod:LightweightPower": {
-                "NAME": "Lightweight Power",
-                "DESCRIPTIONS": ["At the end of turn, lose #b1 #ydexterity and gain #b", " #yblur."]
+                "NAME": "軽量化",
+                "DESCRIPTIONS": ["ターン終了時、 #y敏捷性 #b1 を失い、 #yブラー #b", " を得る。"]
         },
 
         "aigisMod:TigerHide": {
-                "NAME": "Fox in a Tiger's Hide",
-                "DESCRIPTIONS": ["When you gain #yblur, deal #b", " #ydamage to all enemies and draw #b1 card."]
+                "NAME": "狐借虎威",
+                "DESCRIPTIONS": ["#yブラー を得た時、 全ての敵に #b", " #yダメージ を与え、 カードを #b1 枚引く。"]
         },
 
         "aigisMod:FlameBurstPower": {
-                "NAME": "Flame Burst",
-                "DESCRIPTIONS": ["When you gain #yblur, gain #b", " #yStrenght."]
+                "NAME": "大炎上",
+                "DESCRIPTIONS": ["#yブラー を得た時、 #y筋力 #b", " を得る。"]
         },
 
         "aigisMod:AngelMaid": {
-                "NAME": "Angel Maid",
-                "DESCRIPTIONS": ["At turn start, add #b", " #yrelease card from your deck.", "Choose a card to add to hand.", "I don't have a Release card in my draw pile..."]
+                "NAME": "天使メイド",
+                "DESCRIPTIONS": ["ターン開始時、山札の #y封印解除 カードを #b", " 枚加える。", "手札に加えるカードを選ぶ。", "山札に封印解除カードがない…"]
         },
 
         "aigisMod:EndOfTurnHeal": {
-                "NAME": "End of Turn Heal",
-                "DESCRIPTIONS": ["At turn end, heal #b", " HP."]
+                "NAME": "ターン終了時ブロック獲得",
+                "DESCRIPTIONS": ["ターン終了時、HPを #b", " 回復する。"]
         },
 
         "aigisMod:DivineStaffDagda": {
-                "NAME": "Divine Staff Dagda",
-                "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
+                "NAME": "ダグザの神杖",
+                "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、#y筋力 #b", " と #b", "#yブロック を得る。"]
         },
 
         "aigisMod:StrengthForTheTurnPower": {
