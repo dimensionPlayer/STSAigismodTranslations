@@ -4,7 +4,7 @@
     "DESCRIPTIONS": [
       "見慣れた英傑の塔のフロアにたどりついた。 NL 塔を管理する英傑たちは、あなたに選択肢を与えてくる。 NL 彼らの力の一部を借りるか NL もしくは NL 自らの力を示し、より大きな力を得るかだ。",
       "自分の決断を確信し、フロアを出て冒険を続けた。",
-      "あなたの選択は大いなる力をもたらすでしょう。。",
+      "あなたの選択は大いなる力をもたらすでしょう。",
       "あなたは彼らの期待に答えた。"
     ],
     "OPTIONS": [
@@ -18,68 +18,68 @@
   },
 
   "aigisMod:AigisShrine": {
-    "NAME": "Aigis Shrine",
+    "NAME": "アイギス神殿",
     "DESCRIPTIONS": [
-      "You come across a familiar shrine. NL It is a manifestation of the Goddess Aigis. NL You can receive a blessing from the Goddess.",
-      "You leave the shrine to continue with your adventure."
+      "見慣れた神殿を訪れた。 NL そこは女神アイギスを祭っている。 NL あなたは女神の加護を受けることができる。",
+      "あなたは神殿を出て冒険を続けた。"
     ],
     "OPTIONS": [
-      "[Donate] #gOffer #b100 #gGold #gto #gobtain #ga #gRelic.",
-      "[Pray] #gUpgrade #ga #gCard",
-      "[Summon] #gChoose #b1 #gof #b20 #gCards #gto #gadd #gto #gyour #gDeck.",
-      "[Leave]",
-      "Choose a card to add to your deck.",
-      "[LOCKED] You don't have enough Gold(100).",
-      "[LOCKED] You don't have a card to upgrade.",
-      "Choose a card to upgrade."
+      "[寄付]  #b100ゴールドを捧げ、 レリック を 手に入れる。",
+      "[祈る] #gカードを1枚アップグレードする。",
+      "[召喚] #g20枚のカードの中から、デッキに1枚加える。",
+      "[離れる]",
+      "デッキに加えるカードを一枚選ぶ",
+      "[LOCKED] あなたは十分なゴールド(100)を持っていない。",
+      "[LOCKED] アップグレードできるカードを持っていない。",
+      "アップグレードするカードを1枚選ぶ。"
     ]
   },
 
   "aigisMod:MilitaryExercise": {
-    "NAME": "Military Exercise",
+    "NAME": "軍事演習",
     "DESCRIPTIONS": [
-      "The Imperial reached the meeting point with the Kingdom army. NL Since there is time before your expedition continues you can spend it to strengthen your army.",
-      "You choose to reorder your units.",
-      "You choose to train with your own army.",
-      "You awakened a new power after this battle."
+      "帝国は王国軍との合流地点に到着した。 NL 遠征の再開まで時間はあり、軍の強化に使えそうだ。",
+      "あなたは部隊の再編成を行った。",
+      "あなたは自軍で訓練した。",
+      "あなたは戦いの後、新たな力に目覚めた"
     ],
     "OPTIONS": [
-      "[Regroup] #gAdd #ga #gCard to your deck.",
-      "[Train] #gUpgrade #ga #gCard.",
-      "[Fight] #gChallenge #rThe #rPrince.",
+      "[再編] #gカードを1枚デッキに加える。",
+      "[訓練] #gカードを一枚アップグレードする",
+      "[模擬戦] #r王子と戦う。",
       "[Leave]",
-      "[LOCKED] You don't have any cards to upgrade.",
-      "Choose a card to upgrade",
-      "[Awaken] #gGain #ga #gRelic."
+      "[LOCKED] アップグレードできるカードを持っていない。",
+      "アップグレードするカードを1枚選ぶ。",
+      "[覚醒] #gレリックを手に入れる。"
     ]
   },
 
   "aigisMod:CursedGem": {
-    "NAME": "Cursed Gem",
+    "NAME": "呪いの宝石",
     "DESCRIPTIONS": [
-      "Before you lies a dead body, it holds a mysterious gem. NL You also see a gold plated chest in the room. You feel some power coming from the gems, but the chest also has your attention.",
-      "With the gem in your hands now you can identify it comes from a cursed cult. You have the duty to safekeep it, but its power may come in handy.",
-      "As suspected, it is a monsters."
+      "あなたの目の前には死体があり、不思議な宝石を持っている。 NL また、ほかには黄金の宝箱がある。あなたは宝石から何らかの力を感じながらも宝箱にも興味をひかれています。",
+      "宝石を手に取ると、それが呪われた教団由来のものであることがわかった。あなたにはそれを保管する義務がありますが、その力は役に立つかもしれない。"
+      "やっぱりモンスターだった！"
     ],
     "OPTIONS": [
-      "[Search] #gExamine #gthe #rgold #rchest?",
-      "[Take the Gem] #gGain #ga #gRelic and #ra #rCurse.",
-      "[Leave]",
-      "[Fight]"
+      "[宝箱を漁る] #r黄金の宝箱 を #g調べる？",
+      "[宝石を取る] #gレリック と #r呪い を得る。",
+      "[離れる]",
+      "[戦闘]"
     ]
   },
   "aigisMod:TheVoice": {
-    "NAME": "The Voice",
+    "NAME": "声",
     "DESCRIPTIONS": [
-      "Navigating trough the floor you suddenly lose your senses and you begin to hear a voice...",
-      "You feel inspired and stronger for some reason.",
-      "You feel a familiar strength within you.",
-      "You should be more aware."
+      "フロアを移動していると突然体の感覚がなくなり、声が聞こえ始めた…。",
+      "あなたはインスピレーションを受け、なぜか強くなったように感じた。",
+      "自分の中に馴染みのある力を感じる。",
+      "もっと気付いてほしい"
     ],
     "OPTIONS": [
-      "[The Stars?] #gMax #gHP +8",
-      "[Commander?] #gGain #ga #gRelic",
-      "[Wake Up] Leave"
+      "[星?] #g最大HP +8",
+      "[団長?] #gレリックを手に入れる",
+      "[起きる] 離れる"
     ]
   }
 }
