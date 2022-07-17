@@ -236,10 +236,10 @@
     ]
   },
   "aigisMod:EmperorAwakening": {
-    "NAME": "Emperor Awakening",
-    "FLAVOR": "White Emperor: No, living within the Empire, is synonymous with continuing to win",
+    "NAME": "皇帝の覚醒",
+    "FLAVOR": "「……いや、帝国で生きるということは、勝ち続けるということと同義なのだ」-白の皇帝",
     "DESCRIPTIONS": [
-      "Start each #yElite and #yBoss combat with #b3 #yStrength and #b3 #yDexterity."
+      "#yボス と #yエリート との戦闘開始時、#y筋力 #b3 と#敏捷性 #b3 を得る。"
     ]
   },
 
@@ -336,7 +336,7 @@
     "FLAVOR": "「人間の体って不便だわぁ。これが生きるってことなのね。」-メトゥス",
     "DESCRIPTIONS": [
       "戦闘開始時、 #yスケルトン #b3 枚と #yメトゥス #b1 枚を廃棄山に加える。 ",
-      "１戦闘に1回、 HPが最大の #b30% 以下の時、このレリックを #y右クリック することで、廃棄山の #yアンデッド #b1 枚を手札に加える"
+      "1戦闘に1回、 HPが最大の #b30% 以下の時、このレリックを #y右クリック することで、廃棄山の #yアンデッド #b1 枚を手札に加える"
     ]
   },
   "aigisMod:Daywalker": {
@@ -348,10 +348,10 @@
     ]
   },
   "aigisMod:BastetGem": {
-    "NAME": "Bastet Gem",
-    "FLAVOR": "Saval: The 'Cursed Gem', in return for granting the bearer immense power, they'll continue to devour their soul.",
+    "NAME": "バステトの宝石",
+    "FLAVOR": "「「呪われた宝石」、使用者に絶大な力を与える代償に、その魂を食らい続ける」-サバル",
     "DESCRIPTIONS": [
-      "The first #b3 times in a combat you #yexhaust a #yCurse, gain #b1 #yStrength."
+      "1戦闘に3回、 #y呪い を #y廃棄 すると  #y筋力 #b1 を得る。"
     ]
   },
 
@@ -362,94 +362,94 @@
 
 
   "aigisMod:ArmoredDecius": {
-    "NAME": "Armored Decius",
-    "FLAVOR": "Meteor: Decius is a despicable man who has no scruples about what he does in order to win!",
+    "NAME": "アーマードデシウス",
+    "FLAVOR": "「デシウスは勝つためには手段を選ばない、すっごく卑劣な男なんです！」-ミーティア",
     "DESCRIPTIONS": [
-      "At the end of the first #b4 turns, gain #b5 #yBlock.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b25 HP."
+      "最初の #b4 ターンはターン終了時、 #b5 #yブロック を得る。",
+      "1マップに1回、 HP が #b0 になった時 #b25 HP を得る。"
     ]
   },
   "aigisMod:MaouDecius": {
-    "NAME": "Maou Mecha Decius",
-    "FLAVOR": "Decius: Aah, I can hear the voice of the stars. What a beautiful tone...",
+    "NAME": "大爪デシウス",
+    "FLAVOR": "「――嗚呼、星の声が聞こえる。何と美しい、調べなのだろうか……。」-デシウス",
     "DESCRIPTIONS": [
-      "Replaces Armored Decius. Add a Maou Mecha Form to your Deck.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b35 HP. "
+      "#pアーマードデシウス と置き換えるる。 デッキに大爪形態を #b1 枚 追加する。",
+      "1マップに1回、 HP が #b0 になった時 #b35 HP を得る。 "
     ]
   },
   "aigisMod:MeteorSword": {
-    "NAME": "Meteor Sword Technique",
-    "FLAVOR": "Decius: This is the Special Technique...!? To be able to drop meteors is t-too unfair....",
+    "NAME": "奥義 天招流星剣",
+    "FLAVOR": "「これが奥義か……！　流星を降らすとはひ、卑怯すぎる……。」-デシウス",
     "DESCRIPTIONS": [
-      "Channel #b1 #yMeteor with #b6 damage at the start of each combat.",
-      " When a card #ychannels a #yMeteor, it is created with #b1 more damage."
+      "戦闘開始時、 #b6 ダメージの #y流星 #b1 を 生成する。",
+      "カードで #y生成 する #y流星 が #b1 ダメージ増加する。"
     ]
   },
   "aigisMod:KnightProtection": {
-    "NAME": "Holy Knight's Protection",
-    "FLAVOR": "Cornelia: Even if this is the power of the demons, what I must accomplish remains the same.",
+    "NAME": "聖騎士の守護",
+    "FLAVOR": "「この力が魔の力でも、私がすべきことは変わらない。」-コーネリア",
     "DESCRIPTIONS": [
-      "The first time you play an Attack each turn, gain #b3 #yBlock.",
-      " The first time you play a #yDark #yFighter in combat gain #b1 #yBuffer."
+      "1ターンに1回、アタックをプレイした時、 #b3 #yブロック を得る。",
+      "1戦闘に1回、 #yダーク #yファイター をプレイした時、 #yバッファー #b1 を得る。"
     ]
   },
   "aigisMod:ShieldBless": {
-    "NAME": "Shield Bless",
-    "FLAVOR": "Heios: Even a sword fallen into darkness can protect its brilliance.",
+    "NAME": "シールドブレス",
+    "FLAVOR": "「闇に堕ちた剣とて、輝きを守護することはできましょう。」-ヘイオス",
     "DESCRIPTIONS": [
-      "When you play a #yDark #yFighter gain #b1 #yThorns.",
-      " While your #yHP is at #b50% or less, gain #b2 #yDexterity."
+      "#yダーク #yファイター をプレイした時、 #yトゲ #b1 を得る。",
+      " あなたの #yHP が #b50% 以下の間、 #y敏捷性 #b2 を得る。"
     ]
   },
   "aigisMod:SuperMeteor": {
-    "NAME": "Super Meteor Tactics",
-    "FLAVOR": "Aisha: What, I don't look like a tactician to you?",
+    "NAME": "超天落岩の計",
+    "FLAVOR": "「ボクって軍師っぽくない？」-アイシャ",
     "DESCRIPTIONS": [
-      "Once per turn, when you play a #yMeteor card gain [E]"
+      "1ターンに1回、 #y流星 カードをプレイした時、 [E] を得る。"
     ]
   },
   "aigisMod:BlastingEnhancement": {
-    "NAME": "Secret Art of Blasting Enhancement",
-    "FLAVOR": "Garania: Mastering the spirit of magic, that's my mission.",
+    "NAME": "爆砕強化の秘術",
+    "FLAVOR": "「魔力の精髄を極めること それが私の使命です。」-ガラニア",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yMeteor if there is more than #b1 enemy.",
-      " When an enemy appears in combat, #yChannel #b1 #yMeteor."
+      "戦闘開始時、敵が ＃2 体以上の時、 #y流星 #b1 を #y生成 する。",
+      " 戦闘中敵が追加された時、 #y流星 #b1 を #y生成 する。"
     ]
   },
   "aigisMod:BlastingBall": {
-    "NAME": "Super Human Blasting Ball",
-    "FLAVOR": "Dina: I wonder if it's because of my armor... My muscles are all worn out.",
+    "NAME": "怪力爆砕鉄球",
+    "FLAVOR": "「鎧のせいかな…筋肉が疲れてるみたいだ。」-ディーナ",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+      "あなたのターン終了時、 あなたの #yブロック が #b16 以上の場合、すべての敵に #b10 ダメージをあたる。"
     ]
   },
   "aigisMod:SealRelease": {
-    "NAME": "Divine Seal Release",
-    "FLAVOR": "Chloe: Even fallen angels have something to defend.",
+    "NAME": "神魔封印解除",
+    "FLAVOR": "「堕天使でも、守れるものがあるの。」-クロエ",
     "DESCRIPTIONS": [
-      "Start each combat with #b2 #yBlur."
+      "戦闘開始時、 #yブラー #b2 を得る。"
     ]
   },
   "aigisMod:IndomitableTraitor": {
-    "NAME": "Indomitable Traitor",
-    "FLAVOR": "Shadia: You humans, thousands of years pass and you remain as foolish as ever.",
+    "NAME": "不屈の叛逆者",
+    "FLAVOR": "「千年如きでは、人の愚かしさも、優しさも変わらないということか。」-シャディア",
     "DESCRIPTIONS": [
-      "At the end of player's turn #b5, if you have not received #yHP damage, deal #b50 damage to all enemies."
+      "プレイヤーの #b5 ターン目終了時、 #yHP ダメージを受けていない場合、すべての敵に #b50ダメージを与える。"
     ]
   },
   "aigisMod:HolyAura": {
-    "NAME": "Holy Aura",
-    "FLAVOR": "Yurina: I can't believe that I still have human feelings...",
+    "NAME": "聖なるオーラ",
+    "FLAVOR": "「人の気持ちが、私にもまだ残っていたなんて……」-ユリナ",
     "DESCRIPTIONS": [
-      "#yDark #yFighter cards are retained.",
-      " At the end of your #b4th turn, gain #b10 #yBlock."
+      "#yダーク #yファイター カードを保留する。",
+      "#b4 ターン目終了時、 #b10 #yブロック を得る。"
     ]
   },
   "aigisMod:HotSands": {
-    "NAME": "Hot Sand Tactics",
-    "FLAVOR": "Nephty: Leave it to us to guide you through the desert. Come on, let's go with the wind.",
+    "NAME": "熱砂の連携戦術",
+    "FLAVOR": "「砂漠の道案内はお任せください。さぁ、風と共に参りましょう。」-ネフティ",
     "DESCRIPTIONS": [
-      "When you attack an #yElite or #yBoss enemy, gain #b2 Block."
+      "#yエリート か #yボス を攻撃した時、 #b2 ブロック を得る。"
     ]
   },
 
@@ -458,10 +458,10 @@
 
 
   "aigisMod:AigisShrine": {
-    "NAME": "Aigis Shrine",
+    "NAME": "アイギス神殿",
     "FLAVOR": "英雄に対し、人々は1つの大きな神殿を立てた。――そう、女神アイギスを祭る神殿である。",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "通常敵とエリート敵の報酬に、 他の #yアイギス クラス カード の #b3 択が追加される。"
     ]
   },
 
@@ -491,7 +491,7 @@
     "NAME": "アイギス神殿",
     "FLAVOR": "英雄に対し、人々は1つの大きな神殿を立てた。――そう、女神アイギスを祭る神殿である。",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "通常敵とエリート敵の報酬に、 他の #yアイギス クラス カード の #b3 択が追加される。"
     ]
   }
 }
