@@ -288,7 +288,7 @@
 
         "aigisMod:Inferno": {
                 "NAME": "インフェルノ",
-                "DESCRIPTIONS": [" #y流星 #yオーブ が攻撃した時、 #バーン #b", " を与える。"]
+                "DESCRIPTIONS": [" #y流星 #yオーブ が攻撃した時、 #yバーン #b", " を与える。"]
         },
 
         "aigisMod:HuntingTime": {
@@ -298,7 +298,7 @@
 
         "aigisMod:MagicShells": {
                 "NAME": "魔砲弾",
-                "DESCRIPTIONS": ["#yスキル カード を #b", " 枚プレイした時、 流星 #yオーブ を#b1 つ #y生成 する。"]
+                "DESCRIPTIONS": ["#yスキル カード を #b", " 枚プレイした時、 流星 #yオーブ を #b1 つ #y生成 する。"]
         },
 
         "aigisMod:ManaControl": {
@@ -323,7 +323,7 @@
 
         "aigisMod:BladeOfPursuitPower": {
                 "NAME": "追い討ちの鎌剣",
-                "DESCRIPTIONS": ["#b", " ターンの間、コスト #b0 の #yアタック カードは2回プレイする。"]
+                "DESCRIPTIONS": ["#b", " ターンの間、コスト #b0 の #yアタック カードを2回プレイする。"]
         },
 
         "aigisMod:FlameMirage": {
@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "ダグザの神杖",
-                "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、#y筋力 #b", " と #b", "#yブロック を得る。"]
+                "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
         },
 
         "aigisMod:StrengthForTheTurnPower": {

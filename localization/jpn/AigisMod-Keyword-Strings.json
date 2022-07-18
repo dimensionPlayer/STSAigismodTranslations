@@ -319,8 +319,9 @@
     "DESCRIPTION": "オーブ: ランダムな敵にダメージを与える。 流星カードをプレイするとダメージが上昇する。"
   },
   {
-    "PROPER_NAME": "Dark Fighter",
+    "PROPER_NAME": "暗黒騎士",
     "NAMES": [
+      "暗黒騎士",
       "ダークファイター",
       "Dark Fighter",
       "Dark_fighter.",
@@ -341,7 +342,7 @@
   },
   {
     "NAMES": [
-      "要塞",
+      "堅牢",
       "Fortress",
       "Fortress:",
       "fortress",
