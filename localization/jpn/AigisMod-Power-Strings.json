@@ -342,7 +342,7 @@
         },
 
         "aigisMod:AnnihilationProgram": {
-                "NAME": "絶滅プログラム	",
+                "NAME": "絶滅プログラム",
                 "DESCRIPTIONS": ["#yブロック を得るたび、 #b", " ダメージを与える。"]
         },
 

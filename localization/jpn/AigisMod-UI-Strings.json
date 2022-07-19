@@ -121,6 +121,12 @@
     ]
   },
 
+  "KagerouAction": {
+    "TEXT": [
+      "捨てる"
+    ]
+  },
+
   "AirshipAction": {
     "TEXT": [
       "帝国カードを1枚手札に加える",

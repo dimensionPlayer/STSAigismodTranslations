@@ -3472,8 +3472,8 @@
   },
   "aigisMod:Miruno2": {
     "NAME": "米鲁诺",
-    "DESCRIPTION": "Deal 10 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Deal 14 aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 2 cards.",
+    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Release: Remove 1 random debuff and draw 2 cards.",
     "EXTENDED_DESCRIPTION": [
       "天使长"
     ]
@@ -3654,8 +3654,8 @@
   },
   "aigisMod:Tatsumi": {
     "NAME": "Tatsumi",
-    "DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal 4 damage to a random enemy if you have Blur.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal 7 damage to a random enemy if you have Blur.",
+    "DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
     "EXTENDED_DESCRIPTION": [
       "Shadow Flame Miko"
     ]
@@ -3728,8 +3728,8 @@
   },
   "aigisMod:Alta1": {
     "NAME": "Alta",
-    "DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "DESCRIPTION": "Target enemy takes !M! damage when Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Automatic Doll of Roses"
     ]

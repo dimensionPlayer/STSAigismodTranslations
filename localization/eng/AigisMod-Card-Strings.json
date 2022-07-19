@@ -3350,7 +3350,7 @@
     "DESCRIPTION": "Channel 1 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive !M! aigismod:burn.",
     "UPGRADE_DESCRIPTION": "Channel 1 aigismod:Meteor. NL Enemies hit with aigismod:meteor receive !M! aigismod:burn.",
     "EXTENDED_DESCRIPTION": [
-      "Crimson Magician"
+      "Mystery Investigator"
     ]
   },
   "aigisMod:Mordiberte": {
@@ -3679,7 +3679,7 @@
     "UPGRADE_DESCRIPTION": "At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack.",
     "EXTENDED_DESCRIPTION": [
       "Spirit of War",
-      "Innate. NL At the start of turn, the cost of attack cards are reduced by !M! for teh turn, but lose your [E] when you play an attack."
+      "Innate. NL At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack."
     ]
   },
   "aigisMod:Saria": {
@@ -3709,8 +3709,8 @@
   },
   "aigisMod:Alta1": {
     "NAME": "Alta",
-    "DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when you gain Block. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "DESCRIPTION": "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Automatic Doll of Roses"
     ]
@@ -3859,7 +3859,7 @@
     "DESCRIPTION": "Lose all Blur and gain an equal amount of Intangible. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Lose all Blur and gain an equal amount of Intangible. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
-      "Wielder of the Onikiri",
+      "Eastern Country's Great Swordswoman",
       "Lose all Blur and gain an equal amount of Intangible + 1. NL Exhaust."
     ]
   },

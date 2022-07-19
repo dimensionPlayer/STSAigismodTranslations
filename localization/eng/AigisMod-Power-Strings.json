@@ -343,7 +343,7 @@
 
         "aigisMod:AnnihilationProgram": {
                 "NAME": "Annihilation Program",
-                "DESCRIPTIONS": ["Whenever the player gains #yblock, take #b", " damage."]
+                "DESCRIPTIONS": ["Whenever any #yblock is gained, take #b", " damage."]
         },
 
         "aigisMod:LightweightPower": {
