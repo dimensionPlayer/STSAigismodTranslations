@@ -260,8 +260,8 @@
   },
   "UndeadWorldAction": {
     "TEXT": [
-      "手札に加えるアンデット1枚を選択する", 
-      "廃棄山にアンデッドカードかない…"
+      "手札に加えるアンデット1枚を選ぶ", 
+      "廃棄山にアンデッドカードがない…"
     ]
   },
 
@@ -273,42 +273,42 @@
 
   "SumireAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Meteor or Eastern card in Draw Pile..."
+      "手札に加えるカード1枚を選ぶ",
+      "山札に東の国カードも流星カードもない…"
     ]
   },
 
   "NielAction": {
     "TEXT": [
-      "Select a cost 1 or lower card to add to hand.",
-      "I don't have any cost 1 or lower Card in Discard Pile..."
+      "手札に加えるコスト1以下のカードを選ぶ",
+      "捨て札にコスト1以下のカードがない…"
     ]
   },
 
   "ErunAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Release card in Draw Pile..."
+      "手札に加えるカード1枚を選ぶ",
+      "山札に封印解除カードがない…"
     ]
   },
 
   "NephtyAction": {
     "TEXT": [
-      "to reduce it's cost for the turn."
+      "このターンの間、コストを下げる"
     ]
   },
 
   "VivianAction": {
     "TEXT": [
-      "to reduce it's cost for the combat."
+      "この戦闘中、コストを下げる"
     ]
   },
 
   "AngelMaidAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "Choose cards to add to your hand.",
-      "I don't have a Release card in my draw pile..."
+      "手札に加えるカードを1枚選ぶ",
+      "手札に加えるカードを選ぶ",
+      "山札に封印解除カードがない…"
     ]
   }
 }
