@@ -121,6 +121,12 @@
     ]
   },
 
+  "KagerouAction": {
+    "TEXT": [
+      "弃牌。"
+    ]
+  },
+
   "AirshipAction": {
     "TEXT": [
       "选择一张帝国牌加入到你的手牌中。",
