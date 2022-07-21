@@ -86,7 +86,7 @@
     "NAME": "难攻不落的要塞",
     "FLAVOR": "路易丝: 纵使国家已经不在，但我依然会为了还活着的人民而战。.",
     "DESCRIPTIONS": [
-      "在每场战斗开始时获得 #b2  点 #y敏捷 。每回合开始时 #y随机 增加一张卡牌的 #y耗能  #b1 点直到回合结束"
+      "在每场战斗开始时获得 #b2 点 #y敏捷 。每回合开始时 #y随机 增加一张卡牌的 #y耗能 #b1 点直到回合结束。"
     ]
   },
   "aigisMod:RoyalHighness": {
@@ -178,7 +178,7 @@
   },
   "aigisMod:WhiteDragon": {
     "NAME": "白龙的布阵",
-    "FLAVOR": "萨贝因： 这和种族与国家无关。因为我们的心都向着同一个未来。",
+    "FLAVOR": "萨贝因：这和种族与国家无关。因为我们的心都向着同一个未来。",
     "DESCRIPTIONS": [
       "每场战斗 #y3 次：你在一回合内打出 #y帝国 和 #y恶魔 牌时获得 [E] "
     ]
@@ -203,7 +203,7 @@
     "FLAVOR": "德怀特：我的忠诚不会改变，所以我不会脱下这身铠甲。",
     "DESCRIPTIONS": [
       " #y防御 额外获得 #b1 点格挡。",
-      " NL 你每打出 #b8  张 #y帝国 牌，获得 #b4  点格挡。"
+      " NL 你每打出 #b8  张 #y帝国 牌，获得 #b4 点格挡。"
     ]
   },
   "aigisMod:DemonCommand": {
@@ -211,7 +211,7 @@
     "FLAVOR": "梅菲斯特：用武力解决一切是蛮族的思维。让我见识下你的智慧吧。",
     "DESCRIPTIONS": [
       "每场战斗一次， #y右击 此遗物， #y消耗 手牌中的 #b1 张卡。",
-      " NL 如果你通过此遗物消耗了 #y恶魔 卡牌，获得 #b1  点 #y力量 。"
+      " NL 如果你通过此遗物消耗了 #y恶魔 卡牌，获得 #b1 点 #y力量 。"
     ]
   },
   "aigisMod:AdamasChosen": {
@@ -236,10 +236,10 @@
     ]
   },
   "aigisMod:EmperorAwakening": {
-    "NAME": "Emperor Awakening",
-    "FLAVOR": "White Emperor: No, living within the Empire, is synonymous with continuing to win",
+    "NAME": "皇帝觉醒",
+    "FLAVOR": "白之皇帝:不，我选择了帝国，就等于选择了永远的胜利。",
     "DESCRIPTIONS": [
-      "Start each #yElite and #yBoss combat with #b3 #yStrength and #b3 #yDexterity."
+      "在 #y精英 和 #yBoss 战开始时，获得 #b3 #y力量 和 #b3 #y敏捷 。"
     ]
   },
   "aigisMod:CallHelp": {
@@ -345,10 +345,10 @@
     ]
   },
   "aigisMod:BastetGem": {
-    "NAME": "Bastet Gem",
-    "FLAVOR": "Saval: The 'Cursed Gem', in return for granting the bearer immense power, they'll continue to devour their soul.",
+    "NAME": "巴斯特宝石",
+    "FLAVOR": "萨瓦尔: '诅咒的宝石'，它会大幅强化持有者的能力，但作为代价，其灵魂会被不断吞噬。",
     "DESCRIPTIONS": [
-      "The first #b3 times in a combat you #yexhaust a #yCurse, gain #b1 #yStrength."
+      "当你 #y消耗 #y诅咒 时，获得 #b1 点 #y力量 。每场战斗限 #b3 次。"
     ]
   },
 
@@ -357,94 +357,94 @@
 
 
   "aigisMod:ArmoredDecius": {
-    "NAME": "Armored Decius",
-    "FLAVOR": "Meteor: Decius is a despicable man who has no scruples about what he does in order to win!",
+    "NAME": "装甲德西乌斯",
+    "FLAVOR": "流星：德西乌斯是个卑鄙的人，为了胜利不择手段！",
     "DESCRIPTIONS": [
-      "At the end of the first #b4 turns, gain #b5 #yBlock.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b25 HP."
+      "每场战斗的前 #b4 回合结束时，获得 #b5 #y格挡 。",
+      " 每幕限一次，当你在战斗中生命值降为 #b0 时，免死并回复 #b25 生命。"
     ]
   },
   "aigisMod:MaouDecius": {
-    "NAME": "Maou Mecha Decius",
-    "FLAVOR": "Decius: Aah, I can hear the voice of the stars. What a beautiful tone...",
+    "NAME": "魔王机甲德西乌斯",
+    "FLAVOR": "德西乌斯：啊，我听见了星星的声音。多么美妙的旋律...",
     "DESCRIPTIONS": [
-      "Replaces Armored Decius. Add a Maou Mecha Form to your Deck.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b35 HP. "
+      "替换装甲德西乌斯。将一张魔王机甲形态加入牌组。",
+      " 每幕限一次，当你在战斗中生命值降为 #b0 时，免死并回复 #b35 生命。"
     ]
   },
   "aigisMod:MeteorSword": {
     "NAME": "奥义 天招流星剑",
-    "FLAVOR": "德西乌斯： 这就是奥义吗...!? 竟然让流星坠落下来，太卑鄙了....",
+    "FLAVOR": "德西乌斯：这就是奥义吗...!? 竟然让流星坠落下来，太卑鄙了....",
     "DESCRIPTIONS": [
-      "Channel #b1 #yMeteor with #b6 damage at the start of each combat.",
-      " When a card #ychannels a #yMeteor, it is created with #b1 more damage."
+      "战斗开始时，生成 #b1 个 #b6 点伤害的 #y流星 。",
+      " 由牌 #y生成 #y流星 时的伤害增加 #b1 点。"
     ]
   },
   "aigisMod:KnightProtection": {
     "NAME": "圣骑士的守护",
-    "FLAVOR": "柯奈莉雅： 即使这份力量是魔之力，我该做的事情也没有任何变化。",
+    "FLAVOR": "柯奈莉雅：即使这份力量是魔之力，我该做的事情也没有任何变化。",
     "DESCRIPTIONS": [
-      "The first time you play an Attack each turn, gain #b3 #yBlock.",
-      " The first time you play a #yDark #yFighter in combat gain #b1 #yBuffer."
+      "每回合第一打出攻击牌时获得 #b3 #y格挡 。",
+      " 每场战斗第一次打出 #y暗黑斗士 牌获得 #b1 层 #y缓冲 。"
     ]
   },
   "aigisMod:ShieldBless": {
     "NAME": "盾之祝福",
-    "FLAVOR": "海欧斯： 即使是堕入黑暗的剑，也依旧能守护光明。",
+    "FLAVOR": "海欧斯：即使是堕入黑暗的剑，也依旧能守护光明。",
     "DESCRIPTIONS": [
-      "When you play a #yDark #yFighter gain #b1 #yThorns.",
-      " While your #yHP is at #b50% or less, gain #b2 #yDexterity."
+      "打出 #y暗黑斗士 时获得 #b1 层 #y荆棘 。",
+      " 当你的 #y生命值 低于 #b50% 时，获得 #b2 #y敏捷 。"
     ]
   },
   "aigisMod:SuperMeteor": {
     "NAME": "超天落岩之计",
-    "FLAVOR": "爱莎: 我不像军师吗？",
+    "FLAVOR": "爱莎：我不像军师吗？",
     "DESCRIPTIONS": [
-      "Once per turn, when you play a #yMeteor card gain [E]"
+      "每回合一次当你打出 #y流星 牌时获得 [E] 。"
     ]
   },
   "aigisMod:BlastingEnhancement": {
     "NAME": "爆裂强化的秘术",
-    "FLAVOR": "伽兰雅: 掌握魔力的精髓，这就是我的使命",
+    "FLAVOR": "伽兰雅：掌握魔力的精髓，这就是我的使命",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yMeteor if there is more than #b1 enemy.",
-      " When an enemy appears in combat, #yChannel #b1 #yMeteor."
+      "战斗开始时，如果敌人数量大于 #b1 个， #y生成 #b1 个 #y流星 。",
+      " 每当战斗中出现新敌人， #y生成 #b1 个 #y流星 。"
     ]
   },
   "aigisMod:BlastingBall": {
     "NAME": "怪力爆裂铁球",
-    "FLAVOR": "狄娜： 肌肉很疲劳... 不知道是不是我的铠甲导致的。",
+    "FLAVOR": "狄娜：肌肉很疲劳...不知道是不是我的铠甲导致的。",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+      "回合结束时，如果你的 #y格挡 值大于等于 #b16 ，对所有敌人造成 #b10 伤害。"
     ]
   },
   "aigisMod:SealRelease": {
-    "NAME": "Divine Seal Release",
-    "FLAVOR": "Chloe: Even fallen angels have something to defend.",
+    "NAME": "圣印解放",
+    "FLAVOR": "克罗耶：即使是堕天使也有需要保护的东西。",
     "DESCRIPTIONS": [
-      "Start each combat with #b2 #yBlur."
+      "每场战斗开始时获得 #b2 层 #y残影 。"
     ]
   },
   "aigisMod:IndomitableTraitor": {
-    "NAME": "Indomitable Traitor",
-    "FLAVOR": "Shadia: You humans, thousands of years pass and you remain as foolish as ever.",
+    "NAME": "不屈的背叛者",
+    "FLAVOR": "沙迪亚: 你们人类啊，过了几千年还是这么愚蠢。",
     "DESCRIPTIONS": [
-      "At the end of player's turn #b5, if you have not received #yHP damage, deal #b50 damage to all enemies."
+      "第 #b5 回合结束时，如果你没有失去过 #y生命 ，对所有敌人造成 #b50 伤害。"
     ]
   },
   "aigisMod:HolyAura": {
-    "NAME": "Holy Aura",
-    "FLAVOR": "Yurina: I can't believe that I still have human feelings...",
+    "NAME": "神圣光环",
+    "FLAVOR": "尤里娜：不敢相信我仍然还有人类的感觉...",
     "DESCRIPTIONS": [
-      "#yDark #yFighter cards are retained.",
-      " At the end of your #b4th turn, gain #b10 #yBlock."
+      " #y暗黑斗士 获得保留。",
+      " 第 #b4 回合结束时, 获得 #b10 #y格挡 。"
     ]
   },
   "aigisMod:HotSands": {
-    "NAME": "Hot Sand Tactics",
-    "FLAVOR": "Nephty: Leave it to us to guide you through the desert. Come on, let's go with the wind.",
+    "NAME": "热砂战术",
+    "FLAVOR": "奈芙提：让我们来带领你们走出沙漠。来吧，随风而行。",
     "DESCRIPTIONS": [
-      "When you attack an #yElite or #yBoss enemy, gain #b2 Block."
+      "每当你攻击 #y精英 或 #yBoss 时，获得 #b2 格挡 。"
     ]
   },
 
