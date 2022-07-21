@@ -285,7 +285,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
+    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出非复制的原卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -313,7 +313,6 @@
     "DESCRIPTION": "战斗开始时, 将 #y盾之拉瓦尔 和 #y矛之拉瓦尔 加入抽牌堆。他们的升级数量与此卡相同。"
   },
   {
-    "PROPER_NAME": "流星",
     "NAMES": [
       "Meteor",
       "Meteor.",
@@ -322,22 +321,21 @@
       "流星",
       "流星。"
     ],
-    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
+    "DESCRIPTION": "充能球：对一名随机敌人造成伤害。 当你打出更多流星牌时提高此伤害。"
   },
   {
     "PROPER_NAME": "暗黑斗士",
     "NAMES": [
       "Dark Fighter",
-      "Dark Fighter.",
-      "Dark_Fighter",
+      "Dark_fighter.",
+      "Dark_fighter",
       "dark_fighter",
       "暗黑斗士",
       "暗黑斗士。"
     ],
-    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
+    "DESCRIPTION": "当你获得时 #y格挡时，你 #y手牌 中的此卡本回合耗能减少 #b1 点。"
   },
   {
-    "PROPER_NAME": "生命连接",
     "NAMES": [
       "Lifelink",
       "Lifelink.",
@@ -346,40 +344,40 @@
       "生命连接",
       "生命连接。"
     ],
-    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
+    "DESCRIPTION": "敌人失去你完全格挡的伤害数值的HP， 当你打出耗能为 #b1 以上的攻击牌时减少 #b1 层。"
   },
   {
-    "PROPER_NAME": "要塞",
     "NAMES": [
       "Fortress",
       "Fortress:",
+      "fortress",
+      "fortress:",
       "要塞",
       "要塞："
-
     ],
-    "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
+    "DESCRIPTION": "在你的格挡在此数值以上时产生效果。"
   },
   {
-    "PROPER_NAME": "装甲",
     "NAMES": [
       "Armor",
       "Armor:",
+      "armor",
+      "armor:",
       "装甲",
       "装甲："
-
     ],
-    "DESCRIPTION": "Unplayable unless your Block is equal or higher than this amount."
+    "DESCRIPTION": "除非你的格挡在此数值以上，否则 #y无法打出 。"
   },
   {
-    "PROPER_NAME": "解放",
     "NAMES": [
       "Release",
       "Release:",
+      "release",
+      "release:",
       "解放",
       "解放："
-
     ],
-    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur."
+    "DESCRIPTION": "当你格挡为0或者拥有残影时产生效果。"
   }
 
 ]

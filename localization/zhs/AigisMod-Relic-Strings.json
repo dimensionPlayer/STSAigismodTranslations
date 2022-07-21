@@ -54,7 +54,7 @@
     "NAME": "超级暗黑波动",
     "FLAVOR": "暗黑骑士：我早已舍弃这条性命，你当我是弃子用也无妨.....",
     "DESCRIPTIONS": [
-      "每场战斗开始时将 #y暗黑骑士 放入手牌。",
+      "在每场战斗开始时， 将 #b1  张 #y暗黑骑士 牌加入到手牌中。",
       "如果你在回合中没有打出任何 #b攻击 牌，对所有敌人施加 #b1  层 #y虚弱 并且获得 #b8 点 #y格挡 。"
     ]
   },
@@ -187,7 +187,7 @@
     "NAME": "帝国狙击兵",
     "FLAVOR": "拉尔夫凭借其速射的非凡能力成为了狙击兵部队的队长。.",
     "DESCRIPTIONS": [
-      "在 #yBoss 或是 #y精英 战斗中，如果你击败了任何敌人获得 [E] 和 #b2 点 #y力量 。"
+      "在 #yBoss 或是 #y精英 战斗中，如果你击败了任何敌人获得 [E] 和 #b2  点 #y力量 。"
     ]
   },
   "aigisMod:ImperialDeploy": {
@@ -236,12 +236,16 @@
     ]
   },
   "aigisMod:EmperorAwakening": {
-    "NAME": "Emperor Awakening",
-    "FLAVOR": "White Emperor: No, living within the Empire, is synonymous with continuing to win",
+    "NAME": "皇帝觉醒",
+    "FLAVOR": "白之皇帝： 不，生活在帝国就意味着不断地取胜。",
     "DESCRIPTIONS": [
-      "Start each #yElite and #yBoss combat with #b3 #yStrength and #b3 #yDexterity."
+      "在与 #y精英 和 #yBoss 战斗时，获得 #b3  点 #y力量 和 #b3  点 #y敏捷 。"
     ]
   },
+
+
+
+
   "aigisMod:CallHelp": {
     "NAME": "呼叫援助",
     "FLAVOR": "托托诺: 唉... 钱根本不够啊。",
@@ -345,106 +349,109 @@
     ]
   },
   "aigisMod:BastetGem": {
-    "NAME": "Bastet Gem",
-    "FLAVOR": "Saval: The 'Cursed Gem', in return for granting the bearer immense power, they'll continue to devour their soul.",
+    "NAME": "芭丝特的宝石",
+    "FLAVOR": "莎瓦：『被诅咒的宝石』以持续吞噬着使用者的灵魂为代价，给予他们巨大的力量。",
     "DESCRIPTIONS": [
-      "The first #b3 times in a combat you #yexhaust a #yCurse, gain #b1 #yStrength."
+      "每场战斗前 #b3 次 #y消耗  #y诅咒 牌时，获得 #b1  点 #y力量 。"
     ]
   },
+
+
+
 
 
 
 
 
   "aigisMod:ArmoredDecius": {
-    "NAME": "Armored Decius",
-    "FLAVOR": "Meteor: Decius is a despicable man who has no scruples about what he does in order to win!",
+    "NAME": "强化铠甲德西乌斯",
+    "FLAVOR": "米蒂尔： 德西乌斯是为了胜利不择手段的卑劣的男人!",
     "DESCRIPTIONS": [
-      "At the end of the first #b4 turns, gain #b5 #yBlock.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b25 HP."
+      "在前 #b4 回合结束时， 获得 #b5  点 #y格挡 .",
+      " 每一层一次， 当你在战斗中 生命 为 #b0 时，回复 #b25 点生命。"
     ]
   },
   "aigisMod:MaouDecius": {
-    "NAME": "Maou Mecha Decius",
-    "FLAVOR": "Decius: Aah, I can hear the voice of the stars. What a beautiful tone...",
+    "NAME": "魔王军铠甲德西乌斯",
+    "FLAVOR": "德西乌斯： 呜呼，总算能听到星星的声音了。是何等美丽的音调啊...",
     "DESCRIPTIONS": [
-      "Replaces Armored Decius. Add a Maou Mecha Form to your Deck.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b35 HP. "
+      "替换 #r强化铠甲德西乌斯 。 将一张魔王军铠甲模式加入到牌组中。",
+      " 每一层一次， 当你在战斗中 生命 为 #b0 时，回复 #b35 点生命。 "
     ]
   },
   "aigisMod:MeteorSword": {
     "NAME": "奥义 天招流星剑",
     "FLAVOR": "德西乌斯： 这就是奥义吗...!? 竟然让流星坠落下来，太卑鄙了....",
     "DESCRIPTIONS": [
-      "Channel #b1 #yMeteor with #b6 damage at the start of each combat.",
-      " When a card #ychannels a #yMeteor, it is created with #b1 more damage."
+      "每场战斗开始时，生成 #b1 颗造成 #b6 点伤害的 #y流星 。",
+      " 当一张卡 #y生成流星 时，它额外造成 #b1 点伤害。"
     ]
   },
   "aigisMod:KnightProtection": {
     "NAME": "圣骑士的守护",
     "FLAVOR": "柯奈莉雅： 即使这份力量是魔之力，我该做的事情也没有任何变化。",
     "DESCRIPTIONS": [
-      "The first time you play an Attack each turn, gain #b3 #yBlock.",
-      " The first time you play a #yDark #yFighter in combat gain #b1 #yBuffer."
+      "每回合第一次打出攻击牌时， 获得 #b3  点 #y格挡 。",
+      " 每场战斗第一次打出 #y暗黑斗士 牌时，获得 #b1  层 #y缓冲 。"
     ]
   },
   "aigisMod:ShieldBless": {
     "NAME": "盾之祝福",
     "FLAVOR": "海欧斯： 即使是堕入黑暗的剑，也依旧能守护光明。",
     "DESCRIPTIONS": [
-      "When you play a #yDark #yFighter gain #b1 #yThorns.",
-      " While your #yHP is at #b50% or less, gain #b2 #yDexterity."
+      "当你打出一张 #y暗黑斗士 牌时，获得 #b1 层 #y荆棘 。",
+      " 当你的 #y生命 低于 #b50% 时, 获得 #b2 点 #y敏捷 。"
     ]
   },
   "aigisMod:SuperMeteor": {
     "NAME": "超天落岩之计",
-    "FLAVOR": "爱莎: 我不像军师吗？",
+    "FLAVOR": "爱莎： 我不像军师吗？",
     "DESCRIPTIONS": [
-      "Once per turn, when you play a #yMeteor card gain [E]"
+      "一回合一次，当你打出 #y流星 牌时获得 [E] 。"
     ]
   },
   "aigisMod:BlastingEnhancement": {
     "NAME": "爆裂强化的秘术",
-    "FLAVOR": "伽兰雅: 掌握魔力的精髓，这就是我的使命",
+    "FLAVOR": "伽兰雅：掌握魔力的精髓，这就是我的使命。",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yMeteor if there is more than #b1 enemy.",
-      " When an enemy appears in combat, #yChannel #b1 #yMeteor."
+      "每场战斗开始时，如果敌人数量多于 #b1 名， #y生成 #b1  颗 #流星 。",
+      " 当敌人在战斗中出现时， #y生成 #b1  颗 #y流星 。"
     ]
   },
   "aigisMod:BlastingBall": {
     "NAME": "怪力爆裂铁球",
     "FLAVOR": "狄娜： 肌肉很疲劳... 不知道是不是我的铠甲导致的。",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+      "在你的回合结束时，如果你有 deal #b16 点以上的 #y格挡 对所有敌人造成 #b10 点伤害。"
     ]
   },
   "aigisMod:SealRelease": {
-    "NAME": "Divine Seal Release",
-    "FLAVOR": "Chloe: Even fallen angels have something to defend.",
+    "NAME": "神魔封印解除",
+    "FLAVOR": "克洛伊： 堕天使也有想守护的东西。",
     "DESCRIPTIONS": [
-      "Start each combat with #b2 #yBlur."
+      "每场战斗开始时获得 #b2  层 #y残影 。"
     ]
   },
   "aigisMod:IndomitableTraitor": {
-    "NAME": "Indomitable Traitor",
-    "FLAVOR": "Shadia: You humans, thousands of years pass and you remain as foolish as ever.",
+    "NAME": "不屈的叛逆者",
+    "FLAVOR": "夏提雅： 看来千年也不足以改变人类的愚蠢和温柔呢。",
     "DESCRIPTIONS": [
-      "At the end of player's turn #b5, if you have not received #yHP damage, deal #b50 damage to all enemies."
+      "在第五 #b5 回合结束时， 如果你没有受到过 #y生命 伤害, 对所有敌人造成 #b50 点伤害。"
     ]
   },
   "aigisMod:HolyAura": {
-    "NAME": "Holy Aura",
-    "FLAVOR": "Yurina: I can't believe that I still have human feelings...",
+    "NAME": "神圣波动",
+    "FLAVOR": "尤莉娜： 没想到我还留有人类的感情...",
     "DESCRIPTIONS": [
-      "#yDark #yFighter cards are retained.",
-      " At the end of your #b4th turn, gain #b10 #yBlock."
+      "#y暗黑斗士 获得 保留 。",
+      " 在你的第 #b4 回合结束时，获得 #b10 点 #y格挡 。"
     ]
   },
   "aigisMod:HotSands": {
-    "NAME": "Hot Sand Tactics",
-    "FLAVOR": "Nephty: Leave it to us to guide you through the desert. Come on, let's go with the wind.",
+    "NAME": "热砂连携战术",
+    "FLAVOR": "娜芙蒂： 沙漠里带路就交给我吧。 来吧，让我们与风一同前行。",
     "DESCRIPTIONS": [
-      "When you attack an #yElite or #yBoss enemy, gain #b2 Block."
+      "当你攻击一名 #y精英 或 #yBoss 敌人，获得 #b2 点格挡。"
     ]
   },
 
@@ -472,7 +479,7 @@
     "NAME": "埃癸斯神殿",
     "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
     "DESCRIPTIONS": [
-      "普通和精英战斗后收到含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。."
+      "普通和精英战斗后收到含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。"
     ]
   },
   "aigisMod:AigisShrineKnight": {

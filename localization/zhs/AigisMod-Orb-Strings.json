@@ -1,11 +1,21 @@
 {
-  "aigisMod:MeteorOrb": {
-    "NAME": "Meteor Orb",
+  "myMod:DefaultOrb": {
+    "NAME": "预设充能球",
     "DESCRIPTION": [
-      "#yPassive: When you play a #yMeteor card, increase the damage of this orb by the cost of the played card, then deal #b",
-      " damage to a random enemy.",
-      " NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#y被动： 你的回合开始时，抽 #b",
+      " 张牌。",
+      " 张牌。",
+      " NL #y激发：对所有敌人造成 #b",
+      " 点伤害。"
+    ]
+  },
+  "aigisMod:MeteorOrb": {
+    "NAME": "流星充能球",
+    "DESCRIPTION": [
+      "#y被动： 当你打出一张 #y流星 牌时， 根据其耗能提升此充能球的伤害，然后对一名随机敌人造成 #b",
+      " 点伤害。",
+      " NL #y激发: 对一名随机敌人造成 #b",
+      " 点伤害。"
     ]
   }
 }

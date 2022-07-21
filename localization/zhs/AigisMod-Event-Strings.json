@@ -8,79 +8,79 @@
       "你远超他们的期望。"
     ],
     "OPTIONS": [
-      "[招募] #g获得一张罕见英杰卡牌 。",
-      "[战斗] #g将一张罕见英杰卡牌升级至稀有 。",
+      "[招募] #g获得一张罕见英杰卡牌 ",
+      "[战斗] #g将一张罕见英杰卡牌升级至稀有 ",
       "[离开]",
-      "选择一张英杰卡牌添加到你的牌组中。",
-      "[招募] #g获得一张稀有英杰卡牌 。",
-      "[未解锁] 你没有可以升级至稀有的英杰卡牌。"
+      "选择一张英杰卡牌添加到你的牌组中",
+      "[招募] #g获得一张稀有英杰卡牌 ",
+      "[未解锁] 你没有可以升级至稀有的英杰卡牌"
     ]
   },
 
   "aigisMod:AigisShrine": {
-    "NAME": "Aigis Shrine",
+    "NAME": "埃癸斯神殿",
     "DESCRIPTIONS": [
-      "You come across a familiar shrine. NL It is a manifestation of the Goddess Aigis. NL You can receive a blessing from the Goddess.",
-      "You leave the shrine to continue with your adventure."
+      "你碰见一座熟悉的神殿。 NL 这是女神埃癸斯的化身。 NL 你可以从女神那里接受一项祝福。",
+      "你离开了神殿并继续你的冒险。"
     ],
     "OPTIONS": [
-      "[Donate] #gOffer #b100 #gGold #gto #gobtain #ga #gRelic.",
-      "[Pray] #gUpgrade #ga #gCard",
-      "[Summon] #gChoose #b1 #gof #b20 #gCards #gto #gadd #gto #gyour #gDeck.",
-      "[Leave]",
-      "Choose a card to add to your deck.",
-      "[LOCKED] You don't have enough Gold(100).",
-      "[LOCKED] You don't have a card to upgrade.",
-      "Choose a card to upgrade."
+      "[捐款] #g献上 #b100 #g金币以获得遗物",
+      "[祈祷] #g升级一张牌",
+      "[召唤] #g从 #b20 张牌中选择 #b1 #g张牌加入你的牌组",
+      "[离开]",
+      "选择一张牌加入你的牌组",
+      "[未解锁] 你没有足够的金币(100)",
+      "[未解锁] 你没有可以升级的牌",
+      "选择一张牌升级"
     ]
   },
 
   "aigisMod:MilitaryExercise": {
-    "NAME": "Military Exercise",
+    "NAME": "军队训练",
     "DESCRIPTIONS": [
-      "The Imperial reached the meeting point with the Kingdom army. NL Since there is time before your expedition continues you can spend it to strengthen your army.",
-      "You choose to reorder your units.",
-      "You choose to train with your own army.",
-      "You awakened a new power after this battle."
+      "帝国到达了与王国军会面的集合点。 NL 因为距离远征继续还有一段时间，你决定在此期间强化你的军队。",
+      "你选择重新编排自己的单位。",
+      "你选择和自己的军队一同训练。",
+      "你在战斗后觉醒了新的能力"
     ],
     "OPTIONS": [
-      "[Regroup] #gAdd #ga #gCard to your deck.",
-      "[Train] #gUpgrade #ga #gCard.",
-      "[Fight] #gChallenge #rThe #rPrince.",
-      "[Leave]",
-      "[LOCKED] You don't have any cards to upgrade.",
-      "Choose a card to upgrade",
-      "[Awaken] #gGain #ga #gRelic."
+      "[重组] #g将一张牌加入牌组",
+      "[训练] #gU升级一张牌",
+      "[战斗] #g挑战 #r王子",
+      "[离开]",
+      "[未解锁] 你没有可以升级的牌。",
+      "选择一张牌升级。",
+      "[觉醒] #g获得一个遗物"
     ]
   },
 
 
   "aigisMod:CursedGem": {
-    "NAME": "Cursed Gem",
+    "NAME": "被诅咒的宝石",
     "DESCRIPTIONS": [
-      "Before you lies a dead body, it holds a mysterious gem. NL You also see a gold plated chest in the room. You feel some power coming from the gems, but the chest also has your attention.",
-      "With the gem in your hands now you can identify it comes from a cursed cult. You have the duty to safekeep it, but its power may come in handy.",
-      "As suspected, it is a monsters."
+      "你面前躺着一具尸体，他手中拿着神秘的宝石。 NL 你在这个房间里还看到了一个镀金的宝箱。 你感觉到宝石中有能量传来，但宝箱也同样令人在意。",
+      "当你拿起宝石时，你立刻意识到这颗宝石来自被诅咒的异教徒。你有责任妥善保管它，但它的力量也同样能助你一臂之力。",
+      "不出意料，这是一只魔物"
     ],
     "OPTIONS": [
-      "[Search] #gExamine #gthe #rgold #rchest?",
-      "[Take the Gem] #gGain #ga #gRelic and #ra #rCurse.",
-      "[Leave]",
-      "[Fight]"
+      "[搜寻] #g检查黄金宝箱?",
+      "[拿走宝石] #g获得1个遗物和 #r一个诅咒",
+      "[离开]",
+      "[战斗]"
     ]
   },
   "aigisMod:TheVoice": {
-    "NAME": "The Voice",
+    "NAME": "声音",
     "DESCRIPTIONS": [
-      "Navigating trough the floor you suddenly lose your senses and you begin to hear a voice...",
-      "You feel inspired and stronger for some reason.",
-      "You feel a familiar strength within you.",
-      "You should be more aware."
+      "在穿过楼层时你突然失去了意识，并且渐渐地听到了一种声音...",
+      "出于某些原因，你受到了鼓舞，并感觉自己变得更强大了",
+      "你在自己的体内感觉到了熟悉的力量",
+      "你应该更警觉的"
     ],
     "OPTIONS": [
-      "[The Stars?] #gMax #gHP +8",
-      "[Commander?] #gGain #ga #gRelic",
-      "[Wake Up] Leave"
+      "[星星?] #g最大生命+8",
+      "[团长?] #g获得一个遗物",
+      "[醒来] 离开"
     ]
   }
 }
