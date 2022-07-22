@@ -279,42 +279,42 @@
 
   "SumireAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Meteor or Eastern card in Draw Pile..."
+      "选择一张牌加入手牌。",
+      "我的抽牌堆没有流星牌或东国牌..."
     ]
   },
 
   "NielAction": {
     "TEXT": [
-      "Select a cost 1 or lower card to add to hand.",
-      "I don't have any cost 1 or lower Card in Discard Pile..."
+      "选择一张牌放回手牌。",
+      "我的弃牌堆没有耗能不高于1的攻击牌..."
     ]
   },
 
   "ErunAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Release card in Draw Pile..."
+      "选择一张牌加入手牌。",
+      "我的抽牌堆没有释能牌..."
     ]
   },
 
   "NephtyAction": {
     "TEXT": [
-      "to reduce it's cost for the turn."
+      "减少在本回合中的耗能"
     ]
   },
 
   "VivianAction": {
     "TEXT": [
-      "to reduce it's cost for the combat."
+      "减少在本场战斗中的耗能"
     ]
   },
 
   "AngelMaidAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "Choose cards to add to your hand.",
-      "I don't have a Release card in my draw pile..."
+      "选择一张牌加入手牌。",
+      "选择加入手牌。",
+      "我的抽牌堆没有释能牌..."
     ]
   }
 }

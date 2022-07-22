@@ -278,103 +278,103 @@
 
 
         "aigisMod:MeteorTactics": {
-                "NAME": "Meteor Tactics",
-                "DESCRIPTIONS": ["Meteor orbs hits all enemies."]
+                "NAME": "流星战术",
+                "DESCRIPTIONS": ["流星充能球会攻击所有敌人。"]
         },
 
         "aigisMod:MultiPlosion": {
-                "NAME": "Multiplosion",
-                "DESCRIPTIONS": ["At the start of your turn, trigger the #ypassive of your rightmost orb #b", " times."]
+                "NAME": "多重爆炸",
+                "DESCRIPTIONS": ["回合开始时，触发最右边充能球的 #y被动 效果 #b", " 次。"]
         },
 
         "aigisMod:Inferno": {
-                "NAME": "Inferno",
-                "DESCRIPTIONS": ["When a #yMeteor #yorb hits an enemy, apply #b", " #yburn."]
+                "NAME": "烈焰",
+                "DESCRIPTIONS": [" #y流星充能球 命中敌人时，施加 #b", " 层 #y灼热 。"]
         },
 
         "aigisMod:HuntingTime": {
-                "NAME": "Hunting Time",
-                "DESCRIPTIONS": ["When an enemy is killed, gain #b", " #yblock and gain #b1 #yartifact."]
+                "NAME": "猎杀时刻",
+                "DESCRIPTIONS": ["杀死敌人时，获得 #b", " #y格挡 和 #b1 层 #y人工制品 。"]
         },
 
         "aigisMod:MagicShells": {
-                "NAME": "Magic Shells",
-                "DESCRIPTIONS": ["When you play #b", " #yskill cards, #ychannel #b1 Meteor #yorb."]
+                "NAME": "魔法弹药",
+                "DESCRIPTIONS": ["每当你打出 #b", " 张 #y技能 牌， #y生成 #b1 个流星充能球。"]
         },
 
         "aigisMod:ManaControl": {
-                "NAME": "Mana Control",
-                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage this turn."]
+                "NAME": "魔力掌控",
+                "DESCRIPTIONS": ["本回合流星充能球的伤害提高 #b", " 。"]
         },
 
         "aigisMod:LifelinkPower": {
-                "NAME": "Lifelink",
-                "DESCRIPTIONS": ["This enemy loses #yHP equal to the amount of damage you #yBlock completely. Reduced by #b1 when you play a cost #b1 or higher attack."]
+                "NAME": "生命连接",
+                "DESCRIPTIONS": ["每当你完全 #y格挡伤害 ，敌人失去相应的 #y生命 。当你打出耗能大于等于 #b1 的攻击牌时减少 #b1 层。"]
         },
 
         "aigisMod:DineGainBlockPower": {
-                "NAME": "End of Turn Block",
-                "DESCRIPTIONS": ["Gain #b", " #yBlock at the end of this turn."]
+                "NAME": "结末格挡",
+                "DESCRIPTIONS": ["回合结束时获得 #b", " #y格挡 。"]
         },
 
         "aigisMod:MechaForm": {
-                "NAME": "Mecha Form",
-                "DESCRIPTIONS": ["After #b", " turns", " turn", ", #ystun a random enemy and gain", " #yDexterity and #yBlur."]
+                "NAME": "机甲形态",
+                "DESCRIPTIONS": [" #b", " 回合后", " 回合后", ", #y眩晕 一个随机敌人，并获得", " #y敏捷 和 #y残影 。"]
         },
 
         "aigisMod:BladeOfPursuitPower": {
-                "NAME": "Blade Of Pursuit",
-                "DESCRIPTIONS": ["For the next #b", " turns, #yattack cards that cost #b0 are played twice."]
+                "NAME": "追迹之刃",
+                "DESCRIPTIONS": [" #b", " 回合内，耗能为 #b0 的 #y攻击 牌会打出两次。."]
         },
 
         "aigisMod:FlameMirage": {
-                "NAME": "Flame Mirage",
-                "DESCRIPTIONS": ["When a card is exhausted, gain #b1 #yblur. At the end of turn, deal #b", " damage to a random enemy if you have #yblur."]
+                "NAME": "烈焰蜃景",
+                "DESCRIPTIONS": ["每消耗一张牌，获得 #b1 层 #y残影 。回合结束时如果你有 #y残影 ，对随机敌人造成 #b", " 点伤害。"]
         },
 
         "aigisMod:ExterminationProgram": {
-                "NAME": "Extermination Program",
-                "DESCRIPTIONS": ["Whenever you play a #yskill card, this enemy takes #b", " damage."]
+                "NAME": "消除指令",
+                "DESCRIPTIONS": ["每打出一张 #y技能 牌，这个敌人就受到 #b", " 伤害。"]
         },
 
         "aigisMod:SpiritBoost": {
-                "NAME": "Spirit Boost",
-                "DESCRIPTIONS": ["At the start of turn, #yattack cards in your hand cost #b", " less for the turn. If you #yplay an #yattack card, lose #yALL your #yenergy."]
+                "NAME": "精神增幅",
+                "DESCRIPTIONS": ["回合开始时，手中的 #y攻击牌 耗能降低 #b", " 。当你 #y打出 #y攻击 牌，失去 #y所有 #y能量 。"]
         },
 
         "aigisMod:AnnihilationProgram": {
-                "NAME": "Annihilation Program",
-                "DESCRIPTIONS": ["Whenever any #yblock is gained, take #b", " damage."]
+                "NAME": "俱灭指令",
+                "DESCRIPTIONS": ["每当有人获得 #y格挡 ，受到 #b", " 伤害。"]
         },
 
         "aigisMod:LightweightPower": {
-                "NAME": "Lightweight Power",
-                "DESCRIPTIONS": ["At the end of turn, lose #b1 #ydexterity and gain #b", " #yblur."]
+                "NAME": "轻盈之力",
+                "DESCRIPTIONS": ["回合结束时，失去 #b1 #y敏捷 并获得 #b", " 层 #y残影 。"]
         },
 
         "aigisMod:TigerHide": {
-                "NAME": "Fox in a Tiger's Hide",
-                "DESCRIPTIONS": ["When you gain #yblur, deal #b", " #ydamage to all enemies and draw #b1 card."]
+                "NAME": "狐假虎威",
+                "DESCRIPTIONS": ["每当你获得 #y残影 ，对所有敌人造成 #b", " 伤害并抽 #b 张牌。"]
         },
 
         "aigisMod:FlameBurstPower": {
-                "NAME": "Flame Burst",
-                "DESCRIPTIONS": ["When you gain #yblur, gain #b", " #yStrenght."]
+                "NAME": "烈焰爆发",
+                "DESCRIPTIONS": ["每当你获得 #y残影 ，获得 #b", " #y力量 。"]
         },
 
         "aigisMod:AngelMaid": {
-                "NAME": "Angel Maid",
-                "DESCRIPTIONS": ["At turn start, add #b", " #yrelease card from your deck.", "Choose a card to add to hand.", "I don't have a Release card in my draw pile..."]
+                "NAME": "天使女仆",
+                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y释能 牌从抽牌堆加入手牌。", "选择一张牌加入手牌", "我的抽牌堆没有可以释能的牌..."]
         },
 
         "aigisMod:EndOfTurnHeal": {
-                "NAME": "End of Turn Heal",
-                "DESCRIPTIONS": ["At turn end, heal #b", " HP."]
+                "NAME": "结末治疗",
+                "DESCRIPTIONS": ["回合结束时，恢复 #b", " 生命。"]
         },
 
         "aigisMod:DivineStaffDagda": {
-                "NAME": "Divine Staff Dagda",
-                "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
+                "NAME": "神圣的达格达",
+                "DESCRIPTIONS": ["每当回复生命或获得临时生命时，获得 #b", " #y力量 和 #b", " #y格挡 。"]
         },
 
         "aigisMod:Strength ForTheTurnPower": {
