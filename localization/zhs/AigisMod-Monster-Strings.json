@@ -102,20 +102,20 @@
     ]
   },
   "aigisMod:GoldenMimic": {
-    "NAME": "Golden Mimic",
+    "NAME": "黄金宝箱怪",
     "MOVES": [
-      "Bite",
-      "Escape"
+      "啃咬",
+      "逃跑"
     ],
     "DIALOG": [
       ""
     ]
   },
   "aigisMod:Prince": {
-    "NAME": "Prince",
+    "NAME": "王子",
     "MOVES": [
-      "Raise Morale",
-      "Sacred Treasure of Aigis",
+      "士气高昂",
+      "埃癸斯的神器",
       ""
     ],
     "DIALOG": [
@@ -123,13 +123,16 @@
     ]
   },
   "aigisMod:Anna": {
-    "NAME": "Anna",
+    "NAME": "安娜",
     "MOVES": [
-      "Artillery Support",
-      "Full power support"
+      "炮击支援",
+      "全力支援"
     ],
     "DIALOG": [
       ""
     ]
   }
+
+
+
 }
