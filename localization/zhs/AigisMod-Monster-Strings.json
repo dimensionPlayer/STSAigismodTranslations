@@ -104,7 +104,7 @@
   "aigisMod:GoldenMimic": {
     "NAME": "黄金宝箱怪",
     "MOVES": [
-      "噬咬",
+      "啃咬",
       "逃跑"
     ],
     "DIALOG": [
@@ -114,8 +114,8 @@
   "aigisMod:Prince": {
     "NAME": "王子",
     "MOVES": [
-      "鼓舞士气",
-      "神殿秘宝",
+      "士气高昂",
+      "埃癸斯的神器",
       ""
     ],
     "DIALOG": [
@@ -125,7 +125,7 @@
   "aigisMod:Anna": {
     "NAME": "安娜",
     "MOVES": [
-      "炮火支援",
+      "炮击支援",
       "全力支援"
     ],
     "DIALOG": [

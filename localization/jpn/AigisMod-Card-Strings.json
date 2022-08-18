@@ -637,7 +637,7 @@
   "aigisMod:Uzume": {
     "NAME": "ウズメ",
     "DESCRIPTION": "1 ターンに 1 回、 アタック を 3 回プレイをした時、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL 1 ターンに 1 回、 アタック を 3 回プレイをした時 [E] [E] を得る。",
+    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL 1 ターンに 1 回、 アタック を 3 回プレイをした時 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "地の軍師"
     ]

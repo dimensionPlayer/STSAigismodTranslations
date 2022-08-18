@@ -639,7 +639,7 @@
   "aigisMod:Uzume": {
     "NAME": "Uzume",
     "DESCRIPTION": "Once per turn, if you play 3 attacks, gain [E]",
-    "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, if you play 3 attacks, gain [E] [E]",
+    "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, if you play 3 attacks, gain [E]",
     "EXTENDED_DESCRIPTION" : [
       "Earth Strategist"
     ]
@@ -3198,11 +3198,11 @@
   },
   "aigisMod:Aisha": {
     "NAME": "Aisha",
-    "DESCRIPTION": "Channel X aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 aigismod:meteor. NL aigismod:Meteor now hits all enemies.",
+    "DESCRIPTION": "aigismod:Meteor deals X more damage. NL aigismod:Meteor now hits all enemies.",
+    "UPGRADE_DESCRIPTION": "aigismod:Meteor deals X+1 more damage. NL aigismod:Meteor now hits all enemies.",
     "EXTENDED_DESCRIPTION" : [
       "Crouching Dragon Strategist",
-      "Channel X aigismod:meteor. NL Gain !B! Block. NL aigismod:Meteor now hits all enemies."
+      "aigismod:Meteor deals X more damage. NL Gain !B! Block. NL aigismod:Meteor now hits all enemies."
     ]
   },
   "aigisMod:Gloria": {
@@ -3363,8 +3363,8 @@
   },
   "aigisMod:Sasha": {
     "NAME": "Sasha",
-    "DESCRIPTION": "Gain 1 Blur. NL Fortress: !M! Channel 2 aigismod:meteor.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Blur. NL Fortress: !M! Channel 2 aigismod:meteor.",
+    "DESCRIPTION": "Gain 1 Blur. NL aigismod:Fortress !M! : Channel 2 aigismod:meteor.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur. NL aigismod:Fortress !M! : Channel 2 aigismod:meteor.",
     "EXTENDED_DESCRIPTION": [
       "Bewitching Magician"
     ]
@@ -3551,17 +3551,17 @@
   },
   "aigisMod:Miranda": {
     "NAME": "Miranda",
-    "DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block. NL Deal damage equal to Block. NL End your turn.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: 5 NL Gain !B! Block. NL Deal damage equal to Block.",
+    "DESCRIPTION": "aigismod:Armor: 8 NL Gain !B! Block. NL Deal damage equal to Block. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: 8 NL Gain !B! Block. NL Deal damage equal to Block. NL End your turn.",
     "EXTENDED_DESCRIPTION": [
       "Holy Hammer Warrior",
-      "NL (Deal !D! damage)"
+      " NL (Deal !D! damage)"
     ]
   },
   "aigisMod:Maribel2": {
     "NAME": "Maribel",
-    "DESCRIPTION": "Deal damage equal to Block.",
-    "UPGRADE_DESCRIPTION": "Deal damage equal to Block.",
+    "DESCRIPTION": "Deal damage equal to half your Block.",
+    "UPGRADE_DESCRIPTION": "Deal damage equal to half your Block.",
     "EXTENDED_DESCRIPTION": [
       "Holy Warrior",
       " NL (Deal !D! damage)"
@@ -3602,16 +3602,16 @@
   },
   "aigisMod:Horus": {
     "NAME": "Horus",
-    "DESCRIPTION": "aigismod:Armor 7. NL Deal !D! Damage twice. NL Discard 1 card.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor 7. NL Deal !D! Damage twice. NL Discard 1 card.",
+    "DESCRIPTION": "aigismod:Armor 8. NL Deal !D! Damage twice. NL Discard 1 card.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 8. NL Deal !D! Damage twice. NL Discard 1 card.",
     "EXTENDED_DESCRIPTION": [
       "Desert Soldier"
     ]
   },
   "aigisMod:Asar": {
     "NAME": "Asar",
-    "DESCRIPTION": "aigismod:Armor 6 NL Deal !D! damage. NL Gain [E] next turn.",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor 6 NL Deal !D! damage. NL Gain [E] next turn.",
+    "DESCRIPTION": "aigismod:Armor 8 NL Deal !D! damage. NL Gain [E] next turn.",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor 8 NL Deal !D! damage. NL Gain [E] next turn.",
     "EXTENDED_DESCRIPTION": [
       "Desert Warrior"
     ]
@@ -3675,11 +3675,11 @@
   },
   "aigisMod:Cynthia": {
     "NAME": "Cynthia",
-    "DESCRIPTION": "At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack.",
-    "UPGRADE_DESCRIPTION": "At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack.",
+    "DESCRIPTION": "The cost of attack cards are reduced by !M! for the combat . NL Lose your [E] when you play an attack.",
+    "UPGRADE_DESCRIPTION": "The cost of attack cards are reduced by !M! for the combat. NL  Lose your [E] when you play an attack.",
     "EXTENDED_DESCRIPTION": [
       "Spirit of War",
-      "Innate. NL At the start of turn, the cost of attack cards are reduced by !M! for the turn, but lose your [E] when you play an attack."
+      "Innate. NL The cost of attack cards are reduced by !M! for the combat. NL Lose your [E] when you play an attack."
     ]
   },
   "aigisMod:Saria": {
@@ -3709,7 +3709,7 @@
   },
   "aigisMod:Alta1": {
     "NAME": "Alta",
-    "DESCRIPTION": "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "DESCRIPTION": "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust. NL Ethereal.",
     "UPGRADE_DESCRIPTION": "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Automatic Doll of Roses"
@@ -3831,11 +3831,11 @@
   },
   "aigisMod:Kayou": {
     "NAME": "Kayou",
-    "DESCRIPTION": "Take 6 damage. NL Each time you gain Blur gain !M! Strength.",
-    "UPGRADE_DESCRIPTION": "Take 6 damage. NL Each time you gain Blur gain !M! Strength.",
+    "DESCRIPTION": "Take !aigisMod:SecondMagic! damage. NL Each time you gain Blur gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Take !aigisMod:SecondMagic! damage. NL Each time you gain Blur gain !M! Strength.",
     "EXTENDED_DESCRIPTION": [
       "Nine-Tailed Fox",
-      "Retain NL Take 3 damage. NL Each time you gain Blur gain !M! Strength."
+      "Retain NL Take !aigisMod:SecondMagic! damage. NL Each time you gain Blur gain !M! Strength."
     ]
   },
   "aigisMod:Chizuru2": {

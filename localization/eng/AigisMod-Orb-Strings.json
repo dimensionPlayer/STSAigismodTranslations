@@ -12,7 +12,8 @@
   "aigisMod:MeteorOrb": {
     "NAME": "Meteor Orb",
     "DESCRIPTION": [
-      "#yPassive: When you play a #yMeteor card, increase the damage of this orb by the cost of the played card, then deal #b",
+      "#yPassive: When you play a #yMeteor card, increase the damage of this orb by the cost of the played card.",
+      " At the end of your turn deal #b",
       " damage to a random enemy.",
       " NL #yEvoke: Deal #b",
       " damage to a random enemy."

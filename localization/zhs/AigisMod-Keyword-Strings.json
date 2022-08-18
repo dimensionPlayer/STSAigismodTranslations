@@ -322,7 +322,7 @@
       "meteor",
       "meteor."
     ],
-    "DESCRIPTION": "流星：对随机敌人造成伤害，当你打出其他流星牌时提升伤害。"
+    "DESCRIPTION": "充能球：对一名随机敌人造成伤害。 当你打出更多流星牌时提高此伤害。"
   },
   {
     "PROPER_NAME": "暗黑斗士",
@@ -335,7 +335,7 @@
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "这张牌在你 #y手中 时，每当你获得格挡，其费用本回合减少 #b1 。"
+    "DESCRIPTION": "当你获得时 #y格挡时，你 #y手牌 中的此卡本回合耗能减少 #b1 点。"
   },
   {
     "PROPER_NAME": "生命连接",
@@ -347,13 +347,13 @@
       "lifelink",
       "lifelink."
     ],
-    "DESCRIPTION": "每当你完全格挡伤害，敌人失去相应的生命值。当你打出耗能大于等于 #b1 的攻击牌时减少 #b1 层。"
+    "DESCRIPTION": "敌人失去你完全格挡的伤害数值的HP， 当你打出耗能为 #b1 以上的攻击牌时减少 #b1 层。"
   },
   {
-    "PROPER_NAME": "坚守",
+    "PROPER_NAME": "要塞",
     "NAMES": [
-      "坚守",
-      "坚守:",
+      "要塞",
+      "要塞:",
       "Fortress",
       "Fortress:",
       "fortress",
@@ -363,10 +363,10 @@
     "DESCRIPTION": "当你的格挡值不低于此值时，触发效果。"
   },
   {
-    "PROPER_NAME": "硬甲",
+    "PROPER_NAME": "装甲",
     "NAMES": [
-      "硬甲",
-      "硬甲:",
+      "装甲",
+      "装甲:",
       "Armor",
       "Armor:",
       "armor",
@@ -376,10 +376,10 @@
     "DESCRIPTION": "当你的格挡值不低于此值时才能被打出。"
   },
   {
-    "PROPER_NAME": "释能",
+    "PROPER_NAME": "解放",
     "NAMES": [
-      "释能",
-      "释能:",
+      "解放",
+      "解放:",
       "Release",
       "Release:",
       "release",
