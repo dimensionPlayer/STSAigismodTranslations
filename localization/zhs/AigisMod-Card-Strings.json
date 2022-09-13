@@ -1595,16 +1595,16 @@
   },
   "aigisMod:Frey": {
     "NAME": "芙蕾",
-    "DESCRIPTION": "将格挡置为0。 NL 造成 !D! 点 aigismod:溅射 伤害。",
-    "UPGRADE_DESCRIPTION": "将格挡置为0。 NL 造成 !D! 点 aigismod:溅射 伤害。 NL 第一次打出时造成 4 额外伤害。",
+    "DESCRIPTION": "将你的格挡变为0。 NL 造成 !D! 点 aigismod:溅射 伤害。",
+    "UPGRADE_DESCRIPTION": "将你的格挡变为0。 NL 造成 !D! 点 aigismod:溅射 伤害。 NL 第一次打出时造成 4 额外伤害。",
     "EXTENDED_DESCRIPTION" : [
       "帝国水兵"
     ]
   },
   "aigisMod:Halina": {
     "NAME": "海莉娜",
-    "DESCRIPTION": "打击施加1层 易伤 。 NL 一回合一次 打出帝国 牌时: 抽1张牌。",
-    "UPGRADE_DESCRIPTION": "对抗boss和精英时打出此牌两次: 打击施加1层 易伤 。 NL 一回合一次 打出帝国 牌时: 抽1张牌。",
+    "DESCRIPTION": "打击施加1层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
+    "UPGRADE_DESCRIPTION": "对抗boss和精英时打出此牌两次: 打击施加1层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
     "EXTENDED_DESCRIPTION" : [
       "亡国女皇"
     ]
@@ -1612,7 +1612,7 @@
   "aigisMod:Jutta": {
     "NAME": "茱达",
     "DESCRIPTION": "每打出6张帝国 牌: 获得 1 点 力量 和 1 点 敏捷 。",
-    "UPGRADE_DESCRIPTION": "打击和防御获得 2 点伤害/点格挡 。 NL 每打出6张帝国 牌: 获得 1 点 力量  和 1 点 敏捷 。",
+    "UPGRADE_DESCRIPTION": "打击和防御获得 2 点伤害/格挡 。 NL 每打出6张帝国 牌: 获得 1 点 力量  和 1 点 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国料理人"
     ]
@@ -1684,7 +1684,7 @@
     "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 每场战斗一次, 每有一个敌人,回复 !M! 点生命。",
     "EXTENDED_DESCRIPTION" : [
       "魔神副团长",
-      "对所有敌人造成 !D! 点 aigismod:真实 伤害。 每有一个敌人,回复 !M! 点生命 (每场战斗一次)。"
+      "对所有敌人造成 !D! 点 aigismod:真实 伤害。 每场战斗一次, 每有一个敌人,回复 !M! 点生命。"
     ]
   },
   "aigisMod:Martina": {
@@ -1993,19 +1993,19 @@
   },
   "aigisMod:Uridem": {
     "NAME": "乌利黛姆",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL生命值低于 !M! %, 此牌攻击所有敌人。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 生命值低于 !M! %, 此牌攻击所有敌人。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! %, 此牌攻击所有敌人。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! %, 此牌攻击所有敌人。",
     "EXTENDED_DESCRIPTION" : [
       "狂兽"
     ]
   },
   "aigisMod:Noire": {
     "NAME": "诺娃",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 生命值低于 !M! % ,造成双倍伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 生命值低于 !M! % ,造成双倍伤害。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! % ,造成双倍伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! % ,造成双倍伤害。",
     "EXTENDED_DESCRIPTION" : [
       "降魔复仇者",
-      "造成 !D! 点伤害。 NL 生命值低于 !M! % ,造成三倍伤害。"
+      "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! % ,造成三倍伤害。"
     ]
   },
   "aigisMod:Grimm": {
@@ -2196,16 +2196,16 @@
   },
   "aigisMod:Eva": {
     "NAME": "伊娃",
-    "DESCRIPTION": "对所有敌人施加 !M! aigismod:诅咒之声 。 NL aigismod:诅咒 :对所有敌人施加 !aigisMod:SecondMagic! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。",
-    "UPGRADE_DESCRIPTION": "对所有敌人施加 !M! aigismod:诅咒之声 。 NL aigismod:诅咒 :对所有敌人施加 !aigisMod:SecondMagic! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。",
+    "DESCRIPTION": "对所有敌人施加 !M! 层 aigismod:诅咒之声 。 NL aigismod:诅咒 :对所有敌人施加 !aigisMod:SecondMagic! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 !M! 层 aigismod:诅咒之声 。 NL aigismod:诅咒 :对所有敌人施加 !aigisMod:SecondMagic! 层 虚弱 和 !aigisMod:SecondMagic! 层 易伤 。",
     "EXTENDED_DESCRIPTION" : [
       "咒术师"
     ]
   },
   "aigisMod:Mitra": {
     "NAME": "密特拉",
-    "DESCRIPTION": "施加  !M! 层 虚弱。 NL aigismod:诅咒 : 每有一个负面效果,敌人失去 !aigisMod:SecondMagic! 点生命。",
-    "UPGRADE_DESCRIPTION": "施加  !M! 层 虚弱。 NL aigismod:诅咒 : 每有一个负面效果,敌人失去 !aigisMod:SecondMagic! 点生命。",
+    "DESCRIPTION": "施加  !M! 层 虚弱 。 NL aigismod:诅咒 : 每有一个负面效果,敌人失去 !aigisMod:SecondMagic! 点生命。",
+    "UPGRADE_DESCRIPTION": "施加  !M! 层 虚弱 。 NL aigismod:诅咒 : 每有一个负面效果,敌人失去 !aigisMod:SecondMagic! 点生命。",
     "EXTENDED_DESCRIPTION" : [
       "咒术师"
     ]
@@ -2295,7 +2295,7 @@
   },
   "aigisMod:Tamami": {
     "NAME": "魂魅",
-    "DESCRIPTION": "将1张式鬼 加入手牌。 aigismod:诅咒 : 下回合获得 [E]",
+    "DESCRIPTION": "将1张 式鬼 加入手牌。 aigismod:诅咒 : 下回合获得 [E]",
     "UPGRADE_DESCRIPTION": "将1张 式鬼+ 加入手牌。 NL aigismod:诅咒 : 下回合获得 [E]",
     "EXTENDED_DESCRIPTION" : [
       "阴阳师"
@@ -2447,11 +2447,11 @@
   },
   "aigisMod:Hakunokami": {
     "NAME": "白神",
-    "DESCRIPTION": "在回合结束时, 所有敌人每有一个负面效果就失去 !M! 点生命。",
-    "UPGRADE_DESCRIPTION": "回复 8 点生命。 NL 在回合结束时, 所有敌人每有一个负面效果就失去 !M! 点生命。",
+    "DESCRIPTION": "在回合结束时, 所有敌人每有一层负面效果就失去 !M! 点生命。",
+    "UPGRADE_DESCRIPTION": "回复 8 点生命。 NL 在回合结束时, 所有敌人每有一层负面效果就失去 !M! 点生命。",
     "EXTENDED_DESCRIPTION" : [
       "古代龙",
-      "在回合结束时, 所有敌人每有一个负面效果就失去 !M! 点生命。"
+      "在回合结束时, 所有敌人每有一层负面效果就失去 !M! 点生命。"
     ]
   },
   "aigisMod:Echidna": {
@@ -3580,8 +3580,8 @@
   },
   "aigisMod:Maribel2": {
     "NAME": "玛丽蓓尔",
-    "DESCRIPTION": "造成你半当前 格挡 值的伤害。",
-    "UPGRADE_DESCRIPTION": "造成你半当前 格挡 值的伤害。",
+    "DESCRIPTION": "造成一半你当前 格挡 值的伤害。",
+    "UPGRADE_DESCRIPTION": "造成一半你当前 格挡 值的伤害。",
     "EXTENDED_DESCRIPTION": [
       "圣战士",
       " NL (造成 !D! 点伤害)"
