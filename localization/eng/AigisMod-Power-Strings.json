@@ -278,7 +278,7 @@
 
         "aigisMod:MeteorTactics": {
                 "NAME": "Meteor Tactics",
-                "DESCRIPTIONS": ["Meteor orbs hits all enemies."]
+                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage. Meteor orbs hits all enemies."]
         },
 
         "aigisMod:MultiPlosion": {
@@ -338,7 +338,7 @@
 
         "aigisMod:SpiritBoost": {
                 "NAME": "Spirit Boost",
-                "DESCRIPTIONS": ["At the start of turn, #yattack cards in your hand cost #b", " less for the turn. If you #yplay an #yattack card, lose #yALL your #yenergy."]
+                "DESCRIPTIONS": ["If you #yplay an #yattack card, lose #yALL your #yenergy."]
         },
 
         "aigisMod:AnnihilationProgram": {

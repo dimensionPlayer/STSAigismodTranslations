@@ -269,7 +269,7 @@
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明镜止水",
-                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b.", " 层 #y活力 ."]
+                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b", " 层 #y活力 。"]
         },
         "aigisMod:StunResistance": {
                 "NAME": "击晕抗性",
@@ -278,103 +278,103 @@
 
 
         "aigisMod:MeteorTactics": {
-                "NAME": "流星战术",
-                "DESCRIPTIONS": ["流星充能球会攻击所有敌人。"]
+                "NAME": "天落岩之计",
+                "DESCRIPTIONS": ["#y流星充能球 获得 #b", " 点伤害。 流星充能球攻击所有敌人。"]
         },
 
         "aigisMod:MultiPlosion": {
                 "NAME": "多重爆炸",
-                "DESCRIPTIONS": ["回合开始时，触发最右边充能球的 #y被动 效果 #b", " 次。"]
+                "DESCRIPTIONS": ["在你的回合开始时，触发你最右侧的充能球 #y被动 #b", " 次。"]
         },
 
         "aigisMod:Inferno": {
-                "NAME": "烈焰",
+                "NAME": "狱炎",
                 "DESCRIPTIONS": [" #y流星充能球 命中敌人时，施加 #b", " 层 #y灼热 。"]
         },
 
         "aigisMod:HuntingTime": {
-                "NAME": "猎杀时刻",
-                "DESCRIPTIONS": ["杀死敌人时，获得 #b", " #y格挡 和 #b1 层 #y人工制品 。"]
+                "NAME": "狩猎时间",
+                "DESCRIPTIONS": ["击败敌人时，获得 #b", " 点 #y格挡 并且获得 #b1 层 #y人工制品 。"]
         },
 
         "aigisMod:MagicShells": {
-                "NAME": "魔法弹药",
-                "DESCRIPTIONS": ["每当你打出 #b", " 张 #y技能 牌， #y生成 #b1 个流星充能球。"]
+                "NAME": "魔炮弹",
+                "DESCRIPTIONS": ["当你打出 #b", " 张 #y技能 牌时， #y生成  #b1 颗 #y流星充能球 。"]
         },
 
         "aigisMod:ManaControl": {
-                "NAME": "魔力掌控",
-                "DESCRIPTIONS": ["本回合流星充能球的伤害提高 #b", " 。"]
+                "NAME": "玛娜掌控",
+                "DESCRIPTIONS": ["#y流星充能球 本回合获得 #b", " 点伤害。"]
         },
 
         "aigisMod:LifelinkPower": {
                 "NAME": "生命连接",
-                "DESCRIPTIONS": ["每当你完全 #y格挡伤害 ，敌人失去相应的 #y生命 。当你打出耗能大于等于 #b1 的攻击牌时减少 #b1 层。"]
+                "DESCRIPTIONS": ["此敌人根据你完全 #y格挡 的伤害 失去 #y生命 。 当你打出耗能为 #b1 以上的攻击牌时，层数减少 #b1 。"]
         },
 
         "aigisMod:DineGainBlockPower": {
-                "NAME": "结末格挡",
-                "DESCRIPTIONS": ["回合结束时获得 #b", " #y格挡 。"]
+                "NAME": "回合结束格挡",
+                "DESCRIPTIONS": ["回合结束时获得 #b", " 点 #y格挡 。"]
         },
 
         "aigisMod:MechaForm": {
-                "NAME": "机甲形态",
-                "DESCRIPTIONS": [" #b", " 回合后", " 回合后", ", #y眩晕 一个随机敌人，并获得", " #y敏捷 和 #y残影 。"]
+                "NAME": "铠甲模式",
+                "DESCRIPTIONS": ["在 #b", " 回合后", " 回合", ", #y击晕 一名随机敌人并且获得", " #y敏捷 和 #y残影 。"]
         },
 
         "aigisMod:BladeOfPursuitPower": {
-                "NAME": "追迹之刃",
-                "DESCRIPTIONS": [" #b", " 回合内，耗能为 #b0 的 #y攻击 牌会打出两次。."]
+                "NAME": "追击的镰状剑",
+                "DESCRIPTIONS": ["下 #b", " 回合，耗能为 #b0 的 #y攻击 牌打出2次。"]
         },
 
         "aigisMod:FlameMirage": {
-                "NAME": "烈焰蜃景",
-                "DESCRIPTIONS": ["每消耗一张牌，获得 #b1 层 #y残影 。回合结束时如果你有 #y残影 ，对随机敌人造成 #b", " 点伤害。"]
+                "NAME": "影炎的海市蜃楼",
+                "DESCRIPTIONS": ["当卡牌被消耗时，获得 #b1 层 #y残影 。在回合结束时, 如果拥有 #y残影 对一名随机敌人造成 #b", " 点伤害。"]
         },
 
         "aigisMod:ExterminationProgram": {
-                "NAME": "消除指令",
-                "DESCRIPTIONS": ["每打出一张 #y技能 牌，这个敌人就受到 #b", " 伤害。"]
+                "NAME": "人类灭绝程序",
+                "DESCRIPTIONS": ["你每打出一张 #y技能 牌，此敌人受到 #b", " 点伤害。"]
         },
 
         "aigisMod:SpiritBoost": {
-                "NAME": "精神增幅",
-                "DESCRIPTIONS": ["回合开始时，手中的 #y攻击牌 耗能降低 #b", " 。当你 #y打出 #y攻击 牌，失去 #y所有 #y能量 。"]
+                "NAME": "精神强化",
+                "DESCRIPTIONS": ["如果你 #y打出 一张 #y攻击 牌，失去 #y所有能量 。"]
         },
 
         "aigisMod:AnnihilationProgram": {
-                "NAME": "俱灭指令",
+                "NAME": "灭杀构造",
                 "DESCRIPTIONS": ["每当有人获得 #y格挡 ，受到 #b", " 伤害。"]
         },
 
         "aigisMod:LightweightPower": {
-                "NAME": "轻盈之力",
-                "DESCRIPTIONS": ["回合结束时，失去 #b1 #y敏捷 并获得 #b", " 层 #y残影 。"]
+                "NAME": "定制【轻量化】",
+                "DESCRIPTIONS": ["在回合结束时，失去 #b1 点 #敏捷 ，获得 #b", " 层 #y残影 。"]
         },
 
         "aigisMod:TigerHide": {
                 "NAME": "狐假虎威",
-                "DESCRIPTIONS": ["每当你获得 #y残影 ，对所有敌人造成 #b", " 伤害并抽 #b 张牌。"]
+                "DESCRIPTIONS": ["当你获得 #y残影 时，对所有敌人造成 #b", " 点 #y伤害 并且抽 #b1 张牌。"]
         },
 
         "aigisMod:FlameBurstPower": {
-                "NAME": "烈焰爆发",
-                "DESCRIPTIONS": ["每当你获得 #y残影 ，获得 #b", " #y力量 。"]
+                "NAME": "大炎上",
+                "DESCRIPTIONS": ["当你获得 #y残影 时， 获得 #b", " 点 #y力量 。"]
         },
 
         "aigisMod:AngelMaid": {
                 "NAME": "天使女仆",
-                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y释能 牌从抽牌堆加入手牌。", "选择一张牌加入手牌", "我的抽牌堆没有可以释能的牌..."]
+                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y解放牌 从你的牌库加入手牌。", "选择一张牌加入手牌。", "我的抽牌堆中没有解放牌..."]
         },
 
         "aigisMod:EndOfTurnHeal": {
-                "NAME": "结末治疗",
-                "DESCRIPTIONS": ["回合结束时，恢复 #b", " 生命。"]
+                "NAME": "回合结束治疗",
+                "DESCRIPTIONS": ["回合结束时，回复 #b", " 点生命。"]
         },
 
         "aigisMod:DivineStaffDagda": {
-                "NAME": "神圣的达格达",
-                "DESCRIPTIONS": ["每当回复生命或获得临时生命时，获得 #b", " #y力量 和 #b", " #y格挡 。"]
+                "NAME": "达格达的神杖",
+                "DESCRIPTIONS": ["回复或获得临时生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
         },
 
         "aigisMod:Strength ForTheTurnPower": {

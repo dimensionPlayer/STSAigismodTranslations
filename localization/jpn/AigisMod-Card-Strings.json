@@ -542,11 +542,11 @@
   },
   "aigisMod:Teeny": {
     "NAME": "ティニー",
-    "DESCRIPTION": "このターン、アタックとスキルをプレイした時それぞれ 筋力/敏捷性 を得る。",
-    "UPGRADE_DESCRIPTION": "このターン、アタックとスキルをプレイした時それぞれ 筋力/敏捷性 を得る。",
+    "DESCRIPTION": "アタックかスキルをプレイした時、ターン中、それぞれ 筋力/敏捷性 を得る。",
+    "UPGRADE_DESCRIPTION": "アタックかスキルをプレイした時、ターン中、それぞれ 筋力/敏捷性 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "ドワーフの姫",
-      "筋力 1 と 敏捷性 1 を得る。 このターン、アタックとスキルをプレイした時、それぞれ 筋力/敏捷性 を得る。"
+      "筋力 1 と 敏捷性 1 を得る。 アタックかスキルをプレイした時、ターン中、それぞれ 筋力/敏捷性 を得る。"
     ]
   },
   "aigisMod:Carat": {
@@ -637,7 +637,7 @@
   "aigisMod:Uzume": {
     "NAME": "ウズメ",
     "DESCRIPTION": "1 ターンに 1 回、 アタック を 3 回プレイをした時、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL 1 ターンに 1 回、 アタック を 3 回プレイをした時 [E] [E] を得る。",
+    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL 1 ターンに 1 回、 アタック を 3 回プレイをした時 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "地の軍師"
     ]
@@ -3188,11 +3188,11 @@
   },
   "aigisMod:Aisha": {
     "NAME": "アイシャ",
-    "DESCRIPTION": "aigismod:流星 X を生成する。 NL aigismod:流星 が全ての敵を攻撃するようになる。",
-    "UPGRADE_DESCRIPTION": "aigismod:流星 X+1 を生成する。 NL aigismod:流星 が全ての敵を攻撃するようになる。",
+    "DESCRIPTION": "aigismod:流星 は X の追加ダメージ。 NL aigismod:流星 が全ての敵を攻撃するようになる。",
+    "UPGRADE_DESCRIPTION": "aigismod:流星 は X+1 の追加ダメージ。 NL aigismod:流星 が全ての敵を攻撃するようになる。",
     "EXTENDED_DESCRIPTION" : [
       "伏龍の軍師",
-      "aigismod:流星 X を生成する。 NL !B! ブロック を得る。 NL aigismod:流星 が全ての敵を攻撃するようになる。"
+      "aigismod:流星 は X の追加ダメージ。 NL !B! ブロック を得る。 NL aigismod:流星 が全ての敵を攻撃するようになる。"
     ]
   },
   "aigisMod:Gloria": {
@@ -3541,8 +3541,8 @@
   },
   "aigisMod:Miranda": {
     "NAME": "ミランダ",
-    "DESCRIPTION": "aigismod:堅物 : 5 NL !B! ブロック を得る。 NL ブロックに等しいダメージを与える。 NL ターンを終了する。",
-    "UPGRADE_DESCRIPTION": "aigismod:堅物 : 5 NL !B! ブロック を得る。 NL ブロックに等しいダメージを与える。",
+    "DESCRIPTION": "aigismod:堅物 : 8 NL !B! ブロック を得る。 NL ブロックに等しいダメージを与える。 NL ターンを終了する。",
+    "UPGRADE_DESCRIPTION": "aigismod:堅物 : 8 NL !B! ブロック を得る。 NL ブロックに等しいダメージを与える。 NL ターンを終了する。",
     "EXTENDED_DESCRIPTION": [
       "聖鎚闘士",
       " NL (!D! ダメージを与える)"
@@ -3550,8 +3550,8 @@
   },
   "aigisMod:Maribel2": {
     "NAME": "マリーベル",
-    "DESCRIPTION": "ブロックに等しいダメージを与える。",
-    "UPGRADE_DESCRIPTION": "ブロックに等しいダメージを与える。",
+    "DESCRIPTION": "ブロックの半分に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "ブロックの半分に等しいダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       "聖戦士",
       " NL (!D! ダメージを与える)"
@@ -3592,16 +3592,16 @@
   },
   "aigisMod:Horus": {
     "NAME": "ホルエス",
-    "DESCRIPTION": "aigismod:堅物 :7 NL !D! ダメージを2回与える。 NL カードを1枚捨てる。",
-    "UPGRADE_DESCRIPTION": "aigismod:堅物 :7 NL !D! ダメージを2回与える。 NL カードを1枚捨てる。",
+    "DESCRIPTION": "aigismod:堅物 :8 NL !D! ダメージを2回与える。 NL カードを1枚捨てる。",
+    "UPGRADE_DESCRIPTION": "aigismod:堅物 :8 NL !D! ダメージを2回与える。 NL カードを1枚捨てる。",
     "EXTENDED_DESCRIPTION": [
       "熱砂の剣士"
     ]
   },
   "aigisMod:Asar": {
     "NAME": "アサル",
-    "DESCRIPTION": "aigismod:堅物 :6 NL !D! ダメージを与える。 NL 次のターン、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:堅物 :6 NL !D! ダメージを与える。 NL 次のターン、 [E] を得る。",
+    "DESCRIPTION": "aigismod:堅物 :8 NL !D! ダメージを与える。 NL 次のターン、 [E] を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:堅物 :8 NL !D! ダメージを与える。 NL 次のターン、 [E] を得る。",
     "EXTENDED_DESCRIPTION": [
       "砂漠の戦士"
     ]
@@ -3665,11 +3665,11 @@
   },
   "aigisMod:Cynthia": {
     "NAME": "シンシア",
-    "DESCRIPTION": "ターン開始時、手札のアタックのコストをこのターンの間 !M! 下げる。 アタックをプレイした時、全ての [E] を失う。",
-    "UPGRADE_DESCRIPTION": "ターン開始時、手札のアタックのコストをこのターンの間 !M! 下げる。 アタックをプレイした時、全ての [E] を失う。",
+    "DESCRIPTION": "戦闘終了まですべてのアタックカードのコストを !M! 下げる。 アタックをプレイした時、全ての [E] を失う。",
+    "UPGRADE_DESCRIPTION": "戦闘終了まですべてのアタックカードのコストを !M! 下げる。 アタックをプレイした時、全ての [E] を失う。",
     "EXTENDED_DESCRIPTION": [
       "戦の聖霊",
-      "天賦 NL ターン開始時、手札のアタックのコストをこのターンの間 !M! 下げる。 アタックをプレイした時、全ての [E] を失う。"
+      "天賦 NL 戦闘終了まですべてのアタックカードのコストを !M! 下げる。 アタックをプレイした時、全ての [E] を失う。"
     ]
   },
   "aigisMod:Saria": {
@@ -3700,7 +3700,7 @@
   "aigisMod:Alta1": {
     "NAME": "アルタ",
     "DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄 NL エセリアル",
     "EXTENDED_DESCRIPTION": [
       "薔薇の自動人形"
     ]
@@ -3821,11 +3821,11 @@
   },
   "aigisMod:Kayou": {
     "NAME": "カヨウ",
-    "DESCRIPTION": "6 ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。",
-    "UPGRADE_DESCRIPTION": "6 ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。",
+    "DESCRIPTION": "!aigisMod:SecondMagic! ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "!aigisMod:SecondMagic! ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。",
     "EXTENDED_DESCRIPTION": [
       "九尾狐",
-      "保留 NL 3 ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。"
+      "保留 NL !aigisMod:SecondMagic! ダメージを受ける。 NL ブラーを得るたびに 筋力 !M! を得る。"
     ]
   },
   "aigisMod:Chizuru2": {
