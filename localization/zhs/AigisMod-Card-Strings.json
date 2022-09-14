@@ -1089,7 +1089,7 @@
   "aigisMod:Julia": {
     "NAME": "朱莉娅",
     "DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 第一次打出时: 战斗后获得一个随机遗物。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 第一次打出时: 本场战斗获得一个随机遗物。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
