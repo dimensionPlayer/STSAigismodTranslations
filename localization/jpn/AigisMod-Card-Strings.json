@@ -162,7 +162,7 @@
   },
   "aigisMod:HorteusBlack": {
     "NAME": "ホルテウス",
-    "DESCRIPTION": "敵は HP !M! を失う。 NL aigismod:仮初 のHP !M! を得る。 NL スフィンクスを 1 枚手札に加える。 NL aigismod:残り回数 : 2",
+    "DESCRIPTION": "敵は HP !M! を失う。 NL aigismod:仮初 のHP !M! を得る。 NL スフィンクスを 1 枚手札に加える。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "獅子女の覇者"
     ]
@@ -1390,8 +1390,8 @@
   },
   "aigisMod:Katrina": {
     "NAME": "カトリーナ",
-    "DESCRIPTION": "カードを 1 枚引く。 NL 脱力 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL 弱体 3 を与える。",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 脱力 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL 弱体 3 を与える。",
+    "DESCRIPTION": "カードを 2 枚引く。 NL 脱力 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL 弱体 3 を与える。",
+    "UPGRADE_DESCRIPTION": "カードを 3 枚引く。 NL 脱力 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL 弱体 3 を与える。",
     "EXTENDED_DESCRIPTION" : [
       "帝国工兵"
     ]
@@ -1583,12 +1583,13 @@
       "帝国水兵"
     ]
   },
-  "aigisMod:Halina": {
+  "aigisMod:Halina2": {
     "NAME": "ハリナ",
-    "DESCRIPTION": "ストライクが 弱体 1 を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時 カードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "ストライクが 弱体 1 を与える。ボスとエリートには 弱体 2 を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時、 カードを 1 枚引く。",
+    "DESCRIPTION": "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時 カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "天賦 NL ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時、 カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "亡国の女皇"
+      "亡国の女皇",
+      "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時 カードを 1 枚引く。"
     ]
   },
   "aigisMod:Jutta": {
@@ -1635,12 +1636,13 @@
       "無形 1 を得る。 NL aigismod:残り回数 : !stslib:ex! 。"
     ]
   },
-  "aigisMod:Aleida": {
+  "aigisMod:Aleida2": {
     "NAME": "アレイダ",
-    "DESCRIPTION": "HPを 4 回復する。 NL 1 ターンに 1 回、帝国キャラアタックカードをプレイした時、この戦闘中ストライクのダメージが !M! 増加する。",
-    "UPGRADE_DESCRIPTION": "HPを 4 回復する。 NL 1 ターンに 1 回、帝国キャラアタックカードをプレイした時、この戦闘中ストライクのダメージが !M! 増加する。",
+    "DESCRIPTION": "HPを !aigisMod:SecondMagic! 回復する。 NL 1 ターンに 1 回、帝国キャラアタックカードをプレイした時、この戦闘中ストライクのダメージが !M! 増加する。",
+    "UPGRADE_DESCRIPTION": "HPを !aigisMod:SecondMagic! 回復する。 NL 1 ターンに 1 回、帝国キャラアタックカードをプレイした時、この戦闘中ストライクのダメージが !M! 増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "帝国辺境総督"
+      "帝国辺境総督",
+      "HPを !aigisMod:SecondMagic! 回復する。 NL 1 ターンに 1 回、帝国キャラアタックカードをプレイした時、この戦闘中ストライクのダメージが !M! 増加する。"
     ]
   },
   "aigisMod:Aurora": {
@@ -1715,7 +1717,7 @@
   "aigisMod:AirSignal": {
     "NAME": "エアーシグナル",
     "DESCRIPTION": "保留 NL 捨て札から 飛行隊 を NL 1 枚手札に加え、 NL このターンのコストを 0 。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 捨て札から 飛行隊 を NL 1 枚手札に加える。 NL このターン、そのカードのコストを 0 、ダメージを +1 する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 捨て札から 飛行隊 を NL 1 枚手札に加える。 NL このターン、そのカードのコストを 0 。 NL ランダムな敵に 脱力 1 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1881,7 +1883,7 @@
   "aigisMod:Lily": {
     "NAME": "リィーリ",
     "DESCRIPTION": "手札の帝国カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "手札の 帝国 か デーモン カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "エセリアル NL 手札の 帝国 か デーモン カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "魔神の落胤"
     ]
@@ -1896,7 +1898,7 @@
   },
   "aigisMod:Belphe": {
     "NAME": "ベル―フェ",
-    "DESCRIPTION": "全ての敵に、 !D! ダメージを与える。 NL aigismod:暗殺 。",
+    "DESCRIPTION": "全ての敵に、 !D! ダメージを与える。 NL aigismod:暗殺 するたび、捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
     "UPGRADE_DESCRIPTION": "全ての敵に、 !D! ダメージを与える。 NL aigismod:暗殺 するたび、捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "怠惰の魔神"
@@ -1985,8 +1987,8 @@
   },
   "aigisMod:Prisna": {
     "NAME": "プリスナ",
-    "DESCRIPTION": "手札を山札に戻し、カードを !M! 引く。",
-    "UPGRADE_DESCRIPTION": "手札を山札に戻し、カードを !M! 引く。",
+    "DESCRIPTION": "エセリアル NL 手札を山札に戻し、カードを !M! 引く。",
+    "UPGRADE_DESCRIPTION": "エセリアル NL 手札を山札に戻し、カードを !M! 引く。",
     "EXTENDED_DESCRIPTION" : [
       "歪み角の"
     ]
@@ -2008,19 +2010,28 @@
       "!D! ダメージを与える。 NL あなたのHPが !M! % 以下の時、ダメージが 3 倍になる。  "
     ]
   },
-  "aigisMod:Grimm": {
+  "aigisMod:Grimm2": {
     "NAME": "グリム",
-    "DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
-    "UPGRADE_DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
+    "DESCRIPTION": "山札に 魔王の影 1 枚 を加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
+    "UPGRADE_DESCRIPTION": "山札に 魔王の影 1 枚 を加える。 NL aigismod:ダメージオーラ !M! を得る。ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
     "EXTENDED_DESCRIPTION" : [
-      "異界召喚士"
+      "異界召喚士",
+      "山札に 魔王の影+ 1 枚 を加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。"
+    ]
+  },
+  "aigisMod:MaouShadow": {
+    "NAME": "魔王の影",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードを 廃棄 した時、 ランダムな敵に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL このカードを 廃棄 した時、 ランダムな敵に !D! ダメージを与える。",
+    "EXTENDED_DESCRIPTION": [
+      ""
     ]
   },
 
   "aigisMod:Motley": {
     "NAME": "モトリー",
-    "DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。",
-    "UPGRADE_DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。 NL !B! ブロック を得る。",
+    "DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。 NL !B! ブロック を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国道化師"
     ]
@@ -2141,7 +2152,113 @@
       "闇炎の魔将"
     ]
   },
-
+  "aigisMod:Leraje": {
+    "NAME": "レライエ",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 全ての敵はHP !M! を失う。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 全ての敵はHP !M! を失う。 NL aigismod:残り回数 : !stslib:ex!",
+    "EXTENDED_DESCRIPTION": [
+      "魔神の共鳴者"
+    ]
+  },
+  "aigisMod:Romilda": {
+    "NAME": "ロミルダ",
+    "DESCRIPTION": "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。",
+    "UPGRADE_DESCRIPTION": "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。",
+    "EXTENDED_DESCRIPTION": [
+      "帝国時術士",
+      "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。"
+    ]
+  },
+  "aigisMod:Tuda": {
+    "NAME": "トゥーダ",
+    "DESCRIPTION": "山札のカードを 1 枚 廃棄 して、そのコストの値と同じ aigismod:ダメージオーラ と 金属化 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "山札のカードを 1 枚 廃棄 して、そのコストの値と同じ aigismod:ダメージオーラ と 金属化 (+1) を得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "帝国神官戦士長",
+      "山札のカードを 1 枚 廃棄 して、そのコストの値と同じ aigismod:ダメージオーラ (+1) と 金属化 を得る。 NL 廃棄"
+    ]
+  },
+  "aigisMod:Abgrund": {
+    "NAME": "アブグルント",
+    "DESCRIPTION": "手札の デーモン を 1 枚 廃棄 して、 カードを !M! 枚引く。 NL 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "手札の デーモン を 1 枚 廃棄 して、 カードを !M! 枚引く。 NL 筋力 1 を得る。",
+    "EXTENDED_DESCRIPTION": [
+      "深潭の魔将"
+    ]
+  },
+  "aigisMod:Ursula": {
+    "NAME": "ウルスラ",
+    "DESCRIPTION": "!D! ダメージを 3 回与える。 NL aigismod:暗殺 時、 カードを 2 枚引く。 NL aigismod:暗殺 。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを 3 回与える。 NL aigismod:暗殺 時、 カードを 2 枚引く。 NL aigismod:暗殺 。",
+    "EXTENDED_DESCRIPTION": [
+      "帝国忍者"
+    ]
+  },
+  "aigisMod:Gratia": {
+    "NAME": "グラティア",
+    "DESCRIPTION": "ストライクカードをプレイした時、この戦闘中ストライクカードのダメージが 1 増加する。",
+    "UPGRADE_DESCRIPTION": "戦闘中、すべてのストライクカードを アップグレード する。 NL ストライクカードをプレイした時、この戦闘中ストライクカードのダメージが 1 増加する。",
+    "EXTENDED_DESCRIPTION": [
+      "帝国鍛冶師"
+    ]
+  },
+  "aigisMod:Charme2": {
+    "NAME": "シャルム",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリ 1 枚を手札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリ 1 枚を手札に加える。",
+    "EXTENDED_DESCRIPTION" : [
+      "炎の竜皇女"
+    ]
+  },
+  "aigisMod:Rute2": {
+    "NAME": "ルーテ",
+    "DESCRIPTION": "山札の帝国騎士カードを NL 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "山札の帝国騎士カードを NL 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国魔鎧兵"
+    ]
+  },
+  "aigisMod:Frey2": {
+    "NAME": "フレイ",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL ストライクが aigismod:鈍足 を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL ストライクが aigismod:鈍足 を与える。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国水兵"
+    ]
+  },
+  "aigisMod:Meer2": {
+    "NAME": "メーア",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL この戦闘中、ランダムなストライクカード1枚が「 [E] を得る。」を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] [E] 。 NL この戦闘中、ランダムなストライクカードが「 [E] を与える。」を得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国槍騎士"
+    ]
+  },
+  "aigisMod:Erde2": {
+    "NAME": "エルデ",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。  NL 手札のランダムな ストライク を1枚プレイする。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。  NL 手札のランダムな ストライク を1枚プレイする。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国重装騎士"
+    ]
+  },
+  "aigisMod:Margot2": {
+    "NAME": "マルゴット",
+    "DESCRIPTION": "1 ターンに 1 回、ストライクが防御をプレイした時、 [E] を得る。 NL ストライクのダメージが !M! 増加する。 NL 防御の効果が !aigisMod:SecondMagic! 上昇する。",
+    "UPGRADE_DESCRIPTION": "1 ターンに 1 回、ストライクが防御をプレイした時、 [E] を得る。 NL ストライクのダメージが !M! 増加する。 NL 防御の効果が !aigisMod:SecondMagic! 上昇する。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国教導隊長",
+      "1 ターンに 1 回、ストライクが防御をプレイした時、 [E] を得る。 NL ストライクのダメージが !M! 増加する。 NL 防御の効果が !aigisMod:SecondMagic! 上昇する。"
+    ]
+  },
+  "aigisMod:Keitridge2": {
+    "NAME": "ケイトリッジ",
+    "DESCRIPTION": "!B! ブロック を得る。 NL aaigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aaigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国飛行士"
+    ]
+  },
 
 
 
@@ -2307,12 +2424,13 @@
       "aigismod:呪術 : aigismod:ダメージオーラ !M! と aigismod:プレートアーマー 2 を得る。 NL 廃棄"
     ]
   },
-  "aigisMod:Shiro": {
+  "aigisMod:Shiro2": {
     "NAME": "シロ",
-    "DESCRIPTION": "全ての敵は 筋力 !M! を失う。 NL 呪いを 廃棄 した時、全ての敵は現HPの 10% を失う(最大 40 % )。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 全ての敵は 筋力 !M! を失う。 NL 呪いを 廃棄 した時、全ての敵は現HPの 10% を失う(最大 40 % )。",
+    "DESCRIPTION": "全ての敵は 筋力 !M! を失う。 NL 呪いを 廃棄 した時、全ての敵は現HPの !aigisMod:SecondMagic! % を失う(最大 40 % )。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 全ての敵は 筋力 !M! を失う。 NL 呪いを 廃棄 した時、全ての敵は現HPの !aigisMod:SecondMagic! % を失う(最大 40 % )。",
     "EXTENDED_DESCRIPTION" : [
-      "犬神"
+      "犬神",
+      "全ての敵は 筋力 !M! を失う。 NL 呪いを 廃棄 した時、全ての敵は現HPの !aigisMod:SecondMagic! % を失う(最大 40 % )。"
     ]
   },
   "aigisMod:Tsumuji": {
@@ -3576,8 +3694,8 @@
   },
   "aigisMod:MaouMecha": {
     "NAME": "大爪形態",
-    "DESCRIPTION": "5ターン後、ランダムな敵に スタン を与え 敏捷性 !M! とブラー !M! を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 5ターン後、ランダムな敵に スタン を与え 敏捷性 !M! とブラー !M! を得る。",
+    "DESCRIPTION": "3ターン後: 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 3ターン後: 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -3973,5 +4091,6 @@
       "斬刀付喪神"
     ]
   }
+
 
 }

@@ -137,11 +137,10 @@
     "NAME": "帝国的英雄",
     "FLAVOR": "给予帝国最强之人的称号。",
     "DESCRIPTIONS": [
-      "每赢得 #b5 场战斗添加一个永久效果，最多有 #b4 种效果。",
-      " NL #y1 。 当你打出技能牌时移除你的 #y易伤 。",
+      "#y打击 造成 #y真实伤害 。 NL 每赢得 #b5 场战斗添加一个永久效果，最多有 #b4 种效果。",
+      " NL #y1 。 #y打击 和 #y防御 额外获得 #b2  点伤害/格挡。",
       " NL #y2 。 当你打出攻击牌时移除你的 #y虚弱 。",
-      " NL #y3 。 #y打击 和 #y防御 额外获得 #b2  点伤害/格挡。",
-      " NL #y4 。 #y打击 造成 #y真实伤害 。"
+      " NL #y3 。 当你打出技能牌时移除你的 #y易伤 。"
     ]
   },
 
@@ -240,6 +239,14 @@
     "FLAVOR": "白之皇帝： 不，生活在帝国就意味着不断地取胜。",
     "DESCRIPTIONS": [
       "在与 #y精英 和 #yBoss 战斗时，获得 #b3 点 #y力量 和 #b3 点 #y敏捷 。"
+    ]
+  },
+  "aigisMod:DemonicRelease": {
+    "NAME": "Demonic Release",
+    "FLAVOR": "莉莉: Thank you for helping Lily who became a demon.",
+    "DESCRIPTIONS": [
+      "The first #yStrike you play each turn deals double damage.",
+      "Once per turn: When you play a #yStrike or #yDefend you can #yExhaust #b1 #yDemon #ycard from #yDraw #yPile."
     ]
   },
   "aigisMod:CallHelp": {

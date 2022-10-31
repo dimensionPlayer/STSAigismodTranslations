@@ -1408,8 +1408,8 @@
   },
   "aigisMod:Katrina": {
     "NAME": "卡特琳娜",
-    "DESCRIPTION": "抽1张牌。 NL 施加 !aigisMod:SecondMagic! 层 虚弱 。 NL aigismod:冷却 : !M! 施加 3 层 易伤 。",
-    "UPGRADE_DESCRIPTION": "抽 2 张牌。 NL 施加 !aigisMod:SecondMagic! 层 虚弱 。 NL aigismod:冷却 : !M! 施加 3 层 易伤 。",
+    "DESCRIPTION": "抽2张牌。 NL 施加 !aigisMod:SecondMagic! 层 虚弱 。 NL aigismod:冷却 : !M! 施加 3 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "抽 3 张牌。 NL 施加 !aigisMod:SecondMagic! 层 虚弱 。 NL aigismod:冷却 : !M! 施加 3 层 易伤 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国工兵"
     ]
@@ -1601,12 +1601,13 @@
       "帝国水兵"
     ]
   },
-  "aigisMod:Halina": {
+  "aigisMod:Halina2": {
     "NAME": "海莉娜",
-    "DESCRIPTION": "打击施加1层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
-    "UPGRADE_DESCRIPTION": "对抗boss和精英时打出此牌两次: 打击施加1层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
+    "DESCRIPTION": "打击施加 !M! 层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 打击施加 !M! 层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。",
     "EXTENDED_DESCRIPTION" : [
-      "亡国女皇"
+      "亡国女皇",
+      "打击施加 !M! 层 易伤 。 NL 一回合一次，打出帝国牌时: 抽1张牌。"
     ]
   },
   "aigisMod:Jutta": {
@@ -1653,12 +1654,13 @@
       "获得1层 无实体 。 NL 消耗性 !stslib:ex! "
     ]
   },
-  "aigisMod:Aleida": {
+  "aigisMod:Aleida2": {
     "NAME": "阿莱达",
-    "DESCRIPTION": "回复 4 点生命。 NL 一回合一次,打出帝国 攻击牌时: 本场战斗打击获得 !M! 点额外伤害。",
-    "UPGRADE_DESCRIPTION": "回复 4 点生命。 NL 一回合一次,打出帝国 攻击牌时: 本场战斗打击获得 !M! 点额外伤害 。",
+    "DESCRIPTION": "回复 !aigisMod:SecondMagic! 点生命。 NL 一回合一次,打出帝国 攻击牌时: 本场战斗打击获得 !M! 点额外伤害。",
+    "UPGRADE_DESCRIPTION": "回复 !aigisMod:SecondMagic! 点生命。 NL 一回合一次,打出帝国 攻击牌时: 本场战斗打击获得 !M! 点额外伤害 。",
     "EXTENDED_DESCRIPTION" : [
-      "帝国边境总督"
+      "帝国边境总督",
+      "回复 !aigisMod:SecondMagic! 点生命。 NL 一回合一次,打出帝国 攻击牌时: 本场战斗打击获得 !M! 点额外伤害。"
     ]
   },
   "aigisMod:Aurora": {
@@ -1715,7 +1717,7 @@
   "aigisMod:AirSignal": {
     "NAME": "空中标记 ",
     "DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌 并本回合耗能变为0。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌 并本回合耗能变为0, 造成1额外伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌 并本回合耗能变为0。 NL 对一名随机敌人施加 1 层 虚弱 。  NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1881,7 +1883,7 @@
   "aigisMod:Lily": {
     "NAME": "莉莉",
     "DESCRIPTION": "选择打出手牌中的1张 帝国 或 恶魔 牌 。 NL 获得 !B! 点 格挡 。",
-    "UPGRADE_DESCRIPTION": "选择打出手牌中的1张 帝国 或 恶魔 牌。 NL 获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "选择打出手牌中的1张 帝国 或 恶魔 牌。 NL 获得 !B! 点 格挡 。 NL 虚无 。",
     "EXTENDED_DESCRIPTION" : [
       "魔神的落胤"
     ]
@@ -1985,8 +1987,8 @@
   },
   "aigisMod:Prisna": {
     "NAME": "普利斯娜",
-    "DESCRIPTION": "将手牌洗入抽牌堆并抽 !M! 张牌。 NL 消耗",
-    "UPGRADE_DESCRIPTION": "将手牌洗入抽牌堆并抽 !M! 张牌。 NL 消耗",
+    "DESCRIPTION": "将手牌洗入抽牌堆并抽 !M! 张牌。 NL 虚无",
+    "UPGRADE_DESCRIPTION": "将手牌洗入抽牌堆并抽 !M! 张牌。 NL 虚无",
     "EXTENDED_DESCRIPTION" : [
       "歪角的"
     ]
@@ -2008,12 +2010,21 @@
       "造成 !D! 点伤害。 NL 如果你的生命值低于 !M! % ,造成三倍伤害。"
     ]
   },
-  "aigisMod:Grimm": {
+  "aigisMod:Grimm2": {
     "NAME": "格林姆",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 在回合结束时,可以消耗抽牌堆中的1张 恶魔 牌。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 在回合结束时,可以消耗抽牌堆中的1张 恶魔 牌。",
+    "DESCRIPTION": "将1张 魔王影 洗入抽牌堆。 在回合结束时,可以消耗抽牌堆中的1张 恶魔 牌。",
+    "UPGRADE_DESCRIPTION": "将1张 魔王影 洗入抽牌堆。 NL 获得 !M! 层 aigismod:伤害光环 。 在回合结束时,可以消耗抽牌堆中的1张 恶魔 牌。",
     "EXTENDED_DESCRIPTION" : [
-      "异界召唤士"
+      "异界召唤士",
+      "将1张 魔王影+ 洗入抽牌堆。 在回合结束时,可以消耗抽牌堆中的1张 恶魔 牌。"
+    ]
+  },
+  "aigisMod:MaouShadow": {
+    "NAME": "魔王影",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 被消耗时: 对一名随机敌人造成 !M! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 被消耗时: 对一名随机敌人造成 !M! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      ""
     ]
   },
 
@@ -2043,8 +2054,8 @@
   },
   "aigisMod:Kahna": {
     "NAME": "康娜",
-    "DESCRIPTION": "施加  !M! 层 易伤 。 NL  本回合获得 !M! 点 力量 。",
-    "UPGRADE_DESCRIPTION": "施加  !M! 层 易伤 。 NL  本回合获得 !M! 点 力量 。",
+    "DESCRIPTION": "施加 !M! 层 易伤 。 NL 本回合获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 易伤 。 NL 本回合获得 !M! 点 力量 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国斥候"
     ]
@@ -2167,7 +2178,114 @@
     ]
   },
 
+  "aigisMod:Leraje": {
+    "NAME": "Leraye",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 所有敌人失去 !M! 点 生命。 NL 消耗性 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 所有敌人失去 !M! 点 生命。 NL 消耗性 : !stslib:ex!",
+    "EXTENDED_DESCRIPTION": [
+      "Majin Resonator"
+    ]
+  },
+  "aigisMod:Romilda": {
+    "NAME": "Romilda",
+    "DESCRIPTION": "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。",
+    "UPGRADE_DESCRIPTION": "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。",
+    "EXTENDED_DESCRIPTION": [
+      "Imperial Time Mage",
+      "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。"
+    ]
+  },
+  "aigisMod:Tuda": {
+    "NAME": "Tuda",
+    "DESCRIPTION": "从抽牌堆消耗 1 张牌，如果成功则 根据其消耗获得 aigismod:伤害光环 和 金属化。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆消耗 1 张牌，如果成功则 根据其消耗获得 aigismod:伤害光环 和 金属化(+1)。 NL 消耗。",
+    "EXTENDED_DESCRIPTION": [
+      "Imperial Priest Warrior Chief",
+      "从抽牌堆消耗 1 张牌，如果成功则 根据其消耗获得 aigismod:伤害光环 (+1) 和 金属化。 NL 消耗。 NL 消耗。"
+    ]
+  },
+  "aigisMod:Abgrund": {
+    "NAME": "Abgrund",
+    "DESCRIPTION": "可以 消耗 手牌中1张 恶魔 牌来抽 !M! 张牌。 NL 获得 1 点 力量 。",
+    "UPGRADE_DESCRIPTION": "可以 消耗 手牌中1张 恶魔 牌来抽 !M! 张牌。 NL 获得 1 点 力量 。",
+    "EXTENDED_DESCRIPTION": [
+      "Demon Lord of the Abyss"
+    ]
+  },
+  "aigisMod:Ursula": {
+    "NAME": "Ursula",
+    "DESCRIPTION": "造成 !D! 点伤害 3 次。 NL aigismod:暗杀 时抽 2 张牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害 3 次。 NL aigismod:暗杀 时抽 2 张牌。",
+    "EXTENDED_DESCRIPTION": [
+      "Imperial Ninja"
+    ]
+  },
+  "aigisMod:Gratia": {
+    "NAME": "Gratia",
+    "DESCRIPTION": "当你打出 打击 牌时,本场战斗打击获得 !M! 点额外伤害。",
+    "UPGRADE_DESCRIPTION": "本场战斗中,升级所有 打击 牌。 NL 当你打出 打击 牌时,本场战斗打击获得 !M! 点额外伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "Imperial Blacksmith"
+    ]
+  },
 
+  "aigisMod:Charme2": {
+    "NAME": "莎姆",
+    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 中加入手牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 中加入手牌。",
+    "EXTENDED_DESCRIPTION" : [
+      "火龙皇女"
+    ]
+  },
+  "aigisMod:Rute2": {
+    "NAME": "露特",
+    "DESCRIPTION": "将1张 帝国骑士 牌从抽牌堆加入手牌。 NL 将1张 打击 牌从弃牌堆加入手牌。 NL 获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "将1张 帝国骑士 牌从抽牌堆加入手牌。 NL 将1张 打击 牌从弃牌堆加入手牌。 NL 获得 !B! 点 格挡 。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国魔铠兵"
+    ]
+  },
+  "aigisMod:Frey2": {
+    "NAME": "芙蕾",
+    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 打击 施加 aigismod:减速 。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 打击 施加 aigismod:减速 。 NL 消耗。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国水兵"
+    ]
+  },
+  "aigisMod:Meer2": {
+    "NAME": "梅亚",
+    "DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] 。 NL 本场战斗中,随机 打击 牌获得: 获得 [E] 。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] [E] 。 NL 本场战斗中,随机 打击 牌获得: 获得 [E] 。 NL 消耗。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国枪骑士"
+    ]
+  },
+  "aigisMod:Erde2": {
+    "NAME": "艾尔德",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 施加  !M! 层 易伤 。 NL 从你的手牌中随机打出 1 张 打击 牌",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 对所有敌人施加 !M! 层 易伤 。 NL 从你的手牌中随机打出 1 张 打击 牌",
+    "EXTENDED_DESCRIPTION" : [
+      "I帝国重装骑士"
+    ]
+  },
+  "aigisMod:Margot2": {
+    "NAME": "玛格特",
+    "DESCRIPTION": "一回合一次,打出 打击/防御 牌时: 获得 [E] 。 NL 打击造成 !M! 点 额外伤害。 NL 防御 额外获得 !aigisMod:SecondMagic! 点。",
+    "UPGRADE_DESCRIPTION": "一回合一次,打出 打击/防御 牌时: 获得 [E] 。 NL 打击造成 !M! 点 额外伤害。 NL 防御 额外获得 !aigisMod:SecondMagic! 点。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国教导队长",
+      "一回合一次,打出 打击/防御 牌时: 获得 [E] 。 NL 打击造成 !M! 点 额外伤害。 NL 防御 额外获得 !aigisMod:SecondMagic! 点。"
+    ]
+  },
+  "aigisMod:Keitridge2": {
+    "NAME": "凯特丽姬",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL aigismod:冷却 : !M! 获得 1 点 力量 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL aigismod:冷却 : !M! 获得 1 点 力量 。",
+    "EXTENDED_DESCRIPTION" : [
+      "帝国飞行士"
+    ]
+  },
 
 
 
@@ -2335,12 +2453,13 @@
       "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 , 2 层 金属化 。 NL 消耗 。"
     ]
   },
-  "aigisMod:Shiro": {
+  "aigisMod:Shiro2": {
     "NAME": "白",
-    "DESCRIPTION": "所有敌人失去 !M! 点 力量 。 当诅咒 被消耗时所有敌人失去 10% (最大40%) 的当前生命。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 所有敌人失去 !M! 点 力量 。 当诅咒 被消耗时所有敌人失去 10% (最大40%) 的当前生命。",
+    "DESCRIPTION": "所有敌人失去 !M! 点 力量 。 当诅咒 被消耗时所有敌人失去 !aigisMod:SecondMagic! % (最大40%) 的当前生命。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 所有敌人失去 !M! 点 力量 。 当诅咒 被消耗时所有敌人失去 !aigisMod:SecondMagic! % (最大40%) 的当前生命。",
     "EXTENDED_DESCRIPTION" : [
-      "犬神"
+      "犬神",
+      "所有敌人失去 !M! 点 力量 。 当诅咒 被消耗时所有敌人失去 !aigisMod:SecondMagic! % (最大40%) 的当前生命。"
     ]
   },
   "aigisMod:Tsumuji": {
@@ -3606,8 +3725,8 @@
   },
   "aigisMod:MaouMecha": {
     "NAME": "魔王军铠甲模式",
-    "DESCRIPTION": "5 回合后： NL 击晕 1 名随机敌人， 获得 !M! 点敏捷 和 残影 。",
-    "UPGRADE_DESCRIPTION": "固有 。 NL  5 回合后： NL 击晕 1 名随机敌人，获得 !M! 点 敏捷 和 残影 。",
+    "DESCRIPTION": "3 回合后： NL 获得 !M! 点 力量 ， 敏捷 和 残影 。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 3 回合后： NL 获得 !M! 点 力量 ， 敏捷 和 残影 。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -4002,6 +4121,8 @@
       "斩刀付丧神"
     ]
   }
+
+
 
 }
 
