@@ -1111,8 +1111,8 @@
   },
   "aigisMod:Yashima": {
     "NAME": "ヤシマ",
-    "DESCRIPTION": "捨て札から 1 枚選びプレイする。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "捨て札から 1 枚選びプレイする。 NL 全ての敵に NL 脱力 2 を与える。 NL 廃棄",
+    "DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 全ての敵に NL 脱力 2 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "妖狸"
     ]
@@ -1305,8 +1305,8 @@
   },
   "aigisMod:Airship": {
     "NAME": "帝国飛空艇",
-    "DESCRIPTION": "山札の帝国カードを NL 1 枚手札に加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "山札の帝国カードを NL 1 枚手札に加える。",
+    "DESCRIPTION": "山札の帝国カードを NL 1 枚選んで手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "山札の帝国カードを NL 1 枚選んで手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1585,11 +1585,11 @@
   },
   "aigisMod:Halina2": {
     "NAME": "ハリナ",
-    "DESCRIPTION": "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時 カードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "天賦 NL ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時、 カードを 1 枚引く。",
+    "DESCRIPTION": "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国キャラカードをプレイした時 カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "天賦 NL ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国キャラカードをプレイした時、 カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "亡国の女皇",
-      "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードをプレイした時 カードを 1 枚引く。"
+      "ストライクが 弱体 !M! を与える。 NL 1 ターンに 1 回、帝国カードキャラをプレイした時 カードを 1 枚引く。"
     ]
   },
   "aigisMod:Jutta": {
@@ -1882,7 +1882,7 @@
   },
   "aigisMod:Lily": {
     "NAME": "リィーリ",
-    "DESCRIPTION": "手札の帝国カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
+    "DESCRIPTION": "手札の 帝国 か デーモン カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
     "UPGRADE_DESCRIPTION": "エセリアル NL 手札の 帝国 か デーモン カードを 1 枚プレイできる。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "魔神の落胤"
@@ -2162,11 +2162,11 @@
   },
   "aigisMod:Romilda": {
     "NAME": "ロミルダ",
-    "DESCRIPTION": "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。",
-    "UPGRADE_DESCRIPTION": "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。",
+    "DESCRIPTION": "aigismod:鈍足 !M! と 脱力 !aigisMod:SecondMagic! を与える。 NL 次の帝国カードを 2 回プレイする。",
+    "UPGRADE_DESCRIPTION": "aigismod:鈍足 !M! と 脱力 !aigisMod:SecondMagic! を与える。 NL 次の帝国カードを 2 回プレイする。",
     "EXTENDED_DESCRIPTION": [
       "帝国時術士",
-      "!M! aigismod:鈍足 と !aigisMod:SecondMagic! 脱力 を与える。 NL 次の帝国カードを 2 回プレイする。"
+      "aigismod:鈍足 !M! と 脱力 !aigisMod:SecondMagic! を与える。 NL 次の帝国カードを 2 回プレイする。"
     ]
   },
   "aigisMod:Tuda": {
@@ -2220,24 +2220,24 @@
   },
   "aigisMod:Frey2": {
     "NAME": "フレイ",
-    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL ストライクが aigismod:鈍足 を与える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL ストライクが aigismod:鈍足 を与える。 NL 廃棄",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL この戦闘中、ストライクが aigismod:鈍足 を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL この戦闘中、ストライクが aigismod:鈍足 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国水兵"
     ]
   },
   "aigisMod:Meer2": {
     "NAME": "メーア",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL この戦闘中、ランダムなストライクカード1枚が「 [E] を得る。」を与える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] [E] 。 NL この戦闘中、ランダムなストライクカードが「 [E] を与える。」を得る。 NL 廃棄",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL この戦闘中、ランダムなストライクカード1枚に「 [E] を得る。」を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : [E] [E] 。 NL この戦闘中、ランダムなストライクカード1枚に「 [E] を得る。」を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国槍騎士"
     ]
   },
   "aigisMod:Erde2": {
     "NAME": "エルデ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。  NL 手札のランダムな ストライク を1枚プレイする。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。  NL 手札のランダムな ストライク を1枚プレイする。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 全ての敵に 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
     "EXTENDED_DESCRIPTION" : [
       "帝国重装騎士"
     ]
@@ -2253,8 +2253,8 @@
   },
   "aigisMod:Keitridge2": {
     "NAME": "ケイトリッジ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL aaigismod:クールタイム : !M! : NL 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aaigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国飛行士"
     ]
@@ -2911,8 +2911,8 @@
   },
   "aigisMod:Ricola": {
     "NAME": "リコラ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL aigismod:トラップ !M! を得て、戦闘中このカードのコスト 0",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL aigismod:トラップ !M! を得て、戦闘中このカードのコスト 0",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL aigismod:トラップ !M! を得て、 NL 戦闘中このカードのコストを 0 にする",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL aigismod:トラップ !M! を得て、 NL 戦闘中このカードのコストを 0 にする",
     "EXTENDED_DESCRIPTION" : [
       "聖森の番人"
     ]
@@ -2927,8 +2927,8 @@
   },
   "aigisMod:Aida": {
     "NAME": "アイーダ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:撃破 : aigismod:トラップ !M!",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:撃破 : aigismod:トラップ !M!",
+     "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 対象がデバフを持つとき aigismod:トラップ !M! を得る。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 対象がデバフを持つとき aigismod:トラップ !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "闇の森の番人"
     ]
@@ -3191,7 +3191,7 @@
     "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "!B! ブロック を得る。 NL aigismod:強化スキル : !M! ブロック増加する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。"
+      "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。"
     ]
   },
   "aigisMod:TaoPao": {
@@ -3694,8 +3694,8 @@
   },
   "aigisMod:MaouMecha": {
     "NAME": "大爪形態",
-    "DESCRIPTION": "3ターン後: 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 3ターン後: 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
+    "DESCRIPTION": "3ターン後に 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 3ターン後に 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -3817,8 +3817,8 @@
   },
   "aigisMod:Alta1": {
     "NAME": "アルタ",
-    "DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄 NL エセリアル",
+    "DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄 NL エセリアル",
+    "UPGRADE_DESCRIPTION": "ブロックを得るたび対象に !M! ダメージを与える。 NL このデバフを永続的に !aigisMod:SecondMagic! 上昇する。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
       "薔薇の自動人形"
     ]

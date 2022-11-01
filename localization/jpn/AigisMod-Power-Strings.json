@@ -129,7 +129,7 @@
         },
         "aigisMod:VictorySword": {
                 "NAME": "勝利の剣",
-                "DESCRIPTIONS": [" 1 ターンに一度、#y白の帝国 #yキャラクター をプレイした時、ドロー #b", "このターンすでに発動している。"]
+                "DESCRIPTIONS": [" 1 ターンに一度、 #y白の帝国 #yキャラクター をプレイした時、ドロー #b", "このターンすでに発動している。"]
         },
         "aigisMod:ImperialCooking": {
                 "NAME": "帝国式調理術",
