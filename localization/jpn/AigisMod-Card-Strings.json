@@ -2237,7 +2237,7 @@
   "aigisMod:Erde2": {
     "NAME": "エルデ",
     "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 全ての敵に 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
     "EXTENDED_DESCRIPTION" : [
       "帝国重装騎士"
     ]
