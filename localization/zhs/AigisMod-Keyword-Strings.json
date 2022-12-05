@@ -285,7 +285,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出非复制的原卡片时便施加描述效果。"
+    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -313,71 +313,81 @@
     "DESCRIPTION": "战斗开始时, 将 #y盾之拉瓦尔 和 #y矛之拉瓦尔 加入抽牌堆。他们的升级数量与此卡相同。"
   },
   {
+    "PROPER_NAME": "流星",
     "NAMES": [
+      "流星",
+      "流星。",
       "Meteor",
       "Meteor.",
       "meteor",
-      "meteor.",
-      "流星",
-      "流星。"
+      "meteor."
     ],
     "DESCRIPTION": "充能球：对一名随机敌人造成伤害。 当你打出更多流星牌时提高此伤害。"
   },
   {
     "PROPER_NAME": "暗黑斗士",
     "NAMES": [
-      "Dark Fighter",
+      "暗黑斗士",
+      "暗黑斗士。",
+	  "Dark Fighter",
+      "Dark_Fighter",
       "Dark_fighter.",
       "Dark_fighter",
-      "dark_fighter",
-      "暗黑斗士",
-      "暗黑斗士。"
+      "dark_fighter"
     ],
     "DESCRIPTION": "当你获得时 #y格挡时，你 #y手牌 中的此卡本回合耗能减少 #b1 点。"
   },
   {
+    "PROPER_NAME": "生命连接",
     "NAMES": [
+      "生命连接",
+      "生命连接。",
       "Lifelink",
       "Lifelink.",
       "lifelink",
-      "lifelink.",
-      "生命连接",
-      "生命连接。"
+      "lifelink."
     ],
     "DESCRIPTION": "敌人失去你完全格挡的伤害数值的HP， 当你打出耗能为 #b1 以上的攻击牌时减少 #b1 层。"
   },
   {
+    "PROPER_NAME": "要塞",
     "NAMES": [
+      "要塞",
+      "要塞:",
       "Fortress",
       "Fortress:",
       "fortress",
-      "fortress:",
-      "要塞",
-      "要塞："
+      "fortress:"
+
     ],
-    "DESCRIPTION": "在你的格挡在此数值以上时产生效果。"
+    "DESCRIPTION": "当你的格挡值不低于此值时，触发效果。"
   },
   {
+    "PROPER_NAME": "装甲",
     "NAMES": [
+      "装甲",
+      "装甲:",
       "Armor",
       "Armor:",
       "armor",
-      "armor:",
-      "装甲",
-      "装甲："
+      "armor:"
+
     ],
-    "DESCRIPTION": "除非你的格挡在此数值以上，否则 #y无法打出 。"
+    "DESCRIPTION": "当你的格挡值不低于此值时才能被打出。"
   },
   {
+    "PROPER_NAME": "解放",
     "NAMES": [
+      "解放",
+      "解放:",
       "Release",
       "Release:",
       "release",
-      "release:",
-      "解放",
-      "解放："
+      "release:"
+
     ],
-    "DESCRIPTION": "当你格挡为0或者拥有残影时产生效果。"
+    "DESCRIPTION": "当你格挡值为0或有 #y残影 时，触发效果。"
   }
+
 
 ]

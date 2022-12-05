@@ -278,7 +278,7 @@
 
         "aigisMod:MeteorTactics": {
                 "NAME": "Meteor Tactics",
-                "DESCRIPTIONS": ["Meteor orbs hits all enemies."]
+                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage. Meteor orbs hits all enemies."]
         },
 
         "aigisMod:MultiPlosion": {
@@ -318,7 +318,7 @@
 
         "aigisMod:MechaForm": {
                 "NAME": "Mecha Form",
-                "DESCRIPTIONS": ["After #b", " turns", " turn", ", #ystun a random enemy and gain", " #yDexterity and #yBlur."]
+                "DESCRIPTIONS": ["After #b", " turns", " turn", ", gain ", " #yDexterity, #yStrength and #yBlur."]
         },
 
         "aigisMod:BladeOfPursuitPower": {
@@ -338,7 +338,7 @@
 
         "aigisMod:SpiritBoost": {
                 "NAME": "Spirit Boost",
-                "DESCRIPTIONS": ["At the start of turn, #yattack cards in your hand cost #b", " less for the turn. If you #yplay an #yattack card, lose #yALL your #yenergy."]
+                "DESCRIPTIONS": ["If you #yplay an #yattack card, lose #yALL your #yenergy."]
         },
 
         "aigisMod:AnnihilationProgram": {
@@ -376,6 +376,19 @@
                 "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
         },
 
+        "aigisMod:ImperialSmith": {
+                "NAME": "Imperial Smith",
+                "DESCRIPTIONS": ["When you play a #yStrike card, ALL #yStrike cards gain #b", " more damage."]
+        },
+
+        "aigisMod:OverclockPower": {
+                "NAME": "Overclock",
+                "DESCRIPTIONS": ["The next #yImperial card you play is played twice."]
+        },
+        "aigisMod:CommanderInspiration": {
+                "NAME": "Commander Inspiration",
+                "DESCRIPTIONS": ["Once per turn, when you play a #yStrike card or #yDefend, gain #b", " energy", "This power has been activated."]
+        },
         "aigisMod:StrengthForTheTurnPower": {
                 "NAME": "Strength for the Turn",
                 "DESCRIPTIONS": ["This turn, increases attack #ydamage by #b", "This turn, decreases attack #ydamage by #b", "."]

@@ -105,7 +105,7 @@
         },
         "aigisMod:PrincessMaid": {
                 "NAME": "皇家女仆",
-                "DESCRIPTIONS": ["回合开始时, 选择抽牌堆中 #b", " 张公主牌。", "选择一张加入手牌。", "我的抽牌堆中没有公主牌..."]
+                "DESCRIPTIONS": ["回合开始时, 选择牌组中 #b", " 张公主牌。", "选择一张加入手牌。", "我的牌组中没有公主牌..."]
         },
         "aigisMod:EasternMaid": {
                 "NAME": "东国女仆",
@@ -269,16 +269,17 @@
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明镜止水",
-                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b.", " 层 #y活力 ."]
+                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b", " 层 #y活力 。"]
         },
         "aigisMod:StunResistance": {
                 "NAME": "击晕抗性",
                 "DESCRIPTIONS": ["无效下 #b", " 次受到的击晕。"]
         },
 
+
         "aigisMod:MeteorTactics": {
                 "NAME": "天落岩之计",
-                "DESCRIPTIONS": ["流星充能球攻击所有敌人"]
+                "DESCRIPTIONS": ["#y流星充能球 获得 #b", " 点伤害。 流星充能球攻击所有敌人。"]
         },
 
         "aigisMod:MultiPlosion": {
@@ -288,7 +289,7 @@
 
         "aigisMod:Inferno": {
                 "NAME": "狱炎",
-                "DESCRIPTIONS": ["#y流星充能球 命中敌人时，施加 #b", " #y灼伤 。"]
+                "DESCRIPTIONS": [" #y流星充能球 命中敌人时，施加 #b", " 层 #y灼热 。"]
         },
 
         "aigisMod:HuntingTime": {
@@ -303,7 +304,7 @@
 
         "aigisMod:ManaControl": {
                 "NAME": "玛娜掌控",
-                "DESCRIPTIONS": [" #y流星充能球 本回合获得 #b", " 点伤害。"]
+                "DESCRIPTIONS": ["#y流星充能球 本回合获得 #b", " 点伤害。"]
         },
 
         "aigisMod:LifelinkPower": {
@@ -338,12 +339,12 @@
 
         "aigisMod:SpiritBoost": {
                 "NAME": "精神强化",
-                "DESCRIPTIONS": ["回合开始时，手中的 #y攻击 牌本回合耗能降低 #b", " 。 如果你 #y打出 一张 #y攻击 牌，失去 #y所有能量 。"]
+                "DESCRIPTIONS": ["如果你 #y打出 一张 #y攻击 牌，失去 #y所有能量 。"]
         },
 
         "aigisMod:AnnihilationProgram": {
                 "NAME": "灭杀构造",
-                "DESCRIPTIONS": ["每当你获得 #y格挡 时，受到 #b", " 点伤害。"]
+                "DESCRIPTIONS": ["每当有人获得 #y格挡 ，受到 #b", " 伤害。"]
         },
 
         "aigisMod:LightweightPower": {
@@ -374,6 +375,19 @@
         "aigisMod:DivineStaffDagda": {
                 "NAME": "达格达的神杖",
                 "DESCRIPTIONS": ["回复或获得临时生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
+        },
+
+        "aigisMod:ImperialSmith": {
+                "NAME": "帝国式铁匠",
+                "DESCRIPTIONS": ["打出 #y打击 牌时,本次战斗打击的伤害增加 #b", " 点。"]
+        },
+        "aigisMod:OverclockPower": {
+                "NAME": "超频",
+                "DESCRIPTIONS": ["你的下一张 #y帝国 牌将被打出两次。"]
+        },
+        "aigisMod:CommanderInspiration": {
+                "NAME": "指挥官的鼓励",
+                "DESCRIPTIONS": ["每回合一次,打出 #y打击/防御 牌时, 获得 #b", " [E] 。", "此效果本回合已发动。"]
         },
 
         "aigisMod:Strength ForTheTurnPower": {

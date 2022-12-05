@@ -134,6 +134,20 @@
     ]
   },
 
+  "RuteKnightAction": {
+    "TEXT": [
+      "Select an Imperial Knight card to add to your hand.",
+      "I don't have an Imperial Knight Card in deck..."
+    ]
+  },
+
+  "RuteStrikeAction": {
+    "TEXT": [
+      "Select an Strike card to add to your hand.",
+      "I don't have an Strike card in discard pile..."
+    ]
+  },
+
   "LilyAction": {
     "TEXT": [
       "play from your hand. (Optional)"
@@ -200,7 +214,11 @@
       "Vulnerable.",
       "Poison.",
       " NL Apply ", " Vulnerable.",
-      " NL Apply ", " Poison."
+      " NL Apply ", " Poison.",
+      "Sluggish.",
+      " NL Apply ", " aigismod:Sluggish. ",
+      "Energy.",
+      " NL Gain ", " Energy."
     ]
   },
   "BelpheAction": {
