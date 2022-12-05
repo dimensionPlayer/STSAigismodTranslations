@@ -378,7 +378,7 @@
         },
 
         "aigisMod:ImperialSmith": {
-                "NAME": "帝国式铁匠",
+                "NAME": "帝国锻造师",
                 "DESCRIPTIONS": ["打出 #y打击 牌时,本次战斗打击的伤害增加 #b", " 点。"]
         },
         "aigisMod:OverclockPower": {
@@ -386,7 +386,7 @@
                 "DESCRIPTIONS": ["你的下一张 #y帝国 牌将被打出两次。"]
         },
         "aigisMod:CommanderInspiration": {
-                "NAME": "指挥官的鼓励",
+                "NAME": "教导队长的鼓舞",
                 "DESCRIPTIONS": ["每回合一次,打出 #y打击/防御 牌时, 获得 #b", " [E] 。", "此效果本回合已发动。"]
         },
 
