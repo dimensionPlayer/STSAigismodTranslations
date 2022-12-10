@@ -133,7 +133,7 @@
         },
         "aigisMod:ImperialCooking": {
                 "NAME": "帝国式調理術",
-                "DESCRIPTIONS": [" #y白の帝国 カードを #b", " 枚プレイした時、  #y筋力 #b", " と #y敏捷性  #b", " を得る。", " 使用 白の帝国 カード #b"]
+                "DESCRIPTIONS": [" #y白の帝国 カードを #b", " 枚プレイした時、 #y筋力 #b", " と #y敏捷性  #b", " を得る。", " 使用 白の帝国 カード #b"]
         },
         "aigisMod:ImperialInventor": {
                 "NAME": "帝国発明家",

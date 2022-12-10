@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "エフトラ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 全ての敵のHP !M! 失わせる。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "エプトラ",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵のHP !M! 失わせる。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
@@ -1127,8 +1127,8 @@
   },
   "aigisMod:Sakura": {
     "NAME": "サクラ",
-    "DESCRIPTION": "ターン開始時、 NL このターン、手札の 東の国 カードの コストを 1 下げる。",
-    "UPGRADE_DESCRIPTION": "ターン開始時、 NL このターン、手札の 東の国 カードの コストを 1 下げる。",
+    "DESCRIPTION": "ターン開始時、 手札の東の国 カードを 1枚を 選び、このターンの間コストを 1 下げる。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、 手札の東の国 カードを 1枚を 選び、このターンの間コストを 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "東国武装女中。"
     ]
@@ -1495,7 +1495,7 @@
   },
   "aigisMod:Weiss": {
     "NAME": "ヴァイス",
-    "DESCRIPTION": "!D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
+    "DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
     "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国剣士"
