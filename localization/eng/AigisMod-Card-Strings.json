@@ -4030,10 +4030,111 @@
     "NAME": "Defend",
     "DESCRIPTION": "Gain !B! block."
   },
+  "aigisMod:SummonArmy": {
+    "NAME": "Summon Reinforcements",
+    "DESCRIPTION": "Add 1 random Reinforcement character to hand.",
+    "UPGRADE_DESCRIPTION": "Add 1 random stronger Reinforcement character to hand."
+  },
+  "aigisMod:DesertSoldier": {
+    "NAME": "Desert Soldier",
+    "DESCRIPTION": "Deal 3 !D! damage. Gain 4 !B! Block.",
+    "UPGRADE_DESCRIPTION": "Deal 4 !D! damage. Gain 6 !B! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:Genin": {
+    "NAME": "Genin Ninja",
+    "DESCRIPTION": "Add 1 Shuriken to hand. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Add 1 Shuriken+ to hand. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:SoldierA": {
+    "NAME": "Soldier",
+    "DESCRIPTION": "Deal 6 !D! damage. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 8 !D! damage. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:HeavySoldierA": {
+    "NAME": "Heavy Soldier",
+    "DESCRIPTION": "Gain 5 !B! Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 7 !B! Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:BowSoldierA": {
+    "NAME": "Bow Soldier",
+    "DESCRIPTION": "Deal 5 !D! aigismod:archer damage. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 7 !D! aigismod:archer damage. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:MagicSoldierA": {
+    "NAME": "Magic Soldier",
+    "DESCRIPTION": "Deal 9 !D! aigismod:splah_damage. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 12 !D! aigismod:splash_damage. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:Hashim": {
+    "NAME": "Hashim",
+    "DESCRIPTION": "Deal 5 !D! damage. Gain 6 !B! Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 7 !D! damage. Gain 8 !B! Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Dextrous Soldier"
+    ]
+  },
+  "aigisMod:Dirk": {
+    "NAME": "Dirk",
+    "DESCRIPTION": "Deal 7 !D! damage. NL Draw 1 Card. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 9 !D! damage. NL Draw 1 Card. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Imperial Infantry"
+    ]
+  },
+  "aigisMod:Russell": {
+    "NAME": "Russell",
+    "DESCRIPTION": "Retain NL Gain 7 !B! Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Retain NL Gain 10 !B! Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Royal Heavy Infantry"
+    ]
+  },
+  "aigisMod:SeaSoldier": {
+    "NAME": "Deep Sea Soldier",
+    "DESCRIPTION": "Apply 1 !M! aigismod:Water_pressure. Gain 5 !B! Block. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Apply 2 !M! aigismod:Water_pressure. Gain !B! Block. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Reinforcements"
+    ]
+  },
+  "aigisMod:BirdmanArcher": {
+    "NAME": "Birdman Archer",
+    "DESCRIPTION": "Deal 9 !D! damage to all enemies. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal !D! 12 damage to all enemies. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Falcon-Winged"
+    ]
+  },
+  "aigisMod:BirdmanSoldier": {
+    "NAME": "Birdman Soldier",
+    "DESCRIPTION": "Deal 7 !D! aigismod_archer damage. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal !D! 9 aigismod_archer damage. NL Exhaust",
+    "EXTENDED_DESCRIPTION": [
+      "Hawk-Winged"
+    ]
+  },
   "aigisMod:WaterField": {
     "NAME": "Water Pressure",
     "DESCRIPTION": "Ethereal. NL Apply aigismod:Water_pressure to everyone. NL Gain 5 Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Ethereal. NL Apply aigismod:Water_pressure to everyone. NL Gain 9 Block. NL Exhaust"
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Apply aigismod:Water_pressure to all enemies. NL Gain 6 Block. NL Exhaust"
   },
   "aigisMod:Hellbeast": {
     "NAME": "Hellbeast",

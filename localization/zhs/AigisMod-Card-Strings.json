@@ -994,7 +994,7 @@
     "DESCRIPTION": "抽到时:获得 !M! 点临时生命。 NL 造成 !D! 点伤害。 NL 施加 aigismod:减速 。",
     "UPGRADE_DESCRIPTION": "抽到时: 获得 !M! 点临时生命。 NL 造成 !D! 点伤害。 NL 施加 aigismod:减速 。",
     "EXTENDED_DESCRIPTION" : [
-      "魔女 "
+      "魔女"
     ]
   },
   "aigisMod:Renarde": {
@@ -1717,7 +1717,7 @@
   "aigisMod:AirSignal": {
     "NAME": "空中标记 ",
     "DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合耗能变为0。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合耗能变为0。 NL 对一名随机敌人施加 1 层 虚弱 。  NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合耗能变为0。 NL 对一名随机敌人施加 1 层 虚弱 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -3146,7 +3146,7 @@
     "DESCRIPTION": "下一张攻击牌 造成 !M! 点额外伤害。 NL 将一张 灼伤洗入抽牌堆。",
     "UPGRADE_DESCRIPTION": "下一张攻击牌 造成 !M! 点额外伤害。 NL 将一张 灼伤洗入抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "虔诚的枪士"
+      "信仰的枪士"
     ]
   },
   "aigisMod:Marsi": {
