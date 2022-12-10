@@ -2179,7 +2179,7 @@
   },
 
   "aigisMod:Leraje": {
-    "NAME": "列拉金",
+    "NAME": "列拉耶",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 所有敌人失去 !M! 点 生命。 NL 消耗性 : !stslib:ex! ",
     "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 所有敌人失去 !M! 点 生命。 NL 消耗性 : !stslib:ex! ",
     "EXTENDED_DESCRIPTION": [
@@ -2191,7 +2191,7 @@
     "DESCRIPTION": "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。",
     "UPGRADE_DESCRIPTION": "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。",
     "EXTENDED_DESCRIPTION": [
-      "帝国时间魔导",
+      "帝国时术师",
       "所有敌人获得 !M! 层 aigismod:减速 和 !aigisMod:SecondMagic! 层 虚弱 。 NL 你打出的下一张 帝国 牌会打出两次。"
     ]
   },
@@ -2200,16 +2200,16 @@
     "DESCRIPTION": "从抽牌堆消耗 1 张牌，如果成功则根据其消耗获得 aigismod:伤害光环 和金属化。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "从抽牌堆消耗 1 张牌，如果成功则根据其消耗获得 aigismod:伤害光环 和金属化(+1)。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
-      "帝国祭司龙头",
+      "帝国神官战士长",
       "从抽牌堆消耗 1 张牌，如果成功则根据其消耗获得 aigismod:伤害光环 (+1) 和金属化。 NL 消耗 。"
     ]
   },
   "aigisMod:Abgrund": {
-    "NAME": "地狱",
+    "NAME": "阿布格恩德",
     "DESCRIPTION": "可以 消耗 手牌中1张 恶魔 牌来抽 !M! 张牌。 NL 获得 1 点 力量 。",
     "UPGRADE_DESCRIPTION": "可以 消耗 手牌中1张 恶魔 牌来抽 !M! 张牌。 NL 获得 1 点 力量 。",
     "EXTENDED_DESCRIPTION": [
-      "深渊领主恶魔"
+      "深渊的魔将"
     ]
   },
   "aigisMod:Ursula": {
@@ -3187,7 +3187,7 @@
     "DESCRIPTION": "当敌人获得 NL 负面效果时，获得 2 活力 。",
     "UPGRADE_DESCRIPTION": "弓箭手造成 1 点额外伤害。 NL 当敌人获得负 NL 面效果时，获得 2 活力 。",
     "EXTENDED_DESCRIPTION" : [
-      "王国之将"
+      "亡国之将"
     ]
   },
   "aigisMod:Fedora": {

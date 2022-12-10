@@ -377,6 +377,19 @@
                 "DESCRIPTIONS": ["回复或获得临时生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
         },
 
+        "aigisMod:ImperialSmith": {
+                "NAME": "帝国锻造师",
+                "DESCRIPTIONS": ["打出 #y打击 牌时,本次战斗打击的伤害增加 #b", " 点。"]
+        },
+        "aigisMod:OverclockPower": {
+                "NAME": "超频",
+                "DESCRIPTIONS": ["你的下一张 #y帝国 牌将被打出两次。"]
+        },
+        "aigisMod:CommanderInspiration": {
+                "NAME": "教导队长的鼓舞",
+                "DESCRIPTIONS": ["每回合一次,打出 #y打击/防御 牌时, 获得 #b", " [E] 。", "此效果本回合已发动。"]
+        },
+
         "aigisMod:Strength ForTheTurnPower": {
                 "NAME": "回合内力量",
                 "DESCRIPTIONS": ["本回合，提升攻击 #y伤害 #b", " 点。本回合，降低攻击 #y伤害 #b", "点。"]

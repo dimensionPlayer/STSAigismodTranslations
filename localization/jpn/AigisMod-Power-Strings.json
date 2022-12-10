@@ -376,6 +376,19 @@
                 "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
         },
 
+        "aigisMod:ImperialSmith": {
+                "NAME": "帝国鍛冶師",
+                "DESCRIPTIONS": ["#yストライク #yカード をプレイした時、 この戦闘中ストライクのダメージが #b", " 上昇する。"]
+        },
+        "aigisMod:OverclockPower": {
+                "NAME": "オーバークロック",
+                "DESCRIPTIONS": ["次にプレイする #y白の帝国 #yカード が #b2 回発動する。"]
+        },
+        "aigisMod:CommanderInspiration": {
+                "NAME": "教導隊長の鼓舞",
+                "DESCRIPTIONS": ["1ターンに1回、 #yストライク が #y防御 をプレイした時、 エナジー #b", " を得る。", "効果は発動している。"]
+        },
+
         "aigisMod:StrengthForTheTurnPower": {
                 "NAME": "一時的な筋力",
                 "DESCRIPTIONS": ["このターン、アタックの #yダメージ は が以下の量増加する： #b", "このターン、アタックの #yダメージ は以下の量減少する： #b", "。"]
