@@ -131,8 +131,41 @@
     "DIALOG": [
       ""
     ]
+  },
+  "aigisMod:Riven": {
+    "NAME": "Riven",
+    "MOVES": [
+      "First Night",
+      "Second Night",
+      "Third Night",
+      "Fourth Night",
+      "Fifth Night",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:RivenPhantom": {
+    "NAME": "Riven Phantom",
+    "MOVES": [
+      "",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Lukifer": {
+    "NAME": "Lukifer",
+    "MOVES": [
+      "Soaring Shooting Star",
+      "Morning Star of Dusk",
+      "Morning Star's Descent",
+      "Wings of Dawn"
+    ],
+    "DIALOG": [
+      ""
+    ]
   }
-
-
-
 }

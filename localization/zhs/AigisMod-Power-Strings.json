@@ -217,7 +217,7 @@
         },
         "aigisMod:GolemTactics": {
                 "NAME": "魔像战术",
-                "DESCRIPTIONS": ["当你创造魔像部件时，所有敌人获得 #b", " 层 #y虚弱 和 #y易伤 。"]
+                "DESCRIPTIONS": ["下 #b"," 個回合开始时,将 #b1 张魔像部件加入手牌。","下回合开始时,将 #b1 张魔像部件加入手牌。"]
         },
         "aigisMod:SealTalisman": {
                 "NAME": "退魔守护灵符",
@@ -388,6 +388,53 @@
         "aigisMod:CommanderInspiration": {
                 "NAME": "教导队长的鼓舞",
                 "DESCRIPTIONS": ["每回合一次,打出 #y打击/防御 牌时, 获得 #b", " [E] 。", "此效果本回合已发动。"]
+        },
+
+
+
+        "aigisMod:MorningStar": {
+                "NAME": "Morning Star",
+                "DESCRIPTIONS": ["When you play a card this turn, gain #b", " #yDamage #yAura and #b", " block."]
+        },
+        "aigisMod:RivenEnemyPower": {
+                "NAME": "True Blood",
+                "DESCRIPTIONS": ["While #yRiven #yPhantom is alive, take no damage. When this attacks, it's max HP increases by #b"]
+        },
+        "aigisMod:LukiferEnemyPower": {
+                "NAME": "Wings of Dawn",
+                "DESCRIPTIONS": ["The next #b", " times this enemy dies, instead, revives next action. For each revive, gains #b1 #yStrength."]
+        },
+        "aigisMod:NinpouBodySplit": {
+                "NAME": "Ninpou: Body-Split",
+                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yBlock."]
+        },
+        "aigisMod:SalveOfStrength": {
+                "NAME": "Salve of Strength",
+                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yStrength."]
+        },
+        "aigisMod:KibaninFrenzy": {
+                "NAME": "Kibanin Frenzy",
+                "DESCRIPTIONS": ["This turn, when you play a #yCharacter, add #b", " #yShuriken card(s) to hand."]
+        },
+        "aigisMod:SecretPill": {
+                "NAME": "Secret Pill",
+                "DESCRIPTIONS": ["When this enemy is attacked with a #yShuriken card, gain #b", " #yStrength."]
+        },
+        "aigisMod:GoodLuckPrank": {
+                "NAME": "Good Luck Prank",
+                "DESCRIPTIONS": ["On victory, gain #b", " #ygold. At the start of turn, reduce this #yGold by #r", "."]
+        },
+        "aigisMod:UmbrellaAttraction": {
+                "NAME": "Umbrella Attraction",
+                "DESCRIPTIONS": ["At the start of turn, you can select up to #b", " #yEastern #yCountry cards in Discard Pile to place at the bottom of Draw Pile and gain [E] if you placed a card in Draw Pile."]
+        },
+        "aigisMod:HighMoon": {
+                "NAME": "High Moon",
+                "DESCRIPTIONS": ["The next #b", " cost 4 card(s) you play, refill your energy."]
+        },
+        "aigisMod:NightParade": {
+                "NAME": "Night Parade",
+                "DESCRIPTIONS": ["This turn, each time you play a #yEastern #yCountry or #yShuriken card, all enemies lose #b", " #yHP."]
         },
 
         "aigisMod:Strength ForTheTurnPower": {

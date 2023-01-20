@@ -199,7 +199,56 @@
       "She Who Extols Life"
     ]
   },
-
+  "aigisMod:SanmotoPlatinum": {
+    "NAME": "Sanmoto Gorozaemon",
+    "DESCRIPTION": "Play a Eastern Country card in hand !M! time(s). NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:SanmotoBlack": {
+    "NAME": "Sanmoto Gorozaemon",
+    "DESCRIPTION": "Retain. NL Play a Eastern Country card in hand !M! time(s). NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:LukiferPlatinum": {
+    "NAME": "Lukifer",
+    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Discard Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Brings Forth the Dawn"
+    ]
+  },
+  "aigisMod:LukiferBlack": {
+    "NAME": "Lukifer",
+    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Brings Forth the Dawn"
+    ]
+  },
+  "aigisMod:RivenPlatinum": {
+    "NAME": "Riven",
+    "DESCRIPTION": "Deal !D! aigismod:vampire damage. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Brings Forth Eternal Night"
+    ]
+  },
+  "aigisMod:RivenBlack": {
+    "NAME": "Riven",
+    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Brings Forth Eternal Night"
+    ]
+  },
+  "aigisMod:RivenPhantom": {
+    "NAME": "Riven Phantom",
+    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies."
+  },
+  "aigisMod:RepeatingNightmare": {
+    "NAME": "Repeating Nightmare",
+    "DESCRIPTION": "At the end of your turn, your HP becomes 0."
+  },
 
 
 
@@ -477,7 +526,7 @@
   "aigisMod:Soma": {
     "NAME": "Soma",
     "DESCRIPTION": "Deal !D! aigismod:archer damage. aigismod:Pair: Alissa",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. aigismod:Pair: Alissa.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. aigismod:Pair: Alissa and its cost 1 this turn.",
     "EXTENDED_DESCRIPTION" : [
       "Archer"
     ]
@@ -950,15 +999,16 @@
   "aigisMod:Setsuna": {
     "NAME": "Setsuna",
     "DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu. NL Shurikens gains !M! more damage.",
-    "UPGRADE_DESCRIPTION": "Shuffle 1 Setsuna Clone. Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu: Shurikens gains !M! more damage.",
+    "UPGRADE_DESCRIPTION": "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu: Shurikens gains !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
-      "Kibanin"
+      "Kibanin",
+      "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu: Shurikens gains !M! more damage."
     ]
   },
   "aigisMod:SetsunaClone": {
     "NAME": "Setsuna Clone",
-    "DESCRIPTION": "When drawn: Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies then draw 1 card. Unplayable.",
-    "UPGRADE_DESCRIPTION": "When drawn: Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies then draw 1 card. Gain 1 Intangible. Exhaust."
+    "DESCRIPTION": "Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies. NL Draw !M! cards."
   },
   "aigisMod:Ramii": {
     "NAME": "Ramii",
@@ -992,8 +1042,8 @@
   },
   "aigisMod:Adele": {
     "NAME": "Adele",
-    "DESCRIPTION": "When drawn:Gain !M! Temporary HP. NL Deal !D! damage. NL Apply aigismod:Sluggish.",
-    "UPGRADE_DESCRIPTION": "When drawn: Gain !M! Temporary HP. NL Deal !D! damage. NL Apply aigismod:Sluggish.",
+    "DESCRIPTION": "Heal !M! HP. NL Deal !D! damage. NL Apply 2 aigismod:Sluggish. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Deal !D! damage. NL Apply 2 aigismod:Sluggish. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Witch"
     ]
@@ -1259,8 +1309,8 @@
   },
   "aigisMod:Kokoro": {
     "NAME": "Kokoro",
-    "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Deal !D! Damage to all enemies.",
-    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Deal !D! Damage to all enemies.",
+    "DESCRIPTION": "Draw 2 Cards. NL Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Stun 1 random enemy.",
+    "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Stun 1 random enemy.",
     "EXTENDED_DESCRIPTION" : [
       "Time Witch"
     ]
@@ -1275,8 +1325,8 @@
   },
   "aigisMod:Lizette": {
     "NAME": "Lizette",
-    "DESCRIPTION": "Apply aigismod:Sluggish to all enemies.",
-    "UPGRADE_DESCRIPTION": "Apply aigismod:Sluggish to all enemies. NL Draw 1 Card.",
+    "DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
+    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
     "EXTENDED_DESCRIPTION" : [
       "Time Witch"
     ]
@@ -2252,6 +2302,44 @@
     ]
   },
 
+  "aigisMod:Aleida2": {
+    "NAME": "Aleida",
+    "DESCRIPTION": "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat.",
+    "UPGRADE_DESCRIPTION": "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Frontier General",
+      "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat."
+    ]
+  },
+  "aigisMod:Halina2": {
+    "NAME": "Halina",
+    "DESCRIPTION": "Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card.",
+    "UPGRADE_DESCRIPTION": "Innate NL Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card.",
+    "EXTENDED_DESCRIPTION" : [
+      "Country Empress",
+      "Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card."
+    ]
+  },
+  "aigisMod:Grimm2": {
+    "NAME": "Grimm",
+    "DESCRIPTION": "Add 1 Maou Shadow to Draw Pile. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile.",
+    "UPGRADE_DESCRIPTION": "Add 1 Maou Shadow to Draw Pile. NL Gain !M! aigismod:damage_aura. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "Otherworld Summoner",
+      "Add 1 Maou Shadow+ to Draw Pile. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile."
+    ]
+  },
+  "aigisMod:MaouShadow": {
+    "NAME": "Maou Shadow",
+    "DESCRIPTION": "Deal !D! damage. NL When Exhausted: deal !M! damage to a random enemy.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL When Exhausted: deal !M! damage to a random enemy.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+
+
+
 
 
 
@@ -2363,8 +2451,8 @@
   },
   "aigisMod:Anabella": {
     "NAME": "Anabella",
-    "DESCRIPTION": "Golem Fragment Gains !M! more block. NL When a Golem Fragment is created, apply !aigisMod:SecondMagic! Weak and Vulnerable to all enemies.",
-    "UPGRADE_DESCRIPTION": "Golem Fragment Gains !M! more block. NL When a Golem Fragment is created, apply !aigisMod:SecondMagic! Weak and Vulnerable to all enemies.",
+    "DESCRIPTION": "Golem Fragment Gains !M! more block. NL At the start of the next !aigisMod:SecondMagic! turns, add 1 Golem Fragment to hand.",
+    "UPGRADE_DESCRIPTION": "Golem Fragment Gains !M! more block. NL At the start of the next !aigisMod:SecondMagic! turns, add 1 Golem Fragment to hand.",
     "EXTENDED_DESCRIPTION" : [
       "Seeker of Knowledge"
     ]
@@ -2425,6 +2513,15 @@
     "UPGRADE_DESCRIPTION": "Innate. NL All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose 10% (40% max) of their current HP.",
     "EXTENDED_DESCRIPTION" : [
       "Inugami"
+    ]
+  },
+  "aigisMod:Shiro2": {
+    "NAME": "Shiro",
+    "DESCRIPTION": "All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP.",
+    "UPGRADE_DESCRIPTION": "Innate. NL All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "Inugami",
+      "All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP."
     ]
   },
   "aigisMod:Tsumuji": {
@@ -2599,8 +2696,8 @@
 
   "aigisMod:Merone": {
     "NAME": "Merone",
-    "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL Reduce the cost of a random common attack in hand by 1.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL Reduce the cost of a random common attack in hand by 1.",
+    "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL Reduce the cost of a random common card in hand by 1.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL Reduce the cost of a random common card in hand by 1.",
     "EXTENDED_DESCRIPTION" : [
       "Witch"
     ]
@@ -4462,11 +4559,58 @@
     "DESCRIPTION": "",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION" : [
-      "Inventor of Bizarre Ideas"
+      ""
     ]
   },
-
-
+  "aigisMod:Kikyou": {
+    "NAME": "Kikyou",
+    "DESCRIPTION": "Gain 6 !M! Temporal HP. NL Add 1 Kikyou to Draw Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 10 !M! Temporal HP. NL Add 1 KikyouB+ to Draw Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Dark Purple Miko",
+      "Gain 6 !M! Temporal HP. NL Add 1 KikyouB+ to hand. NL Exhaust"
+    ]
+  },
+  "aigisMod:KikyouB": {
+    "NAME": "Kikyou",
+    "DESCRIPTION": "Deal 15 !D! damage. NL Gain 1 Strength. NL Add 1 Kikyou to Discard Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 20 !D! damage. NL Gain 1 Strength. NL Add 1 Kikyou+ to Discard Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Dark Purple Miko"
+    ]
+  },
+  "aigisMod:Shiho": {
+    "NAME": "Shiho",
+    "DESCRIPTION": "Gain 2 !M! Temporal HP. Gain 2 Block NL Add 1 Shiho to Discard Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 3 !M! Temporal HP. Gain 3 Block NL Add 1 Shiho+ to Discard Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Miko"
+    ]
+  },
+  "aigisMod:ShihoB": {
+    "NAME": "Shiho",
+    "DESCRIPTION": "Deal 4 !D! damage. Draw 1 card. NL Add 1 Shiho to Discard Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 4 !D! damage. Draw 1 card. NL Add 1 Shiho to Discard Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Miko"
+    ]
+  },
+  "aigisMod:Kagura": {
+    "NAME": "Kagura",
+    "DESCRIPTION": "Gain 1 !M! Strength. Gain 5 Block. NL Add 1 Kagura to Draw Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 1 !M! Strength. Gain 8 Block. NL Add 1 Kagura to Draw Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Miko"
+    ]
+  },
+  "aigisMod:KaguraB": {
+    "NAME": "Kagura",
+    "DESCRIPTION": "Deal 5 damage. Gain 5 Block. NL Add 1 Kagura to Draw Pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal 5 damage. Gain 5 Block. NL Add 1 Kagura to Draw Pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Miko"
+    ]
+  },
 
 
 
@@ -4489,103 +4633,149 @@
       "Thief"
     ]
   },
+
+
+
+
+
   "aigisMod:Hina": {
     "NAME": "Hina",
-    "DESCRIPTION": "Add 2 Shuriken to your hand. NL Gain 3 Block for each Shuriken played this turn.",
-    "UPGRADE_DESCRIPTION": "Add 2 Shuriken+ to your hand. NL Gain 3 Block for each Shuriken played this turn.",
+    "DESCRIPTION": "Add 2 Shuriken to hand. NL Gain !M! Block each time you play a Shuriken this turn.",
+    "UPGRADE_DESCRIPTION": "Add 2 Shuriken to hand. NL Gain !M! Block each time you play a Shuriken this turn.",
     "EXTENDED_DESCRIPTION": [
       "Ninja"
     ]
   },
   "aigisMod:Kaname": {
     "NAME": "Kaname",
-    "DESCRIPTION": "Add 1 Shuriken to your hand. NL Gain 1 Strength for each Shuriken played this turn. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Shuriken to your hand. NL Gain 1 Strength for each Shuriken played this turn. NL Exhaust",
+    "DESCRIPTION": "Add 1 Shuriken to hand. NL Gain !M! Strength each time you play a Shuriken this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Shuriken to hand. NL Gain !M! Strength each time you play a Shuriken this turn. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Spirit-Sealing Ninja"
     ]
   },
-  "aigisMod:Setsuna2": {
-    "NAME": "Setsuna",
-    "DESCRIPTION": "Add 3 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken.",
-    "UPGRADE_DESCRIPTION": "Add 4 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken.",
-    "EXTENDED_DESCRIPTION": [
-      "Kibanin",
-      "Add 3 Shuriken to your hand. NL Gain 1 aigismod:damage_aura each time you play a Shuriken. NL Play all cost 4 cards in your hand."
-    ]
-  },
   "aigisMod:Tachibana": {
     "NAME": "Tachibana",
-    "DESCRIPTION": "This turn add 1 Shuriken to your hand each time you play a character card.",
-    "UPGRADE_DESCRIPTION": "This turn add 1 Shuriken+ to your hand each time you play a character card.",
+    "DESCRIPTION": "Add 1 Shuriken to your hand when you play a character card this turn.",
+    "UPGRADE_DESCRIPTION": "Add 1 Shuriken to your hand when you play a character card this turn.",
     "EXTENDED_DESCRIPTION": [
       "Kibanin",
-      "This turn add 1 Shuriken to your hand each time you play a character card. NL Play all cost 4 cards in your hand."
+      "Add 1 Shuriken to your hand when you play a character card this turn. NL Cost 4 cards in hand become cost 0 this turn."
     ]
   },
   "aigisMod:Momiji": {
     "NAME": "Momiji",
-    "DESCRIPTION": "Gain 2 Strength. NL Add 1 random cost 4 character card to your hand. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 3 Strength. NL Add 1 random cost 4 character card to your hand. NL Exhaust",
+    "DESCRIPTION": "Gain !M! Strength. NL Add 1 random cost 4 character card to hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Strength. NL Add 1 random cost 4 character card to hand. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Master Swordswoman"
     ]
   },
-  "aigisMod:Kazakiri": {
-    "NAME": "Kazakiri",
-    "DESCRIPTION": "The next Eastern Country attack you use is played twice.",
-    "UPGRADE_DESCRIPTION": "The next Eastern Country attack you use is played twice.",
+  "aigisMod:Akura": {
+    "NAME": "Akura",
+    "DESCRIPTION": "Gain !B! Block. NL Gain 8 Temporal HP. NL If the enemy intends to attack gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Gain 8 Temporal HP. NL If the enemy intends to attack gain !M! Strength.",
     "EXTENDED_DESCRIPTION": [
-      "Decapitation Sword"
+      "Oni Mercenary of Purple Flames"
     ]
   },
-
-
-
-
-
-  "aigisMod:Aleida2": {
-    "NAME": "Aleida",
-    "DESCRIPTION": "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat.",
-    "UPGRADE_DESCRIPTION": "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat.",
-    "EXTENDED_DESCRIPTION" : [
-      "Imperial Frontier General",
-      "Heal !aigisMod:SecondMagic! HP. NL Once per turn when you play an Imperial character Attack: Strikes gain !M! more damage this combat."
-    ]
-  },
-  "aigisMod:Halina2": {
-    "NAME": "Halina",
-    "DESCRIPTION": "Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card.",
-    "UPGRADE_DESCRIPTION": "Innate NL Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card.",
-    "EXTENDED_DESCRIPTION" : [
-      "Country Empress",
-      "Strikes apply !M! Vulnerable. NL Once per turn when you play an Imperial character: draw 1 Card."
-    ]
-  },
-  "aigisMod:Grimm2": {
-    "NAME": "Grimm",
-    "DESCRIPTION": "Add 1 Maou Shadow to Draw Pile. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile.",
-    "UPGRADE_DESCRIPTION": "Add 1 Maou Shadow to Draw Pile. NL Gain !M! aigismod:damage_aura. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile.",
-    "EXTENDED_DESCRIPTION" : [
-      "Otherworld Summoner",
-      "Add 1 Maou Shadow+ to Draw Pile. NL At the end of your turn you can Exhaust 1 Demon from Draw Pile."
-    ]
-  },
-  "aigisMod:MaouShadow": {
-    "NAME": "Maou Shadow",
-    "DESCRIPTION": "Deal !D! damage. NL When Exhausted: deal !M! damage to a random enemy.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL When Exhausted: deal !M! damage to a random enemy.",
+  "aigisMod:Kasumi": {
+    "NAME": "Kasumi",
+    "DESCRIPTION": "Return up to 2 cards from Discard Pile to Draw Pile. NL Deal !D! damage. NL aigismod:Pair: Sagiri/Shino.",
+    "UPGRADE_DESCRIPTION": "Return up to 2 cards from Discard Pile to Draw Pile. NL Deal !D! damage. NL aigismod:Pair: Sagiri/Shino. They are cost 0 this turn.",
     "EXTENDED_DESCRIPTION": [
+      "Nurarihyon's Daughter"
+    ]
+  },
+  "aigisMod:Shino": {
+    "NAME": "Shino",
+    "DESCRIPTION": "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi.",
+    "UPGRADE_DESCRIPTION": "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi.",
+    "EXTENDED_DESCRIPTION": [
+      "Nurarihyon's Daughter",
+      "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi. They are cost 0 this turn."
+    ]
+  },
+  "aigisMod:Sagiri": {
+    "NAME": "Sagiri",
+    "DESCRIPTION": "Deal !D! damage twice. NL aigismod:Pair: Kasumi/Shino.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage twice. NL aigismod:Pair: Kasumi/Shino. They are cost 0 this turn.",
+    "EXTENDED_DESCRIPTION": [
+      "Nurarihyon's Daughter"
+    ]
+  },
+  "aigisMod:Nagi": {
+    "NAME": "Nagi",
+    "DESCRIPTION": "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Spirit-Sealing Ninja",
+      "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaustive: !stslib:ex!"
+    ]
+  },
+  "aigisMod:Enju": {
+    "NAME": "Enju",
+    "DESCRIPTION": "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the start of turn.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the start of turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "Zashiki-warashi",
+      "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the end of turn."
+    ]
+  },
+  "aigisMod:Shinato": {
+    "NAME": "Shinato",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle 1 card from Discard Pile to Draw Pile, it costs 0 until played.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 card from Discard Pile to Draw Pile, it costs 0 until played.",
+    "EXTENDED_DESCRIPTION": [
+      "Gale Tactician"
+    ]
+  },
+  "aigisMod:Shuka": {
+    "NAME": "Shuka",
+    "DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
+    "UPGRADE_DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
+    "EXTENDED_DESCRIPTION": [
+      "Bunbuku Tea-Kettle Tsukumogami"
+    ]
+  },
+  "aigisMod:Yoyuki": {
+    "NAME": "Yoyuki",
+    "DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Yagyou-san's Current Leader"
+    ]
+  },
+  "aigisMod:Iris2": {
+    "NAME": "Iris",
+    "DESCRIPTION": "Gain 3 Regen. NL aigismod:Pair: Camilla. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain 3 Regen. NL aigismod:Pair: Camilla and becomes cost 0 for the turn. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Healer"
+    ]
+  },
+  "aigisMod:Camilla": {
+    "NAME": "Camilla",
+    "DESCRIPTION": "Heal 4 HP. NL Heal 5 HP at the end of turn. NL aigismod:Pair: Iris. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Heal 4 HP. NL Heal 5 HP at the end of turn. NL aigismod:Pair: Iris and becomes cost 0 for the turn. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Healer"
+    ]
+  },
+  "aigisMod:Shirogane": {
+    "NAME": "Shirogane",
+    "DESCRIPTION": "Gain 2 Temporal HP. NL Add !M! Shuriken to hand.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Temporal HP. NL Add !M! Shuriken to hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Kibanin"
+    ]
+  },
+  "aigisMod:Julia2": {
+    "NAME": "Julia",
+    "DESCRIPTION": "Gain a random Relic for the combat. NL Gain !M! Gold. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain a random Relic for the combat. NL Gain !M! Gold. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
       ""
-    ]
-  },
-  "aigisMod:Shiro2": {
-    "NAME": "Shiro",
-    "DESCRIPTION": "All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP.",
-    "UPGRADE_DESCRIPTION": "Innate. NL All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP.",
-    "EXTENDED_DESCRIPTION" : [
-      "Inugami",
-      "All enemies loses !M! Strength. When a Curse is Exhausted all enemies lose !aigisMod:SecondMagic! % (40% max) of their current HP."
     ]
   }
 }

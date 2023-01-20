@@ -82,5 +82,39 @@
       "[指挥官?] #g获得一个遗物。 ",
       "[醒来] 离开。 "
     ]
+  },
+
+  "aigisMod:VampireDeal": {
+    "NAME": "Deal with a Vampire",
+    "DESCRIPTIONS": [
+      "You have a encounter with a powerful undead. NL She proposes to join your cause, but you don´t trust her words.",
+      "You accepted the deal.",
+      "You came to understand her goals.",
+      "You refuse and resume your journey."
+    ],
+    "OPTIONS": [
+      "[Recruit] #gGain #gan #gUncommon #gHero #gCard. #rGain #ra #rLethal #rCurse.",
+      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
+      "[Refuse]",
+      "[Leave]",
+      "[Recruit] #gGain #ga #grare #gHero #gCard."
+    ]
+  },
+  "aigisMod:FallenReunion": {
+    "NAME": "Fallen Reunion",
+    "DESCRIPTIONS": [
+      "Someone intercepts you. NL It might be an angel but it feels somewhat evil. NL You consider your options.",
+      "It seems there is some goals in common.",
+      "She says you passed her trial. ",
+      "You managed to run away."
+    ],
+    "OPTIONS": [
+      "[Talk] #gGain #gan #gUncommon #gHero #gCard.",
+      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
+      "[Escape] #rLose #b5 #rHP.",
+      "[Recruit] #gGain #ga #grare #gHero #gCard.",
+      "[LOCKED] You don't have a Release card.",
+      "[Leave]"
+    ]
   }
 }
