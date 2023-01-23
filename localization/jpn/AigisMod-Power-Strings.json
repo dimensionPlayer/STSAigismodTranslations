@@ -318,7 +318,7 @@
 
         "aigisMod:MechaForm": {
                 "NAME": "大爪形態",
-                "DESCRIPTIONS": ["#b", " ターン後 ", " turn", ", ランダムな敵に #yスタン を与え、 #y敏捷性 と #yブラー を #b", " 得る。"]
+                "DESCRIPTIONS": ["#b", " ターン後 ", " ターン後", "、 #y敏捷性 と #y筋力 と #yブラー をそれぞれ ", " 得る。"]
         },
 
         "aigisMod:BladeOfPursuitPower": {
@@ -392,48 +392,48 @@
 
 
         "aigisMod:MorningStar": {
-                "NAME": "Morning Star",
-                "DESCRIPTIONS": ["When you play a card this turn, gain #b", " #yDamage #yAura and #b", " block."]
+                "NAME": "明けの明星",
+                "DESCRIPTIONS": ["このターンにカードを使用するたび、 #yダメージオーラ #b", " と #b", " ブロック を得る。"]
         },
         "aigisMod:RivenEnemyPower": {
-                "NAME": "True Blood",
-                "DESCRIPTIONS": ["While #yRiven #yPhantom is alive, take no damage. When this attacks, it's max HP increases by #b"]
+                "NAME": "トゥルーブラッド",
+                "DESCRIPTIONS": ["#y変わり身の幻 が生きている間、 ダメージを受けない。 攻撃する時、 最大HPが以下の数だけ上昇する。： #b"]
         },
         "aigisMod:LukiferEnemyPower": {
-                "NAME": "Wings of Dawn",
-                "DESCRIPTIONS": ["The next #b", " times this enemy dies, instead, revives next action. For each revive, gains #b1 #yStrength."]
+                "NAME": "黎明の翼",
+                "DESCRIPTIONS": ["あと #b", " 回、この敵は死亡時に次の行動で復活する。 復活するたび、 #y筋力 #b1 を得る。"]
         },
         "aigisMod:NinpouBodySplit": {
-                "NAME": "Ninpou: Body-Split",
-                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yBlock."]
+                "NAME": "忍法・分身の術",
+                "DESCRIPTIONS": ["このターン、 #y手裏剣 をプレイした時、 #b", " #yブロック を得る。"]
         },
         "aigisMod:SalveOfStrength": {
-                "NAME": "Salve of Strength",
-                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yStrength."]
+                "NAME": "怪力の軟膏",
+                "DESCRIPTIONS": ["このターン、 #y手裏剣 をプレイした時、 #y筋力 #b", " を得る。"]
         },
         "aigisMod:KibaninFrenzy": {
-                "NAME": "Kibanin Frenzy",
-                "DESCRIPTIONS": ["This turn, when you play a #yCharacter, add #b", " #yShuriken card(s) to hand."]
+                "NAME": "鬼刃大車輪",
+                "DESCRIPTIONS": ["このターン、 #yキャラクター カードをプレイした時、 #y手裏剣 #b", " 枚を手札に加える。"]
         },
         "aigisMod:SecretPill": {
-                "NAME": "Secret Pill",
-                "DESCRIPTIONS": ["When this enemy is attacked with a #yShuriken card, gain #b", " #yStrength."]
+                "NAME": "秘伝の丸薬",
+                "DESCRIPTIONS": ["#y手裏剣 でこの敵を攻撃した時、 #y筋力 #b", " を得る。"]
         },
         "aigisMod:GoodLuckPrank": {
-                "NAME": "Good Luck Prank",
-                "DESCRIPTIONS": ["On victory, gain #b", " #ygold. At the start of turn, reduce this #yGold by #r", "."]
+                "NAME": "招福のいたずら",
+                "DESCRIPTIONS": ["戦闘勝利時、 #b", " #yゴールド を得る。 得られる #yゴールド はターン開始時ごとに #r", " ずつ減少していく。"]
         },
         "aigisMod:UmbrellaAttraction": {
-                "NAME": "Umbrella Attraction",
-                "DESCRIPTIONS": ["At the start of turn, you can select up to #b", " #yEastern #yCountry cards in Discard Pile to place at the bottom of Draw Pile and gain [E] if you placed a card in Draw Pile."]
+                "NAME": "客寄せ狸の傘回し",
+                "DESCRIPTIONS": ["ターン開始時、 捨て札の #y東の国 カードを #b", " 枚まで 選んで山札の底に戻して、 [E] を得る。"]
         },
         "aigisMod:HighMoon": {
-                "NAME": "High Moon",
-                "DESCRIPTIONS": ["The next #b", " cost 4 card(s) you play, refill your energy."]
+                "NAME": "高き月",
+                "DESCRIPTIONS": ["あと #b", " 回、本来のコストが4のカードをプレイした時、 エナジーを補充する。"]
         },
         "aigisMod:NightParade": {
-                "NAME": "Night Parade",
-                "DESCRIPTIONS": ["This turn, each time you play a #yEastern #yCountry or #yShuriken card, all enemies lose #b", " #yHP."]
+                "NAME": "百鬼夜行",
+                "DESCRIPTIONS": ["このターン、 #y東の国 または #y手裏剣 カードをプレイした時、 全ての敵は #yHP #b", " を失う。"]
         },
 
         "aigisMod:StrengthForTheTurnPower": {

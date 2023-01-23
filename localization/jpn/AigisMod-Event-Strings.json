@@ -8,7 +8,7 @@
       "あなたは彼らの期待に答えた。"
     ],
     "OPTIONS": [
-      "[力を借りる] #gアンコモン英傑カードを1枚得る",
+      "[力を借りる] #gアンコモン英傑カードを1枚選んで獲得する。",
       "[戦う] #r英傑と戦う。 #gアンコモン英傑カードをレアにアップグレードする",
       "[立ち去る]",
       "アップグレードする英傑カードを1枚選ぶ。",
@@ -85,36 +85,36 @@
 
 
   "aigisMod:VampireDeal": {
-    "NAME": "Deal with a Vampire",
+    "NAME": "始祖との取引",
     "DESCRIPTIONS": [
-      "You have a encounter with a powerful undead. NL She proposes to join your cause, but you don´t trust her words.",
-      "You accepted the deal.",
-      "You came to understand her goals.",
-      "You refuse and resume your journey."
+      "あなたは強力なアンデッドと遭遇した。 NL 彼女はあなたの目的への協力を提案してきたが、その言葉を信用できない。",
+      "その取引を受け入れた。",
+      "あなたは彼女の目的を理解した。",
+      "提案を拒否し、旅を再開した。"
     ],
     "OPTIONS": [
-      "[Recruit] #gGain #gan #gUncommon #gHero #gCard. #rGain #ra #rLethal #rCurse.",
-      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
-      "[Refuse]",
-      "[Leave]",
-      "[Recruit] #gGain #ga #grare #gHero #gCard."
+      "[受け入れる] #gアンコモン英傑カードを1枚手に入れる。 #r致命的な呪いを手に入れる。",
+      "[戦う] #r英傑と戦う。 #gアップグレードされたレア英傑カードを1枚手に入れる。",
+      "[拒否]",
+      "[離れる]",
+      "[参入] #gレア英傑カードを手に入れる。"
     ]
   },
   "aigisMod:FallenReunion": {
-    "NAME": "Fallen Reunion",
+    "NAME": "闇堕ち同盟",
     "DESCRIPTIONS": [
-      "Someone intercepts you. NL It might be an angel but it feels somewhat evil. NL You consider your options.",
-      "It seems there is some goals in common.",
-      "She says you passed her trial. ",
-      "You managed to run away."
+      "何者かの襲撃だ！ NL 相手は天使のようだが、どこか悪魔のようにも思える。 NL さてどうしようか。",
+      "共通の目的があるようだ。",
+      "彼女はあなたが試練に合格したことを告げた。",
+      "あなたは逃げることができた"
     ],
     "OPTIONS": [
-      "[Talk] #gGain #gan #gUncommon #gHero #gCard.",
-      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
-      "[Escape] #rLose #b5 #rHP.",
-      "[Recruit] #gGain #ga #grare #gHero #gCard.",
-      "[LOCKED] You don't have a Release card.",
-      "[Leave]"
+      "[話す] #gアンコモン英傑カードを1枚手に入れる。",
+      "[戦う] #r相手と戦う。 #gアップグレードされたレア英傑カードを1枚手に入れる。",
+      "[逃げる] #rHP5を失う。",
+      "[受け入れる] #gレア英傑カードを1枚手に入れる。",
+      "[LOCKED] 封印解除カードを持っていない。",
+      "[離れる]"
     ]
   }
 }
