@@ -4,8 +4,8 @@
     "MOVES": [
       "拡散弾",
       "貫通弾",
-      "ターン終了時ランダムな敵に  #b", " の 拡散 ダメージを与える",
-      "ターン終了時ランダムな敵に  #b", " の 貫通 ダメージを与える"
+      "ターン終了時ランダムな敵に #b", " の 拡散 ダメージを与える",
+      "ターン終了時ランダムな敵に #b", " の 貫通 ダメージを与える"
     ]
   },
   "aigisMod:EnergyAthanor": {
@@ -134,13 +134,13 @@
   },
 
   "aigisMod:Riven": {
-    "NAME": "Riven",
+    "NAME": "リヴン",
     "MOVES": [
-      "First Night",
-      "Second Night",
-      "Third Night",
-      "Fourth Night",
-      "Fifth Night",
+      "第一夜・始まりの歌",
+      "第二夜・歓待の宴",
+      "第三夜・常夜の女王",
+      "第四夜・夜は明けず",
+      "常夜・繰り返す惨劇",
       ""
     ],
     "DIALOG": [
@@ -148,7 +148,7 @@
     ]
   },
   "aigisMod:RivenPhantom": {
-    "NAME": "Riven Phantom",
+    "NAME": "変わり身の幻",
     "MOVES": [
       "",
       ""
@@ -158,12 +158,12 @@
     ]
   },
   "aigisMod:Lukifer": {
-    "NAME": "Lukifer",
+    "NAME": "ルキファ",
     "MOVES": [
-      "Soaring Shooting Star",
-      "Morning Star of Dusk",
-      "Morning Star's Descent",
-      "Wings of Dawn"
+      "駆ける流星",
+      "宵闇の明星",
+      "明星降臨",
+      "黎明の翼"
     ],
     "DIALOG": [
       ""
