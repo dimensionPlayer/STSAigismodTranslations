@@ -3,7 +3,7 @@
     "TEXT": [
       "Witch", "Enemies attacked by this card receives temporary #ySlow.",
       "Archer", "This card #bignores enemy powers that activate when they are #yattacked, like Thorns.",
-      "Princess", "Gain #b1 #yMax #yHP when you add a #yPrincess card to your Deck.",
+      "Princess", "Gain #b2 #yMax #yHP when you add a #yPrincess card to your Deck.",
       "Undead", "This class activates #badditional effects when #yexhausted.",
       "Black Rarity", "This type of character have #ybranching paths when #yupgrading. Only Rare cards may have this property.",
       "Eastern Country", "This card applies for other effects listing #yEastern #yCountry cards.",
@@ -127,6 +127,12 @@
     ]
   },
 
+  "SanmotoAction": {
+    "TEXT": [
+      "play."
+    ]
+  },
+
   "AirshipAction": {
     "TEXT": [
       "Select an Imperial card to add to your hand.",
@@ -216,7 +222,7 @@
       " NL Apply ", " Vulnerable.",
       " NL Apply ", " Poison.",
       "Sluggish.",
-      " NL Apply ", " aigismod:Sluggish.",
+      " NL Apply ", " aigismod:Sluggish. ",
       "Energy.",
       " NL Gain ", " Energy."
     ]
@@ -332,6 +338,18 @@
       "Choose a card to add to your hand.",
       "Choose cards to add to your hand.",
       "I don't have a Release card in my draw pile..."
+    ]
+  },
+
+  "ShinatoAction": {
+    "TEXT": [
+      "Choose 1 card to shuffle back to Draw Pile."
+    ]
+  },
+
+  "ShukaAction": {
+    "TEXT": [
+      "You can choose up to ", " Eastern Country cards."
     ]
   }
 }

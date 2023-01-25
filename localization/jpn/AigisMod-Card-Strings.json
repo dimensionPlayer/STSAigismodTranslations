@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "エフトラ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 全ての敵のHP !M! 失わせる。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "エプトラ",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵のHP !M! 失わせる。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
@@ -199,6 +199,57 @@
       "生命を謳う者"
     ]
   },
+  "aigisMod:SanmotoPlatinum": {
+    "NAME": "山ン本五郎左衛門",
+    "DESCRIPTION": "手札の東の国カード 1 枚を !M! 回プレイする。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:SanmotoBlack": {
+    "NAME": "山ン本五郎左衛門",
+    "DESCRIPTION": "保留 NL 手札の東の国カード 1 枚を !M! 回プレイする。 NL aigismod:残り回数 : !stslib:ex! 。",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:LukiferPlatinum": {
+    "NAME": "ルキファ",
+    "DESCRIPTION": "このターン、カードをプレイする度に aigismod:ダメージオーラ !M! と 5 ブロック を得る。 NL 廃棄 NL aigismod:封印解除 : このカードの複製を 1 枚捨て札に加える。",
+    "EXTENDED_DESCRIPTION" : [
+      "黎明を齎す者"
+    ]
+  },
+  "aigisMod:LukiferBlack": {
+    "NAME": "ルキファ",
+    "DESCRIPTION": "このターン、カードをプレイする度に aigismod:ダメージオーラ !M! と 5 ブロック を得る。 NL 廃棄 NL aigismod:封印解除 : このカードの複製を 1 枚山札に加える。",
+    "EXTENDED_DESCRIPTION" : [
+      "黎明を齎す者"
+    ]
+  },
+  "aigisMod:RivenPlatinum": {
+    "NAME": "リヴン",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : 山札にリヴンの幻影 1 枚を加える。",
+    "EXTENDED_DESCRIPTION" : [
+      "永夜の始祖たる者"
+    ]
+  },
+  "aigisMod:RivenBlack": {
+    "NAME": "リヴン",
+    "DESCRIPTION": "全ての敵に !D! aigismod:麻痺 ダメージを与える。 NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : 山札にリヴンの幻影 1 枚を加える。",
+    "EXTENDED_DESCRIPTION" : [
+      "永夜の始祖たる者"
+    ]
+  },
+  "aigisMod:RivenPhantom": {
+    "NAME": "リヴンの幻影",
+    "DESCRIPTION": "全ての敵に !D! aigismod:麻痺 ダメージを与える。"
+  },
+  "aigisMod:RepeatingNightmare": {
+    "NAME": "繰り返す悪夢",
+    "DESCRIPTION": "あなたのターン終了時、あなたのHPは0になる。"
+  },
+
 
 
 
@@ -343,7 +394,7 @@
   },
   "aigisMod:Wonderheart": {
     "NAME": "ワンダーハート",
-    "DESCRIPTION": "!D! ダメージを与える。 aigismod:ダメージオーラ 分威力が上昇する。 NL aigismod:暗殺 時、 2 aigismod:ダメージオーラ を得る。 ",
+    "DESCRIPTION": "!D! ダメージを与える。 aigismod:ダメージオーラ 分威力が上昇する。 NL aigismod:暗殺 時、 2 aigismod:ダメージオーラ を得る。 NL aigismod:暗殺 。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 aigismod:ダメージオーラ 分威力が上昇する。 NL aigismod:暗殺 時、 2 aigismod:ダメージオーラ を得る。 NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "道化師"
@@ -475,7 +526,7 @@
   "aigisMod:Soma": {
     "NAME": "ソーマ",
     "DESCRIPTION": "!D! aigismod:弓 ダメージを与える aigismod:ペア : アリサ",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える aigismod:ペア : アリサ",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える aigismod:ペア : アリサ NL (このターンコスト 1)",
     "EXTENDED_DESCRIPTION" : [
       "弓兵"
     ]
@@ -950,13 +1001,14 @@
     "DESCRIPTION": "aigismod:ダメージオーラ !aigisMod:SecondMagic! を得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ",
     "UPGRADE_DESCRIPTION": "セツナ(分身) を山札に加える。 NL aigismod:ダメージオーラ !aigisMod:SecondMagic! を得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ",
     "EXTENDED_DESCRIPTION" : [
-      "鬼刃忍"
+      "鬼刃忍",
+      "セツナ(分身) を山札に加える。 NL aigismod:ダメージオーラ !aigisMod:SecondMagic! を得る。 NL aigismod:忍術 を得る。 NL 手裏剣 に !M! の追加ダメージ"
     ]
   },
   "aigisMod:SetsunaClone": {
     "NAME": "セツナ(分身)",
-    "DESCRIPTION": "使用不可 NL 引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 1 枚引く",
-    "UPGRADE_DESCRIPTION": "引いた時、 全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 1 枚引く。 無形 1 を得る。 NL 廃棄"
+    "DESCRIPTION": "全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。"
   },
   "aigisMod:Ramii": {
     "NAME": "ラミィ",
@@ -990,8 +1042,8 @@
   },
   "aigisMod:Adele": {
     "NAME": "アデル",
-    "DESCRIPTION": "このカードを引いた時 aigismod:仮初 のHP !M! を得る。 NL !D! ダメージを与える。 NL aigismod:鈍足 を与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時 aigismod:仮初 のHP !M! を得る。 NL !D! ダメージを与える。 NL aigismod:鈍足 を与える。",
+    "DESCRIPTION": "HPを !M! 回復する。 NL !D! ダメージを与える。 NL aigismod:鈍足 2 を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "HPを !M! 回復する。 NL !D! ダメージを与える。 NL aigismod:鈍足 2 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "魔女"
     ]
@@ -1127,8 +1179,8 @@
   },
   "aigisMod:Sakura": {
     "NAME": "サクラ",
-    "DESCRIPTION": "ターン開始時、 NL このターン、手札の 東の国 カードの コストを 1 下げる。",
-    "UPGRADE_DESCRIPTION": "ターン開始時、 NL このターン、手札の 東の国 カードの コストを 1 下げる。",
+    "DESCRIPTION": "ターン開始時、 手札の東の国 カードを 1枚を 選び、このターンの間コストを 1 下げる。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、 手札の東の国 カードを 1枚を 選び、このターンの間コストを 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "東国武装女中。"
     ]
@@ -1257,8 +1309,8 @@
   },
   "aigisMod:Kokoro": {
     "NAME": "ココロ",
-    "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL 全ての敵に !D! ダメージを与える",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL 全ての敵に !D! ダメージを与える",
+    "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
@@ -1273,8 +1325,8 @@
   },
   "aigisMod:Lizette": {
     "NAME": "リゼット",
-    "DESCRIPTION": "全ての敵に NL aigismod:鈍足 を与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:鈍足 を与える。 NL カードを 1 枚引く。",
+    "DESCRIPTION": "全ての敵に NL aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
@@ -1495,7 +1547,7 @@
   },
   "aigisMod:Weiss": {
     "NAME": "ヴァイス",
-    "DESCRIPTION": "!D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
+    "DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
     "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国剣士"
@@ -2007,7 +2059,7 @@
     "UPGRADE_DESCRIPTION":"!D! ダメージを与える。 NL あなたのHPが !M! % 以下の時、ダメージが 2 倍になる。",
     "EXTENDED_DESCRIPTION" : [
       "降魔の復讐者",
-      "!D! ダメージを与える。 NL あなたのHPが !M! % 以下の時、ダメージが 3 倍になる。  "
+      "!D! ダメージを与える。 NL あなたのHPが !M! % 以下の時、ダメージが 3 倍になる。 "
     ]
   },
   "aigisMod:Grimm2": {
@@ -2368,8 +2420,8 @@
   },
   "aigisMod:Anabella": {
     "NAME": "アナベラ",
-    "DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL ゴーレムの部品を生成時、全ての敵に NL 脱力 と 弱体 を !aigisMod:SecondMagic! 与える。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL ゴーレムの部品を生成時、全ての敵に 脱力 と 弱体 を !aigisMod:SecondMagic! 与える。",
+    "DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品 1 枚を手札に加える。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品 1 枚を手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "知識の求道者"
     ]
@@ -2605,8 +2657,8 @@
 
   "aigisMod:Merone": {
     "NAME": "メローネ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 手札のランダムな コモン アタック 1 枚のコストを 1 下げる。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 手札のランダムな コモン アタック 1 枚のコストを 1 下げる。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 手札のランダムな コモン カード 1 枚のコストを 1 下げる。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 手札のランダムな コモン カード 1 枚のコストを 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "魔女"
     ]
@@ -3576,8 +3628,8 @@
   },
   "aigisMod:Sephire2": {
     "NAME": "セフィーレ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストが1下がる。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストが1下がる。",
+    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
     "EXTENDED_DESCRIPTION": [
       "主天使"
     ]
@@ -3606,7 +3658,7 @@
     "UPGRADE_DESCRIPTION": "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
     "EXTENDED_DESCRIPTION": [
       "鉄腕乙女",
-      "aigismod:堅物 : 16. NL 全ての敵に !D! ダメージを与える。 NL  ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
+      "aigismod:堅物 : 16. NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
     ]
   },
   "aigisMod:Threse": {
@@ -4041,18 +4093,23 @@
       "盗賊"
     ]
   },
+
+
+
+
+
   "aigisMod:Hina": {
     "NAME": "ヒナ",
-    "DESCRIPTION": "手札に手裏剣を 2 枚加える。 NL このターンに使った手裏剣の数x 3 ブロックを得る。",
-    "UPGRADE_DESCRIPTION": "手札に手裏剣+を 2 枚加える。 NL このターンに使った手裏剣の数x 3 ブロックを得る。",
+    "DESCRIPTION": "手札に手裏剣を 2 枚加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "手札に手裏剣を 2 枚加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
       "忍者"
     ]
   },
   "aigisMod:Kaname": {
     "NAME": "カナメ",
-    "DESCRIPTION": "手札に手裏剣を 1 枚加える。 NL このターンに使った手裏剣の数だけ 筋力 1 を得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 手札に手裏剣を 1 枚加える。 NL このターンに使った手裏剣の数だけ 筋力 1 を得る。 NL 廃棄",
+    "DESCRIPTION": "手札に手裏剣を 1 枚加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 手札に手裏剣を 1 枚加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
       "封妖の忍者"
     ]
@@ -4069,16 +4126,16 @@
   "aigisMod:Tachibana": {
     "NAME": "タチバナ",
     "DESCRIPTION": "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "このターン、 キャラクターカードをプレイするたび、手裏剣+を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍",
-      "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。 NL 手札のコスト4 カードをプレイする。"
+      "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。 NL 手札のコスト4カードのコストをこのターン 0 にする。"
     ]
   },
   "aigisMod:Momiji": {
     "NAME": "モミジ",
-    "DESCRIPTION": "筋力 2 を得る。 NL 手札にランダムな コスト 4 キャラクターカードを 1枚手札に加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "筋力 3 を得る。 NL 手札にランダムな コスト 4 キャラクターカードを 1枚手札に加える。 NL 廃棄",
+    "DESCRIPTION": "筋力 !M! を得る。 NL 手札にランダムな コスト 4 キャラクターカード 1枚 を加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "筋力 !M! を得る。 NL 手札にランダムな コスト 4 キャラクターカード 1枚 を加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
       "剣豪"
     ]
@@ -4090,7 +4147,112 @@
     "EXTENDED_DESCRIPTION": [
       "斬刀付喪神"
     ]
+  },
+  "aigisMod:Akura": {
+    "NAME": "アクラ",
+    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:仮初 のHP 8 を得る。 NL 敵が攻撃を予定している場合、 筋力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:仮初 のHP 8 を得る。 NL 敵が攻撃を予定している場合、 筋力 !M! を得る。",
+    "EXTENDED_DESCRIPTION": [
+      "紫炎の鬼傭兵"
+    ]
+  },
+  "aigisMod:Kasumi": {
+    "NAME": "カスミ",
+    "DESCRIPTION": "カードを 2 枚まで捨て札から 山札に戻す。 NL !D! ダメージを与える。 NL aigismod:ペア : シノ/サギリ",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚まで捨て札から 山札に戻す。 NL !D! ダメージを与える。 NL aigismod:ペア : シノ/サギリ NL （ターン中コスト 0 )",
+    "EXTENDED_DESCRIPTION": [
+      "ぬらりひょんの娘"
+    ]
+  },
+  "aigisMod:Shino": {
+    "NAME": "シノ",
+    "DESCRIPTION": "このターン、手裏剣か東の国カードをプレイした時、全ての敵は HP !M! を失う。 NL aigismod:ペア : カスミ/サギリ",
+    "UPGRADE_DESCRIPTION": "このターン、手裏剣か東の国カードをプレイした時、全ての敵は HP !M! を失う。 NL aigismod:ペア : カスミ/サギリ",
+    "EXTENDED_DESCRIPTION": [
+      "ぬらりひょんの娘",
+      "このターン、手裏剣か東の国カードをプレイした時、全ての敵は HP !M! を失う。 NL aigismod:ペア : カスミ/サギリ NL （ターン中コスト 0 )"
+    ]
+  },
+  "aigisMod:Sagiri": {
+    "NAME": "サギリ",
+    "DESCRIPTION": "!D! ダメージを2回与える。 NL aigismod:ペア : カスミ/シノ",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを2回与える。 NL aigismod:ペア : カスミ/シノ NL （ターン中コスト 0 )",
+    "EXTENDED_DESCRIPTION": [
+      "ぬらりひょんの娘"
+    ]
+  },
+  "aigisMod:Nagi": {
+    "NAME": "ナギ",
+    "DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      "封妖の忍者",
+      "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL aigismod:残り回数 : !stslib:ex!"
+    ]
+  },
+  "aigisMod:Enju": {
+    "NAME": "エンジュ",
+    "DESCRIPTION": "再生 !M! を得る。 戦闘終了後に 20 ゴールドを得る。 得られる金額はターン開始時に !aigisMod:SecondMagic! ずつ減少していく。",
+    "UPGRADE_DESCRIPTION": "再生 !M! を得る。 戦闘終了後に 20 ゴールドを得る。 得られる金額はターン開始時に !aigisMod:SecondMagic! ずつ減少していく。",
+    "EXTENDED_DESCRIPTION" : [
+      "座敷わらし",
+      "再生 !M! を得る。 戦闘終了後に 20 ゴールドを得る。 得られる金額はターン開始時に !aigisMod:SecondMagic! ずつ減少していく。"
+    ]
+  },
+  "aigisMod:Shinato": {
+    "NAME": "シナト",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 捨て札 1 枚 を山札に戻し、 次にプレイするまでコストを 0 にする。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 捨て札 1 枚 を山札に戻し、 次にプレイするまでコストを 0 にする。",
+    "EXTENDED_DESCRIPTION": [
+      "疾風の軍師"
+    ]
+  },
+  "aigisMod:Shuka": {
+    "NAME": "シュカ",
+    "DESCRIPTION": "あなたは 筋力 !M! を失う。 NL 5 ゴールドを得る。 NL ターン開始時、 捨て札の東の国カード 1 枚を山札の底に戻して [E] を得る。",
+    "UPGRADE_DESCRIPTION": "あなたは 筋力 !M! を失う。 NL 5 ゴールドを得る。 NL ターン開始時、 捨て札の東の国カード 1 枚を山札の底に戻して [E] を得る。",
+    "EXTENDED_DESCRIPTION": [
+      "分福茶釜付喪神"
+    ]
+  },
+  "aigisMod:Yoyuki": {
+    "NAME": "ヨユキ",
+    "DESCRIPTION": "次に本来のコストが 4 のカードをプレイした時、 エナジーを補充する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "次に本来のコストが 4 のカードをプレイした時、 エナジーを補充する。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "夜行さん現当主"
+    ]
+  },
+  "aigisMod:Iris2": {
+    "NAME": "イーリス",
+    "DESCRIPTION": "再生 3 を得る。 NL aigismod:ペア : カミラ。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "再生 3 を得る。 NL aigismod:ペア : カミラ(このターンコスト0)。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "癒し手"
+    ]
+  },
+  "aigisMod:Camilla": {
+    "NAME": "カミラ",
+    "DESCRIPTION": "HP を 4 回復する。 NL ターン終了時に HP を 5 回復する。 NL aigismod:ペア ： イーリス。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "HP を 4 回復する。 NL ターン終了時に HP を 5 回復する。 NL aigismod:ペア ： イーリス(このターンコスト0)。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "癒し手"
+    ]
+  },
+  "aigisMod:Shirogane": {
+    "NAME": "シロガネ",
+    "DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣 !M! 枚を手札に加える。",
+    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣 !M! 枚を手札に加える。",
+    "EXTENDED_DESCRIPTION": [
+      "鬼刃忍"
+    ]
+  },
+  "aigisMod:Julia2": {
+    "NAME": "ジュリア",
+    "DESCRIPTION": "この戦闘中ランダムなレリックを入手する。 NL !M! ゴールドを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "この戦闘中ランダムなレリックを入手する。 NL !M! ゴールドを得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
   }
-
-
 }

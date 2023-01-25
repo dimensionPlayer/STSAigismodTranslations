@@ -301,7 +301,7 @@
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "At the start of turn apply depending on amount of stacks. 1:Gain 1 Frail. 2:Gain 1 Weak. 3:Gain 1 Vulnerable 4+:Gain constricted equal to stacks."
+    "DESCRIPTION": "At the start of turn apply depending on amount of stacks. 1:Add 1 Dazed to Discard Pile. 2:Gain 1 Frail. 3:Gain 1 Weak 4+:Gain constricted equal to stacks."
   },
   {
     "PROPER_NAME": "Beast Tamer",

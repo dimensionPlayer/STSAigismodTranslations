@@ -133,7 +133,7 @@
         },
         "aigisMod:ImperialCooking": {
                 "NAME": "帝国式調理術",
-                "DESCRIPTIONS": [" #y白の帝国 カードを #b", " 枚プレイした時、  #y筋力 #b", " と #y敏捷性  #b", " を得る。", " 使用 白の帝国 カード #b"]
+                "DESCRIPTIONS": [" #y白の帝国 カードを #b", " 枚プレイした時、 #y筋力 #b", " と #y敏捷性  #b", " を得る。", " 使用 白の帝国 カード #b"]
         },
         "aigisMod:ImperialInventor": {
                 "NAME": "帝国発明家",
@@ -217,7 +217,7 @@
         },
         "aigisMod:GolemTactics": {
                 "NAME": "ゴーレム戦術",
-                "DESCRIPTIONS": ["ゴーレムの部品を作成した時、すべての敵に #y弱体 #b", " と #y脆弱 #b", " を与える。"]
+                "DESCRIPTIONS": ["次の #b"," ターン開始時、ゴーレムの部品 #b1 枚を手札に加える。", "次のターン開始時、ゴーレムの部品 #b1 枚を手札に加える。"]
         },
         "aigisMod:SealTalisman": {
                 "NAME": " 退魔の霊符",
@@ -318,7 +318,7 @@
 
         "aigisMod:MechaForm": {
                 "NAME": "大爪形態",
-                "DESCRIPTIONS": ["#b", " ターン後 ", " turn", ", ランダムな敵に #yスタン を与え、 #y敏捷性 と #yブラー を #b", " 得る。"]
+                "DESCRIPTIONS": ["#b", " ターン後 ", " ターン後", "、 #y敏捷性 と #y筋力 と #yブラー をそれぞれ ", " 得る。"]
         },
 
         "aigisMod:BladeOfPursuitPower": {
@@ -387,6 +387,53 @@
         "aigisMod:CommanderInspiration": {
                 "NAME": "教導隊長の鼓舞",
                 "DESCRIPTIONS": ["1ターンに1回、 #yストライク が #y防御 をプレイした時、 エナジー #b", " を得る。", "効果は発動している。"]
+        },
+
+
+
+        "aigisMod:MorningStar": {
+                "NAME": "明けの明星",
+                "DESCRIPTIONS": ["このターンにカードを使用するたび、 #yダメージオーラ #b", " と #b", " ブロック を得る。"]
+        },
+        "aigisMod:RivenEnemyPower": {
+                "NAME": "トゥルーブラッド",
+                "DESCRIPTIONS": ["#y変わり身の幻 が生きている間、 ダメージを受けない。 攻撃する時、 最大HPが以下の数だけ上昇する。： #b"]
+        },
+        "aigisMod:LukiferEnemyPower": {
+                "NAME": "黎明の翼",
+                "DESCRIPTIONS": ["あと #b", " 回、この敵は死亡時に次の行動で復活する。 復活するたび、 #y筋力 #b1 を得る。"]
+        },
+        "aigisMod:NinpouBodySplit": {
+                "NAME": "忍法・分身の術",
+                "DESCRIPTIONS": ["このターン、 #y手裏剣 をプレイした時、 #b", " #yブロック を得る。"]
+        },
+        "aigisMod:SalveOfStrength": {
+                "NAME": "怪力の軟膏",
+                "DESCRIPTIONS": ["このターン、 #y手裏剣 をプレイした時、 #y筋力 #b", " を得る。"]
+        },
+        "aigisMod:KibaninFrenzy": {
+                "NAME": "鬼刃大車輪",
+                "DESCRIPTIONS": ["このターン、 #yキャラクター カードをプレイした時、 #y手裏剣 #b", " 枚を手札に加える。"]
+        },
+        "aigisMod:SecretPill": {
+                "NAME": "秘伝の丸薬",
+                "DESCRIPTIONS": ["#y手裏剣 でこの敵を攻撃した時、 #y筋力 #b", " を得る。"]
+        },
+        "aigisMod:GoodLuckPrank": {
+                "NAME": "招福のいたずら",
+                "DESCRIPTIONS": ["戦闘勝利時、 #b", " #yゴールド を得る。 得られる #yゴールド はターン開始時ごとに #r", " ずつ減少していく。"]
+        },
+        "aigisMod:UmbrellaAttraction": {
+                "NAME": "客寄せ狸の傘回し",
+                "DESCRIPTIONS": ["ターン開始時、 捨て札の #y東の国 カードを #b", " 枚まで 選んで山札の底に戻して、 [E] を得る。"]
+        },
+        "aigisMod:HighMoon": {
+                "NAME": "高き月",
+                "DESCRIPTIONS": ["あと #b", " 回、本来のコストが4のカードをプレイした時、 エナジーを補充する。"]
+        },
+        "aigisMod:NightParade": {
+                "NAME": "百鬼夜行",
+                "DESCRIPTIONS": ["このターン、 #y東の国 または #y手裏剣 カードをプレイした時、 全ての敵は #yHP #b", " を失う。"]
         },
 
         "aigisMod:StrengthForTheTurnPower": {
