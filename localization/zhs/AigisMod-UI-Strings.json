@@ -129,7 +129,7 @@
 
   "SanmotoAction": {
     "TEXT": [
-      "play."
+      "打出。"
     ]
   },
 
@@ -344,12 +344,12 @@
 
   "ShinatoAction": {
     "TEXT": [
-      "Choose 1 card to shuffle back to Draw Pile."
+      "选择一张牌洗回抽牌堆"
     ]
   },
   "ShukaAction": {
     "TEXT": [
-      "You can choose up to ", " Eastern Country cards."
+      "你可以选择至多 ", " 张东国牌。"
     ]
   }
 }

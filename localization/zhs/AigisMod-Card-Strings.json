@@ -200,54 +200,54 @@
     ]
   },
   "aigisMod:SanmotoPlatinum": {
-    "NAME": "Sanmoto Gorozaemon",
-    "DESCRIPTION": "Play a Eastern Country card in hand !M! time(s). NL Exhaust.",
+    "NAME": "山本五郎左卫门",
+    "DESCRIPTION": "打出手牌中的1张东国牌 !M! 次。 NL  消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:SanmotoBlack": {
-    "NAME": "Sanmoto Gorozaemon",
-    "DESCRIPTION": "Retain. NL Play a Eastern Country card in hand !M! time(s). NL Exhaustive: !stslib:ex!",
+    "NAME": "山本五郎左卫门",
+    "DESCRIPTION": " 保留 。 NL 打出手牌中的1张东国牌 !M! 次。 NL 消耗性 ： !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:LukiferPlatinum": {
-    "NAME": "Lukifer",
-    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Discard Pile.",
+    "NAME": "路琪法",
+    "DESCRIPTION": "你本回合每打出一张牌获得 !M! 层 aigismod:伤害光环 和 5 点 格挡。 NL 消耗 。 NL aigismod:解放 ： 将一张此牌的复制品加入弃牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth the Dawn"
+      "指引黎明者"
     ]
   },
   "aigisMod:LukiferBlack": {
-    "NAME": "Lukifer",
-    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Draw Pile.",
+    "NAME": "路琪法",
+    "DESCRIPTION": "你本回合每打出一张牌获得 !M! 层 aigismod:伤害光环 和 5 点 格挡。 NL 消耗 。 NL aigismod:解放 ： 将一张此牌的复制品加入抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth the Dawn"
+      "指引黎明者"
     ]
   },
   "aigisMod:RivenPlatinum": {
-    "NAME": "Riven",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "NAME": "瑞文",
+    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:诅咒 ： 获得 1 点 力量 和 敏捷 。 NL aigismod:不死 ： 将一张变幻自在的幻影加入抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth Eternal Night"
+      "永夜始祖者"
     ]
   },
   "aigisMod:RivenBlack": {
-    "NAME": "Riven",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "NAME": "瑞文",
+    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:诅咒 ： 获得 1 点 力量 和 敏捷 。 NL aigismod:不死 ： 将一张变幻自在的幻影加入抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth Eternal Night"
+      "永夜始祖者"
     ]
   },
   "aigisMod:RivenPhantom": {
-    "NAME": "Riven Phantom",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies."
+    "NAME": "变幻自在的幻影",
+    "DESCRIPTION": "对所有敌人造成 !D! 点 aigismod:吸血鬼 伤害。"
   },
   "aigisMod:RepeatingNightmare": {
-    "NAME": "Repeating Nightmare",
-    "DESCRIPTION": "At the end of your turn, your HP becomes 0."
+    "NAME": "永不终焉的噩梦",
+    "DESCRIPTION": "你的回合结束时，你的生命变为 0 。"
   },
 
 
@@ -358,8 +358,8 @@
   },
   "aigisMod:Iris": {
     "NAME": "伊丽丝",
-    "DESCRIPTION": "回复 !M! 点生命。 NL 永久减少此牌回复量1点。 NL 获得 !aigisMod:SecondMagic! 临时生命。",
-    "UPGRADE_DESCRIPTION": "回复 !M! 点生命。 NL 永久减少此牌回复量1点。 NL 获得 !aigisMod:SecondMagic! 临时生命。",
+    "DESCRIPTION": "回复 !M! 点生命。 NL 永久减少此牌回复量1点。 NL 获得 !aigisMod:SecondMagic! 点临时生命。",
+    "UPGRADE_DESCRIPTION": "回复 !M! 点生命。 NL 永久减少此牌回复量1点。 NL 获得 !aigisMod:SecondMagic! 点临时生命。",
     "EXTENDED_DESCRIPTION" : [
       "治癒士"
     ]
@@ -528,7 +528,7 @@
   "aigisMod:Soma": {
     "NAME": "索玛",
     "DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:搭档 : 爱丽莎 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:搭档 : 爱丽莎 并本回合此牌耗能变为1。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:弓箭手 伤害。 aigismod:搭档 : 爱丽莎 并且本回合此牌耗能变为1。",
     "EXTENDED_DESCRIPTION" : [
       "弓箭手"
     ]
@@ -1001,16 +1001,16 @@
   "aigisMod:Setsuna": {
     "NAME": "刹那",
     "DESCRIPTION": "获得 !aigisMod:SecondMagic! 层 aigismod:伤害光环 。 NL 获得 aigismod:忍术 。 NL 手里剑 获得 !M! 点额外伤害。",
-    "UPGRADE_DESCRIPTION": "将1张刹那-克隆 洗入抽牌堆。 获得 !aigisMod:SecondMagic! 层 aigismod:伤害光环 。 NL 获得 aigismod:忍术 : 手里剑 获得 !M! 点额外伤害。",
+    "UPGRADE_DESCRIPTION": "将1张 刹那（分身） 洗入抽牌堆。 获得 !aigisMod:SecondMagic! 层 aigismod:伤害光环 。 NL 获得 aigismod:忍术 : 手里剑 获得 !M! 点额外伤害。",
     "EXTENDED_DESCRIPTION" : [
       "鬼刃忍",
-      "将1张刹那-克隆 洗入抽牌堆。 获得 !aigisMod:SecondMagic! 层 aigismod:伤害光环 。 NL 获得 aigismod:忍术 : 手里剑 获得 !M! 点额外伤害。"
+      "将1张 刹那（分身） 洗入抽牌堆。 获得 !aigisMod:SecondMagic! 层 aigismod:伤害光环 。 NL 获得 aigismod:忍术 : 手里剑 获得 !M! 点额外伤害。"
     ]
   },
   "aigisMod:SetsunaClone": {
     "NAME": "刹那（分身）",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害,等同于消耗的手里剑数量并抽1张牌。",
-    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害,等同于消耗的手里剑数量并抽1张牌。"
+    "DESCRIPTION": "根据消耗手里剑的数量对所有敌人造成 !D! 点伤害。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "根据消耗手里剑的数量对所有敌人造成 !D! 点伤害。 NL 抽 !M! 张牌。"
   },
   "aigisMod:Ramii": {
     "NAME": "拉米",
@@ -1044,8 +1044,8 @@
   },
   "aigisMod:Adele": {
     "NAME": "爱黛尔",
-    "DESCRIPTION": "获得 !M! 点 敏捷 。 NL 造成 !D! 点伤害。 NL 施加 aigismod:减速 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 点 敏捷 。 NL 造成 !D! 点伤害。 NL 施加 aigismod:减速 。 NL 消耗 。",
+    "DESCRIPTION": "回复 !M! 点生命。 NL 造成 !D! 点伤害。 NL 施加 2 层 aigismod:减速 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "回复 !M! 点生命。 NL 造成 !D! 点伤害。 NL 施加 2 层 aigismod:减速 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "魔女"
     ]
@@ -2435,8 +2435,8 @@
   },
   "aigisMod:Anabella": {
     "NAME": "安娜贝拉",
-    "DESCRIPTION": "魔像部件 获得 !M! 点额外格挡 。 NL 下 !aigisMod:SecondMagic! 個回合开始时,将1张魔像部件 加入手牌。",
-    "UPGRADE_DESCRIPTION": "魔像部件 获得 !M! 点额外格挡 。 NL 下 !aigisMod:SecondMagic! 個回合开始时,将1张魔像部件 加入手牌。",
+    "DESCRIPTION": "魔像部件 获得 !M! 点额外格挡 。 NL 下 !aigisMod:SecondMagic! 个回合开始时,将 1 张 魔像部件 加入手牌。",
+    "UPGRADE_DESCRIPTION": "魔像部件 获得 !M! 点额外格挡 。 NL 下 !aigisMod:SecondMagic! 个回合开始时,将 1 张 魔像部件 加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       "知识的求道者"
     ]
@@ -2672,8 +2672,8 @@
 
   "aigisMod:Merone": {
     "NAME": "梅洛妮",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 随机减少手牌中普通牌耗能1点。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 随机减少手牌中普通牌耗能1点。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 随机减少手牌中的一张普通牌耗能1点。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加  aigismod:减速 。 NL 随机减少手牌中的一张普通牌耗能1点。",
     "EXTENDED_DESCRIPTION" : [
       "魔女"
     ]
@@ -4146,7 +4146,7 @@
     "UPGRADE_DESCRIPTION": "本回合每打出一张角色牌便将 1 张 手里剑 加入手牌。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍",
-      "本回合每打出一张角色牌便将 1 张 手里剑 加入手牌。 NL Cost 4 cards in hand become cost 0 this turn."
+      "本回合每打出一张角色牌便将 1 张 手里剑 加入手牌。 NL 手牌中耗能为4的牌本回合耗能变为0"
     ]
   },
   "aigisMod:Momiji": {
@@ -4158,135 +4158,126 @@
     ]
   },
   "aigisMod:Akura": {
-    "NAME": "Akura",
-    "DESCRIPTION": "Gain !B! Block. NL Gain 8 Temporal HP. NL If the enemy intends to attack gain !M! Strength.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Gain 8 Temporal HP. NL If the enemy intends to attack gain !M! Strength.",
+    "NAME": "阿库拉",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 8 点临时生命。 NL 如果敌人的意图为攻击，获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 8 点临时生命。 NL 如果敌人的意图为攻击，获得 !M! 点 力量 。",
     "EXTENDED_DESCRIPTION": [
-      "Oni Mercenary of Purple Flames"
+      "紫炎的鬼佣兵"
     ]
   },
   "aigisMod:Kasumi": {
-    "NAME": "Kasumi",
-    "DESCRIPTION": "Return up to 2 cards from Discard Pile to Draw Pile. NL Deal !D! damage. NL aigismod:Pair: Sagiri/Shino.",
-    "UPGRADE_DESCRIPTION": "Return up to 2 cards from Discard Pile to Draw Pile. NL Deal !D! damage. NL aigismod:Pair: Sagiri/Shino. They are cost 0 this turn.",
+    "NAME": "霞",
+    "DESCRIPTION": "将最多 2 张牌从弃牌堆返回抽牌堆。 NL 造成 !D! 点伤害。 NL aigismod:搭档 ： 狭雾/志乃。",
+    "UPGRADE_DESCRIPTION": "将最多 2 张牌从弃牌堆返回抽牌堆。 NL 造成 !D! 点伤害。 NL aigismod:搭档 ： 狭雾/志乃。 他们的耗能本回合变为 0 。",
     "EXTENDED_DESCRIPTION": [
-      "Nurarihyon's Daughter"
+      "滑头鬼的女儿"
     ]
   },
   "aigisMod:Shino": {
-    "NAME": "Shino",
-    "DESCRIPTION": "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi.",
-    "UPGRADE_DESCRIPTION": "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi.",
+    "NAME": "志乃",
+    "DESCRIPTION": "本回合每打出一张 手里剑 或 东国牌 所有敌人失去 !M! 点生命。 NL aigismod:搭档 ： 狭雾/霞。",
+    "UPGRADE_DESCRIPTION": "本回合每打出一张 手里剑 或 东国牌 所有敌人失去 !M! 点生命 NL aigismod:搭档 ： 狭雾/霞。",
     "EXTENDED_DESCRIPTION": [
-      "Nurarihyon's Daughter",
-      "All enemies lose !M! HP when you play Shuriken or Eastern Country card this turn. NL aigismod:Pair: Sagiri/Kasumi. They are cost 0 this turn."
+      "滑头鬼的女儿",
+      "本回合每打出一张 手里剑 或 东国牌 所有敌人失去 !M! 点生命 NL aigismod:搭档 ： 狭雾/霞。 他们的耗能本回合变为 0 。"
     ]
   },
   "aigisMod:Sagiri": {
-    "NAME": "Sagiri",
-    "DESCRIPTION": "Deal !D! damage twice. NL aigismod:Pair: Kasumi/Shino.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage twice. NL aigismod:Pair: Kasumi/Shino. They are cost 0 this turn.",
+    "NAME": "狭雾",
+    "DESCRIPTION": "造成 !D! 点伤害两次 。 NL aigismod:搭档 ： 霞/志乃。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次  NL aigismod:搭档 ： 霞/志乃。 他们的耗能本回合变为 0  。",
     "EXTENDED_DESCRIPTION": [
-      "Nurarihyon's Daughter"
+      "滑头鬼的女儿"
     ]
   },
   "aigisMod:Nagi": {
-    "NAME": "Nagi",
-    "DESCRIPTION": "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaust.",
+    "NAME": "凪",
+    "DESCRIPTION": "施加 !M! 层 易伤 。 当你使用手里剑攻击敌人时，获得 1 点 力量 。 NL 将 1 张 手里剑 加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "施加 !M! 层 易伤 。 当你使用手里剑攻击敌人时，获得 1 点 力量 。 NL 将 1 张 手里剑 加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
-      "Spirit-Sealing Ninja",
-      "Apply !M! Vulnerable. When you attack this enemy with Shuriken, gain 1 Strength. NL Add 1 Shuriken to hand. NL Exhaustive: !stslib:ex!"
+      "封妖的忍者",
+      "施加 !M! 层 易伤 。 当你使用手里剑攻击敌人时，获得 1 点 力量 。 NL 将 1 张 手里剑 加入手牌。 NL 消耗性 ： !stslib:ex!"
     ]
   },
   "aigisMod:Enju": {
-    "NAME": "Enju",
-    "DESCRIPTION": "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the start of turn.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the start of turn.",
+    "NAME": "槐",
+    "DESCRIPTION": "获得 !M! 层 再生 。 本场战斗后获得 20 金币。 回合开始时获得的金币减少 !aigisMod:SecondMagic! 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 再生 。 本场战斗后获得 20 金币。 回合开始时获得的金币减少 !aigisMod:SecondMagic! 。",
     "EXTENDED_DESCRIPTION" : [
-      "Zashiki-warashi",
-      "Gain !M! Regeneration. Gain 20 Gold after this combat. Reduce this gold by !aigisMod:SecondMagic! at the end of turn."
+      "座敷童子",
+      "获得 !M! 层 再生 。本场战斗后获得 20 金币。 回合结束时获得的金币减少 !aigisMod:SecondMagic! 。"
     ]
   },
   "aigisMod:Shinato": {
-    "NAME": "Shinato",
-    "DESCRIPTION": "Gain !B! Block. NL Shuffle 1 card from Discard Pile to Draw Pile, it costs 0 until played.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle 1 card from Discard Pile to Draw Pile, it costs 0 until played.",
+    "NAME": "志那度",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 将 1 张牌从弃牌堆洗入抽牌堆，直到打出为止其耗能变为 0 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 将 1 张牌从弃牌堆洗入抽牌堆，直到打出为止其耗能变为 0 。",
     "EXTENDED_DESCRIPTION": [
-      "Gale Tactician"
+      "疾风的军师"
     ]
   },
   "aigisMod:Shuka": {
-    "NAME": "Shuka",
-    "DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
-    "UPGRADE_DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
+    "NAME": "珠桦",
+    "DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张牌从弃牌堆送入抽牌堆底部并获得 [E]",
+    "UPGRADE_DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张牌从弃牌堆送入抽牌堆底部并获得 [E]",
     "EXTENDED_DESCRIPTION": [
-      "Bunbuku Tea-Kettle Tsukumogami"
+      "分福茶釜付丧神"
     ]
   },
   "aigisMod:Yoyuki": {
-    "NAME": "Yoyuki",
-    "DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
+    "NAME": "夜雪",
+    "DESCRIPTION": "你下一次打出原始耗能为 4 的牌时, 回复所有能量。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "你下一次打出原始耗能为 4 的牌时， 回复所有能量。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
-      "Yagyou-san's Current Leader"
+      "夜游妖怪们的现当家"
     ]
   },
   "aigisMod:Iris2": {
     "NAME": "伊丽丝",
-    "DESCRIPTION": "Gain 3 Regen. NL aigismod:Pair: Camilla. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain 3 Regen. NL aigismod:Pair: Camilla and becomes cost 0 for the turn. NL Exhaust.",
+    "DESCRIPTION": "获得 3 层 再生 。 NL aigismod:搭档 ：卡米拉。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 3 层 再生 。 NL aigismod:搭档 ：卡米拉 并且本回合其耗能变为 0 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "治癒士"
     ]
   },
   "aigisMod:Camilla": {
-    "NAME": "カミラ",
-    "DESCRIPTION": "Heal 4 HP. NL Heal 5 HP at the end of turn. NL aigismod:Pair: Iris. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Heal 4 HP. NL Heal 5 HP at the end of turn. NL aigismod:Pair: Iris and becomes cost 0 for the turn. NL Exhaust.",
+    "NAME": "卡米拉",
+    "DESCRIPTION": "回复 4 点生命。 NL 在回合结束时回复 5 点生命。 NL aigismod:搭档 ： 伊丽丝。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "回复 4 点生命。 NL 在回合结束时回复 5 点生命。 NL aigismod:搭档 ： 伊丽丝 并且本回合其耗能变为 0 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "治癒士"
     ]
   },
   "aigisMod:Shirogane": {
-    "NAME": "シロガネ",
-    "DESCRIPTION": "Gain 2 Temporal HP. NL Add !M! Shuriken to hand.",
-    "UPGRADE_DESCRIPTION": "Gain 2 Temporal HP. NL Add !M! Shuriken to hand.",
+    "NAME": "白银",
+    "DESCRIPTION": "获得 2 点临时生命。 NL 将 !M! 张 手里剑 加入手牌。",
+    "UPGRADE_DESCRIPTION": "获得 2 点临时生命。 NL 将 !M! 张 手里剑 加入手牌。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍"
     ]
   },
   "aigisMod:Julia2": {
     "NAME": "朱莉娅",
-    "DESCRIPTION": "Gain a random Relic for the combat. NL Gain !M! Gold. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain a random Relic for the combat. NL Gain !M! Gold. NL Exhaust.",
+    "DESCRIPTION": "本场战斗随机获得 1 个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "本场战斗随机获得 1 个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Lizette": {
     "NAME": "莉洁特",
-    "DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
-    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
+    "DESCRIPTION": "对所有敌人施加 !M! aigismod:减速 。 NL 下回合抽 1 张牌。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 !M! aigismod:减速 。 NL 下回合抽 1 张牌。",
     "EXTENDED_DESCRIPTION" : [
       "时魔女 "
     ]
   },
   "aigisMod:Kokoro": {
     "NAME": "可可萝",
-    "DESCRIPTION": "抽 2 张牌。 Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies。 NL aigismod:冷却 !M! :Stun 1 random enemy。",
-    "UPGRADE_DESCRIPTION": "抽 2 张牌。 Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies。 NL aigismod:冷却 !M! :Stun 1 random enemy.。",
+    "DESCRIPTION": "抽 2 张牌。 对所有敌人施加 !aigisMod:SecondMagic!  层 aigismod:减速 。 NL aigismod:冷却 !M! :随机击晕 1 名敌人。",
+    "UPGRADE_DESCRIPTION": "抽 2 张牌。 对所有敌人施加 !aigisMod:SecondMagic!  层 aigismod:减速 。 NL aigismod:冷却 !M! :随机击晕 1 名敌人。",
     "EXTENDED_DESCRIPTION" : [
       "时魔女 "
     ]
   }
-
-
-
-
 }
-
-
-
-
-
