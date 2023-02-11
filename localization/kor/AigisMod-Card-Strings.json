@@ -601,7 +601,7 @@
     ]
   },
   "aigisMod:Carat": {
-    "NAME": "Carat",
+    "NAME": "캬랏트",
     "DESCRIPTION": "At the start of your turn, upgrade 1 non-hero skill in hand for the combat.",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL At the start of your turn, upgrade 1 non-hero skill in hand for the combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -609,7 +609,7 @@
     ]
   },
   "aigisMod:Sandy": {
-    "NAME": "Sandy",
+    "NAME": "샌디",
     "DESCRIPTION": "At the start of your turn, upgrade 1 non-hero attack in hand for the combat",
     "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL At the start of your turn, upgrade 1 non-hero attack in hand for the combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -617,7 +617,7 @@
     ]
   },
   "aigisMod:Ertel": {
-    "NAME": "Ertel",
+    "NAME": "에테르",
     "DESCRIPTION": "Heal !M! or if the enemy intends to attack (or this has healed), gain !B! Block.",
     "UPGRADE_DESCRIPTION": "Heal !M! or if the enemy intends to attack (or this has healed), gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -625,7 +625,7 @@
     ]
   },
   "aigisMod:Cypria": {
-    "NAME": "Cypria",
+    "NAME": "시프리아",
     "DESCRIPTION": "Deal !D! damage. NL Gain !M! Gold on first use. NL aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !M! Gold on first use. NL aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -633,7 +633,7 @@
     ]
   },
   "aigisMod:Augusta": {
-    "NAME": "Augusta",
+    "NAME": "오거스타",
     "DESCRIPTION": "At the start of your turn, gain !M! Strength and Dexterity.",
     "UPGRADE_DESCRIPTION": "At the start of your turn, gain !M! Strength and 1 Dexterity.",
     "EXTENDED_DESCRIPTION" : [
@@ -641,7 +641,7 @@
     ]
   },
   "aigisMod:Aix": {
-    "NAME": "Aix",
+    "NAME": "엑스",
     "DESCRIPTION": "Gain !M! Dexterity for the turn. NL Heal 4 or if the enemy intends to attack (or this has healed) gain !B! Block.",
     "UPGRADE_DESCRIPTION": "Gain !M! Dexterity for the turn. NL Heal 4 or if the enemy intends to attack (or this has healed) gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -650,7 +650,7 @@
     ]
   },
   "aigisMod:Matsuri": {
-    "NAME": "Matsuri",
+    "NAME": "마츠리",
     "DESCRIPTION": "Once per turn, when you deal unblocked damage gain !M! Strength.",
     "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, when you deal unblocked damage gain !M! Strength.",
     "EXTENDED_DESCRIPTION" : [
@@ -659,7 +659,7 @@
     ]
   },
   "aigisMod:Kanon": {
-    "NAME": "Kanon",
+    "NAME": "카논",
     "DESCRIPTION": "Deal !D! aigismod:splash damage. aigismod:Skill_charge: 1)Increase !M! damage next use, target all enemies.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. aigismod:Skill_charge: 1)Increase !M! damage next use, target all enemies.",
     "EXTENDED_DESCRIPTION": [
@@ -668,7 +668,7 @@
     ]
   },
   "aigisMod:Alicia": {
-    "NAME": "Alicia",
+    "NAME": "알리시아",
     "DESCRIPTION": "Gain !B! Block. NL Add 1 Anna from draw or discard pile.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. Reduce the cost of a random attack in hand by 1 this turn. Add 1 Anna from draw or discard pile.",
     "EXTENDED_DESCRIPTION" : [
@@ -677,7 +677,7 @@
   },
 
   "aigisMod:Sybilla": {
-    "NAME": "Sybilla",
+    "NAME": "시빌라",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak to all enemies. NL aigismod:Pair: Patel. aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak to all enemies. NL aigismod:Pair: Patel and its cost 1 this turn. aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -686,7 +686,7 @@
     ]
   },
   "aigisMod:Uzume": {
-    "NAME": "Uzume",
+    "NAME": "우즈메",
     "DESCRIPTION": "Once per turn, if you play 3 attacks, gain [E]",
     "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL Once per turn, if you play 3 attacks, gain [E]",
     "EXTENDED_DESCRIPTION" : [
@@ -694,7 +694,7 @@
     ]
   },
   "aigisMod:Luvea": {
-    "NAME": "Luvea",
+    "NAME": "루베아",
     "DESCRIPTION": "Each 8 cards you play, gain [E] and apply !M! Vulnerable to enemies.",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Each 8 cards you play, gain [E] and apply !M! Vulnerable to enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -702,7 +702,7 @@
     ]
   },
   "aigisMod:Farne": {
-    "NAME": "Farne",
+    "NAME": "파르네",
     "DESCRIPTION": "Deal !D! Damage. NL aigismod:Skill_charge: 1)Increase !M! damage. NL 2)Deal aigismod:True_damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL aigismod:Skill_charge: 1)Increase !M! damage. NL 2)Deal aigismod:True_damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -715,7 +715,7 @@
     ]
   },
   "aigisMod:Altair": {
-    "NAME": "Altair",
+    "NAME": "알티아",
     "DESCRIPTION": "Gain !B! Block and 6 aigismod:Counter. NL Gain [E] at the start of your next turn.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block and 6 aigismod:Counter. NL Gain [E] [E] at the start of your next turn.",
     "EXTENDED_DESCRIPTION" : [
@@ -724,7 +724,7 @@
     ]
   },
   "aigisMod:Diera": {
-    "NAME": "Diera",
+    "NAME": "디에라",
     "DESCRIPTION": "Draw !M! Cards. NL Gain [E] [E] and 1 aigismod:Entangled.",
     "UPGRADE_DESCRIPTION": "Draw !M! Cards. NL Gain [E] [E]",
     "EXTENDED_DESCRIPTION" : [
@@ -734,7 +734,7 @@
   },
 
   "aigisMod:Towa": {
-    "NAME": "Towa",
+    "NAME": "토와",
     "DESCRIPTION": "Deal !D! damage +1 per Witch played this combat to all enemies and apply aigismod:Sluggish. NL Draw !M! Witch.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage + 1 per Witch played this combat to all enemies and apply aigismod:Sluggish. NL Draw !M! Witch",
     "EXTENDED_DESCRIPTION" : [
@@ -743,7 +743,7 @@
     ]
   },
   "aigisMod:Dina": {
-    "NAME": "Dina",
+    "NAME": "디나",
     "DESCRIPTION": "Gain !B! Block. aigismod:Cooldown: !M! deal !D! damage to a random enemy.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. aigismod:Cooldown: !M! deal !D! damage to all enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -752,7 +752,7 @@
     ]
   },
   "aigisMod:Elyse": {
-    "NAME": "Elyse",
+    "NAME": "이리스",
     "DESCRIPTION": "Gain !aigisMod:SecondMagic! dexterity. NL Heal !M!. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Gain !aigisMod:SecondMagic! dexterity. NL Heal !M!. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -761,7 +761,7 @@
     ]
   },
   "aigisMod:Sarah": {
-    "NAME": "Sarah",
+    "NAME": "세라",
     "DESCRIPTION": "At turn start, add 1 Princess from Draw Pile to hand.",
     "UPGRADE_DESCRIPTION": "Gain 1 Strength. NL At turn start add 1 Princess from Draw Pile to hand.",
     "EXTENDED_DESCRIPTION" : [
@@ -770,7 +770,7 @@
     ]
   },
   "aigisMod:Pommier": {
-    "NAME": "Pommier",
+    "NAME": "포미에",
     "DESCRIPTION": "Deal !D! aigismod:archer damage. After first use, increase this card damage by !M!.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. After first use, increase this card damage by !M!.",
     "EXTENDED_DESCRIPTION" : [
@@ -778,7 +778,7 @@
     ]
   },
   "aigisMod:Cindy": {
-    "NAME": "Cindy",
+    "NAME": "신디",
     "DESCRIPTION": "Discard any amount of cards. Heal 6 + the amount of discards. Exhaust.",
     "UPGRADE_DESCRIPTION": "Discard any amount of cards. Heal and gain Block 6 + the amount of discards. Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -786,7 +786,7 @@
     ]
   },
   "aigisMod:Harissa": {
-    "NAME": "Harissa",
+    "NAME": "하릿사",
     "DESCRIPTION": "Deal !D! damage. NL If Fatal, Gain 8 gold. NL aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If Fatal, Gain 8 gold. NL aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -794,7 +794,7 @@
     ]
   },
   "aigisMod:Rozette": {
-    "NAME": "Rozette",
+    "NAME": "로젯트",
     "DESCRIPTION": "Deal !D! damage. NL Upgrade all other common character cards for this combat.",
     "UPGRADE_DESCRIPTION": "Innate. NL Deal !D! damage. NL Upgrade all other common character cards for this combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -802,7 +802,7 @@
     ]
   },
   "aigisMod:Leeanne": {
-    "NAME": "Leeanne",
+    "NAME": "레안",
     "DESCRIPTION": "Gain !B! Block. If last card played was an attack, gain 3 more Block.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. If last card played was an attack, gain 3 more Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -810,7 +810,7 @@
     ]
   },
   "aigisMod:Mischa": {
-    "NAME": "Mischa",
+    "NAME": "미샤",
     "DESCRIPTION": "Deal !D! damage. NL If it kills an enemy gain [E].",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If it kills an enemy gain [E] and 5 Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -818,7 +818,7 @@
     ]
   },
   "aigisMod:Elaine": {
-    "NAME": "Elaine",
+    "NAME": "에레인",
     "DESCRIPTION": "Deal !D! damage. If it kills an enemy gain [E] .",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. If it kills an enemy gain [E] and increase this card damage by 3 during the combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -826,7 +826,7 @@
     ]
   },
   "aigisMod:Picky": {
-    "NAME": "Picky",
+    "NAME": "핏키",
     "DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Enemies gain 2 Strength. NL Gain !M! Gold for each enemy. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -834,7 +834,7 @@
     ]
   },
   "aigisMod:Junon": {
-    "NAME": "Junon",
+    "NAME": "쥬논",
     "DESCRIPTION": "Deal !D! damage. NL A common character card in hand costs 1 less this turn. NL aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL A common character card in hand costs 1 less this turn. NL aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -842,7 +842,7 @@
     ]
   },
   "aigisMod:Fei": {
-    "NAME": "Fei",
+    "NAME": "페이",
     "DESCRIPTION": "Heal !M! HP. NL Gain 1 Artifact. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Gain 1 Artifact. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -850,7 +850,7 @@
     ]
   },
   "aigisMod:Percis": {
-    "NAME": "Percis",
+    "NAME": "파시스",
     "DESCRIPTION": "Deal !D! aigismod:splash damage .",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL Draw 1 card.",
     "EXTENDED_DESCRIPTION" : [
@@ -859,7 +859,7 @@
   },
 
   "aigisMod:Cassis": {
-    "NAME": "Cassis",
+    "NAME": "카시스",
     "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, deal !M! more damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, deal !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -867,7 +867,7 @@
     ]
   },
   "aigisMod:Khuri": {
-    "NAME": "Khuri",
+    "NAME": "후리",
     "DESCRIPTION": "Deal !D! damage 2 times. You can exhaust 1 card from hand.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage 3 times. You can exhaust 1 card from hand and discard pile.",
     "EXTENDED_DESCRIPTION" : [
@@ -875,7 +875,7 @@
     ]
   },
   "aigisMod:Sharqi": {
-    "NAME": "Sharqi",
+    "NAME": "샬키",
     "DESCRIPTION": "Gain 2 Strength for the turn.",
     "UPGRADE_DESCRIPTION": "Gain 2 Strength and Dexterity for the turn.",
     "EXTENDED_DESCRIPTION" : [
@@ -883,7 +883,7 @@
     ]
   },
   "aigisMod:Dorca": {
-    "NAME": "Dorca",
+    "NAME": "도르카",
     "DESCRIPTION": "Heal !M! hp. Exhaust",
     "UPGRADE_DESCRIPTION": "Heal !M! hp. Exhaust",
     "EXTENDED_DESCRIPTION" : [
@@ -891,7 +891,7 @@
     ]
   },
   "aigisMod:Pickle": {
-    "NAME": "Pickle",
+    "NAME": "피클",
     "DESCRIPTION": "Deal !D! damage 2 times. You can exhaust 1 card from hand.",
     "UPGRADE_DESCRIPTION": "This turn, if you played 3 cards this card becomes cost 0. Deal !D! damage 3 times. You can exhaust 1 card from hand and discard pile.",
     "EXTENDED_DESCRIPTION" : [
@@ -900,7 +900,7 @@
     ]
   },
   "aigisMod:Mao": {
-    "NAME": "Mao",
+    "NAME": "마오",
     "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, gain !B! Block.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -908,7 +908,7 @@
     ]
   },
   "aigisMod:Iroha": {
-    "NAME": "Iroha",
+    "NAME": "이로하",
     "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage +2.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage +4.",
     "EXTENDED_DESCRIPTION" : [
@@ -916,7 +916,7 @@
     ]
   },
   "aigisMod:Kagerou": {
-    "NAME": "Kagerou",
+    "NAME": "카게로우",
     "DESCRIPTION": "Discard 1 card to add !M! Shuriken to hand.",
     "UPGRADE_DESCRIPTION": "Discard 1 card to add !M! Shuriken to hand.",
     "EXTENDED_DESCRIPTION": [
@@ -924,7 +924,7 @@
     ]
   },
   "aigisMod:Dolce": {
-    "NAME": "Dolce",
+    "NAME": "돌체",
     "DESCRIPTION": "Deal !D! damage. NL Against bosses and elites, deal !M! more damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Against bosses and elites, deal !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -932,7 +932,7 @@
     ]
   },
   "aigisMod:Totono": {
-    "NAME": "Totono",
+    "NAME": "토토노",
     "DESCRIPTION": "Draw !aigisMod:SecondMagic! card. NL Gain [E] [E] and 1 Vulnerable.",
     "UPGRADE_DESCRIPTION": "Draw !aigisMod:SecondMagic! Card. NL Gain [E] [E]",
     "EXTENDED_DESCRIPTION" : [
@@ -940,7 +940,7 @@
     ]
   },
   "aigisMod:Louise": {
-    "NAME": "Louise",
+    "NAME": "루이즈",
     "DESCRIPTION": "Gain 1 Dexterity. NL Gain !B! Block. NL All cards in hand duplicate their cost for the turn.",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Gain !B! Block. NL All cards in hand duplicate their cost for the turn.",
     "EXTENDED_DESCRIPTION" : [
