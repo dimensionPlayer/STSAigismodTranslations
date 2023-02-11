@@ -1,0 +1,34 @@
+{
+        "aigisMod:StrengthDownPotion": {
+                "NAME": "Strength Down Potion",
+                "DESCRIPTIONS": ["Target loses #b", " #yStrength."]
+        },
+        "aigisMod:StrengthDownPotionEmperor": {
+                "NAME": "Strength Down Potion",
+                "DESCRIPTIONS": ["Target loses #b", " #yStrength."]
+        },
+        "aigisMod:SlowPotion": {
+                "NAME": "Space Time Potion",
+                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
+        },
+        "aigisMod:SlowPotionEmperor": {
+                "NAME": "Space Time Potion",
+                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
+        },
+        "aigisMod:CounterPotion": {
+                "NAME": "Counter Potion",
+                "DESCRIPTIONS": ["Gain #b", " #yCounter."]
+        },
+        "aigisMod:CounterPotionEmperor": {
+                "NAME": "Counter Potion",
+                "DESCRIPTIONS": ["Gain #b", " #yCounter."]
+        },
+        "aigisMod:DemonicDrink": {
+                "NAME": "Demonic Drink",
+                "DESCRIPTIONS": ["Gain #b", " #yDamage #yAura."]
+        },
+        "aigisMod:DemonicDrinkEmperor": {
+                "NAME": "Demonic Drink",
+                "DESCRIPTIONS": ["Gain #b", " #yDamage #yAura."]
+        }
+}

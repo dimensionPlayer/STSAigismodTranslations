@@ -1,0 +1,316 @@
+[
+  {
+    "PROPER_NAME": "Skill Charge",
+    "NAMES": [
+      "Skill Charge",
+      "Skill_charge",
+      "skill_charge"
+    ],
+    "DESCRIPTION": "#yRetain. On retain, increase this card power."
+  },
+  {
+    "PROPER_NAME": "Imperial Knight",
+    "NAMES": [
+      "Imperial Knight",
+      "Imperial_knight",
+      "imperial_knight"
+    ],
+    "DESCRIPTION": "Applies an effect #yonce #yper #yturn when playing an #yImperial card while this is in hand."
+  },
+  {
+    "PROPER_NAME": "Damage Aura",
+    "NAMES": [
+      "Damage Aura",
+      "Damage_aura",
+      "damage_aura"
+    ],
+    "DESCRIPTION": "On turn end, deal #ydamage equal to amount to all enemies."
+  },
+  {
+    "PROPER_NAME": "True Damage",
+    "NAMES": [
+      "True Damage",
+      "True_damage",
+      "true_damage"
+    ],
+    "DESCRIPTION": "Attack from this card ignore #yBlock and #bignores #yThorns, #yAngry, #ySharp #yHides and #yCurl #yUp."
+  },
+  {
+    "PROPER_NAME": "Bloom Petal",
+    "NAMES": [
+      "Bloom Petal",
+      "Bloom_petal",
+      "bloom_petal"
+    ],
+    "DESCRIPTION": "On your second turn after getting this power: all enemies receive damage (equal to this amount), #b2 #yWeak and #b2 #yVulnerable, then this power is removed."
+  },
+  {
+    "PROPER_NAME": "Cursed Rite",
+    "NAMES": [
+      "Cursed Rite",
+      "Cursed_rite.",
+      "Cursed_rite",
+      "cursed_rite"
+    ],
+    "DESCRIPTION": "You can't heal."
+  },
+  {
+    "PROPER_NAME": "Cursed Voice",
+    "NAMES": [
+      "Cursed Voice",
+      "Cursed_voice.",
+      "Cursed_voice",
+      "cursed_voice"
+    ],
+    "DESCRIPTION": "Negate the next #bbuff the enemy would gain."
+  },
+  {
+    "PROPER_NAME": "Air Elemental",
+    "NAMES": [
+      "Air Elemental",
+      "Air_elemental.",
+      "Air_elemental",
+      "air_elemental"
+    ],
+    "DESCRIPTION": "When you play a #ySkill, enemy #yloses #yHP equal to stacks. Remove #b1 stack at the end of the turn if enemy #yattacked."
+  },
+  {
+    "PROPER_NAME": "Ranger Trap",
+    "NAMES": [
+      "Ranger Trap",
+      "Ranger_trap.",
+      "Ranger_trap",
+      "ranger_trap"
+    ],
+    "DESCRIPTION": "The next time you take #yunblocked damage, deal damage to that enemy equal to #yamount and lose this power."
+  },
+  {
+    "PROPER_NAME": "Seal Talisman",
+    "NAMES": [
+      "Seal Talisman",
+      "Seal_talisman.",
+      "Seal_talisman",
+      "seal_talisman"
+    ],
+    "DESCRIPTION": "When the enemy #yattack, that enemy loses #b1 #yStrength. #ySeal #yTalisman is reduced by #b1 at the start of your turn."
+  },
+  {
+    "PROPER_NAME": "Corpse Marionette",
+    "NAMES": [
+      "Corpse Marionette",
+      "Corpse_marionette.",
+      "Corpse_marionette",
+      "corpse_marionette"
+    ],
+    "DESCRIPTION": "When you take #yunblocked damage, reduce #ystacks equal to that amount. At turn start, if this has #b0 #ystacks, stun all enemies and remove this power."
+  },
+  {
+    "PROPER_NAME": "Ambushed Caravan",
+    "NAMES": [
+      "Ambushed Caravan",
+      "Ambushed_caravan.",
+      "Ambushed_caravan",
+      "ambushed_caravan"
+    ],
+    "DESCRIPTION": "#yCurse. Unplayable, retain, innate, cannot be removed from your deck. When you take #yunblocked #ydamage, lose #b8 #ygold."
+  },
+
+  {
+    "NAMES": [
+      "Assassination",
+      "assassination"
+    ],
+    "DESCRIPTION": "If it #ydefeats an enemy, return this to #yhand and this card cost becomes #b0 for the turn."
+  },
+  {
+    "NAMES": [
+      "Sluggish",
+      "sluggish",
+      "sluggish."
+    ],
+    "DESCRIPTION": "Enemies gain #ySlow when applied. When #ySluggish reaches #b0, #ySlow is removed."
+  },
+  {
+  "NAMES": [
+    "Counter",
+    "counter",
+    "Counter.",
+    "counter."
+  ],
+  "DESCRIPTION": "When #yattacked, deal damage back to the enemy equal to the number of counter. Removed at the start of your turn."
+  },
+  {
+    "NAMES": [
+      "Splash",
+      "splash",
+      "splash."
+    ],
+    "DESCRIPTION": "All other enemies will receive half (rounded down) of the damage from the target monster."
+  },
+  {
+    "NAMES": [
+      "Cooldown",
+      "cooldown"
+    ],
+    "DESCRIPTION": "When this reaches #b0, next use applies an extra effect."
+  },
+  {
+    "NAMES": [
+      "Pair",
+      "pair"
+    ],
+    "DESCRIPTION": "Add #b1 card with the indicated name from #yDraw #yPile to #yhand."
+  },
+  {
+    "NAMES": [
+      "Archer",
+      "archer"
+    ],
+    "DESCRIPTION": "This card #bignores #yThorns, #yAngry, #ySharp #yHides and #yCurl #yUp."
+  },
+  {
+    "NAMES": [
+      "Ninjutsu",
+      "ninjutsu"
+    ],
+    "DESCRIPTION": "Add #b1 #yShuriken at turn start. Each additional #yNinjutsu you play increases the amount of hits the #yShuriken does by #b1."
+  },
+  {
+    "NAMES": [
+      "Entangled",
+      "entangled"
+    ],
+    "DESCRIPTION": "You cannot play #yattacks. Remove #b1 stack at beginning of your turn."
+  },
+
+  {
+    "NAMES": [
+      "Undead",
+      "undead",
+      "Undead:",
+      "undead:"
+    ],
+    "DESCRIPTION": "Trigger this effect when #yExhausted."
+  },
+  {
+    "NAMES": [
+      "Vampire",
+      "vampire"
+    ],
+    "DESCRIPTION": "Attacked enemy gains #yVampire #yBite equal to #yunblocked damage. When #yVampire #yBite reaches #b60, stun that enemy and that enemy receives #b1 #yStun #yResistance."
+  },
+  {
+    "NAMES": [
+      "Cursed",
+      "cursed",
+      "Cursed:",
+      "cursed:"
+    ],
+    "DESCRIPTION": "For each #bcurse #bcard in your #yMaster #yDeck, apply the following effect when playing this card."
+  },
+  {
+    "NAMES": [
+      "Burn",
+      "burn",
+      "Burn:",
+      "burn:"
+    ],
+    "DESCRIPTION": "At the end of your turn, if the enemy #yintends to #yattack, that enemy #ytakes #ydamage. Burn is reduced at the start of the turn"
+  },
+  {
+    "PROPER_NAME": "Magical Ignition",
+    "NAMES": [
+      "Magical Ignition",
+      "Magical_ignition.",
+      "Magical_ignition",
+      "magical_ignition"
+    ],
+    "DESCRIPTION": "At the start of the combat, add #yShield #yof #yRawal and #ySpear #yof #yRawal to the Draw Pile. These have the same amount of upgrades as this card."
+  },
+  {
+    "NAMES": [
+      "Meteor",
+      "Meteor.",
+      "meteor",
+      "meteor."
+    ],
+    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
+  },
+  {
+    "PROPER_NAME": "Dark Fighter",
+    "NAMES": [
+      "Dark Fighter",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
+  },
+  {
+    "NAMES": [
+      "Lifelink",
+      "Lifelink.",
+      "lifelink",
+      "lifelink."
+    ],
+    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
+  },
+  {
+    "NAMES": [
+      "Fortress",
+      "Fortress:",
+      "fortress",
+      "fortress:"
+    ],
+    "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
+  },
+  {
+    "NAMES": [
+      "Armor",
+      "Armor:",
+      "armor",
+      "armor:"
+    ],
+    "DESCRIPTION": "#yUnplayable unless your Block is equal or higher than this amount."
+  },
+  {
+    "NAMES": [
+      "Release",
+      "Release:",
+      "release",
+      "release:"
+    ],
+    "DESCRIPTION": "Gain this effect when your block is 0 or while you have Blur."
+  },
+
+  {
+    "PROPER_NAME": "Deep Sea",
+    "NAMES": [
+      "Deep Sea",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "Unplayable unless there is #yWater #yPressure in #yExhaust Pile. On draw add #b1 #yWater #yPressure ."
+  },
+  {
+    "PROPER_NAME": "Water Pressure",
+    "NAMES": [
+      "Water Pressure",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "At the start of turn apply depending on amount of stacks. 1:Add 1 Dazed to Discard Pile. 2:Gain 1 Frail. 3:Gain 1 Weak 4+:Gain constricted equal to stacks."
+  },
+  {
+    "PROPER_NAME": "Beast Tamer",
+    "NAMES": [
+      "Beast Tamer",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast ."
+  }
+]
