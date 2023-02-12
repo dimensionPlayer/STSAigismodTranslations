@@ -142,12 +142,14 @@
   "DESCRIPTION": "When #yattacked, deal damage back to the enemy equal to the number of counter. Removed at the start of your turn."
   },
   {
+    "PROPER_NAME": "스플래시 데미지",
     "NAMES": [
+      "스플래시 데미지",
       "Splash",
       "splash",
       "splash."
     ],
-    "DESCRIPTION": "All other enemies will receive half (rounded down) of the damage from the target monster."
+    "DESCRIPTION": "타겟 이외의 모든 적에게 절반(소숫점 이하 버림)의 데미지를 가합니다."
   },
   {
     "NAMES": [
@@ -322,5 +324,12 @@
       "임시",
     ],
     "DESCRIPTION": "전투 종료시 임시체력은 소멸됩니다."
+  },
+  {
+    "PROPER_NAME": "자동발동",
+    "NAMES": [
+      "자동발동"
+    ],
+    "DESCRIPTION": "이 카드를 뽑는 순간 자동적으로 효과가 발동됩니다."
   }
 ]
