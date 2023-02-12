@@ -1,44 +1,44 @@
 {
   "aigisMod:SanaraPlatinum": {
     "NAME": "사나라",
-    "DESCRIPTION": "힘 1 과 민첩 1 을 얻습니다. NL 턴 종료시 aigismod:임시체력 !M! 을 얻습니다.",
+    "DESCRIPTION": "힘과 민첩을 1 씩 얻습니다. NL 턴 종료시 aigismod:임시체력을 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "대지를 잇는 자"
     ]
   },
   "aigisMod:SanaraBlack": {
     "NAME": "사나라",
-    "DESCRIPTION": "힘 2 와 민첩 2 를 얻습니다. NL 턴 종료시 aigismod:임시체력 !M! 을 얻습니다.",
+    "DESCRIPTION": "힘과 민첩을 2 씩 얻습니다. NL 턴 종료시 aigismod:임시체력을 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "대지를 잇는 자"
     ]
   },
   "aigisMod:SolaisPlatinum": {
     "NAME": "솔라스",
-    "DESCRIPTION": "선천성. NL 모든 적에게 !D! 데미지를 2회 가합니다. NL aigismod:스킬챠지: 이 카드의 데미지를 이번 전투에서 !M! 높입니다.",
+    "DESCRIPTION": "선천성. NL 모든 적에게 !D! 데미지를 2회 가합니다. NL aigismod:스킬챠지 : 이 카드의 데미지를 이번 전투에서 !M! 높입니다.",
     "EXTENDED_DESCRIPTION" : [
-      "별을 읽는 자"
+      "별을 읊는 자"
     ]
   },
   "aigisMod:SolaisBlack": {
     "NAME": "솔라스",
-    "DESCRIPTION": "선천성. NL 모든 적에게 !D! 데미지를 2회 가합니다. NL aigismod:스킬챠지: 이 카드의 데미지를 이번 전투에서 !M! 높입니다.",
+    "DESCRIPTION": "선천성. NL 모든 적에게 !D! 데미지를 2회 가합니다. NL aigismod:스킬챠지 : 이 카드의 데미지를 이번 전투에서 !M! 높입니다.",
     "EXTENDED_DESCRIPTION" : [
-      "별을 읽는 자"
+      "별을 읊는 자"
     ]
   },
   "aigisMod:ArgePlatinum": {
     "NAME": "아제",
-    "DESCRIPTION": "Deal !D! aigismod:True_damage to all enemies and loses 1 Charge. NL aigismod:Skill_charge: Gain 1 Charge (7 Max). Increase this card damage by !aigisMod:SecondMagic! for each charge. NL (Charges !M!)",
+    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:세컨드매직! 높입니다. NL (!M! 챠지)",
     "EXTENDED_DESCRIPTION" : [
-      "Progenitor to All Machines"
+      "만기의 조상된 자"
     ]
   },
   "aigisMod:ArgeBlack": {
     "NAME": "아제",
-    "DESCRIPTION": "Deal !D! aigismod:True_damage to all enemies and loses 1 Charge. NL aigismod:Skill_charge: Gain 2 Charges. Increase this card damage by !aigisMod:SecondMagic! for each charge. NL (Charges !M!)",
+    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:세컨드매직! 높입니다. NL (!M! 챠지)",
     "EXTENDED_DESCRIPTION" : [
-      "Progenitor to All Machines"
+      "만기의 조상된 자"
     ]
   },
   "aigisMod:AmbrosePlatinum": {
