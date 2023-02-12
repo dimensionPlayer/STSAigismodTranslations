@@ -141,13 +141,16 @@
     "DESCRIPTION": "Enemies gain #ySlow when applied. When #ySluggish reaches #b0, #ySlow is removed."
   },
   {
+  "PROPER_NAME": "카운터",
   "NAMES": [
+    "카운터",
+    "카운터를",
     "Counter",
     "counter",
     "Counter.",
     "counter."
   ],
-  "DESCRIPTION": "When #yattacked, deal damage back to the enemy equal to the number of counter. Removed at the start of your turn."
+  "DESCRIPTION": "#y피격시 카운터의 개수만큼 적에게 반사 데미지를 입힙니다. 카운터는 다음 턴의 시작시 제거됩니다."
   },
   {
     "PROPER_NAME": "스플래시 데미지",
