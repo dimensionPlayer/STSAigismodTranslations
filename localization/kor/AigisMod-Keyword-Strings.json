@@ -164,11 +164,13 @@
     "DESCRIPTION": "타겟 이외의 모든 적에게 절반(소숫점 이하 버림)의 데미지를 가합니다."
   },
   {
+    "PROPER_NAME": "재동",
     "NAMES": [
+      "재동",
       "Cooldown",
       "cooldown"
     ],
-    "DESCRIPTION": "When this reaches #b0, next use applies an extra effect."
+    "DESCRIPTION": "이 카드를 사용할 때마다 코스트가 #b1 감소합니다. 만약 코스트가 #b0 에 도달하면 추가 효과가 발동됩니다."
   },
   {
     "NAMES": [
