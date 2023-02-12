@@ -235,6 +235,14 @@
     "DESCRIPTION": "At the end of your turn, if the enemy #yintends to #yattack, that enemy #ytakes #ydamage. Burn is reduced at the start of the turn"
   },
   {
+    "PROPER_NAME": "잔여 횟수",
+    "NAMES": [
+      "잔여횟수",
+      "잔여 횟수"
+    ],
+    "DESCRIPTION": "일정 횟수 사용시 #y소멸합니다."
+  },
+  {
     "PROPER_NAME": "마도생명체",
     "NAMES": [
       "마도생명체",
