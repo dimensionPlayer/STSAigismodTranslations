@@ -33,6 +33,7 @@
     "PROPER_NAME": "관통데미지",
     "NAMES": [
       "관통데미지",
+      "관통데미지를",
       "True Damage",
       "True_damage",
       "true_damage"
@@ -345,7 +346,8 @@
   {
     "PROPER_NAME": "임시체력",
     "NAMES": [
-      "임시체력"
+      "임시체력",
+      "임시체력을"
     ],
     "DESCRIPTION": "전투 종료시 임시체력은 소멸됩니다."
   },
