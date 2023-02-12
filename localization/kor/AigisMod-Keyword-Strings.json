@@ -1,12 +1,12 @@
 [
   {
-    "PROPER_NAME": "Skill Charge",
+    "PROPER_NAME": "스킬챠지",
     "NAMES": [
       "Skill Charge",
       "Skill_charge",
       "skill_charge"
     ],
-    "DESCRIPTION": "#yRetain. On retain, increase this card power."
+    "DESCRIPTION": "#y보존. 보존시 카드의 효과가 강화됩니다."
   },
   {
     "PROPER_NAME": "Imperial Knight",
@@ -312,5 +312,13 @@
       "dark_fighter"
     ],
     "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast ."
+  },
+  {
+    "PROPER_NAME": "임시체력",
+    "NAMES": [
+      "임시체력",
+      "임시",
+    ],
+    "DESCRIPTION": "전투 종료시 임시체력은 소멸됩니다."
   }
 ]
