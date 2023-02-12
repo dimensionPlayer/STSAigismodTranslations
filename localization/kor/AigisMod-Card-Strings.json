@@ -120,7 +120,7 @@
   },
   "aigisMod:RawalBPlatinum": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어도를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
@@ -141,7 +141,7 @@
   },
   "aigisMod:RawalBBlack": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어도를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
@@ -169,7 +169,7 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "스핑크스",
-    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어를 !B! 얻습니다. NL 소멸."
+    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어도를 !B! 얻습니다. NL 소멸."
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
@@ -215,14 +215,14 @@
   },
   "aigisMod:LukiferPlatinum": {
     "NAME": "루키파",
-    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "여명을 가져오는 자"
     ]
   },
   "aigisMod:LukiferBlack": {
     "NAME": "루키파",
-    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "여명을 가져오는 자"
     ]
@@ -260,7 +260,7 @@
   },
   "aigisMod:Defend": {
     "NAME": "수비",
-    "DESCRIPTION": "!B! 방어를 얻습니다."
+    "DESCRIPTION": "!B! 방어도를 얻습니다."
   },
 
 
@@ -332,107 +332,107 @@
   },
   "aigisMod:Berna": {
     "NAME": "베르나",
-    "DESCRIPTION": "Deal !D! damage !M! times. Increase this card damage by !aigisMod:SecondMagic! this combat. aigismod:Assassination.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. Increase this card damage by !aigisMod:SecondMagic! this combat. On aigismod:Assassination gain 2 Strength.",
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살 시 힘을 2 얻습니다. aigismod:암살",
     "EXTENDED_DESCRIPTION" : [
-      "Rogue",
-      "Deal !D! damage !M! times. Increase this card damage by !aigisMod:SecondMagic! this combat. aigismod:Assassination"
+      "도적",
+      "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살"
     ]
   },
   "aigisMod:Minette": {
     "NAME": "미넷트",
-    "DESCRIPTION": "Draw !M! card. NL Reduce the cost of the cards in hand to 1 this turn.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Reduce the cost of the cards in hand to 1 this turn.",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 해당 턴에서 손패의 카드들의 코스트를 1 로 만듭니다.",
+    "UPGRADE_DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 해당 턴에서 손패의 카드들의 코스트를 1 로 만듭니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Cat-Eared Merchant"
+      "네코미미 상인"
     ]
   },
   "aigisMod:Bernice": {
     "NAME": "베루니스",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! aigismod:Counter.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Gain !M! aigismod:Counter.",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL aigismod:카운터를 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL aigismod:카운터를 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Great Shield Maiden"
+      "큰 방패의 처녀"
     ]
   },
   "aigisMod:Iris": {
     "NAME": "이리스",
-    "DESCRIPTION": "Heal !M! HP. NL Reduce this card heal by 1 permanently. NL Gain !aigisMod:SecondMagic! Temporal HP.",
-    "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Reduce this card heal by 1 permanently. NL Gain !aigisMod:SecondMagic! Temporal HP.",
+    "DESCRIPTION": "체력을 !M! 만큼 회복합니다. NL 영구적으로 이 카드의 회복량을 1 만큼 감소시킵니다. NL !aigisMod:SecondMagic! 만큼의 aigisMod:임시체력을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "체력을 !M! 만큼 회복합니다. NL 영구적으로 이 카드의 회복량을 1 만큼 감소시킵니다. NL !aigisMod:SecondMagic! 만큼의 aigisMod:임시체력을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Healer"
+      "치유의 손"
     ]
   },
   "aigisMod:Maribel": {
     "NAME": "마리벨",
-    "DESCRIPTION": "Gain !B! Block then deal damage equal to half Block gained to one random enemy. (Deal !D! damage)",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block then deal damage equal to Block gained to one random enemy. (Deal !D! damage)",
+    "DESCRIPTION": "방어도를 !B! 얻고, 얻은 방어도의 절반만큼의 데미지를 무작위의 적 하나에 가합니다. (!D! 데미지)",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻고, 얻은 방어도의 절반만큼의 데미지를 무작위의 적 하나에 가합니다. (!D! 데미지)",
     "EXTENDED_DESCRIPTION" : [
-      "Holy Warrior"
+      "성전사"
     ]
   },
   "aigisMod:Katara": {
     "NAME": "카타라",
-    "DESCRIPTION": "Apply 2 Weak and 2 Vulnerable to all enemies. NL aigismod:Cursed: Gain !M! aigismod:Damage_aura.",
-    "UPGRADE_DESCRIPTION": "Apply 2 Weak and 2 Vulnerable to all enemies. NL aigismod:Cursed: Gain !M! aigismod:Damage_aura.",
+    "DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지아우라를 !M! 만큼 얻습니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지아우라를 !M! 만큼 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Curse Doctor"
+      "주술사"
     ]
   },
   "aigisMod:Rinne": {
     "NAME": "린네",
-    "DESCRIPTION": "Gain !M! Artifact. NL Gain !aigisMod:SecondMagic! Metallicize.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Artifact. NL Gain !aigisMod:SecondMagic! Metallicize. NL Shuffle 1 Calamity Averting Mirage in draw pile.",
+    "DESCRIPTION": "인공물을 !M! 얻습니다. NL 금속화를 !aigisMod:SecondMagic! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "인공물을 !M! 얻습니다. NL 금속화를 !aigisMod:SecondMagic! 얻습니다. NL 뽑을 카드 더미에 피화예견의 거울 1 장을 섞어 넣습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Fate's Feng Shui Master",
-      "Gain !M! Artifact. NL Gain !aigisMod:SecondMagic! Metallicize. NL Shuffle 1 Calamity Averting Mirage in draw pile."
+      "각영의 풍수사",
+      "인공물을 !M! 얻습니다. NL 금속화를 !aigisMod:SecondMagic! 얻습니다. NL 뽑을 카드 더미에 피화예견의 거울 1 장을 섞어 넣습니다."
     ]
   },
   "aigisMod:Mirage": {
     "NAME": "피화예견의 거울",
-    "DESCRIPTION": "Gain Retain this turn when used. NL If this is in hand when you would die, heal to !M! % of Max HP and Exhaust this."
+    "DESCRIPTION": "사용할시 이번 턴 보존 됩니다. NL 만약 이 카드가 손패에 있는 상태에서 죽게 된다면, 이 카드를 대신 소멸시키고 최대 체력의 !M! %만큼 회복합니다."
   },
   "aigisMod:Wonderheart": {
     "NAME": "원더하트",
-    "DESCRIPTION": "Deal !D! damage plus amount of aigismod:Damage_aura. NL On aigismod:Assassination gain 2 aigismod:Damage_aura.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage plus amount of aigismod:Damage_aura. NL On aigismod:Assassination gain 2 aigismod:Damage_aura.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지아우라를 획득합니다. NL aigismod:암살",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지아우라를 획득합니다. NL aigismod:암살",
     "EXTENDED_DESCRIPTION" : [
-      "Jester"
+      "도화사"
     ]
   },
   "aigisMod:Benibotan": {
     "NAME": "베니보탄",
-    "DESCRIPTION": "Gain 1 Intangible. NL All enemies gain !M! Strength. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL All enemies gain !M! Strength. NL Exhaust. NL Ethereal.",
+    "DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성",
     "EXTENDED_DESCRIPTION" : [
-      "Leading Kabuki Performer"
+      "가부키히메"
     ]
   },
   "aigisMod:Lepuru": {
     "NAME": "레플",
-    "DESCRIPTION": "Shuffle a card from hand to draw pile. It costs 0 until played. Deal 3 damage to a random enemy.",
-    "UPGRADE_DESCRIPTION": "Shuffle any number of cards from hand to draw pile. They costs 0 until played. Deal 3 damage at random for every card returned.",
+    "DESCRIPTION": "손패의 1 장을 뽑을 카드 더미에 섞어넣습니다. NL 그 카드의 코스트는 다음 사용시까지 0 이 됩니다. 무작위의 적 하나에 3 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "매수 상관없이 손패의 카드들을 뽑을 카드 더미에 섞어넣습니다. NL 그 카드들의 코스트는 다음 사용시까지 0 이 됩니다. 섞어넣은 카드 수만큼 무작위의 적에게 3 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "White Rabbit Jester"
+      "백토의 도화사"
     ]
   },
   "aigisMod:Rita": {
     "NAME": "리타",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. aigismod:Cooldown: !M! Deal damage twice and this becomes cost 0.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. aigismod:Cooldown: !M! Deal damage twice and this becomes cost 0.",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:재동 : !M! 데미지를 2 회 가하며, 이 카드의 코스트가 0 이 됩니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:재동 : !M! 데미지를 2 회 가하며, 이 카드의 코스트가 0 이 됩니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Pitch Black Archer"
+      "칠흑의 사수"
     ]
   },
   "aigisMod:Rino": {
     "NAME": "리노",
-    "DESCRIPTION": "Deal !D! damage. NL aigismod:Skill_charge: 1)Increase !M! damage.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Skill_charge: 1)Increase !M! damage. NL 2)Reduce this card cost by 1.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 데미지가 !M! 상승합니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1) 데미지가 !M! 상승합니다. NL 2) 이 카드의 코스트가 1 이 됩니다.",
     "EXTENDED_DESCRIPTION": [
-      "Apprentice Summoner",
-      "Deal !D! damage. NL aigismod:Skill_charge: [#ffff00]1)Increase[] !M! [#ffff00]damage.[]",
-      "Deal !D! damage. NL aigismod:Skill_charge: [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL 2)Reduce this card cost by 1.",
-      "Deal !D! damage. NL aigismod:Skill_charge: [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL [#ffff00]2)Reduce[] [#ffff00]this[] [#ffff00]card[] [#ffff00]cost.[] [#ffff00]by[] [#ffff00]1[]"
+      "견습 소환사",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[]",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL 2)Reduce this card cost by 1.",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL [#ffff00]2)Reduce[] [#ffff00]this[] [#ffff00]card[] [#ffff00]cost.[] [#ffff00]by[] [#ffff00]1[]"
     ]
   },
   "aigisMod:Suzune": {
