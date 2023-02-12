@@ -948,7 +948,7 @@
     ]
   },
   "aigisMod:Niel": {
-    "NAME": "Niel",
+    "NAME": "니엘",
     "DESCRIPTION": "Draw 2 cards. NL aigismod:Cooldown: !aigisMod:SecondMagic! Deal !D! damage to a random enemy and gain !B! Block.",
     "UPGRADE_DESCRIPTION": "Draw 2 cards. NL aigismod:Cooldown: !aigisMod:SecondMagic! Deal !D! damage to a random enemy and gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
@@ -956,7 +956,7 @@
     ]
   },
   "aigisMod:Chloe": {
-    "NAME": "Chloe",
+    "NAME": "클로에",
     "DESCRIPTION": "Gain 1 Dexterity. NL aigismod:Cooldown: !M! Deal !D! damage to a random enemy and gain !B! Block.",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL aigismod:Cooldown: !M! deal !D! damage to a random enemy and gain !B! Block",
     "EXTENDED_DESCRIPTION" : [
@@ -964,7 +964,7 @@
     ]
   },
   "aigisMod:Miruno": {
-    "NAME": "Miruno",
+    "NAME": "미르노",
     "DESCRIPTION": "Draw 1 card and remove 1 random Debuff. NL aigismod:Cooldown: !M! Deal !D! aigismod:archer damage to a random enemy.",
     "UPGRADE_DESCRIPTION": "Draw 1 card and remove 1 random Debuff. NL aigismod:Cooldown: !M! Deal !D! aigismod:archer damage to a random enemy.",
     "EXTENDED_DESCRIPTION" : [
@@ -972,7 +972,7 @@
     ]
   },
   "aigisMod:Itsuki": {
-    "NAME": "Itsuki",
+    "NAME": "이츠키",
     "DESCRIPTION": "When drawn: Gain !M! Strength for the turn. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": "When drawn: Gain !M! Strength and if this is a boss or elite combat gain 1 more. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -980,7 +980,7 @@
     ]
   },
   "aigisMod:Rindou": {
-    "NAME": "Rindou",
+    "NAME": "린도우",
     "DESCRIPTION": "When drawn: Gain 5 fixed block. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": "When drawn: Gain 7 fixed Block. If you have a different card of cost 4 in master deck, reduce this card cost by 1. NL Deal !D! damage",
     "EXTENDED_DESCRIPTION" : [
@@ -988,7 +988,7 @@
     ]
   },
   "aigisMod:Kibahime": {
-    "NAME": "Kibahime",
+    "NAME": "귀인희",
     "DESCRIPTION": "When drawn: add 1 Shuriken to hand and reduce this card's cost by 1 if you have a debuff. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": "When drawn: add 1 Shuriken to hand and reduce this card's cost by 1 for each debuff you have. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -997,7 +997,7 @@
     ]
   },
   "aigisMod:Setsuna": {
-    "NAME": "Setsuna",
+    "NAME": "세츠나",
     "DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu. NL Shurikens gains !M! more damage.",
     "UPGRADE_DESCRIPTION": "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu: Shurikens gains !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -1006,12 +1006,12 @@
     ]
   },
   "aigisMod:SetsunaClone": {
-    "NAME": "Setsuna Clone",
+    "NAME": "세츠나(분신)",
     "DESCRIPTION": "Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies. NL Draw !M! card.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage equal to the amount of Shuriken Exhausted to all enemies. NL Draw !M! cards."
   },
   "aigisMod:Ramii": {
-    "NAME": "Ramii",
+    "NAME": "라미",
     "DESCRIPTION": "When drawn: Deal !M! damage to all enemies. Deal !D! damage to all enemies.",
     "UPGRADE_DESCRIPTION": "When drawn: Deal !M! damage to all enemies. Deal !D! damage to all enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -1019,7 +1019,7 @@
     ]
   },
   "aigisMod:Fuuko": {
-    "NAME": "Fuuko",
+    "NAME": "후코",
     "DESCRIPTION": "When drawn: Apply 1 aigismod:Sluggish to all enemies. Deal !D! damage to all enemies.",
     "UPGRADE_DESCRIPTION": "When drawn:Apply 1 aigismod:Sluggish to all enemies. Deal !D! damage to all enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -1028,7 +1028,7 @@
   },
 
   "aigisMod:Prim": {
-    "NAME": "Prim",
+    "NAME": "프림",
     "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL aigismod:Cooldown !M! During next use this card cost become 0.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL On first use: Shuffle 1 Prism Mirror in deck and reduce this card is cost 0.",
     "EXTENDED_DESCRIPTION" : [
@@ -1036,12 +1036,12 @@
     ]
   },
   "aigisMod:PrismMirror": {
-    "NAME": "Prism Mirror",
+    "NAME": "프리즘 미러",
     "DESCRIPTION": "Draw 1. NL Deal !D! damage and apply aigismod:Sluggish.",
     "UPGRADE_DESCRIPTION": "Draw 1. NL Deal !D! damage and apply aigismod:Sluggish."
   },
   "aigisMod:Adele": {
-    "NAME": "Adele",
+    "NAME": "아델",
     "DESCRIPTION": "Heal !M! HP. NL Deal !D! damage. NL Apply 2 aigismod:Sluggish. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Deal !D! damage. NL Apply 2 aigismod:Sluggish. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -1049,7 +1049,7 @@
     ]
   },
   "aigisMod:Renarde": {
-    "NAME": "Renarde",
+    "NAME": "루나르",
     "DESCRIPTION": "Deal !D! aigismod:archer damage. If the enemy intends to attack reduce this damage by 2. NL aigismod:Assassination",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. If the enemy intends to attack reduce this damage by 2. NL aigismod:Assassination",
     "EXTENDED_DESCRIPTION" : [
@@ -1057,7 +1057,7 @@
     ]
   },
   "aigisMod:Irene": {
-    "NAME": "Irene",
+    "NAME": "아이린",
     "DESCRIPTION": "Every 3 times you hit an enemy with a card that has aigismod:Assassination gain 1 Strength.",
     "UPGRADE_DESCRIPTION": "Gain 8 Block. NL Every 3 times you hit an enemy with a card that has aigismod:Assassination gain 1 Strength.",
     "EXTENDED_DESCRIPTION" : [
@@ -1065,7 +1065,7 @@
     ]
   },
   "aigisMod:Sayo": {
-    "NAME": "Sayo",
+    "NAME": "사요",
     "DESCRIPTION": "Autoplay. Deal !D! damage to a random enemy !M! times. NL Draw 1 card. NL aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Autoplay. Deal !D! damage to a random enemy !M! times. NL Draw 1 card. NL aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -1073,7 +1073,7 @@
     ]
   },
   "aigisMod:Ada": {
-    "NAME": "Ada",
+    "NAME": "에이다",
     "DESCRIPTION": "Deal !D! damage. NL If you increased your Strength this turn deal the damage twice. aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If you increased your Strength this turn deal the damage twice. aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
@@ -1081,7 +1081,7 @@
     ]
   },
   "aigisMod:Raven": {
-    "NAME": "Raven",
+    "NAME": "레이븐",
     "DESCRIPTION": "Deal X multiplied by !D! damage. NL On aigismod:assassination gain [E].",
     "UPGRADE_DESCRIPTION": "Deal X multiplied by !D! damage. NL On aigismod:assassination gain [E]",
     "EXTENDED_DESCRIPTION" : [
@@ -1089,7 +1089,7 @@
     ]
   },
   "aigisMod:Patel": {
-    "NAME": "Patel",
+    "NAME": "파텔",
     "DESCRIPTION": "Deal !D! damage. NL aigismod:Pair: Sybilla. NL aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Pair: Sybilla and its cost 0 this turn. NL aigismod:Assassination",
     "EXTENDED_DESCRIPTION" : [
@@ -1097,7 +1097,7 @@
     ]
   },
   "aigisMod:Marnie": {
-    "NAME": "Marnie",
+    "NAME": "마니",
     "DESCRIPTION": "Retain. NL Gain !M! Strength for the turn.",
     "UPGRADE_DESCRIPTION": "Gain !M! Strength for the turn. NL aigismod:Skill_charge: Increase this gain by 1 for the combat (max 2).",
     "EXTENDED_DESCRIPTION" : [
@@ -1105,7 +1105,7 @@
     ]
   },
   "aigisMod:Yoshino": {
-    "NAME": "Yoshino",
+    "NAME": "요시노",
     "DESCRIPTION": "Draw !M! Eastern Country card from Draw pile and if you do gain [E].",
     "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! Eastern Country card from Draw pile and if you do gain [E].",
     "EXTENDED_DESCRIPTION" : [
@@ -1114,7 +1114,7 @@
     ]
   },
   "aigisMod:Kaguya": {
-    "NAME": "Kaguya",
+    "NAME": "카구야",
     "DESCRIPTION": "Draw 1 card. NL Eastern Country cards in hand cost !M! less for the turn.",
     "UPGRADE_DESCRIPTION": "Draw 1 card. NL Eastern Country cards in hand cost !M! less for the turn.",
     "EXTENDED_DESCRIPTION" : [
@@ -1122,7 +1122,7 @@
     ]
   },
   "aigisMod:Themis": {
-    "NAME": "Themis",
+    "NAME": "테미스",
     "DESCRIPTION": "Deal !D! damage. aigismod:Cooldown: !M! :Deals triple damage",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. aigismod:Cooldown: !M! :Deals triple damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -1130,7 +1130,7 @@
     ]
   },
   "aigisMod:Melvina": {
-    "NAME": "Melvina",
+    "NAME": "멜비나",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak and !M! Vulnerable. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak and !M! Vulnerable. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -1138,7 +1138,7 @@
     ]
   },
   "aigisMod:Julia": {
-    "NAME": "Julia",
+    "NAME": "쥴리아",
     "DESCRIPTION": "Deal !D! aigismod:true_Damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. On first use: gain a random Relic for the combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -1146,7 +1146,7 @@
     ]
   },
   "aigisMod:Renge": {
-    "NAME": "Renge",
+    "NAME": "렌게",
     "DESCRIPTION": "Deal !D! aigismod:archer Damage. Apply !M! Weak and !aigisMod:SecondMagic! Vulnerable. Double the effect against Bosses and Elites. NL Exhaust",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer Damage. Apply !M! Weak and !aigisMod:SecondMagic! Vulnerable. Double the effect against Bosses and Elites. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
@@ -1154,7 +1154,7 @@
     ]
   },
   "aigisMod:Marie": {
-    "NAME": "Marie",
+    "NAME": "마리에",
     "DESCRIPTION": "Set your block to 0. Deal !D! damage.",
     "UPGRADE_DESCRIPTION": "Set your block to 0. Deal !D! aigismod:splash damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -1162,7 +1162,7 @@
     ]
   },
   "aigisMod:Yashima": {
-    "NAME": "Yashima",
+    "NAME": "야시마",
     "DESCRIPTION": "Choose 1 card from Discard Pile. This card effect becomes a copy of that card. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Choose 1 card from Discard Pile. This card effect becomes a copy of that card. NL Apply 2 Weak to all enemies. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -1170,7 +1170,7 @@
     ]
   },
   "aigisMod:Yukari": {
-    "NAME": "Yukari",
+    "NAME": "유카리",
     "DESCRIPTION": "Reduce !M! % of damage taken from attacks. (max of 30%).",
     "UPGRADE_DESCRIPTION": "Reduce !M! % of damage taken from attacks. aigismod:Skill_charge: Increase this card power by 4% (max of 30%)",
     "EXTENDED_DESCRIPTION" : [
@@ -1178,7 +1178,7 @@
     ]
   },
   "aigisMod:Sakura": {
-    "NAME": "Sakura",
+    "NAME": "사쿠라",
     "DESCRIPTION": "At turn start: reduce the cost of 1 Eastern Country card in hand by 1 this turn.",
     "UPGRADE_DESCRIPTION": "At turn start: reduce the cost of 1 Eastern Country card in hand by 1 this turn.",
     "EXTENDED_DESCRIPTION" : [
@@ -1186,7 +1186,7 @@
     ]
   },
   "aigisMod:Hikage": {
-    "NAME": "Hikage",
+    "NAME": "히카게",
     "DESCRIPTION": "Gain !B! Block. NL Add 1 Kaguya from Draw Pile or Discard Pile",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add 1 Kaguya from Draw Pile or Discard Pile and its cost 0 this turn",
     "EXTENDED_DESCRIPTION" : [
@@ -1194,7 +1194,7 @@
     ]
   },
   "aigisMod:Shiranui": {
-    "NAME": "Shiranui",
+    "NAME": "시라누이",
     "DESCRIPTION": "Add 3 Nurikabe Clone to your Draw Pile. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "When drawn: Gain 3 Thorns. NL Shuffle 3 Nurikabe Clone to Draw Pile. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
@@ -1202,7 +1202,7 @@
     ]
   },
   "aigisMod:Nurikabe": {
-    "NAME": "Nurikabe Clone",
+    "NAME": "누리카베 분신",
     "DESCRIPTION": "Gain X Block. Gain X aigismod:Counter. Draw 1 Card.",
     "UPGRADE_DESCRIPTION": "Gain X+2 Block. Gain X+2 aigismod:Counter. Draw 1 Card.",
     "EXTENDED_DESCRIPTION" : [
@@ -1211,7 +1211,7 @@
     ]
   },
   "aigisMod:Chiyome": {
-    "NAME": "Chiyome",
+    "NAME": "치요메",
     "DESCRIPTION": "Gain aigismod:Ninjutsu. NL Enemies gain !aigisMod:SecondMagic! poison for each Shuriken hit they take.",
     "UPGRADE_DESCRIPTION": "Gain aigismod:Ninjutsu. Shurikens gains !M! additional hit. NL Enemies gain !aigisMod:SecondMagic! poison for each Shuriken hit they take.",
     "EXTENDED_DESCRIPTION" : [
@@ -1220,7 +1220,7 @@
     ]
   },
   "aigisMod:Remii": {
-    "NAME": "Remii",
+    "NAME": "레미",
     "DESCRIPTION": "When drawn: Deal !M! aigismod:True_damage to all enemies. NL Deal !D! damage to all enemies.",
     "UPGRADE_DESCRIPTION": "When drawn: Deal !M! aigismod:True_damage to all enemies. NL Deal !D! damage to all enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -1229,7 +1229,7 @@
     ]
   },
   "aigisMod:Kuuko": {
-    "NAME": "Kuuko",
+    "NAME": "쿠코",
     "DESCRIPTION": "When drawn:Apply !M! Vulnerable to enemies. Deal !D! damage to all enemies.",
     "UPGRADE_DESCRIPTION": "When drawn:Apply !M! Vulnerable to enemies. Deal !D! damage to all enemies.",
     "EXTENDED_DESCRIPTION" : [
@@ -1238,7 +1238,7 @@
     ]
   },
   "aigisMod:Tomoe": {
-    "NAME": "Tomoe",
+    "NAME": "토모에",
     "DESCRIPTION": "Deal !D! aigismod:True_Damage multiplied by X.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:True_Damage multiplied by X. NL If you have a Eastern Country card in hand gain [E].",
     "EXTENDED_DESCRIPTION" : [
@@ -1247,7 +1247,7 @@
     ]
   },
   "aigisMod:Juubei": {
-    "NAME": "Juubei",
+    "NAME": "쥬베",
     "DESCRIPTION": "Deal !D! damage. Gain Block equal to unblocked damage. NL aigismod:Skill_charge: increase this card damage by !M!",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. Gain Block equal to unblocked damage. NL aigismod:Skill_charge: increase this card damage by !M!",
     "EXTENDED_DESCRIPTION" : [
@@ -1256,7 +1256,7 @@
     ]
   },
   "aigisMod:Chizuru": {
-    "NAME": "Chizuru",
+    "NAME": "치즈루",
     "DESCRIPTION": "Deal !D! damage. Increase this damage by !M! if you have no block. NL Gain Block equal to unblocked damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. Increase this damage by !M! if you have no block. NL Gain Block equal to unblocked damage.",
     "EXTENDED_DESCRIPTION" : [
@@ -1264,11 +1264,11 @@
     ]
   },
   "aigisMod:CursedRites": {
-    "NAME": "Cursed Rites",
+    "NAME": "저주받은 의식",
     "DESCRIPTION": "Unplayable. NL If this is discarded at the end of your turn, next turn you can't heal."
   },
   "aigisMod:Karmaplat": {
-    "NAME": "Karma",
+    "NAME": "카르마",
     "DESCRIPTION": "Deal !D! aigismod:vampire damage. NL Heal !M!. NL Exhaustive !stslib:ex! NL aigismod:Undead: add 1 Karma to Draw Pile.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:vampire damage. NL Heal !M!. NL Exhaustive !stslib:ex! NL aigismod:Undead: add 1 Karma to Draw Pile.",
     "EXTENDED_DESCRIPTION" : [
@@ -1276,7 +1276,7 @@
     ]
   },
   "aigisMod:Karmablack": {
-    "NAME": "Karma",
+    "NAME": "카르마",
     "DESCRIPTION": "Deal !D! aigismod:vampire damage. NL Heal half of the damage you take this turn. NL aigismod:Undead: Gain !M! Intangible.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:vampire damage. NL Heal half of the damage you take this turn. NL aigismod:Undead: Gain !M! Intangible.",
     "EXTENDED_DESCRIPTION" : [
@@ -1285,7 +1285,7 @@
     ]
   },
   "aigisMod:Tokoyo": {
-    "NAME": "Tokoyo",
+    "NAME": "토코요",
     "DESCRIPTION": "Deal !D! Damage. NL Add 1 Kaguya from Draw Pile or Discard Pile.",
     "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Add 1 Kaguya from Draw Pile or Discard Pile and its cost 0 this turn.",
     "EXTENDED_DESCRIPTION" : [
@@ -1293,22 +1293,22 @@
     ]
   },
   "aigisMod:AigisTreasure": {
-    "NAME": "Treasure of Aigis",
+    "NAME": "아이기스의 신기",
     "DESCRIPTION": "Gain !B! Block. NL Gain !M! aigismod:Counter. NL Gain 1 Weak",
     "UPGRADE_DESCRIPTION": "Retain. NL Gain !B! Block. NL Gain !M! aigismod:Counter. NL Gain 1 Weak."
   },
   "aigisMod:KeraunosTreasure": {
-    "NAME": "Treasure of Keraunos",
+    "NAME": "케라우노스의 신기",
     "DESCRIPTION": "Deal !D! Damage 5 times at random. NL End your turn. NL Gain 1 Vulnerable.",
     "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! Damage 5 times at random. NL End your turn. NL Gain 1 Vulnerable."
   },
   "aigisMod:SwordSalvation": {
-    "NAME": "Sword of Salvation",
+    "NAME": "구세의 검",
     "DESCRIPTION": "Cards in hand become cost 0 for the turn.",
     "UPGRADE_DESCRIPTION": "Retain. NL Cards in hand become cost 0 for the turn."
   },
   "aigisMod:Kokoro": {
-    "NAME": "Kokoro",
+    "NAME": "코코로",
     "DESCRIPTION": "Draw 2 Cards. NL Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Stun 1 random enemy.",
     "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply !aigisMod:SecondMagic! aigismod:Sluggish to all enemies. NL aigismod:Cooldown: !M! Stun 1 random enemy.",
     "EXTENDED_DESCRIPTION" : [
@@ -1316,7 +1316,7 @@
     ]
   },
   "aigisMod:Early": {
-    "NAME": "Early",
+    "NAME": "아리",
     "DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Sluggish by !aigisMod:SecondMagic! once this combat.",
     "UPGRADE_DESCRIPTION": "Draw 2 Cards. NL Apply aigismod:Sluggish to all enemies. NL aigismod:Skill_charge: Increase this Sluggish by !aigisMod:SecondMagic! once this combat.",
     "EXTENDED_DESCRIPTION" : [
@@ -1324,7 +1324,7 @@
     ]
   },
   "aigisMod:Lizette": {
-    "NAME": "Lizette",
+    "NAME": "리젯트",
     "DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card next turn.",
     "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card next turn.",
     "EXTENDED_DESCRIPTION" : [
