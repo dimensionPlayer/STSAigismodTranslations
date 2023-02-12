@@ -27,13 +27,13 @@
     "DESCRIPTION": "On turn end, deal #ydamage equal to amount to all enemies."
   },
   {
-    "PROPER_NAME": "True Damage",
+    "PROPER_NAME": "관통데미지",
     "NAMES": [
       "True Damage",
       "True_damage",
       "true_damage"
     ],
-    "DESCRIPTION": "Attack from this card ignore #yBlock and #bignores #yThorns, #yAngry, #ySharp #yHides and #yCurl #yUp."
+    "DESCRIPTION": "이 카드의 공격은 #y방어도와 #y가시, #y분노, #y날카로운 #y껍질, 그리고 #y몸 #y말기를 #b무시합니다."
   },
   {
     "PROPER_NAME": "Bloom Petal",
