@@ -2,6 +2,7 @@
   {
     "PROPER_NAME": "스킬챠지",
     "NAMES": [
+      "스킬챠지",
       "Skill Charge",
       "Skill_charge",
       "skill_charge"
@@ -29,6 +30,7 @@
   {
     "PROPER_NAME": "관통데미지",
     "NAMES": [
+      "관통데미지",
       "True Damage",
       "True_damage",
       "true_damage"
