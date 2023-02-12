@@ -29,14 +29,14 @@
   },
   "aigisMod:ArgePlatinum": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
   },
   "aigisMod:ArgeBlack": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
@@ -113,14 +113,14 @@
   },
   "aigisMod:RawalAPlatinum": {
     "NAME": "라왈",
-    "DESCRIPTION": "aigismod:마도생명체. NL 데미지를 !D! 가합니다. NL 카드를 1 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "aigismod:마도생명체. NL !D! 데미지를 가합니다. NL 카드를 1 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
   },
   "aigisMod:RawalBPlatinum": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "aigismod:스플래시 데미지를 !D! 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
@@ -134,14 +134,14 @@
   },
   "aigisMod:RawalABlack": {
     "NAME": "라왈",
-    "DESCRIPTION": "aigismod:마도생명체. NL 데미지를 !D! 가합니다. NL 카드를 2 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "aigismod:마도생명체. NL !D! 데미지를 가합니다. NL 카드를 2 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
   },
   "aigisMod:RawalBBlack": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "aigismod:스플래시 데미지를 !D! 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "마도를 품는 자"
     ]
@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 데미지를 !D! 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
@@ -256,78 +256,78 @@
 
   "aigisMod:Strike": {
     "NAME": "타격",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "!D! 데미지를 가합니다."
   },
   "aigisMod:Defend": {
     "NAME": "수비",
-    "DESCRIPTION": "Gain !B! block."
+    "DESCRIPTION": "!B! 방어를 얻습니다."
   },
 
 
   "aigisMod:Risley": {
     "NAME": "리즈리",
-    "DESCRIPTION": "Choose a card in hand to reduce its cost by !M! this combat, then deal !D! damage. aigismod:Assassination.",
-    "UPGRADE_DESCRIPTION": "Choose a card in hand to reduce its cost by !M! this combat, then Deal !D! damage. aigismod:Assassination.",
+    "DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살",
+    "UPGRADE_DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살",
     "EXTENDED_DESCRIPTION": [
-      "Peerless Prodigy Jester",
-      "Choose a card in hand to reduce its cost by !M! this combat, then deal !D! damage. aigismod:Assassination."
+      "희대의 천재 도화사",
+      "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살"
     ]
   },
 
   "aigisMod:Hatsune": {
     "NAME": "하츠네",
-    "DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:Damage_aura. NL Gain aigismod:Ninjutsu.",
-    "UPGRADE_DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:Damage_aura. Gain aigismod:Ninjutsu.",
+    "DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Kunoichi"
+      "쿠노이치"
     ]
   },
   "aigisMod:Shuriken": {
     "NAME": "수리검",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. NL 소멸."
   },
   "aigisMod:Azami": {
     "NAME": "아자미",
-    "DESCRIPTION": "Gain aigismod:Ninjutsu. NL When an enemy dies, add 1 Shuriken to hand.",
-    "UPGRADE_DESCRIPTION": "Gain aigismod:Ninjutsu. NL Shurikens gains 1 more damage. NL When an enemy dies, add 1 Shuriken to hand.",
+    "DESCRIPTION": "aigismod:인술을 얻습니다. NL 적을 쓰러뜨렸을 경우 손패에 1 수리검을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:인술을 얻습니다. NL 수리검의 데미지가 1 증가합니다. NL 적을 쓰러뜨렸을 경우 손패에 1 수리검을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Ninja"
+      "닌자"
     ]
   },
   "aigisMod:Emelda": {
     "NAME": "에멜다",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage twice. NL aigismod:Skill_charge: this card damages all enemies next use.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage twice. NL aigismod:Skill_charge: this card damages all enemies next use.",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 2 회 가합니다. NL aigismod:스킬챠지 : 다음 사용시 이 카드는 모든 적에게 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 2 회 가합니다. NL aigismod:스킬챠지 : 다음 사용시 이 카드는 모든 적에게 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Mounted Archer of Green Forest",
-      "Deal !D! aigismod:archer damage. aigismod:Skill_charge: Increase the damage by 7 once for this combat."
+      "푸른 숲의 궁기병",
+      "!D! aigismod:아쳐 데미지를 가합니다. aigismod:스킬챠지 : 이 전투에 한해 1 회, 데미지를 7 증가시킵니다."
     ]
   },
   "aigisMod:Duo": {
     "NAME": "듀오",
-    "DESCRIPTION": "Deal !D! damage !M! times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times.",
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 !M! 회 가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Peerless Pirate",
-      "Deal !D! damage !M! times. NL Once per turn, return this to your hand if there is 2 or more enemies."
+      "무쌍의 해적",
+      "!D! 데미지를 !M! 회 가합니다. NL 한 턴에 1 회, 적이 2 체 이상 있을 경우 이 카드를 손패로 되돌립니다."
     ]
   },
   "aigisMod:Nanaly": {
     "NAME": "나나리",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage !M! times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage !M! times. NL Reduce the hits of this card by 1 this combat (min 5).",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다. NL 전투 중 공격 횟수가 1 감소합니다. (최소 5)",
     "EXTENDED_DESCRIPTION" : [
-      "White Archer",
-      "Deal !D! aigismod:archer damage !M! times."
+      "백의 사수",
+      "!D! aigismod:아쳐 데미지를 !M! 회 가합니다."
     ]
   },
   "aigisMod:Despia": {
     "NAME": "데스피아",
-    "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL Witches deal 1 more damage this combat.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage and apply aigismod:Sluggish to all enemies. NL Witches deal 1 more damage this combat.",
+    "DESCRIPTION": "!D! 데미지를 가하고 NL aigismod:둔족을 부여합니다. NL 윗치 카드들의 데미지가 1 씩 더 증가합니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가하고 aigismod:둔족을 부여합니다. NL 윗치 카드들의 데미지가 1 씩 더 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Witch",
-      "Deal !D! damage. NL Apply aigismod:Sluggish. NL Witches deal 1 more damage this combat."
+      "마녀",
+      "!D! 데미지를 가하고 NL aigismod:둔족을 부여합니다. NL 윗치 카드들의 데미지가 1 씩 더 증가합니다."
     ]
   },
   "aigisMod:Berna": {
