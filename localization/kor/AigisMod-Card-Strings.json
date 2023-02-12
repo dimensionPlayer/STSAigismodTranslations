@@ -57,14 +57,14 @@
   },
   "aigisMod:TuanPlatinum": {
     "NAME": "투안",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 해당 전투에서 데미지가 !M! 증가합니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 이번 전투에서 데미지가 !M! 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "만혜를 부수는 자"
     ]
   },
   "aigisMod:TuanBlack": {
     "NAME": "투안",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 해당 전투에서 데미지가 !M! 증가합니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 이번 전투에서 데미지가 !M! 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "만혜를 부수는 자"
     ]
@@ -85,169 +85,169 @@
   },
   "aigisMod:AlvaPlatinum": {
     "NAME": "알바",
-    "DESCRIPTION": "aigismod:자동발동. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor only once this combat.",
+    "DESCRIPTION": "aigismod:자동발동. 무작위 적 1 체에 !D! 데미지를 가합니다. NL 한 번에 한해 판금 갑옷을 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "만인을 짊어진 자"
     ]
   },
   "aigisMod:AlvaBlack": {
     "NAME": "알바",
-    "DESCRIPTION": "aigismod:자동발동. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor. Reduce this gain by 2 for each use.",
+    "DESCRIPTION": "aigismod:자동발동. 무작위 적 1 체에 !D! 데미지를 가합니다. NL 판금 갑옷을 !M! 얻습니다. 사용할 때마다 획득량이 2 감소합니다.",
     "EXTENDED_DESCRIPTION" : [
       "만인을 짊어진 자"
     ]
   },
   "aigisMod:YuugenPlatinum": {
     "NAME": "유젠",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage twice and apply 1 Weak two times. aigismod:Assassination",
+    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. aigismod:암살",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Inherits Shadows"
+      "그림자를 잇는 자"
     ]
   },
   "aigisMod:YuugenBlack": {
     "NAME": "유젠",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage twice and apply 1 Weak two times. NL Archer cards deal 1 more damage. NL aigismod:Assassination.",
+    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. NL 아쳐 카드들의 데미지가 1 씩 더 증가합니다. NL aigismod:암살",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Inherits Shadows"
+      "그림자를 잇는 자"
     ]
   },
   "aigisMod:RawalAPlatinum": {
     "NAME": "라왈",
-    "DESCRIPTION": "aigismod:Magical_ignition. NL Deal !D! damage. NL Draw 1 Card. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "aigismod:마도생명체. NL 데미지를 !D! 가합니다. NL 카드를 1 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:RawalBPlatinum": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain !B! Block. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "aigismod:스플래시 데미지를 !D! 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:RawalCPlatinum": {
     "NAME": "라왈의 창",
-    "DESCRIPTION": "Apply 1 Vulnerable to all enemies, then deal !D! damage to all enemies. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "모든 적에게 1 취약을 부여하고, 모든 적에게 !D! 데미지를 가합니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:RawalABlack": {
     "NAME": "라왈",
-    "DESCRIPTION": "aigismod:Magical_ignition. NL Deal !D! damage. NL Draw 2 Cards. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "aigismod:마도생명체. NL 데미지를 !D! 가합니다. NL 카드를 2 장 뽑습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:RawalBBlack": {
     "NAME": "라왈의 방패",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Gain !B! Block. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "aigismod:스플래시 데미지를 !D! 가합니다. NL 방어를 !B! 얻습니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:RawalCBlack": {
     "NAME": "라왈의 창",
-    "DESCRIPTION": "Apply 3 Vulnerable to all enemies, then deal !D! damage to all enemies. NL Increase the damage of ALL Rawal cards by !M! this combat.",
+    "DESCRIPTION": "모든 적에게 3 취약을 부여하고, 모든 적에게 !D! 데미지를 가합니다. NL 이번 전투에서 모든 라왈 카드의 데미지를 !M! 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Harbors Sorcery"
+      "마도를 품는 자"
     ]
   },
   "aigisMod:HorteusPlatinum": {
     "NAME": "호르테우스",
-    "DESCRIPTION": "Enemy loses !M! HP. NL Gain !M! Temporal HP. NL Add 1 Sphinx to hand. NL Exhaust.",
+    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Rules the Sphinxes"
+      "사자녀의 패자"
     ]
   },
   "aigisMod:HorteusBlack": {
     "NAME": "호르테우스",
-    "DESCRIPTION": "Enemy loses !M! HP. NL Gain !M! Temporal HP. NL Add 1 Sphinx to hand. NL Exhaustive: !stslib:ex!",
+    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "She Who Rules the Sphinxes"
     ]
   },
   "aigisMod:Sphinx": {
     "NAME": "스핑크스",
-    "DESCRIPTION": "Retain. NL All enemies lose !M! HP. NL Gain !B! Block. NL Exhaust."
+    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어를 !B! 얻습니다. NL 소멸."
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
-    "DESCRIPTION": "Deal !D! damage to all enemies. NL All enemies lose !M! HP, +1 HP for each time you played this card. NL Exhaust.",
+    "DESCRIPTION": "모든 적에게 데미지를 !D! 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Crosses Between Worlds"
+      "세계를 초월한 자"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage to all enemies. NL All enemies lose !M! HP, +1 HP for each time you played this card. NL Exhaust.",
+    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Crosses Between Worlds"
+      "세계를 초월한 자"
     ]
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "임라우",
-    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어 5 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Extols Life"
+      "생명을 칭송하는 자"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "임라우",
-    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어 5를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Extols Life"
+      "생명을 칭송하는 자"
     ]
   },
   "aigisMod:SanmotoPlatinum": {
     "NAME": "산모토 고로자에몬",
-    "DESCRIPTION": "Play a Eastern Country card in hand !M! time(s). NL Exhaust.",
+    "DESCRIPTION": "손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:SanmotoBlack": {
     "NAME": "산모토 고로자에몬",
-    "DESCRIPTION": "Retain. NL Play a Eastern Country card in hand !M! time(s). NL Exhaustive: !stslib:ex!",
+    "DESCRIPTION": "보존. NL 손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:LukiferPlatinum": {
     "NAME": "루키파",
-    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Discard Pile.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth the Dawn"
+      "여명을 가져오는 자"
     ]
   },
   "aigisMod:LukiferBlack": {
     "NAME": "루키파",
-    "DESCRIPTION": "Gain !M! aigismod:damage_aura and 5 Block when you play a card this turn. NL Exhaust. NL aigismod:Release: Add a copy of this card to Draw Pile.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth the Dawn"
+      "여명을 가져오는 자"
     ]
   },
   "aigisMod:RivenPlatinum": {
     "NAME": "리븐",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "DESCRIPTION": "!D! aigismod:마비데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth Eternal Night"
+      "영야의 시조되는 자"
     ]
   },
   "aigisMod:RivenBlack": {
     "NAME": "리븐",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies. NL aigismod:Cursed: Gain 1 Strength and 1 Dexterity. NL aigismod:Undead: Add 1 Riven Phantom to Draw Pile.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:마비데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Brings Forth Eternal Night"
+      "영야의 시조되는 자"
     ]
   },
   "aigisMod:RivenPhantom": {
     "NAME": "리븐의 환영",
-    "DESCRIPTION": "Deal !D! aigismod:vampire damage to all enemies."
+    "DESCRIPTION": "모든 적에게 !D! aigismod:마비데미지를 가합니다."
   },
   "aigisMod:RepeatingNightmare": {
     "NAME": "반복되는 악몽",
-    "DESCRIPTION": "At the end of your turn, your HP becomes 0."
+    "DESCRIPTION": "턴 종료시, 당신의 체력이 0 이 됩니다."
   },
 
 
