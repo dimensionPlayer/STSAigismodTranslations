@@ -29,72 +29,72 @@
   },
   "aigisMod:ArgePlatinum": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:세컨드매직! 높입니다. NL (!M! 챠지)",
+    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
   },
   "aigisMod:ArgeBlack": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:세컨드매직! 높입니다. NL (!M! 챠지)",
+    "DESCRIPTION": "모든 적에게 aigismod:관통데미지를 !D! 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
   },
   "aigisMod:AmbrosePlatinum": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "Discard up to 3 cards. Gain !M! aigismod:Bloom_petal by the amount of discards + !aigisMod:SecondMagic!",
+    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈 을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Wander in Bloom"
+      "다시 피어나는 자"
     ]
   },
   "aigisMod:AmbroseBlack": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "Discard any amount of cards. NL Gain !M! aigismod:Bloom_petal by the amount of discards + !aigisMod:SecondMagic!",
+    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈 을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Wander in Bloom"
+      "다시 피어나는 자"
     ]
   },
   "aigisMod:TuanPlatinum": {
     "NAME": "투안",
-    "DESCRIPTION": "Deal !D! damage. NL If this is the first card used in a turn, gain [E] . NL Each use increases this card damage by !M! this combat.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 해당 전투에서 데미지가 !M! 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Destroys Everything"
+      "만혜를 부수는 자"
     ]
   },
   "aigisMod:TuanBlack": {
     "NAME": "투안",
-    "DESCRIPTION": "Deal !D! damage. NL If this is the first card used in a turn, gain [E] . NL Each use increases this card damage by !M! this combat.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 만약 이 카드가 해당 턴에서 처음으로 사용되었다면, [E] 를 얻습니다. NL 이 카드를 사용할 때마다 해당 전투에서 데미지가 !M! 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Destroys Everything"
+      "만혜를 부수는 자"
     ]
   },
   "aigisMod:TramPlatinum": {
     "NAME": "트람",
-    "DESCRIPTION": "Spend the rest of your [E] and Deal !D! damage + !M! by the amount of extra [E] spent.",
+    "DESCRIPTION": "남은 [E] 를 모두 소모하고 !D! 데미지를 가합니다. 추가로 소비한 [E] 만큼 !M! 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Heralds the Silver Arm"
+      "은팔을 내거는 자"
     ]
   },
   "aigisMod:TramBlack": {
     "NAME": "트람",
-    "DESCRIPTION": "Spend the rest of your [E] and Deal !D! aigismod:splash damage + !M! by the amount of extra [E] spent.",
+    "DESCRIPTION": "남은 [E] 를 모두 소모하고 !D! aigismod:스플래시 데미지를 가합니다. 추가로 소비한 [E] 만큼 !M! 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Heralds the Silver Arm"
+      "은팔을 내거는 자"
     ]
   },
   "aigisMod:AlvaPlatinum": {
     "NAME": "알바",
-    "DESCRIPTION": "Autoplay. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor only once this combat.",
+    "DESCRIPTION": "aigismod:자동발동. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor only once this combat.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Bears Many Blades"
+      "만인을 짊어진 자"
     ]
   },
   "aigisMod:AlvaBlack": {
     "NAME": "알바",
-    "DESCRIPTION": "Autoplay. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor. Reduce this gain by 2 for each use.",
+    "DESCRIPTION": "aigismod:자동발동. Deal !D! damage to one random enemy. NL Gain !M! Plated Armor. Reduce this gain by 2 for each use.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Bears Many Blades"
+      "만인을 짊어진 자"
     ]
   },
   "aigisMod:YuugenPlatinum": {
