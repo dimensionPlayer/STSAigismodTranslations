@@ -22,9 +22,10 @@
     "PROPER_NAME": "데미지 아우라",
     "NAMES": [
       "데미지아우라",
+      "데미지아우라를",
       "데미지 아우라",
       "데미지 아우라를",
-      "데미지아우라를",
+      "데미지_아우라와",
       "Damage Aura",
       "Damage_aura",
       "damage_aura"
@@ -45,6 +46,7 @@
     "PROPER_NAME": "블룸페탈",
     "NAMES": [
       "블룸페탈",
+      "블룸페탈을",
       "Bloom Petal",
       "Bloom_petal",
       "bloom_petal"
@@ -152,10 +154,9 @@
   "DESCRIPTION": "#y피격시 카운터의 개수만큼 적에게 반사 데미지를 입힙니다. 카운터는 다음 턴의 시작시 제거됩니다."
   },
   {
-    "PROPER_NAME": "스플래시 데미지",
+    "PROPER_NAME": "스플래시",
     "NAMES": [
-      "스플래시 데미지",
-      "스플래시 데미지를",
+      "스플래시",
       "Splash",
       "splash",
       "splash."
@@ -217,11 +218,13 @@
     "DESCRIPTION": "이 카드가 #y소멸 되었을 때, 이 효과가 발동됩니다."
   },
   {
+    "PROPER_NAME": "마비",
     "NAMES": [
+      "마비",
       "Vampire",
       "vampire"
     ],
-    "DESCRIPTION": "Attacked enemy gains #yVampire #yBite equal to #yunblocked damage. When #yVampire #yBite reaches #b60, stun that enemy and that enemy receives #b1 #yStun #yResistance."
+    "DESCRIPTION": "공격한 적에게 #y실제로 #y타격한 데미지만큼 #y마비독을 부여합니다. 만일 #y마비독이 #b60 에 도달하면, 해당 적을 #y스턴시키고, 해당 적은 #y스턴 #y내성을 #b1 획득합니다."
   },
   {
     "PROPER_NAME": "주술",
