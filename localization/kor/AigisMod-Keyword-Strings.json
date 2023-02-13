@@ -212,11 +212,14 @@
     "DESCRIPTION": "턴 시작시 #b1 개의 #y수리검을 획득합니다. #y인술이 추가적으로 상승될 때마다 #y수리검의 타격 횟수가 #b1 씩 증가합니다."
   },
   {
+    "PROPER_NAME": "구속",
     "NAMES": [
+      "구속",
+      "구속을",
       "Entangled",
       "entangled"
     ],
-    "DESCRIPTION": "You cannot play #yattacks. Remove #b1 stack at beginning of your turn."
+    "DESCRIPTION": "#y공격 카드를 사용할 수 없습니다. 턴 시작시 스택을 #b1 감소시킵니다."
   },
 
   {
@@ -251,13 +254,16 @@
     "DESCRIPTION": "#y카드 #y더미에 있는 #b저주 #b카드의 수만큼, 이 효과가 발동됩니다."
   },
   {
+    "PROPER_NAME": "화상",
     "NAMES": [
+      "화상",
+      "화상을",
       "Burn",
       "burn",
       "Burn:",
       "burn:"
     ],
-    "DESCRIPTION": "At the end of your turn, if the enemy #yintends to #yattack, that enemy #ytakes #ydamage. Burn is reduced at the start of the turn"
+    "DESCRIPTION": "턴 종료시 만약 적이 #y공격할 #y의도가 있다면, 그 적에게 #y데미지를 #y가합니다. 화상은 턴 시작시 제거됩니다."
   },
   {
     "PROPER_NAME": "잔여 횟수",
