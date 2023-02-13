@@ -29,14 +29,14 @@
   },
   "aigisMod:ArgePlatinum": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 1 증가 (최대 7). 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
   },
   "aigisMod:ArgeBlack": {
     "NAME": "아제",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가하고, 챠지가 1 감소합니다. NL aigismod:스킬챠지 : 챠지 2 증가. 각 챠지마다 이 카드의 데미지를 !aigisMod:SecondMagic! 높입니다. NL (챠지 !M!)",
     "EXTENDED_DESCRIPTION" : [
       "만기의 조상된 자"
     ]
@@ -180,7 +180,7 @@
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
@@ -703,15 +703,15 @@
   },
   "aigisMod:Farne": {
     "NAME": "파르네",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage. NL 2)Deal aigismod:관통데미지.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage. NL 2)Deal aigismod:관통데미지.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage. NL 2)Deal aigismod:관통 데미지.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage. NL 2)Deal aigismod:관통 데미지.",
     "EXTENDED_DESCRIPTION" : [
       "Summoner",
-      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage and can attack all enemies. NL 2)Deal aigismod:관통데미지.",
-      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL 2)Deal aigismod:관통데미지.",
-      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL [#ffff00]2)Deal[] aigismod:관통데미지.",
-      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage[] [#ffff00]and[] [#ffff00]can[] [#ffff00]attack[] [#ffff00]all[] [#ffff00]enemies.[] NL 2)Deal aigismod:관통데미지.",
-      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage[] [#ffff00]and[] [#ffff00]can[] [#ffff00]attack[] [#ffff00]all[] [#ffff00]enemies.[] NL [#ffff00]2)Deal[] aigismod:관통데미지."
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : 1)Increase !M! damage and can attack all enemies. NL 2)Deal aigismod:관통 데미지.",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL 2)Deal aigismod:관통 데미지.",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage.[] NL [#ffff00]2)Deal[] aigismod:관통 데미지.",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage[] [#ffff00]and[] [#ffff00]can[] [#ffff00]attack[] [#ffff00]all[] [#ffff00]enemies.[] NL 2)Deal aigismod:관통 데미지.",
+      "!D! 데미지를 가합니다. NL aigismod:스킬챠지 : [#ffff00]1)Increase[] !M! [#ffff00]damage[] [#ffff00]and[] [#ffff00]can[] [#ffff00]attack[] [#ffff00]all[] [#ffff00]enemies.[] NL [#ffff00]2)Deal[] aigismod:관통 데미지."
     ]
   },
   "aigisMod:Altair": {
@@ -1140,7 +1140,7 @@
   "aigisMod:Julia": {
     "NAME": "쥴리아",
     "DESCRIPTION": "Deal !D! aigismod:true_Damage.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. On first use: gain a random Relic for the combat.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. On first use: gain a random Relic for the combat.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1221,8 +1221,8 @@
   },
   "aigisMod:Remii": {
     "NAME": "레미",
-    "DESCRIPTION": "When drawn: Deal !M! aigismod:관통데미지 모든 적에게. NL !D! 데미지를 가합니다 모든 적에게.",
-    "UPGRADE_DESCRIPTION": "When drawn: Deal !M! aigismod:관통데미지 모든 적에게. NL !D! 데미지를 가합니다 모든 적에게.",
+    "DESCRIPTION": "When drawn: Deal !M! aigismod:관통 데미지 모든 적에게. NL !D! 데미지를 가합니다 모든 적에게.",
+    "UPGRADE_DESCRIPTION": "When drawn: Deal !M! aigismod:관통 데미지 모든 적에게. NL !D! 데미지를 가합니다 모든 적에게.",
     "EXTENDED_DESCRIPTION" : [
       "Raijin's Daughter",
       "When drawn: aigismod:페어 : Ramii and its cost 1. !D! 데미지를 가합니다 모든 적에게."
@@ -1239,11 +1239,11 @@
   },
   "aigisMod:Tomoe": {
     "NAME": "토모에",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지 multiplied by X.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지 multiplied by X. NL If you have a 동쪽 나라 카드 in hand gain [E].",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지 multiplied by X.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지 multiplied by X. NL If you have a 동쪽 나라 카드 in hand gain [E].",
     "EXTENDED_DESCRIPTION" : [
       "Spearwoman of Windflowers",
-      "Deal !D! aigismod:관통데미지 multiplied by X. NL Apply X 약화."
+      "Deal !D! aigismod:관통 데미지 multiplied by X. NL Apply X 약화."
     ]
   },
   "aigisMod:Juubei": {
@@ -1349,8 +1349,8 @@
 
   "aigisMod:AdamasTreasure": {
     "NAME": "Treasure of Adamas",
-    "DESCRIPTION": "Deal aigismod:관통데미지 equal to the amount of 제국 카드s in 덱. NL 소멸. NL (!D! 데미지를 가합니다)",
-    "UPGRADE_DESCRIPTION": "보존. NL Deal aigismod:관통데미지 equal to the amount of 제국 카드s in 덱. NL (!D! 데미지를 가합니다)",
+    "DESCRIPTION": "Deal aigismod:관통 데미지 equal to the amount of 제국 카드s in 덱. NL 소멸. NL (!D! 데미지를 가합니다)",
+    "UPGRADE_DESCRIPTION": "보존. NL Deal aigismod:관통 데미지 equal to the amount of 제국 카드s in 덱. NL (!D! 데미지를 가합니다)",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1483,7 +1483,7 @@
   "aigisMod:Marika": {
     "NAME": "Marika",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL Return this card from 버린 카드 더미 to hand when you play an Imperial non attack card.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL Return this card from 버린 카드 더미 to hand when you play an Imperial non attack card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL Return this card from 버린 카드 더미 to hand when you play an Imperial non attack card.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Martial Artist"
     ]
@@ -1654,11 +1654,11 @@
   },
   "aigisMod:Mephisto": {
     "NAME": "Mephisto",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지 모든 적에게. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL 소멸.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지 모든 적에게. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Majin Chief",
-      "Deal !D! aigismod:관통데미지 모든 적에게. NL You can 소멸 1 Demon or Imperial from 뽑을 카드 더미. NL 소멸."
+      "Deal !D! aigismod:관통 데미지 모든 적에게. NL You can 소멸 1 Demon or Imperial from 뽑을 카드 더미. NL 소멸."
     ]
   },
   "aigisMod:Sieglinde": {
@@ -1710,7 +1710,7 @@
     "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다 모든 적에게. NL Once per combat, 체력을 !M! 회복한다 HP for each enemy.",
     "EXTENDED_DESCRIPTION" : [
       "Majin Vice Commander",
-      "Deal !D! aigismod:관통데미지 모든 적에게. 체력을 !M! 회복한다 HP for each enemy (once per combat)."
+      "Deal !D! aigismod:관통 데미지 모든 적에게. 체력을 !M! 회복한다 HP for each enemy (once per combat)."
     ]
   },
   "aigisMod:Martina": {
@@ -1938,8 +1938,8 @@
   },
   "aigisMod:Ethnea": {
     "NAME": "Ethnea",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. When 소멸ed: Increase this card damage by !M! and gain 1 힘.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. When 소멸ed: Increase this card damage by !M! and gain 1 힘.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. When 소멸ed: Increase this card damage by !M! and gain 1 힘.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. When 소멸ed: Increase this card damage by !M! and gain 1 힘.",
     "EXTENDED_DESCRIPTION" : [
       "Black-Winged Demon Soldier"
     ]
@@ -1986,17 +1986,17 @@
   },
   "aigisMod:Rakshasa": {
     "NAME": "Rakshasa",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게.",
     "EXTENDED_DESCRIPTION" : [
       "Fierce God",
-      "Deal !D! aigismod:관통데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게."
+      "Deal !D! aigismod:관통 데미지. NL When 소멸ed: Apply !M! 약화 and !M! 취약 모든 적에게."
     ]
   },
   "aigisMod:Saoshu": {
     "NAME": "Saoshu",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL When 소멸ed: 방어도를 !B! 얻습니다.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL When 소멸ed: 방어도를 !B! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL When 소멸ed: 방어도를 !B! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "Majin-Possessed"
     ]
@@ -2230,7 +2230,7 @@
   "aigisMod:Ursula": {
     "NAME": "Ursula",
     "DESCRIPTION": "!D! 데미지를 가합니다 3 times. NL On aigismod:암살 draw 2 cards.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지 3 times. NL On aigismod:암살 draw 2 cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지 3 times. NL On aigismod:암살 draw 2 cards.",
     "EXTENDED_DESCRIPTION": [
       "Imperial Ninja"
     ]
@@ -2853,11 +2853,11 @@
   },
   "aigisMod:Metus": {
     "NAME": "Metus",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:언데드 : Gain !M! 힘.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:언데드 : Gain !M! 힘.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:언데드 : Gain !M! 힘.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:언데드 : Gain !M! 힘.",
     "EXTENDED_DESCRIPTION" : [
       "Resurrection Necromancer",
-      "Deal !D! aigismod:관통데미지. NL aigismod:언데드 : Gain !M! 힘."
+      "Deal !D! aigismod:관통 데미지. NL aigismod:언데드 : Gain !M! 힘."
     ]
   },
   "aigisMod:Melabyss": {
@@ -2946,7 +2946,7 @@
   "aigisMod:Pupuru": {
     "NAME": "Pupuru",
     "DESCRIPTION": "Add 1 Tree of life to hand. NL Deal !D! Damage 모든 적에게. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Add 1 Tree of life to hand. NL Deal !D! aigismod:관통데미지 모든 적에게. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Add 1 Tree of life to hand. NL Deal !D! aigismod:관통 데미지 모든 적에게. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Shrine Miko"
     ]
@@ -3050,36 +3050,36 @@
   },
   "aigisMod:LeiMei": {
     "NAME": "Lei-Mei",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:언데드 : deal !M! aigismod:관통데미지 모든 적에게",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:언데드 : deal !M! aigismod:관통데미지 모든 적에게.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:언데드 : deal !M! aigismod:관통 데미지 모든 적에게",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:언데드 : deal !M! aigismod:관통 데미지 모든 적에게.",
     "EXTENDED_DESCRIPTION" : [
       "Lightning Claw Daoshi"
     ]
   },
   "aigisMod:LanFa": {
     "NAME": "Lan-Fa",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL Gain 4 aigismod:카운터. NL aigismod:언데드 : Gain !M! aigismod:카운터.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL Gain 4 aigismod:카운터. NL aigismod:언데드 : Gain !M! aigismod:카운터.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL Gain 4 aigismod:카운터. NL aigismod:언데드 : Gain !M! aigismod:카운터.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL Gain 4 aigismod:카운터. NL aigismod:언데드 : Gain !M! aigismod:카운터.",
     "EXTENDED_DESCRIPTION" : [
       "Corpse Daoshi"
     ]
   },
   "aigisMod:ShuXian": {
     "NAME": "Shu-Xian",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette.",
     "EXTENDED_DESCRIPTION" : [
       "Corpse Hermit Daoshi",
-      "Deal !D! aigismod:관통데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette."
+      "Deal !D! aigismod:관통 데미지 모든 적에게. NL aigismod:언데드 : gain !M! aigismod:Corpse_marionette."
     ]
   },
   "aigisMod:HuLong": {
     "NAME": "Hu-Long",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Solitary Daoshi",
-      "Deal !D! aigismod:관통데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸."
+      "Deal !D! aigismod:관통 데미지. If 치명타: this gains !M! damage 영구적으로. NL aigismod:언데드 : Gain !aigisMod:SecondMagic! Vigor. NL 소멸."
     ]
   },
   "aigisMod:Silvia": {
@@ -3419,8 +3419,8 @@
   },
   "aigisMod:Sandra": {
     "NAME": "Sandra",
-    "DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:관통데미지 모든 적에게 for each discard.",
-    "UPGRADE_DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:관통데미지 모든 적에게 for each discard.",
+    "DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:관통 데미지 모든 적에게 for each discard.",
+    "UPGRADE_DESCRIPTION": "Discard all attacks in your hand, deal !D! aigismod:관통 데미지 모든 적에게 for each discard.",
     "EXTENDED_DESCRIPTION" : [
       "Swordswoman"
     ]
@@ -3510,7 +3510,7 @@
   "aigisMod:Clissa": {
     "NAME": "Clissa",
     "DESCRIPTION": "aigismod:Armor: !M! NL !D! 데미지를 가합니다. NL aigismod:스킬챠지 : reduce this card armor by !aigisMod:SecondMagic!",
-    "UPGRADE_DESCRIPTION": "aigismod:Armor: !M! NL Deal !D! aigismod:관통데미지. NL aigismod:스킬챠지 : reduce this card armor by !aigisMod:SecondMagic!",
+    "UPGRADE_DESCRIPTION": "aigismod:Armor: !M! NL Deal !D! aigismod:관통 데미지. NL aigismod:스킬챠지 : reduce this card armor by !aigisMod:SecondMagic!",
     "EXTENDED_DESCRIPTION": [
       "Unicorn Knight",
       "aigismod:Armor: !M! NL !D! 데미지를 가합니다. NL aigismod:스킬챠지 : reduce this card armor by !aigisMod:SecondMagic!"
@@ -3896,11 +3896,11 @@
   },
   "aigisMod:Shadia": {
     "NAME": "Shadia",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Maou's Bodyguard",
-      "Deal !D! aigismod:관통데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸."
+      "Deal !D! aigismod:관통 데미지. NL Apply !M! 약화. NL aigismod:견고 : !aigisMod:SecondMagic! 소멸."
     ]
   },
   "aigisMod:Ruin": {
@@ -3947,7 +3947,7 @@
   "aigisMod:Rikka": {
     "NAME": "Rikka",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL If the enemy does not intent to attack, set your block to 0.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL If the enemy does not intent to attack, set your block to 0.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL If the enemy does not intent to attack, set your block to 0.",
     "EXTENDED_DESCRIPTION": [
       "Machinist"
     ]
@@ -3971,8 +3971,8 @@
   },
   "aigisMod:Ur": {
     "NAME": "Ur",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL aigismod:Skill_charge : Increase this card's damage by !M!.",
     "EXTENDED_DESCRIPTION": [
       "Ferocious Clawed Beast"
     ]
@@ -4011,8 +4011,8 @@
   },
   "aigisMod:Inari": {
     "NAME": "Inari",
-    "DESCRIPTION": "Deal !D! aigismod:관통데미지. NL You can 소멸 1 card to gain 1 흐릿함. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통데미지. NL You can 소멸 1 card to gain 1 흐릿함. NL aigismod:잔여횟수: !stslib:ex!",
+    "DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL You can 소멸 1 card to gain 1 흐릿함. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:관통 데미지. NL You can 소멸 1 card to gain 1 흐릿함. NL aigismod:잔여횟수: !stslib:ex!",
     "EXTENDED_DESCRIPTION": [
       "Youko"
     ]
@@ -4235,8 +4235,8 @@
   },
   "aigisMod:Hellbeast": {
     "NAME": "Hellbeast",
-    "DESCRIPTION": "Deal 8 aigismod:관통데미지 for each Beast tamer 소멸ed. NL 보존",
-    "UPGRADE_DESCRIPTION": "Deal 11 aigismod:관통데미지 for each Beast tamer 소멸ed. NL 보존"
+    "DESCRIPTION": "Deal 8 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존",
+    "UPGRADE_DESCRIPTION": "Deal 11 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존"
   },
   "aigisMod:Moltena": {
     "NAME": "Moltena",
