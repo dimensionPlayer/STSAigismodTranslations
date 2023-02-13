@@ -169,7 +169,7 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "스핑크스",
-    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어도를 !B! 얻습니다. NL 소멸"
+    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어도를 !B! 얻습니다. NL 소멸."
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
@@ -284,7 +284,7 @@
   },
   "aigisMod:Shuriken": {
     "NAME": "수리검",
-    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. NL 소멸"
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. NL 소멸."
   },
   "aigisMod:Azami": {
     "NAME": "아자미",
@@ -332,11 +332,11 @@
   },
   "aigisMod:Berna": {
     "NAME": "베르나",
-    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살 시 힘을 2 얻습니다. aigismod:암살",
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살 시 힘을 2 얻습니다. aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "도적",
-      "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살"
+      "!D! 데미지를 !M! 회 가합니다. 이번 전투에서 이 카드의 데미지를 !aigisMod:SecondMagic! 만큼 증가시킵니다. aigismod:암살."
     ]
   },
   "aigisMod:Minette": {
