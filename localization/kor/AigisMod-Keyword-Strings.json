@@ -10,13 +10,15 @@
     "DESCRIPTION": "#y보존. 보존시 카드의 효과가 강화됩니다."
   },
   {
-    "PROPER_NAME": "Imperial Knight",
+    "PROPER_NAME": "제국기사",
     "NAMES": [
+      "제국기사",
+      "제국기사를",
       "Imperial Knight",
       "Imperial_knight",
       "imperial_knight"
     ],
-    "DESCRIPTION": "Applies an effect #yonce #yper #yturn when playing an #yImperial card while this is in hand."
+    "DESCRIPTION": "#y한 #y턴에 #y한 #번씩, 이 카드가 손에 있는 상태에서 #y제국 카드를 사용할 때 효과를 발동합니다."
   },
   {
     "PROPER_NAME": "데미지 아우라",
@@ -88,14 +90,16 @@
     "DESCRIPTION": "When you play a #ySkill, enemy #yloses #yHP equal to stacks. Remove #b1 stack at the end of the turn if enemy #yattacked."
   },
   {
-    "PROPER_NAME": "Ranger Trap",
+    "PROPER_NAME": "트랩",
     "NAMES": [
+      "트랩",
+      "트랩을",
       "Ranger Trap",
       "Ranger_trap.",
       "Ranger_trap",
       "ranger_trap"
     ],
-    "DESCRIPTION": "The next time you take #yunblocked damage, deal damage to that enemy equal to #yamount and lose this power."
+    "DESCRIPTION": "다음 차례에 #y방어되지 #y않은 데미지를 입은 경우, 해당 적에게 #y입은 #y데미지와 같은 양의 데미지를 준 뒤 이 파워를 제거합니다."
   },
   {
     "PROPER_NAME": "Seal Talisman",
@@ -177,11 +181,13 @@
     "DESCRIPTION": "이 카드를 사용할 때마다 코스트가 #b1 감소합니다. 만약 코스트가 #b0 에 도달하면 추가 효과가 발동됩니다."
   },
   {
+    "PROPER_NAME": "페어",
     "NAMES": [
+      "페어",
       "Pair",
       "pair"
     ],
-    "DESCRIPTION": "Add #b1 card with the indicated name from #yDraw #yPile to #yhand."
+    "DESCRIPTION": "해당 이름을 가진 카드 #b1 장을 #y뽑을 #y카드 #y더미에서 ."
   },
   {
     "PROPER_NAME": "아쳐",
@@ -270,13 +276,16 @@
     "DESCRIPTION": "전투 시작시, #y라왈의 #y방패와 #y라왈의 #y창을 뽑을 카드 더미에 추가합니다. 해당 카드들은 이 카드의 강화 횟수를 공유합니다."
   },
   {
+    "PROPER_NAME": "메테오",
     "NAMES": [
+      "메테오",
+      "메테오를",
       "Meteor",
       "Meteor.",
       "meteor",
       "meteor."
     ],
-    "DESCRIPTION": "Orb: Deal damage to a random enemy. Increases damage the more meteor cards you play."
+    "DESCRIPTION": "오브 : 무작위의 적에게 데미지를 가합니다. 메테오 카드를 사용할수록 데미지가 증가합니다."
   },
   {
     "PROPER_NAME": "Dark Fighter",
@@ -289,22 +298,30 @@
     "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
   },
   {
+    "PROPER_NAME": "라이프링크",
     "NAMES": [
+      "라이프링크",
+      "라이프_링크",
+      "라이프링크를",
+      "라이프_링크를",
       "Lifelink",
       "Lifelink.",
       "lifelink",
       "lifelink."
     ],
-    "DESCRIPTION": "Enemy loses HP equal to the damage you block completely. Reduced by #b1 when you use a cost #b1 or higher Attack."
+    "DESCRIPTION": "완벽하게 방어한 데미지만큼 적의 체력을 감소시킵니다. 코스트가 #b1 이상인 공격 카드를 사용할시 #b1 씩 감소합니다."
   },
   {
+    "PROPER_NAME": "견고",
     "NAMES": [
+      "견고",
+      "견고를",
       "Fortress",
       "Fortress:",
       "fortress",
       "fortress:"
     ],
-    "DESCRIPTION": "Gain this effect when your Block is equal or higher than this amount."
+    "DESCRIPTION": "방어도가 해당 수치 이상일때 이 효과를 얻습니다."
   },
   {
     "NAMES": [
@@ -320,6 +337,7 @@
     "NAMES": [
       "봉인해제",
       "봉인 해제",
+      "봉인_해제",
       "Release",
       "Release:",
       "release",
@@ -329,24 +347,27 @@
   },
 
   {
-    "PROPER_NAME": "Deep Sea",
+    "PROPER_NAME": "심해",
     "NAMES": [
+      "심해",
       "Deep Sea",
       "Dark_fighter.",
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "Unplayable unless there is #yWater #yPressure in #yExhaust Pile. On draw add #b1 #yWater #yPressure ."
+    "DESCRIPTION": "#y소멸된 카드 더미에 #y수압이 없다면 사용불가. 카드를 뽑을 때 #b1 #y수압을 획득합니다."
   },
   {
-    "PROPER_NAME": "Water Pressure",
+    "PROPER_NAME": "수압",
     "NAMES": [
+      "수압",
+      "수압을",
       "Water Pressure",
       "Dark_fighter.",
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "At the start of turn apply depending on amount of stacks. 1:Add 1 Dazed to Discard Pile. 2:Gain 1 Frail. 3:Gain 1 Weak 4+:Gain constricted equal to stacks."
+    "DESCRIPTION": "턴 시작시 쌓여있는 스택별로 다른 효과가 발동됩니다. 1)버린 카드 더미에 1 어지러움을 추가합니다. 2)1 손상을 획득합니다. 3)1 약화를 획득합니다. 4+)스택과 동일한 양의 포박을 받습니다."
   },
   {
     "PROPER_NAME": "Beast Tamer",
