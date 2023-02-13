@@ -142,12 +142,15 @@
     "DESCRIPTION": "만약 적에게 #y치명타를 가한 경우, 이 카드의 코스트가 #b0 이 된 상태로 #y손패에 돌아옵니다."
   },
   {
+    "PROPER_NAME": "둔족",
     "NAMES": [
+      "둔족",
+      "둔족을",
       "Sluggish",
       "sluggish",
       "sluggish."
     ],
-    "DESCRIPTION": "Enemies gain #ySlow when applied. When #ySluggish reaches #b0, #ySlow is removed."
+    "DESCRIPTION": "적들에게 #y둔화를 부여합니다. 만약 #y둔족 수치가 #b0 에 도달하면, #y둔화는 제거됩니다."
   },
   {
   "PROPER_NAME": "카운터",
