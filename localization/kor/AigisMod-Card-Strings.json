@@ -43,14 +43,14 @@
   },
   "aigisMod:AmbrosePlatinum": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈을 얻습니다.",
+    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸_페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
   },
   "aigisMod:AmbroseBlack": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈을 얻습니다.",
+    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸_페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
@@ -99,14 +99,14 @@
   },
   "aigisMod:YuugenPlatinum": {
     "NAME": "유젠",
-    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. aigismod:암살",
+    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "그림자를 잇는 자"
     ]
   },
   "aigisMod:YuugenBlack": {
     "NAME": "유젠",
-    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. NL 아쳐 카드들의 데미지가 1 씩 더 증가합니다. NL aigismod:암살",
+    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 씩 2회 가하며, 1 약화를 2번 부여합니다. NL 아쳐 카드들의 데미지가 1 씩 더 증가합니다. NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "그림자를 잇는 자"
     ]
@@ -155,7 +155,7 @@
   },
   "aigisMod:HorteusPlatinum": {
     "NAME": "호르테우스",
-    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL 소멸",
+    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "사자녀의 패자"
     ]
@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
@@ -194,14 +194,14 @@
   },
   "aigisMod:ImlauBlack": {
     "NAME": "임라우",
-    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5를 얻습니다.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "생명을 칭송하는 자"
     ]
   },
   "aigisMod:SanmotoPlatinum": {
     "NAME": "산모토 고로자에몬",
-    "DESCRIPTION": "손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL 소멸",
+    "DESCRIPTION": "손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -266,18 +266,18 @@
 
   "aigisMod:Risley": {
     "NAME": "리즈리",
-    "DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살",
-    "UPGRADE_DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살",
+    "DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살.",
     "EXTENDED_DESCRIPTION": [
       "희대의 천재 도화사",
-      "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살"
+      "손패의 카드 한 장을 선택하여, 이번 전투에서 그 코스트를 !M! 만큼 감소시킨 뒤 !D! 데미지를 가합니다. aigismod:암살."
     ]
   },
 
   "aigisMod:Hatsune": {
     "NAME": "하츠네",
-    "DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
-    "UPGRADE_DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
+    "DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지_아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!aigisMod:SecondMagic! aigismod:데미지_아우라를 얻습니다. NL aigismod:인술을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "쿠노이치"
     ]
@@ -373,8 +373,8 @@
   },
   "aigisMod:Katara": {
     "NAME": "카타라",
-    "DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지아우라를 !M! 만큼 얻습니다.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지아우라를 !M! 만큼 얻습니다.",
+    "DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지_아우라를 !M! 만큼 얻습니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 약화 2 와 취약 2 를 부여합니다. NL aigismod:주술 : aigismod:데미지_아우라를 !M! 만큼 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "주술사"
     ]
@@ -394,8 +394,8 @@
   },
   "aigisMod:Wonderheart": {
     "NAME": "원더하트",
-    "DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지아우라를 획득합니다. NL aigismod:암살",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지아우라를 획득합니다. NL aigismod:암살",
+    "DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살",
     "EXTENDED_DESCRIPTION" : [
       "도화사"
     ]
@@ -998,11 +998,11 @@
   },
   "aigisMod:Setsuna": {
     "NAME": "세츠나",
-    "DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:데미지아우라. NL Gain aigismod:Ninjutsu. NL 수리검s gains !M! more damage.",
-    "UPGRADE_DESCRIPTION": "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:데미지아우라. NL Gain aigismod:Ninjutsu: 수리검s gains !M! more damage.",
+    "DESCRIPTION": "Gain !aigisMod:SecondMagic! aigismod:데미지_아우라. NL Gain aigismod:Ninjutsu. NL 수리검s gains !M! more damage.",
+    "UPGRADE_DESCRIPTION": "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:데미지_아우라. NL Gain aigismod:Ninjutsu: 수리검s gains !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
       "Kibanin",
-      "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:데미지아우라. NL Gain aigismod:Ninjutsu: 수리검s gains !M! more damage."
+      "Shuffle 1 Setsuna Clone. NL Gain !aigisMod:SecondMagic! aigismod:데미지_아우라. NL Gain aigismod:Ninjutsu: 수리검s gains !M! more damage."
     ]
   },
   "aigisMod:SetsunaClone": {
@@ -1385,33 +1385,33 @@
   },
   "aigisMod:Lapis": {
     "NAME": "Lapis",
-    "DESCRIPTION": "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지아우라",
-    "UPGRADE_DESCRIPTION": "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지아우라.",
+    "DESCRIPTION": "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지_아우라.",
+    "UPGRADE_DESCRIPTION": "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지_아우라.",
     "EXTENDED_DESCRIPTION" : [
       "Great Demon Summoner",
-      "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지아우라."
+      "Gain !aigisMod:SecondMagic! 힘 and !aigisMod:SecondMagic! 민첩. NL Gain !M! aigismod:데미지_아우라."
     ]
   },
   "aigisMod:LivreEmperor": {
     "NAME": "Livre",
-    "DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:데미지아우라.",
-    "UPGRADE_DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:데미지아우라.",
+    "DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:데미지_아우라.",
+    "UPGRADE_DESCRIPTION": "Take 3 Damage. NL Gain !M! aigismod:데미지_아우라.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner"
     ]
   },
   "aigisMod:VeltyEmperor": {
     "NAME": "Velty",
-    "DESCRIPTION": "Gain !M! aigismod:데미지아우라.",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지아우라.",
+    "DESCRIPTION": "Gain !M! aigismod:데미지_아우라.",
+    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지_아우라.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner"
     ]
   },
   "aigisMod:IslaEmperor": {
     "NAME": "Isla",
-    "DESCRIPTION": "Apply 2 약화 모든 적에게. NL Gain !M! aigismod:데미지아우라.",
-    "UPGRADE_DESCRIPTION": "Apply 2 약화 모든 적에게. NL Gain !M! aigismod:데미지아우라.",
+    "DESCRIPTION": "Apply 2 약화 모든 적에게. NL Gain !M! aigismod:데미지_아우라.",
+    "UPGRADE_DESCRIPTION": "Apply 2 약화 모든 적에게. NL Gain !M! aigismod:데미지_아우라.",
     "EXTENDED_DESCRIPTION" : [
       "Demon Summoner Child"
     ]
@@ -1954,8 +1954,8 @@
   },
   "aigisMod:Kihor": {
     "NAME": "Kihor",
-    "DESCRIPTION": "Gain !M! aigismod:데미지아우라. NL 턴 종료시, you can 소멸 1 Demon from Hand to Gain 1 힘.",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지아우라. NL 턴 종료시, you can 소멸 1 Demon from Hand to Gain 1 힘.",
+    "DESCRIPTION": "Gain !M! aigismod:데미지_아우라. NL 턴 종료시, you can 소멸 1 Demon from Hand to Gain 1 힘.",
+    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지_아우라. NL 턴 종료시, you can 소멸 1 Demon from Hand to Gain 1 힘.",
     "EXTENDED_DESCRIPTION" : [
       "Makai Chef"
     ]
@@ -2036,8 +2036,8 @@
   },
   "aigisMod:Grimm": {
     "NAME": "Grimm",
-    "DESCRIPTION": "Gain !M! aigismod:데미지아우라. 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지아우라. 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
+    "DESCRIPTION": "Gain !M! aigismod:데미지_아우라. 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
+    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지_아우라. 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
     "EXTENDED_DESCRIPTION" : [
       "Otherworld Summoner"
     ]
@@ -2177,11 +2177,11 @@
   },
   "aigisMod:Tsukiko": {
     "NAME": "Tsukiko",
-    "DESCRIPTION": "Gain !M! aigismod:데미지아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere.",
-    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere.",
+    "DESCRIPTION": "Gain !M! aigismod:데미지_아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere.",
+    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:데미지_아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere.",
     "EXTENDED_DESCRIPTION" : [
       "Wandering Phantasm Beast Tamer",
-      "Gain !M! aigismod:데미지아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere."
+      "Gain !M! aigismod:데미지_아우라. NL Once per turn when you play an 제국 카드 remove 1 random status card from anywhere."
     ]
   },
   "aigisMod:Eleonora": {
@@ -2212,11 +2212,11 @@
   },
   "aigisMod:Tuda": {
     "NAME": "Tuda",
-    "DESCRIPTION": "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지아우라 and Metallicize equal to its cost. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지아우라 and Metallicize (+1) equal to its cost. NL 소멸.",
+    "DESCRIPTION": "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지_아우라 and Metallicize equal to its cost. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지_아우라 and Metallicize (+1) equal to its cost. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Imperial Priest Warrior Chief",
-      "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지아우라 (+1) and Metallicize equal to its cost. NL 소멸."
+      "소멸 1 card from 뽑을 카드 더미 to gain aigismod:데미지_아우라 (+1) and Metallicize equal to its cost. NL 소멸."
     ]
   },
   "aigisMod:Abgrund": {
@@ -2323,7 +2323,7 @@
   "aigisMod:Grimm2": {
     "NAME": "Grimm",
     "DESCRIPTION": "Add 1 Maou Shadow to 뽑을 카드 더미. NL 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
-    "UPGRADE_DESCRIPTION": "Add 1 Maou Shadow to 뽑을 카드 더미. NL Gain !M! aigismod:데미지아우라. NL 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
+    "UPGRADE_DESCRIPTION": "Add 1 Maou Shadow to 뽑을 카드 더미. NL Gain !M! aigismod:데미지_아우라. NL 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미.",
     "EXTENDED_DESCRIPTION" : [
       "Otherworld Summoner",
       "Add 1 Maou Shadow+ to 뽑을 카드 더미. NL 턴 종료시 you can 소멸 1 Demon from 뽑을 카드 더미."
@@ -2500,11 +2500,11 @@
   },
   "aigisMod:Akira": {
     "NAME": "Akira",
-    "DESCRIPTION": "aigismod:주술 : Gain !M! aigismod:데미지아우라 and 2 Plated Armor. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "aigismod:주술 : Gain !M! aigismod:데미지아우라, 2 Plated Armor and Heal 2 HP. NL 소멸.",
+    "DESCRIPTION": "aigismod:주술 : Gain !M! aigismod:데미지_아우라 and 2 Plated Armor. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "aigismod:주술 : Gain !M! aigismod:데미지_아우라, 2 Plated Armor and Heal 2 HP. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Talismancer",
-      "aigismod:주술 : Gain !M! aigismod:데미지아우라, 2 Plated Armor. NL 소멸."
+      "aigismod:주술 : Gain !M! aigismod:데미지_아우라, 2 Plated Armor. NL 소멸."
     ]
   },
   "aigisMod:Shiro": {
@@ -4104,11 +4104,11 @@
 
   "aigisMod:Shemia": {
     "NAME": "Shemia",
-    "DESCRIPTION": "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지아우라.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지아우라.",
+    "DESCRIPTION": "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지_아우라.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지_아우라.",
     "EXTENDED_DESCRIPTION": [
       "Fallen Angel",
-      "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지아우라."
+      "!D! 데미지를 가합니다 to a random enemy !M! times. NL aigismod:봉인해제 : Gain !aigisMod:SecondMagic! aigismod:데미지_아우라."
     ]
   },
 
