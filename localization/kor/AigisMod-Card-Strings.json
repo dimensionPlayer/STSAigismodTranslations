@@ -43,14 +43,14 @@
   },
   "aigisMod:AmbrosePlatinum": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈 을 얻습니다.",
+    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
   },
   "aigisMod:AmbroseBlack": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈 을 얻습니다.",
+    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
@@ -155,7 +155,7 @@
   },
   "aigisMod:HorteusPlatinum": {
     "NAME": "호르테우스",
-    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL 소멸.",
+    "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL aigismod:임시체력을 !M! 획득합니다. NL 1 스핑크스를 손에 얻습니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
       "사자녀의 패자"
     ]
@@ -169,39 +169,39 @@
   },
   "aigisMod:Sphinx": {
     "NAME": "스핑크스",
-    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어도를 !B! 얻습니다. NL 소멸."
+    "DESCRIPTION": "보존. NL 모든 적의 체력이 !M! 감소합니다. NL 방어도를 !B! 얻습니다. NL 소멸"
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "임라우",
-    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어 5 를 얻습니다.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "생명을 칭송하는 자"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "임라우",
-    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어 5를 얻습니다.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "생명을 칭송하는 자"
     ]
   },
   "aigisMod:SanmotoPlatinum": {
     "NAME": "산모토 고로자에몬",
-    "DESCRIPTION": "손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL 소멸.",
+    "DESCRIPTION": "손에 있는 동쪽 나라 카드를 !M! 회 사용합니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -215,28 +215,28 @@
   },
   "aigisMod:LukiferPlatinum": {
     "NAME": "루키파",
-    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지_아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "여명을 가져오는 자"
     ]
   },
   "aigisMod:LukiferBlack": {
     "NAME": "루키파",
-    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
+    "DESCRIPTION": "이번 턴에 카드를 사용할 때마다 !M! aigismod:데미지_아우라와 5 방어도를 획득합니다. NL 소멸. NL aigismod:봉인해제 : 버린 카드 더미에 이 카드의 복사본을 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "여명을 가져오는 자"
     ]
   },
   "aigisMod:RivenPlatinum": {
     "NAME": "리븐",
-    "DESCRIPTION": "!D! aigismod:마비데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
+    "DESCRIPTION": "!D! aigismod:마비 데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "영야의 시조되는 자"
     ]
   },
   "aigisMod:RivenBlack": {
     "NAME": "리븐",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:마비데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:마비 데미지를 가합니다. NL aigismod:주술 : 힘 1 과 민첩 1 을 얻습니다. NL aigismod:언데드 : 뽑을 카드 더미에 리븐 환영 카드를 1 장 추가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "영야의 시조되는 자"
     ]
@@ -284,7 +284,7 @@
   },
   "aigisMod:수리검": {
     "NAME": "수리검",
-    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. NL 소멸."
+    "DESCRIPTION": "!D! 데미지를 !M! 회 가합니다. NL 소멸"
   },
   "aigisMod:Azami": {
     "NAME": "아자미",
