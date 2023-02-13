@@ -187,7 +187,7 @@
       "Pair",
       "pair"
     ],
-    "DESCRIPTION": "해당 이름을 가진 카드 #b1 장을 #y뽑을 #y카드 #y더미에서 ."
+    "DESCRIPTION": "해당 이름을 가진 카드 #b1 장을 #y뽑을 #y카드 #y더미에서 #y손패로 가져옵니다."
   },
   {
     "PROPER_NAME": "아쳐",
