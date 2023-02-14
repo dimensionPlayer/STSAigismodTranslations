@@ -70,8 +70,12 @@
     "DESCRIPTION": "You can't heal."
   },
   {
-    "PROPER_NAME": "Cursed Voice",
+    "PROPER_NAME": "커스보이스",
     "NAMES": [
+      "커스보이스",
+      "커스_보이스",
+      "커스보이스를",
+      "커스_보이스를",
       "Cursed Voice",
       "Cursed_voice.",
       "Cursed_voice",
