@@ -81,7 +81,7 @@
       "Cursed_voice",
       "cursed_voice"
     ],
-    "DESCRIPTION": "Negate the next #bbuff the enemy would gain."
+    "DESCRIPTION": "다음에 적이 얻을 #b버프를 무효화합니다."
   },
   {
     "PROPER_NAME": "Air Elemental",
@@ -106,14 +106,18 @@
     "DESCRIPTION": "다음 차례에 #y방어되지 #y않은 데미지를 입은 경우, 해당 적에게 #y입은 #y데미지와 같은 양의 데미지를 준 뒤 이 파워를 제거합니다."
   },
   {
-    "PROPER_NAME": "Seal Talisman",
+    "PROPER_NAME": "퇴마의 부적",
     "NAMES": [
+      "퇴마의_부적",
+      "퇴마의_부적을",
+      "퇴마의부적",
+      "퇴마의부적을",
       "Seal Talisman",
       "Seal_talisman.",
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "When the enemy #yattack, that enemy loses #b1 #yStrength. #ySeal #yTalisman is reduced by #b1 at the start of your turn."
+    "DESCRIPTION": "적이 #y공격할 때마다 #b1 #y힘을 잃습니다. #y퇴마의 #y부적은 턴 시작시마다 #b1 at the start of your turn."
   },
   {
     "PROPER_NAME": "Corpse Marionette",
@@ -242,6 +246,7 @@
     "PROPER_NAME": "마비",
     "NAMES": [
       "마비",
+      "마비를",
       "Vampire",
       "vampire"
     ],
@@ -251,6 +256,7 @@
     "PROPER_NAME": "주술",
     "NAMES": [
       "주술",
+      "주술을",
       "Cursed",
       "cursed",
       "Cursed:",
