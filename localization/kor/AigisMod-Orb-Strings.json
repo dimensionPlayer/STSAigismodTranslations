@@ -1,22 +1,22 @@
 {
   "myMod:DefaultOrb": {
-    "NAME": "Default Orb",
+    "NAME": "디폴트 오브",
     "DESCRIPTION": [
-      "#yPassive: At the start of your turn, draw #b",
-      " card.",
-      " cards.",
-      " NL #yEvoke: Deal #b",
-      " damage to all enemies."
+      "#y패시브: 턴 시작시 카드를 #b 장 뽑습니다.",
+      " ",
+      " ",
+      " NL #y해방 : 모든 적에게 #b",
+      " 데미지를 가합니다."
     ]
   },
   "aigisMod:MeteorOrb": {
-    "NAME": "Meteor Orb",
+    "NAME": "메테오 오브",
     "DESCRIPTION": [
-      "#yPassive: When you play a #yMeteor card, increase the damage of this orb by the cost of the played card.",
-      " At the end of your turn deal #b",
-      " damage to a random enemy.",
-      " NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#y패시브: #y메테오 카드를 사용할시, 사용한 카드의 코스트만큼 이 오브의 데미지를 상승시킵니다.",
+      " 턴 종료시 무작위의 적에게 #b",
+      " 데미지를 가합니다.",
+      " NL #y해방 : 무작위의 적에게 #b",
+      " 데미지를 가합니다."
     ]
   }
 }
