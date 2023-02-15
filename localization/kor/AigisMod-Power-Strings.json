@@ -71,7 +71,7 @@
 
         "aigisMod:OutlawMaid": {
                 "NAME": "무법자 메이드",
-                "DESCRIPTIONS": ["#y암살 카드를 #b", " 장 사용시 #b", " #y힘을 얻습니다.", "#y암살 카드를 #b", " 장 사용시, #b" 를 얻습니다."]
+                "DESCRIPTIONS": ["#y암살 카드를 #b", " 장 사용시 #b", " #y힘을 얻습니다.", "#y암살 카드를 #b", " 장 사용시, #b 를 얻습니다."]
         },
 
         "aigisMod:BloomPetal": {
