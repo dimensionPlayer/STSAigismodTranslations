@@ -254,112 +254,112 @@
 
 
   "aigisMod:CallHelp": {
-    "NAME": "Call for Help",
-    "FLAVOR": "Totono: Haa... I still don't have enough money.",
+    "NAME": "도움요청",
+    "FLAVOR": "토토노 : 하아... 돈이 여전히 부족해요.",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of each combat. Add #b1 Ambushed Caravan to your Deck."
+      "매 전투 시작시 [E] 를 얻습니다. 덱에 매복한 캐러밴 #b1 장을 추가합니다."
     ]
   },
   "aigisMod:CursedBoundary": {
-    "NAME": "Cursed Boundary",
-    "FLAVOR": "Katara:What I possess is merely a single piece of The Power of Destruction that has been passed down within my clan.",
+    "NAME": "주계",
+    "FLAVOR": "카타라 : 내가 가지고 있는 파멸의 힘은 우리 가문에 전해지는 것들 중 하나에 불과해.",
     "DESCRIPTIONS": [
-      "If you have a #yCurse in your Deck when picking this relic, add #b1 #yKatara #yUpgraded. ",
-      " Once per turn, press #yRight-click to discard #b1 #yCurse card in your hand to deal #b5 damage to all enemies.",
-      "I don't have any curses in my hand..."
+      "이 유물을 얻었을 때 덱에 #y저주 카드가 있을시, #y업그레이드된 #y카타라 카드 #b1 장을 얻습니다. ",
+      " 한 턴당 한 번, 이 유물을 #y오른클릭하여 손패의 #y저주 카드 #b1 장을 버리고 모든 적들에게 #b5 데미지를 가할 수 있습니다.",
+      "손패에 저주 카드가 없어..."
     ]
   },
   "aigisMod:OldClergyman": {
-    "NAME": "Old Clergyman",
-    "FLAVOR": "Vincent:One day when I got home from work, I found that my wife and daughter had been attacked and bitten by vampires.",
+    "NAME": "전 순회목사",
+    "FLAVOR": "빈센트 : 어느날 일을 마치고 집에 돌아와보니, 아내와 딸은 뱀파이어에 습격당한 뒤였어.",
     "DESCRIPTIONS": [
-      "Once per combat, press #yRight-click to exhaust #b1 card in your hand. If its an #yUndead character gain [E] equal to it's cost."
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y언데드 캐릭터인 경우 그 코스트와 동일한 양의 [E] 를 얻습니다."
     ]
   },
   "aigisMod:DeathCurse": {
-    "NAME": "Curse of death",
-    "FLAVOR": "Mitra: The ability known as a 'curse' is a double-edged sword that will shave away ones own life if it's not used correctly.",
+    "NAME": "죽음의 저주",
+    "FLAVOR": "미트라 : 저주의 능력을 잘못 사용하면 스스로의 목숨을 깎을 수 있다.",
     "DESCRIPTIONS": [
-      "While you have #b3 or more #yCurses in #yMaster #yDeck, at the end of your turn, defeat all enemies with #yWeak that have #b10% or less of their max HP."
+      "덱에 #b3 장 이상의 #y저주 카드가 있을때, 턴 종료시 #y약화 디버프를 가진 적들 중 현재 체력이 최대 체력의 #b10% 이하인 적을 즉사시킵니다."
     ]
   },
   "aigisMod:TenguBlaze": {
-    "NAME": "Tengu's Blaze",
-    "FLAVOR": "Guren: Show me the ideal end. I'll lend you my strength until then.",
+    "NAME": "텐구의 화염",
+    "FLAVOR": "구렌 : 이상의 끝을 보여줘. 그때까지 도와줄테니.",
     "DESCRIPTIONS": [
-      "Once per combat, you can #yright-click this relic to exhaust #b1 card in your hand, if it is a #yCurse or #yStatus, #ydraw #b1 card and all enemies gain #b3 Burn."
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y저주 또는 #y상태이상 카드일 경우 카드를 #b1 장 뽑고 모든 적들에게 #b3 화상을 부여합니다."
     ]
   },
   "aigisMod:CatDisturbance": {
-    "NAME": "Cat's Disturbance",
-    "FLAVOR": "Koharu: Instilling fear in people is quite boorish. I confer passion.",
+    "NAME": "고양이 소동",
+    "FLAVOR": "코하루 : 사람들에게 공포를 주는 건 풍류가 없는 짓이지. 나는 오직 감동만을 준다네.",
     "DESCRIPTIONS": [
-      "All enemies start each combat with #b1 less #yStrength. On the #b6th turn, all enemies lose #b1 Strength."
+      "모든 적들의 #y힘이 #b1 감소된 채 전투를 시작합니다. #b6 번째 턴에서 모든 적이 #y힘을 #b1 잃습니다."
     ]
   },
   "aigisMod:ScrambleGolem": {
-    "NAME": "Scramble Golem",
-    "FLAVOR": "Rilke: What, you want me to read your fortune?",
+    "NAME": "스크램블 골렘",
+    "FLAVOR": "릴케 : 뭐라고? 네 운명을 점쳐달라고?",
     "DESCRIPTIONS": [
-      "Once per combat, you can #yright-click this relic to exhaust #b1 Card in your hand, if it is a #yGolem #yFragment, gain #b3 Metallicize."
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y골렘의 #y부품일 경우 #b3 ."
     ]
   },
   "aigisMod:GolemBoost": {
-    "NAME": "Golem Boost",
-    "FLAVOR": "Anri: I grant power to lifeless objects. Please make good use of the essence of enchantment.",
+    "NAME": "골렘 부스트",
+    "FLAVOR": "앙리 : 나는 생명이 없는 물체에 힘을 부여해. 부여 마술의 진수가 도움이 되길 바랄게.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add to hand 1 #yGolem #yFragment+. When a Golem Fragment is created, #yupgrade it."
+      "전투 시작시 손패에 #y골렘의 #y부품+ #b1 장을 추가합니다. 골렘의 부품이 생성되었을 때, #y업그레이드합니다."
     ]
   },
   "aigisMod:WorldTree": {
-    "NAME": "World Tree Guard",
-    "FLAVOR": "Rovinia: Are you okay? Are you sleeping well?",
+    "NAME": "신수의 영험",
+    "FLAVOR": "로비니아 : 잘 지내? 잠은 잘 자고?",
     "DESCRIPTIONS": [
-      "At the start each of combat, gain #b8 Ranger Trap. #yArchers deal #b1 additional damage while you have #yRanger #yTrap."
+      "전투 시작시 #b8 트랩을 얻습니다. #y트랩을 가지고 있을시 #y아쳐 카드가 #b1 추가 데미지를 가합니다."
     ]
   },
   "aigisMod:WoundReturning": {
-    "NAME": "Wound-Returning Spell",
-    "FLAVOR": "Mikoto: Would you allow me to cast misfortunes off of you?",
+    "NAME": "반상의 주문",
+    "FLAVOR": "미코토 : 내게 당신의 액을 쫓게 해줄래요?",
     "DESCRIPTIONS": [
-      "At the start of each combat, add to hand #b1 #yShikioni. #yShikioni gains #b3 additional Block."
+      "전투 시작시 손패에 #y식귀 #b1 장을 추가합니다. #y식귀는 추가로 #b3 방어도를 얻습니다."
     ]
   },
   "aigisMod:SerpentPoison": {
-    "NAME": "Serpent's Curse Poison",
-    "FLAVOR": "Orochihime: It could be a poison, or a medicine. Fufufu, I wonder which is which?",
+    "NAME": "사령의 주독",
+    "FLAVOR": "오로치히메 : 이건 독이 되기도 약이 되기도 해. 후후후, 이건 어느 쪽일까?",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b2 #yCursed #yVoice to all enemies. When an enemy attacks, it gains #b1 Poison."
+      "전투 시작시 모든 적들에게 #b2 #y커스보이스를 부여합니다. 적들이 공격할때, #b1 중독을 부여합니다."
     ]
   },
   "aigisMod:Ifrit": {
-    "NAME": "Summoned Ifrit",
-    "FLAVOR": "Solano: Come, I Summon the Beast of flame, Ifrit!",
+    "NAME": "이프리트",
+    "FLAVOR": "솔라노 : 와라, 불꽃의 소환수 이프리트!",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b6 #yBurn to all enemies."
+      "전투 시작시 모든 적들에게 #b6 #y화상을 부여합니다."
     ]
   },
   "aigisMod:UndeadWorld": {
-    "NAME": "Last Death Energy",
-    "FLAVOR": "Metus: Human bodies sure are inconvenient. I suppose this is what it means to be alive.",
+    "NAME": "라스트 데스 에너지",
+    "FLAVOR": "메투스 : 인간의 몸은 불편하구나. 이게 산다는 것일까.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 Skeleton Unit and #b1 Metus in Exhaust Pile. ",
-      "Once per combat, if you have #b30% of HP or less, you can #yRight-click this relic, add #b1 Undead from Exhaust Pile to hand."
+      "전투 시작시 #b3 스켈레톤과 #b1 메투스 카드를 소멸 카드 더미에 추가합니다. ",
+      "전투당 한 번, 체력이 #b30 % 이하일때, 이 유물을 #y오른클릭하여 소멸 카드 더미에서 언데드 카드를 #b1 장 손패로 불러올 수 있습니다."
     ]
   },
   "aigisMod:Daywalker": {
-    "NAME": "Daywalker",
-    "FLAVOR": "Eden: My memories before I became a vampire? I don't remember...",
+    "NAME": "데이워커",
+    "FLAVOR": "에덴 : 흡혈귀가 되기 전의 기억? 떠오르지 않아...",
     "DESCRIPTIONS": [
-      "#yVampire #yBite is reduced by #b3 instead. ",
-      "When you attack an enemy with #yVampire #yBite, gain #b1 #yTemporary #yHP."
+      "#y마비독의 턴당 감소량이 #b3 이 됩니다. ",
+      "#y마비독을 가진 적을 공격할때, #b1 #y임시체력을 얻습니다."
     ]
   },
   "aigisMod:BastetGem": {
-    "NAME": "Bastet Gem",
-    "FLAVOR": "Saval: The 'Cursed Gem', in return for granting the bearer immense power, they'll continue to devour their soul.",
+    "NAME": "바스테트의 보석",
+    "FLAVOR": "서벌 : 저주받은 보석은 사용자에게 절대적인 힘을 주는 대가로 그 영혼을 계속 잡아먹어.",
     "DESCRIPTIONS": [
-      "The first #b3 times in a combat you #yexhaust a #yCurse, gain #b1 #yStrength."
+      "전투당 #b3 번, #y저주를 #y소멸시키면, #b1 #y힘을 얻습니다."
     ]
   },
 
@@ -371,43 +371,43 @@
 
 
   "aigisMod:ArmoredDecius": {
-    "NAME": "Armored Decius",
-    "FLAVOR": "Meteor: Decius is a despicable man who has no scruples about what he does in order to win!",
+    "NAME": "무장한 데시우스",
+    "FLAVOR": "미티아 : 데시우스는 이기기 위해서는 수단을 가리지 않는 비열한 남자에요!",
     "DESCRIPTIONS": [
-      "At the end of the first #b4 turns, gain #b5 #yBlock.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b25 HP."
+      "첫 #b4 턴은 턴 종료시마다, #b5 #y방어도를 얻습니다.",
+      " 한 맵에 한 번, 전투에서 체력이 #b0 이 되면 #b25 체력을 회복합니다."
     ]
   },
   "aigisMod:MaouDecius": {
-    "NAME": "Maou Mecha Decius",
-    "FLAVOR": "Decius: Aah, I can hear the voice of the stars. What a beautiful tone...",
+    "NAME": "대조 데시우스",
+    "FLAVOR": "데시우스 : 오호라, 별들의 소리가 들려. 이 얼마나 아름다운 음색인가...",
     "DESCRIPTIONS": [
-      "Replaces Armored Decius. Add a Maou Mecha Form to your Deck.",
-      " Once per Act, if your HP becomes #b0 in combat gain #b35 HP. "
+      "무장한 데시우스를 교체합니다. 덱에 대조형태를 #b1 장 추가합니다.",
+      " 한 맵에 한 번, 전투에서 체력이 #b0 이 되면 #b35 체력을 회복합니다. "
     ]
   },
   "aigisMod:MeteorSword": {
-    "NAME": "Meteor Sword Technique",
-    "FLAVOR": "Decius: This is the Special Technique...!? To be able to drop meteors is t-too unfair....",
+    "NAME": "오의 천초유성검",
+    "FLAVOR": "데시우스 : 이것이 오의인가...!? 메테오를 내릴 수 있게 하다니, 대단하군....",
     "DESCRIPTIONS": [
-      "Channel #b1 #yMeteor with #b6 damage at the start of each combat.",
-      " When a card #ychannels a #yMeteor, it is created with #b1 more damage."
+      "전투 시작시 #b6 데미지의 #y메테오 #b1 장을 생성합니다.",
+      " 카드로 생성되는 #y메테오는 데미지가 #b1 증가합니다."
     ]
   },
   "aigisMod:KnightProtection": {
-    "NAME": "Holy Knight's Protection",
-    "FLAVOR": "Cornelia: Even if this is the power of the demons, what I must accomplish remains the same.",
+    "NAME": "성기사의 수호",
+    "FLAVOR": "코넬리아 : 이 힘이 마의 힘이라도, 내가 해야 할 일은 변하지 않아.",
     "DESCRIPTIONS": [
-      "The first time you play an Attack each turn, gain #b3 #yBlock.",
-      " The first time you play a #yDark #yFighter in combat gain #b1 #yBuffer."
+      "각 턴 처음으로 공격 카드를 사용했을시 #b3 #y방어도를 얻습니다.",
+      " 전투에서 처음으로 #y다크파이터를 사용한 경우 #b1 #y버퍼를 얻습니다."
     ]
   },
   "aigisMod:ShieldBless": {
-    "NAME": "Shield Bless",
-    "FLAVOR": "Heios: Even a sword fallen into darkness can protect its brilliance.",
+    "NAME": "쉴드 블레스",
+    "FLAVOR": "헤이오스 : 어둠에 빠진 검이라도 빛을 수호할 수 있어.",
     "DESCRIPTIONS": [
-      "When you play a #yDark #yFighter gain #b1 #yThorns.",
-      " While your #yHP is at #b50% or less, gain #b2 #yDexterity."
+      "#y다크파이터를 사용한 경우 #b1 #y가시를 얻습니다.",
+      " #y체력이 #b50 % 이하일때, #b2 #y민첩을 얻습니다."
     ]
   },
   "aigisMod:SuperMeteor": {
