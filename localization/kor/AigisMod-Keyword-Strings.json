@@ -60,14 +60,18 @@
     "DESCRIPTION": "이 파워를 얻고 2 턴 뒤에 모든 적에게 데미지와 #b2 #y약화와 #b2 #y취약을 부여합니다. 그 후 이 파워는 사라집니다."
   },
   {
-    "PROPER_NAME": "Cursed Rite",
+    "PROPER_NAME": "저주받은 의식",
     "NAMES": [
+      "저주받은 의식",
+      "저주받은 의식을",
+      "저주받은_의식",
+      "저주받은_의식을",
       "Cursed Rite",
       "Cursed_rite.",
       "Cursed_rite",
       "cursed_rite"
     ],
-    "DESCRIPTION": "You can't heal."
+    "DESCRIPTION": "회복불가 상태가 됩니다."
   },
   {
     "PROPER_NAME": "커스보이스",
@@ -84,14 +88,20 @@
     "DESCRIPTION": "다음에 적이 얻을 #b버프를 무효화합니다."
   },
   {
-    "PROPER_NAME": "Air Elemental",
+    "PROPER_NAME": "에어 엘레멘탈",
     "NAMES": [
+      "에어 엘레멘탈",
+      "에어 엘레멘탈을",
+      "에어엘레멘탈",
+      "에어엘레멘탈을",
+      "에어_엘레멘탈",
+      "에어_엘레멘탈을",
       "Air Elemental",
       "Air_elemental.",
       "Air_elemental",
       "air_elemental"
     ],
-    "DESCRIPTION": "When you play a #ySkill, enemy #yloses #yHP equal to stacks. Remove #b1 stack at the end of the turn if enemy #yattacked."
+    "DESCRIPTION": "#y스킬 카드를 사용할시, 적들은 스택과 동일한 양의 #y체력을 #y잃습니다. 적이 공격했다면 턴 종료시 스택을 #b1 감소시킵니다."
   },
   {
     "PROPER_NAME": "트랩",
@@ -118,7 +128,7 @@
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "적이 #y공격할 때마다 #b1 #y힘을 잃습니다. #y퇴마의 #y부적은 턴 시작시마다 #b1 at the start of your turn."
+    "DESCRIPTION": "적이 #y공격할 때마다 #b1 #y힘을 잃습니다. #y퇴마의 #y부적은 턴 시작시마다 #b1 감소합니다."
   },
   {
     "PROPER_NAME": "조시인",
@@ -133,24 +143,30 @@
     "DESCRIPTION": "#y방어되지 #y않은 데미지를 입었을 때, 그 수치와 동일한 양의 #y스택을 감소시킵니다. 턴 시작시, 이 수치가 #b0일 경우, 모든 적을 스턴시키고 이 파워를 제거합니다."
   },
   {
-    "PROPER_NAME": "Ambushed Caravan",
+    "PROPER_NAME": "매복한 캐러밴",
     "NAMES": [
+      "매복한_캐러밴",
+      "매복한_캐러밴을",
+      "매복한캐러밴",
+      "매복한캐러밴을",
       "Ambushed Caravan",
       "Ambushed_caravan.",
       "Ambushed_caravan",
       "ambushed_caravan"
     ],
-    "DESCRIPTION": "#yCurse. Unplayable, retain, innate, cannot be removed from your deck. When you take #yunblocked #ydamage, lose #b8 #ygold."
+    "DESCRIPTION": "#y저주. 사용불가, 보존, 선천성, 덱에서 제거불가. #y방어되지 #y않은 #y데미지를 입은 경우 #b8 #y골드를 잃습니다."
   },
 
   {
     "PROPER_NAME": "암살",
     "NAMES": [
       "암살",
+      "암살시",
+      "암살을",
       "Assassination",
       "assassination"
     ],
-    "DESCRIPTION": "만약 적에게 #y치명타를 가한 경우, 이 카드의 코스트가 #b0 이 된 상태로 #y손패에 돌아옵니다."
+    "DESCRIPTION": "만약 적을 #y쓰러뜨렸을 경우, 이 카드의 코스트가 #b0 이 된 상태로 #y손패에 돌아옵니다."
   },
   {
     "PROPER_NAME": "둔족",
@@ -199,6 +215,7 @@
     "PROPER_NAME": "페어",
     "NAMES": [
       "페어",
+      "페어:",
       "Pair",
       "pair"
     ],
@@ -243,7 +260,7 @@
       "Undead:",
       "undead:"
     ],
-    "DESCRIPTION": "이 카드가 #y소멸 되었을 때, 이 효과가 발동됩니다."
+    "DESCRIPTION": "이 카드가 #y소멸 되었을 때 효과가 발동됩니다."
   },
   {
     "PROPER_NAME": "마비",
@@ -283,7 +300,8 @@
     "PROPER_NAME": "잔여 횟수",
     "NAMES": [
       "잔여횟수",
-      "잔여 횟수"
+      "잔여 횟수",
+      "잔여횟수:"
     ],
     "DESCRIPTION": "일정 횟수 사용시 #y소멸합니다."
   },
@@ -313,14 +331,15 @@
     "DESCRIPTION": "오브 : 무작위의 적에게 데미지를 가합니다. 메테오 카드를 사용할수록 데미지가 증가합니다."
   },
   {
-    "PROPER_NAME": "Dark Fighter",
+    "PROPER_NAME": "다크파이터",
     "NAMES": [
+      "다크파이터",
       "Dark Fighter",
       "Dark_fighter.",
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "If this is in #yhand when you gain #yBlock, reduce this card cost by #b1 for the turn."
+    "DESCRIPTION": "이 카드가 #y손패에 있는 상태에서 #y방어도를 얻으면, 이번 턴 이 카드의 코스트를 #b1 감소시킵니다."
   },
   {
     "PROPER_NAME": "라이프링크",
@@ -341,6 +360,7 @@
     "NAMES": [
       "견고",
       "견고를",
+      "견고:",
       "Fortress",
       "Fortress:",
       "fortress",
@@ -353,6 +373,7 @@
     "NAMES": [
       "강직",
       "강직을",
+      "강직:",
       "Armor",
       "Armor:",
       "armor",
@@ -366,6 +387,7 @@
       "봉인해제",
       "봉인 해제",
       "봉인_해제",
+      "봉인해제:",
       "Release",
       "Release:",
       "release",
@@ -398,14 +420,15 @@
     "DESCRIPTION": "턴 시작시 쌓여있는 스택별로 다른 효과가 발동됩니다. 1)버린 카드 더미에 1 어지러움을 추가합니다. 2)1 손상을 획득합니다. 3)1 약화를 획득합니다. 4+)스택과 동일한 양의 포박을 받습니다."
   },
   {
-    "PROPER_NAME": "Beast Tamer",
+    "PROPER_NAME": "마물술사",
     "NAMES": [
+      "마물술사",
       "Beast Tamer",
       "Dark_fighter.",
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast ."
+    "DESCRIPTION": "#y휘발성, #y소멸. 소멸되었을때 #b1 #y마물을 추가합니다."
   },
   {
     "PROPER_NAME": "임시체력",
