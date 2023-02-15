@@ -1,34 +1,34 @@
 {
         "aigisMod:StrengthDownPotion": {
-                "NAME": "Strength Down Potion",
-                "DESCRIPTIONS": ["Target loses #b", " #yStrength."]
+                "NAME": "빈약 포션",
+                "DESCRIPTIONS": ["#y힘을 #b", " 잃습니다."]
         },
         "aigisMod:StrengthDownPotionEmperor": {
-                "NAME": "Strength Down Potion",
-                "DESCRIPTIONS": ["Target loses #b", " #yStrength."]
+                "NAME": "빈약 포션",
+                "DESCRIPTIONS": ["#y힘을 #b", " 잃습니다."]
         },
         "aigisMod:SlowPotion": {
-                "NAME": "Space Time Potion",
-                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
+                "NAME": "시공 포션",
+                "DESCRIPTIONS": ["#y둔족을 #b", " 부여합니다."]
         },
         "aigisMod:SlowPotionEmperor": {
-                "NAME": "Space Time Potion",
-                "DESCRIPTIONS": ["Target gains #b", " #ySluggish."]
+                "NAME": "시공 포션",
+                "DESCRIPTIONS": ["#y둔족을 #b", " 부여합니다."]
         },
         "aigisMod:CounterPotion": {
-                "NAME": "Counter Potion",
-                "DESCRIPTIONS": ["Gain #b", " #yCounter."]
+                "NAME": "카운터 포션",
+                "DESCRIPTIONS": ["#y카운터를 #b", " 얻습니다."]
         },
         "aigisMod:CounterPotionEmperor": {
-                "NAME": "Counter Potion",
-                "DESCRIPTIONS": ["Gain #b", " #yCounter."]
+                "NAME": "카운터 포션",
+                "DESCRIPTIONS": ["#y카운터를 #b", " 얻습니다."]
         },
         "aigisMod:DemonicDrink": {
-                "NAME": "Demonic Drink",
-                "DESCRIPTIONS": ["Gain #b", " #yDamage #yAura."]
+                "NAME": "악마 드링크",
+                "DESCRIPTIONS": ["#y데미지 #y아우라를 #b", " 얻습니다."]
         },
         "aigisMod:DemonicDrinkEmperor": {
-                "NAME": "Demonic Drink",
-                "DESCRIPTIONS": ["Gain #b", " #yDamage #yAura."]
+                "NAME": "악마 드링크",
+                "DESCRIPTIONS": ["#y데미지 #y아우라를 #b", " 얻습니다."]
         }
 }
