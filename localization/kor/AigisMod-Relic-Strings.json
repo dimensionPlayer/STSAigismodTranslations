@@ -90,163 +90,163 @@
     ]
   },
   "aigisMod:RoyalHighness": {
-    "NAME": "Royal Highness",
-    "FLAVOR": "Sybilla:If we created a kingdom, it would be splendid, don't you think?.",
+    "NAME": "로얄 하이네스",
+    "FLAVOR": "시빌라 : 나와 왕자가 왕국을 만든다면... 분명 멋질거라 생각하지 않아?",
     "DESCRIPTIONS": [
-      "Once per turn, when you draw or play a #yPrincess gain #b1 #yStrength and #b1 #yDexterity for the turn."
+      "한 턴에 한 번, #y프린세스 카드를 뽑거나 사용할 경우 이번 턴 #b1 #y힘과 #b1 #y민첩을 얻습니다."
     ]
   },
   "aigisMod:FidelityHarmony": {
-    "NAME": "Half-Moon's Awakening",
-    "FLAVOR": "Kaguya:It was just a political marriage, but ... I'm glad you were my husband.",
+    "NAME": "반달의 각성",
+    "FLAVOR": "카구야 : 정략결혼이었지만... 난 네가 남편이라서 다행이라 생각해.",
     "DESCRIPTIONS": [
-      "Add #b1 #yKaguya or #yHikage (if you have Kaguya) to your Deck. Each #b5 #yEastern #yCountry or #yShuriken cards you play gain [E] Reset counter on battle end."
+      "덱에 #b1 #y카구야나 #y히카게 (이미 카구야가 있는 경우) 를 추가합니다. #y동쪽 #y나라 카드나 #y수리검을 #b5 장 사용할 때마다 [E] 를 얻습니다. 전투 종료시 카운터가 초기화됩니다."
     ]
   },
   "aigisMod:HardFlame": {
-    "NAME": "Pill of Hard Flame",
-    "FLAVOR": "Setsuna: One of the Oni-bashu, Setsuna, is here! What do you think?　Was it cool?",
+    "NAME": "마신의 환약: 강염",
+    "FLAVOR": "세츠나 : 귀인중 세츠나 등장!! 어때? 멋졌어!?",
     "DESCRIPTIONS": [
-      "#yShuriken Cards deal #b3 more damage. You can #yRight-Click this Relic to lose #b10 #yHP (Intangible won't reduce this damage) and add #b1 #ySetsuna to your #yhand. Usable once per combat."
+      "#y수리검 데미지가 #b3 증가합니다. 이 유물을 #y오른클릭하면 체력을 #b10 잃고 (불가침으로 면역 불가) 손패에 #b1 #y세츠나 카드를 얻습니다. 전투당 한 번 사용 가능합니다."
     ]
   },
   "aigisMod:HeroCrystal": {
-    "NAME": "Hero Crystal",
-    "FLAVOR": "Solais: As a reward for conquering the tower's (Spire's) floors, I'll give you 'Hero Crystals.",
+    "NAME": "영걸결정",
+    "FLAVOR": "솔라스 : (첨)탑 계층을 정복한 보상으로 영걸결정을 드립니다.",
     "DESCRIPTIONS": [
-      "Gain #b1 point for winning a combat. ",
-      "While on the Map screen (outside of combat/event/campfire), if you have #b200 #yGold and #b5 points, #yRight-click this relic to add a #yUncommon #yHero Card. Adding a duplicate upgrades the card instead.",
-      "I can't use this right now...",
-      "Spend 200 gold and 5 points to add a Hero card to your deck."
+      "전투에서 이길 때마다 #b1 포인트를 얻습니다. ",
+      "맵 화면에서 (전투/이벤트/휴식장소 제외), #b200 #y골드와 #b5 포인트가 있을시, 이 유물을 #y오른클릭하면 #y특별 등급의 #y영걸 카드를 얻을 수 있습니다. 이미 소지하고 있는 동명의 카드(희귀 포함)를 선택하면 대신 업그레이드됩니다.",
+      "지금은 사용할 수 없어...",
+      "200 골드와 5 포인트를 소비해 덱에 추가할 영걸 카드를 선택합니다."
     ]
   },
   "aigisMod:DescendantHero": {
-    "NAME": "Descendant Of a Hero",
-    "FLAVOR": "...",
+    "NAME": "영웅의 후예",
+    "FLAVOR": "왕자 : ...",
     "DESCRIPTIONS": [
-      "Draw an additional card at the start of combat. NL Every #b4 combats won, obtain a permanent effect, up to #b4 effects.",
-      " NL #y1. After first turn, draw an additional card each turn.",
-      " NL #y2. Start with an additional [E] each combat.",
-      " NL #y3. Double the first additional (1) effect.",
-      " NL #y4. Gain an [E] on your second turn."
+      "전투 시작시 카드를 #b1 장 추가로 뽑습니다. NL 전투를 #b4 번 이길 때마다, 최대 #b4 개의 영구적 효과를 얻습니다.",
+      " NL #y1. 2 턴 이후에도 카드를 1 장 추가로 뽑습니다.",
+      " NL #y2. 전투 시작시 [E] 를 얻습니다.",
+      " NL #y3. (1) 의 효과가 2 배가 됩니다.",
+      " NL #y4. 2 번째 턴 시작시 [E] 를 얻습니다."
     ]
   },
 
 
   "aigisMod:EmpireHero": {
-    "NAME": "Hero of the Empire",
-    "FLAVOR": "A title bestowed to the strongest in the Empire.",
+    "NAME": "제국의 용사",
+    "FLAVOR": "제국에서 가장 강한 자에게 주어지는 칭호.",
     "DESCRIPTIONS": [
-      "#yStrikes deal #yTrue #yDamage. Every #b5 combats won, obtain a permanent effect, up to #b3 effects.",
-      " NL #y1. #yStrikes and #yDefends gain #b2 Damage/Block.",
-      " NL #y2. When you play an Attack remove your #yWeak debuff.",
-      " NL #y3. When you play a Skill remove your #yVulnerable debuff."
+      "#y타격 카드가 #y관통 #y데미지를 가합니다. 전투를 #b5 번 이길 때마다, 최대 #b3 개의 영구적 효과를 얻습니다.",
+      " NL #y1. #y타격과 #y수비의 효과가 #b2 씩 증가합니다.",
+      " NL #y2. 공격 카드 사용시 #y약화 디버프를 제거합니다.",
+      " NL #y3. 스킬 카드 사용시 #y취약 디버프를 제거합니다."
     ]
   },
 
   "aigisMod:ImperialTactics": {
-    "NAME": "Imperial Tactics",
-    "FLAVOR": "The White Empire's number one strategist who is known as the Undefeated Mastermind.",
+    "NAME": "제국전술",
+    "FLAVOR": "무패의 영걸로 불리는 백의 제국의 제 1 전략가.",
     "DESCRIPTIONS": [
-      "When you play #yLeona or #yLeora, gain [E]",
-      " NL When you play a #yDefend gain #b3 #yCounter."
+      "#y레오나 또는 #y레오라를 사용할시 [E] 를 얻습니다.",
+      " NL #y수비 카드 사용시 #b3 #y카운터를 얻습니다."
     ]
   },
   "aigisMod:ImperialKnight": {
-    "NAME": "Imperial Knight Escort",
-    "FLAVOR": "I am known as Lux. I am a proud knight of the White Empire.",
+    "NAME": "제국 기사의 맹세",
+    "FLAVOR": "나의 이름은 루크스. 백의 제국의 명예로운 기사다.",
     "DESCRIPTIONS": [
-      "Star each combat with #b1 #yImperial #yKnight #yLux in your hand.",
-      " NL When you draw an #yImperial #yKnight gain #b1 #yStrength for the turn."
+      "전투 시작시 #y제국 #y기사 #y루크스 #b1 장을 손패에 추가합니다.",
+      " NL #y제국 #y기사 카드를 뽑았을시 이번 턴 #b1 #y힘을 얻습니다."
     ]
   },
   "aigisMod:DemonicTerritory": {
-    "NAME": "Demonic Territory",
-    "FLAVOR": "Lapis: I'll lend you my power...be thankful.",
+    "NAME": "악마의 영역",
+    "FLAVOR": "라피스 : 힘을 빌려주지... 감사하게 생각하도록.",
     "DESCRIPTIONS": [
-      "For the first #b5 turns in a combat, gain #b1 Damage Aura.",
-      " NL At the end of your turn, if you played a #yDemon Power card, gain block equal to Damage Aura."
+      "첫 #b5 턴간, #b1 데미지 아우라를 얻습니다.",
+      " NL 턴 종료시 #y데몬 파워 카드를 사용한 경우, 데미지 아우라 수치와 동일한 방어도를 얻습니다."
     ]
   },
   "aigisMod:ImperialAgent": {
-    "NAME": "Imperial Dark Bureau",
-    "FLAVOR": "Viktor: I was once known as the Empire’s most heinous criminal.",
+    "NAME": "제국암부",
+    "FLAVOR": "빅터 : 나는 제국을 떨게 만들었던 악명 높은 대죄인이다.",
     "DESCRIPTIONS": [
-      "When an enemy is #ydefeated, apply #b2 #yWeak and #b2 #yVulnerable to all enemies."
+      "적을 #y쓰러뜨렸을 때, 모든 적에게 #b2 #y약화와 #b2 #y취약을 부여합니다."
     ]
   },
   "aigisMod:WhiteDragon": {
-    "NAME": "White Dragon's Preparations",
-    "FLAVOR": "Sabein: No longer do such things as race or nationality divide us.",
+    "NAME": "백룡의 대비",
+    "FLAVOR": "서베인 : 이제 종족도 나라도 상관없다.",
     "DESCRIPTIONS": [
-      "#yThree times per combat: if you play an #yImperial and a #yDemon in the same turn gain [E]"
+      "전투당 #b3 차례, #y제국 카드와 #y데몬 카드를 같은 턴에 사용한 경우 [E] 를 얻습니다."
     ]
   },
   "aigisMod:ImperialSniper": {
-    "NAME": "Imperial Sniper",
-    "FLAVOR": "Ralph became the leader of the sniper unit as a result of his prowess in rapid fire combat.",
+    "NAME": "제국 저격병",
+    "FLAVOR": "랄프는 특기인 빠른 사격을 통해 저격부대의 리더가 되었다.",
     "DESCRIPTIONS": [
-      "During #yBoss or #yElite combats, if you defeat a enemy, gain [E] and #b2 #yStrength."
+      "보스 또는 엘리트 전투에서, 적을 쓰러뜨린 경우 #b2 #y힘과 [E] 를 얻습니다."
     ]
   },
   "aigisMod:ImperialDeploy": {
-    "NAME": "Imperial Rapid Deployment",
-    "FLAVOR": "White Emperor: How many victories that can be obtained.",
+    "NAME": "제국 즉응전개",
+    "FLAVOR": "백의 황제 : 얼마나 많은 승리를 거둘 수 있을까...",
     "DESCRIPTIONS": [
-      "If you used only #yImperial #ycards in a turn, gain [E] next turn.",
-      " NL Start each combat with an #yImperial #yAirship in your hand."
+      "이번 턴 #y제국 카드만 사용한 경우, 다음 턴 [E] 를 얻습니다.",
+      " NL 매 전투 시작시 #y제국 #y비공정 카드를 손패에 추가합니다."
     ]
   },
   "aigisMod:ImperialInfantry": {
-    "NAME": "Imperial Heavy Infantry",
-    "FLAVOR": "Dwight: My loyalty will not waver, so I will not remove this armor.",
+    "NAME": "제국 중장보병",
+    "FLAVOR": "드와이트 : 나의 충성심은 변함이 없기에 이 갑옷을 벗지 않을 것입니다.",
     "DESCRIPTIONS": [
-      "#yDefends gain #b1 more Block.",
-      " NL Each time you play #b8 #yImperial cards you gain #b4 Block."
+      "#y수비로 방어도를 #b1 더 얻습니다.",
+      " NL #b8 #y제국 카드를 사용할 때마다 #b4 방어도를 얻습니다."
     ]
   },
   "aigisMod:DemonCommand": {
-    "NAME": "Demon Chief's Command",
-    "FLAVOR": "Mephisto: It is barbaric to obtain everything with might. Allow me to test your intellect.",
+    "NAME": "마신단장의 구령",
+    "FLAVOR": "메피스토 : 만사를 힘으로만 임하는 것은 오랑캐의 사고다. 네 지성을 시험해보지.",
     "DESCRIPTIONS": [
-      "Once per combat you can #yRight #yClick this relic to #yExhaust #b1 card in your hand.",
-      " NL If you exhaust a #yDemon with this relic gain #b1 #yStrength."
+      "전투당 한 번 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 #y소멸시킬 수 있습니다.",
+      " NL 만약 이 유물로 #y데몬 카드를 소멸시켰을 경우 #b1 #y힘을 얻습니다."
     ]
   },
   "aigisMod:AdamasChosen": {
-    "NAME": "Chosen of Adamas",
-    "FLAVOR": "White Emperor: It's not just my honor and status, but also precious people, beloved ones, that must be protected.",
+    "NAME": "아다마스에게 선택된 자",
+    "FLAVOR": "백의 황제 : ... 패배하면 모든 것을 잃게 된다. 명예나 지위뿐만 아니라 소중한 자들도.",
     "DESCRIPTIONS": [
-      "#yStrikes and #yDefends become cost #b0."
+      "#y타격과 #y수비 카드의 코스트가 #b0 이 됩니다."
     ]
   },
   "aigisMod:AerialFight": {
-    "NAME": "Aerial Fight",
-    "FLAVOR": "Keitridge: Higher than the heavens, faster than the wind! I'm cool as I fly!.",
+    "NAME": "공중전",
+    "FLAVOR": "케이트릿지 : 하늘보다 높게, 바람보다 빠르게! 하늘을 나는 나는 멋져!",
     "DESCRIPTIONS": [
-      "#yTwice per turn, while you have cards in your #ydraw #ypile, when you draw an #yAir #ySignal draw #b1 card."
+      "턴당 #b2 회, #y뽑을 #y카드 더미에 카드가 남아있을 때 #y에어 #y시그널을 뽑는다면 카드를 #b1 장 뽑습니다."
     ]
   },
   "aigisMod:MagnumOpus": {
-    "NAME": "Magnum Opus",
-    "FLAVOR": "Helmine: You see, I'm a certified alchemist of the White Empire.",
+    "NAME": "매그넘 오푸스",
+    "FLAVOR": "헤르미네 : 이렇게 보여도 백의 제국 공인의 연금술사라구?",
     "DESCRIPTIONS": [
-      "Gain #b1 Potion slot. When you use a #yPotion, #yupgrade all #yCommon and #yUncommon cards in your hand during this #ycombat."
+      "포션 슬롯을 #b1 얻습니다. #y포션 사용시, 이번 전투 동안 손패의 모든 #y일반과 #y특별 카드를 업그레이드합니다."
     ]
   },
   "aigisMod:EmperorAwakening": {
-    "NAME": "Emperor Awakening",
-    "FLAVOR": "White Emperor: No, living within the Empire, is synonymous with continuing to win.",
+    "NAME": "황제각성",
+    "FLAVOR": "백의 황제 : ...아니, 제국에서 산다는 것은 언제나 승리하는 것을 의미한다.",
     "DESCRIPTIONS": [
-      "Start each #yElite and #yBoss combat with #b3 #yStrength and #b3 #yDexterity."
+      "엘리트와 보스 전투에서 #b3 #y힘과 #b3 #y민첩을 얻은채 시작합니다."
     ]
   },
   "aigisMod:DemonicRelease": {
-    "NAME": "Demonic Release",
-    "FLAVOR": "Lily: Thank you for helping Lily who became a demon.",
+    "NAME": "마의 해방",
+    "FLAVOR": "릴리 : 마물이 된 릴리를 도와주셔서 감사합니다.",
     "DESCRIPTIONS": [
-      "The first #yStrike you play each turn deals double damage. ",
-      "Once per turn: When you play a #yStrike or #yDefend you can #yExhaust #b1 #yDemon #ycard from #yDraw #yPile."
+      "매 턴 첫 번째로 사용하는 #y타격 카드의 데미지가 #b2 배가 됩니다. ",
+      "한 턴에 한 번, #y타격 또는 #y수비 카드를 사용했을시 #y뽑을 #y카드 더미에서 #b1 #y데몬 카드를 소멸시킬 수 있습니다."
     ]
   },
 
