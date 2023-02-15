@@ -1,92 +1,92 @@
 {
   "aigisMod:PosterInvitation": {
-    "NAME": "Poster Girl's Invitation",
-    "FLAVOR": "Junon: My shop's pretty popular, y'know!.",
+    "NAME": "간판소녀의 권유",
+    "FLAVOR": "쥬논 : 제 가게는 꽤 유명하다구요?",
     "DESCRIPTIONS": [
-      "Add #b1 Junon upgraded to your deck. Receive an extra #ycard #yreward on normal and elite combats, but only includes common cards."
+      "업그레이드된 #y쥬논 #b1 장을 덱에 추가합니다. 일반 전투와 엘리트 전투에서 얻는 #y카드 #y보상이 증가하지만, 일반 등급 카드만 증가합니다."
     ]
   },
   "aigisMod:HappyWishes": {
-    "NAME": "Smile of Happy Wishes",
-    "FLAVOR": "Rozette: I wield this sword because of my dead kingdom",
+    "NAME": "근하의 미소",
+    "FLAVOR": "로젯트 : 망국을 위해 저는 이 검을 휘두릅니다.",
     "DESCRIPTIONS": [
-      "Upgrade #b1 #yRozette in your Deck or add #b1 #yRozette upgraded to your deck. When you add a common card to your deck, #yupgrade it."
+      "업그레이드된 #y로젯트 #b1 장을 덱에 추가하거나 덱의 #y로젯트를 #b1 장 업그레이드합니다. 일반 등급 카드를 덱에 추가했을때, #y업그레이드합니다."
     ]
   },
   "aigisMod:Ate": {
-    "NAME": "Ate",
-    "FLAVOR": "Kibahime: Offending an oni is really scary, okay?",
+    "NAME": "아테",
+    "FLAVOR": "귀인희 : 오니를 화나게 만들면 무서운 모습을 보게 될 거에요.",
     "DESCRIPTIONS": [
-      "When you draw a card with an original cost of #b4 gain [E] "
+      "본래 코스트가 #b4 인 카드를 뽑으면 [E] 를 얻습니다."
     ]
   },
   "aigisMod:DarkGuild": {
-    "NAME": "Dark Guild's Servant",
-    "FLAVOR": "Irene: From personal care to assassinations and intelligence gathering, please entrust me with any task.",
+    "NAME": "어둠 길드의 하인",
+    "FLAVOR": "아이린 : 신변보장부터 암살, 첩보까지, 뭐든 맡겨주세요.",
     "DESCRIPTIONS": [
-      "When #yAssassination is triggered, draw #b1 card and gain #y8 Gold (Gold gain is once per combat)."
+      "#y암살이 발동되면, 카드를 #b1 장 뽑고 #y8 골드를 얻습니다 (골드는 전투당 1 번만 가능)"
     ]
   },
   "aigisMod:MagicAcceleration": {
-    "NAME": "Magic Acceleration",
-    "FLAVOR": "Towa: Allow me to show you the power as the Lord of Time.",
+    "NAME": "마도가속",
+    "FLAVOR": "토와 : 시간의 지배자가 가진 힘을 보여드리죠.",
     "DESCRIPTIONS": [
-      "#ySluggish will not remove #ySlow. ",
-      " When you play a #yWitch, draw a card."
+      "#y둔족이 #y둔화를 제거하지 않게 됩니다. ",
+      " #y윗치 카드를 사용하면, 1 장 뽑습니다."
     ]
   },
   "aigisMod:WhiteWitch": {
-    "NAME": "White Witch's Wisdom",
-    "FLAVOR": "Belinda: Mother is a busybody. I can do it myself, but...",
+    "NAME": "백마녀의 지혜",
+    "FLAVOR": "벨린다 : 엄마는 늘 참견하세요, 저 혼자서 할 수 있는데도...",
     "DESCRIPTIONS": [
-      "Enemies start with #b1 #ySluggish (temporal #ySlow).",
-      " If you use #b2 #yWitch cards in a single turn, deal #b3 damage to all enemies."
+      "전투 시작시 모든 적들에 #b1 #y둔족 (일시적 #y둔화) 을 부여합니다.",
+      " 한 턴에 #b2 장의 #y윗치 카드를 사용하면, 모든 적에게 #b3 데미지를 가합니다."
     ]
   },
   "aigisMod:HealingTreasure": {
-    "NAME": "Treasure of Healing",
-    "FLAVOR": "Liana: I don't want to just heal wounds, but hearts as well.",
+    "NAME": "치유의 지보",
+    "FLAVOR": "리아나 : 상처뿐만이 아니라 마음도 치유하고 싶어요.",
     "DESCRIPTIONS": [
-      "When you recover #gHP, exhaust #b1 random #yStatus Card from #yhand, #ydiscard or #ydraw #ypile."
+      "#g체력을 회복했을때, 덱에서 무작위 #y상태이상 카드 #b1 장을 소멸시킵니다."
     ]
   },
   "aigisMod:DarknessAura": {
-    "NAME": "Suppressing Darkness Aura",
-    "FLAVOR": "Dark Knight: I already gave up mine own life. Use me as naught more than a sacrificial pawn.",
+    "NAME": "절: 암흑오라",
+    "FLAVOR": "암흑기사 : 이미 버린 목숨이다. 장기말로라도 써라.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add #b1 #yDark #yKnight (card) to hand.",
-      " If you played no #bAttack cards in a turn apply #b1 #yWeak to all enemies and gain #b8 #yblock."
+      "전투 시작시 #b1 #y암흑 #y기사 카드를 손패에 넣습니다.",
+      " 한 턴에 #y공격 카드를 사용하지 않았을 경우 모든 적에게 #b1 #y약화를 부여하고 #b8 #y방어도를 얻습니다."
     ]
   },
   "aigisMod:AegisTreasure": {
-    "NAME": "Sacred Treasure's Successor",
-    "FLAVOR": "Anna: The sacred treasures that are the arms of Aigis were originally used by the gods.",
+    "NAME": "신기의 계승자",
+    "FLAVOR": "안나 : 아이기스님의 무구인 신기는 본래 신이 사용하던 것입니다.",
     "DESCRIPTIONS": [
-      "Gain #b1 #yDexterity at the start of each combat. Add #b1 Sacred Treasure of Aigis to your Deck.",
-      "When you play an #ySkill gain #b1 #ycounter."
+      "전투 시작시마다 #b1 #y민첩을 얻습니다. #y아이기스의 #y신기 카드를 #b1 장 덱에 넣습니다.",
+      "#y스킬 카드를 사용할 때마다 #b1 카운터를 얻습니다."
     ]
   },
   "aigisMod:GodSlaying": {
-    "NAME": "Title:God Slaying Hero",
-    "FLAVOR": "Let me give you, who is the hero that prevailed over Keraunos, the sacred treasure of the goddess",
+    "NAME": "신살의 영웅",
+    "FLAVOR": "빙의된 소녀 : 케라우노스에게 승리한 당신에게, 그 여신이 갖고 있던 신기를 드리겠습니다.",
     "DESCRIPTIONS": [
-      "Add #b1 Sacred Treasure of Keraunos to your Deck.",
-      "At the end of your turn, if you have no [E] deal #b5 damage to all enemies."
+      "#y케라우노스의 #y신기 카드를 #b1 장 덱에 넣습니다.",
+      "턴 종료시 [E] 가 없다면 모든 적에게 #b5 데미지를 가합니다."
     ]
   },
   "aigisMod:HeroKing": {
-    "NAME": "Hero King's Successor",
-    "FLAVOR": "Sybilla: Everyone is waiting for the Prince's words. The words of the new Hero King.",
+    "NAME": "영웅왕을 잇는 자",
+    "FLAVOR": "시빌라 : 모두가 왕자의 말을 기다리고 있어. 새로운 영웅왕의 말을.",
     "DESCRIPTIONS": [
-      "Add #b1 Sword of Salvation to your Deck.",
-      "At the end of your turn, if you have no cards in hand, gain #b1 #yStrength and #b1 #yDexterity."
+      "#y구세의 #y검 카드를 #b1 장 덱에 넣습니다.",
+      "턴 종료시 손패가 없다면 #b1 #y힘과 #b1 #y민첩을 얻습니다."
     ]
   },
   "aigisMod:Fortress": {
-    "NAME": "Impenetrable Fortress",
-    "FLAVOR": "Louise: Even if there is no country, I will fight for the remaining people.",
+    "NAME": "난공불락의 요새",
+    "FLAVOR": "루이즈 : 나라는 없어졌어도 남은 백성들을 위해 싸우겠습니다.",
     "DESCRIPTIONS": [
-      "Start the combat with #b2 #yDexterity. At the start of every turn increase the #ycost of a #yrandom card in your hand by #b1 for the turn."
+      "전투 시작시 #b2 #y민첩을 얻습니다. 턴 시작시마다 손패의 무작위 카드 #b1 장의 코스트를 #b1 증가시킵니다."
     ]
   },
   "aigisMod:RoyalHighness": {
