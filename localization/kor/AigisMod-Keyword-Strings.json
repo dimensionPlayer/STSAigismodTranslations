@@ -121,14 +121,16 @@
     "DESCRIPTION": "적이 #y공격할 때마다 #b1 #y힘을 잃습니다. #y퇴마의 #y부적은 턴 시작시마다 #b1 at the start of your turn."
   },
   {
-    "PROPER_NAME": "Corpse Marionette",
+    "PROPER_NAME": "조시인",
     "NAMES": [
+      "조시인",
+      "조시인을",
       "Corpse Marionette",
       "Corpse_marionette.",
       "Corpse_marionette",
       "corpse_marionette"
     ],
-    "DESCRIPTION": "When you take #yunblocked damage, reduce #ystacks equal to that amount. At turn start, if this has #b0 #ystacks, stun all enemies and remove this power."
+    "DESCRIPTION": "#y방어되지 #y않은 데미지를 입었을 때, 그 수치와 동일한 양의 #y스택을 감소시킵니다. 턴 시작시, 이 수치가 #b0일 경우, 모든 적을 스턴시키고 이 파워를 제거합니다."
   },
   {
     "PROPER_NAME": "Ambushed Caravan",
