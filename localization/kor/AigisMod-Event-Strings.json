@@ -1,56 +1,56 @@
 {
   "aigisMod:TowerOfHeroes": {
-    "NAME": "Tower of heroes",
+    "NAME": "영걸의 탑",
     "DESCRIPTIONS": [
-      "You reach a floor still recognizable as the Tower of Heroes. NL The Heroes overseeing the tower are now giving you a choice: NL They can lend you a portion of their power NL OR NL You can test your determination and fight for a greater power.",
-      "Confident with your decision, you leave the floor and continue your adventure.",
-      "You will have a tremendous power at your command.",
-      "You surpassed their expectations."
+      "익숙한 영걸탑 계층에 도착했습니다. NL 탑을 관리하는 영걸들은 당신에게 선택지를 제시했습니다: NL 영걸의 힘을 일부 빌려가거나 NL 혹은 NL 스스로의 힘을 증명하고 전투를 통해 더 큰 힘을 얻는 것.",
+      "자신의 선택을 믿으며, 당신은 그 층을 떠나 여정을 계속합니다.",
+      "당신의 선택은 큰 힘을 가져다 줄 것입니다.",
+      "당신은 그들의 기대에 응답했습니다."
     ],
     "OPTIONS": [
-      "[Recruit] #gGain #gan #gUncommon #gHero #gCard.",
-      "[Fight] #gUpgrade #gan #gUncommon #gHero #gCard #gto #gRare.",
-      "[Leave]",
-      "Choose a Hero card to add to your deck.",
-      "[Recruit] #gGain #ga #grare #gHero #gCard.",
-      "[LOCKED] You don't have a Hero card to upgrade to rare."
+      "[힘을 빌리다] #g특별 #g영걸 #g카드를 #g획득합니다.",
+      "[전투] #g특별 #g영걸 #g카드를 #g희귀 #g영걸 #g카드로 #g업그레이드합니다.",
+      "[떠난다]",
+      "덱에 추가할 영걸 카드를 선택하십시오.",
+      "[힘을 빌리다] #g희귀 #g영걸 #g카드로 #g업그레이드합니다.",
+      "[잠김] 희귀 영걸 카드로 업그레이드할 영걸 카드가 없습니다."
     ]
   },
 
   "aigisMod:AigisShrine": {
-    "NAME": "Aigis Shrine",
+    "NAME": "아이기스 신전",
     "DESCRIPTIONS": [
-      "You come across a familiar shrine. NL It is a manifestation of the Goddess Aigis. NL You can receive a blessing from the Goddess.",
-      "You leave the shrine to continue with your adventure."
+      "익숙한 신전에 도착했습니다. NL 여신 아이기스를 모시는 신전입니다. NL 당신은 여신의 가호를 받을 수 있습니다.",
+      "당신은 신전을 떠나 여정을 계속합니다."
     ],
     "OPTIONS": [
-      "[Donate] #gOffer #b100 #gGold #gto #gobtain #ga #gRelic.",
-      "[Pray] #gUpgrade #ga #gCard",
-      "[Summon] #gChoose #b1 #gof #b20 #gCards #gto #gadd #gto #gyour #gDeck.",
-      "[Leave]",
-      "Choose a card to add to your deck.",
-      "[LOCKED] You don't have enough Gold(100).",
-      "[LOCKED] You don't have a card to upgrade.",
-      "Choose a card to upgrade."
+      "[기부] #g100 #b골드를 #g바치고 #g유물을 #g얻습니다.",
+      "[기도] #g카드를 #g업그레이드합니다.",
+      "[소환] #g20장 #b중 #g1장을 #b선택해 #g덱에 #g넣습니다.",
+      "[떠난다]",
+      "덱에 추가할 카드를 선택하십시오.",
+      "[잠김] 골드가 부족합니다 (100).",
+      "[잠김] 업그레이드할 카드가 없습니다.",
+      "업그레이드할 카드를 고르십시오."
     ]
   },
 
   "aigisMod:MilitaryExercise": {
-    "NAME": "Military Exercise",
+    "NAME": "군사훈련",
     "DESCRIPTIONS": [
-      "The Imperial reached the meeting point with the Kingdom army. NL Since there is time before your expedition continues you can spend it to strengthen your army.",
-      "You choose to reorder your units.",
-      "You choose to train with your own army.",
-      "You awakened a new power after this battle."
+      "제국군은 왕국군과의 합류지점에 도착했습니다. NL 원정 재개까지 시간이 남았기에 병력을 강화할 수 있을 것입니다.",
+      "당신은 부대를 재편성하기로 했습니다.",
+      "당신은 휘하 부대들과 훈련하기로 했습니다.",
+      "당신은 새로운 힘에 눈뜨기 위해 전투를 결심합니다."
     ],
     "OPTIONS": [
-      "[Regroup] #gAdd #ga #gCard to your deck.",
-      "[Train] #gUpgrade #ga #gCard.",
-      "[Fight] #gChallenge #rThe #rPrince.",
-      "[Leave]",
-      "[LOCKED] You don't have any cards to upgrade.",
-      "Choose a card to upgrade",
-      "[Awaken] #gGain #ga #gRelic."
+      "[재편성] #g덱에 #g새로운 #g카드를 #g추가합니다.",
+      "[훈련] #g카드를 #g업그레이드합니다.",
+      "[전투] #r왕국군과 #r전투합니다.",
+      "[떠난다]",
+      "[잠김] 업그레이드할 카드가 없습니다.",
+      "업그레이드할 카드를 고르십시오.",
+      "[각성] #g유물을 #g얻습니다."
     ]
   },
 
