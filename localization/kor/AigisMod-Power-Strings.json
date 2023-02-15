@@ -1,77 +1,77 @@
 {
         "aigisMod:CursedRitesPower": {
-                "NAME": "Cursed Rite",
-                "DESCRIPTIONS": ["You can't heal while you have this power. Remove #b1 stack at your end of turn."]
+                "NAME": "저주받은 의식",
+                "DESCRIPTIONS": ["회복불가 상태가 됩니다. 턴 종료시 #b1 스택 감소합니다."]
         },
 
         "aigisMod:Geotoken": {
-                "NAME": "Geotoken",
-                "DESCRIPTIONS": ["On turn end, gain #b" , " Temporary HP."]
+                "NAME": "지오토큰",
+                "DESCRIPTIONS": ["턴 종료시 임시체력 #b" , " 를 얻습니다."]
         },
 
         "aigisMod:DamageAura": {
-                "NAME": "Damage aura",
-                "DESCRIPTIONS": ["On turn end, enemies receive #b" , " damage."]
+                "NAME": "데미지 아우라",
+                "DESCRIPTIONS": ["턴 종료시 모든 적에게 #b" , " 데미지를 가합니다."]
         },
 
         "aigisMod:Ninjutsu": {
-                "NAME": "Ninjutsu",
-                "DESCRIPTIONS": ["At the start of your turn, create a #yshuriken. #yShurikens gain #b", " extra damage and #b", " extra hits when created."]
+                "NAME": "인술",
+                "DESCRIPTIONS": ["턴 시작시 #y수리검을 획득합니다. #y수리검은 #b", " 추가 데미지와 #b", " 회 추가 타격을 가합니다."]
         },
 
         "aigisMod:AzamiNinjutsuPower": {
-                "NAME": "Azami Ninjutsu",
-                "DESCRIPTIONS": ["On enemy death, add to hand #b1 shuriken."]
+                "NAME": "아자미의 인술",
+                "DESCRIPTIONS": ["적을 쓰러뜨릴 때마다 #b1 수리검을 얻습니다."]
         },
 
         "aigisMod:CounterPower": {
-                "NAME": "Counter",
-                "DESCRIPTIONS": ["Deal, #b", " damage back to enemies when attacked. Remove this power at start of turn."]
+                "NAME": "카운터",
+                "DESCRIPTIONS": ["공격한 적에게 #b", " 데미지를 부여합니다. 턴 시작시 제거됩니다."]
         },
 
         "aigisMod:LoseDamageAura": {
-                "NAME": "Lose Damage Aura",
-                "DESCRIPTIONS": ["On start of turn, lose #r", " Damage Aura."]
+                "NAME": "데미지 아우라 감소",
+                "DESCRIPTIONS": ["턴 시작시 데미지 아우라를 #r", " 잃습니다."]
         },
 
         "aigisMod:Sluggish": {
-                "NAME": "Sluggish",
-                "DESCRIPTIONS": ["On end of turn, reduce #b1 stack, remove #ySlow when this has no stacks."]
+                "NAME": "둔족",
+                "DESCRIPTIONS": ["턴 종료시 #b1 스택 감소합니다. 0 이 되었을 때 #y둔화를 제거합니다."]
         },
 
         "aigisMod:ArmorSmith": {
-                "NAME": "ArmorSmith",
-                "DESCRIPTIONS": ["On start of turn, upgrade #b", " non-hero skill cards in hand."]
+                "NAME": "갑옷장인",
+                "DESCRIPTIONS": ["턴 시작시 손패의 영걸이 아닌 스킬 카드를 #b", " 장 업그레이드합니다."]
         },
 
         "aigisMod:SwordSmith": {
-                "NAME": "SwordSmith",
-                "DESCRIPTIONS": ["On start of turn, upgrade #b", " non-hero attack cards in hand."]
+                "NAME": "무기장인",
+                "DESCRIPTIONS": ["턴 시작시 손패의 영걸이 아닌 공격 카드를 #b", " 장 업그레이드합니다."]
         },
 
         "aigisMod:RagingFlameFormation": {
-                "NAME": "Flame Formation",
-                "DESCRIPTIONS": ["Once per turn, for each #b", " attacks played, gain #b", " energy.", "You played #b3 attack cards, power activated this turn."]
+                "NAME": "열화의 진",
+                "DESCRIPTIONS": ["한 턴에 한 번, 공격 카드를 #b", " 장 사용했을 때, 에너지를 #b", " 얻습니다.", "공격 카드를 #b3 장 사용하여 효과가 이미 발동하였습니다."]
         },
 
         "aigisMod:SteamGuardianPower": {
-                "NAME": "Steam Guardian",
-                "DESCRIPTIONS": ["You receive #b", "% less damage when #yattacked. Damage by #ylose #yHP and #ythorns is not reduced."]
+                "NAME": "스팀 가디언",
+                "DESCRIPTIONS": ["#y공격받았을 때 데미지를 #b", "% 덜 받습니다. #y체력 #y소비나 #y가시로 인한 데미지는 감소되지 않습니다."]
         },
 
         "aigisMod:SacrificePower": {
-                "NAME": "Sacrifice",
-                "DESCRIPTIONS": ["Increase this power #gheal when taking damage or HP loss. At the start of your next turn, #gheal half of #b", " and remove this power."]
+                "NAME": "희생",
+                "DESCRIPTIONS": ["데미지를 받거나 체력을 잃었을 때 #g증가합니다. 다음 턴 시작시, #b", " 의 절반을 #g회복하고 이 파워를 제거합니다."]
         },
 
         "aigisMod:EliteAssaultCommand": {
-                "NAME": "Assault Command",
-                "DESCRIPTIONS": ["If you play #b", " cards, gain #b", " energy and apply #b", " Vulnerable to enemies.", "If you play #b", " card, gain #b"]
+                "NAME": "돌격명령",
+                "DESCRIPTIONS": ["카드를 #b", " 장 사용시 #b", " 에너지를 얻고 적에게 #b", " 취약을 부여합니다.", "카드를 #b", " 장 사용시, #b 를 얻습니다."]
         },
 
         "aigisMod:OutlawMaid": {
-                "NAME": "Outlaw Maid",
-                "DESCRIPTIONS": ["If you play #b", " cards with #yassassination , gain #b", " #yStrength.", "If you play #b", " card with #yassassination, gain #b"]
+                "NAME": "무법자 메이드",
+                "DESCRIPTIONS": ["#y암살 카드를 #b", " 장 사용시 #b", " #y힘을 얻습니다.", "#y암살 카드를 #b", " 장 사용시, #b" 를 얻습니다."]
         },
 
         "aigisMod:BloomPetal": {
