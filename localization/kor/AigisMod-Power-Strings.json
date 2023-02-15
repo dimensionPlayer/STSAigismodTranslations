@@ -75,197 +75,197 @@
         },
 
         "aigisMod:BloomPetal": {
-                "NAME": "Bloom Petal",
-                "DESCRIPTIONS": ["On your #b", "nd turn end, all enemies take #b", " damage and gain #b2 #yWeak and #b2 #yVulnerable, then remove this power.",
-                                 "On your next turn end, all enemies take #b", " damage and gain #b2 #yWeak and #b2 #yVulnerable, then remove this power."]
+                "NAME": "블룸 페탈",
+                "DESCRIPTIONS": ["#b", "턴 종료 후, 모든 적이 #b", " 데미지를 입고 #b2 #y약화와 #b2 #y취약을 얻습니다. 그 뒤 이 파워를 제거합니다.",
+                                 "다음 턴 종료 후, 모든 적이 #b", " 데미지를 입고 #b2 #y약화와 #b2 #y취약을 얻습니다. 그 뒤 이 파워를 제거합니다."]
         },
         "aigisMod:CalamityAverting": {
-                "NAME": "Calamity Averting",
-                "DESCRIPTIONS": ["On Death, if you have Calamity Averting Mirror on hand, use it to heal instead of dying."]
+                "NAME": "피화예견",
+                "DESCRIPTIONS": ["사망시 손패에 피화예견의 거울이 있는 경우, 소생할 수 있습니다."]
         },
         "aigisMod:ForgeEquipment": {
-                "NAME": "Forge Equipment",
-                "DESCRIPTIONS": ["Everytime a skill is played, gain #b", " #yDexterity for the turn.", " Everytime an attack is played, gain #b", " #yStrength for the turn."]
+                "NAME": "무구장인",
+                "DESCRIPTIONS": ["스킬 카드를 사용할 때마다 이번 턴 #b", " #y민첩을 얻습니다.", " 공격 카드를 사용할 때마다 이번 턴 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:SpeedCooking": {
-                "NAME": "Speed Cooking",
-                "DESCRIPTIONS": ["At the start of turn, gain #b", " #yStrength and #b", " #yDexterity."]
+                "NAME": "스피드 쿡킹",
+                "DESCRIPTIONS": ["턴 시작시 #b", " #y힘과 #b", " #y민첩을 얻습니다."]
         },
         "aigisMod:NumbingPoisonPower": {
-                "NAME": "Numbing Poison",
-                "DESCRIPTIONS": ["Attacks with #yshurikens will give #b", " #ypoison to target monster."]
+                "NAME": "비독락",
+                "DESCRIPTIONS": ["#y수리검 사용시 타켓에 #b", " #y중독을 부여합니다."]
         },
         "aigisMod:AllTreasure": {
-                "NAME": "All Treasure",
-                "DESCRIPTIONS": ["On Battle end, remove the following #yrelics: "]
+                "NAME": "올 트레져",
+                "DESCRIPTIONS": ["전투 종료시 이하의 #y유물을 삭제합니다: "]
         },
         "aigisMod:LightningSpeed": {
-                "NAME": "Lightning Speed",
-                "DESCRIPTIONS": ["Once per turn, when you deal unblocked damage, gain #b", " #yStrength.", "This power has been activated this turn."]
+                "NAME": "질풍신뢰",
+                "DESCRIPTIONS": ["한 턴에 한 번, 방어되지 못한 데미지를 주었을 경우 #b", " #y힘을 얻습니다.", "이번 턴 이미 효과가 발동되어 있습니다."]
         },
         "aigisMod:PrincessMaid": {
-                "NAME": "Princess Maid",
-                "DESCRIPTIONS": ["At turn start, add #b", " princess card from your deck.", "Choose a card to add to hand.", "I don't have a princess card in my deck..."]
+                "NAME": "공주의 메이드",
+                "DESCRIPTIONS": ["턴 시작시, 덱의 프린세스 카드를 #b", " 장 가져옵니다.", "손패에 넣을 카드를 선택하십시오.", "프린세스 카드가 덱에 없어..."]
         },
         "aigisMod:EasternMaid": {
-                "NAME": "Eastern Maid",
-                "DESCRIPTIONS": ["At turn start, choose #b", " eastern cards from hand, reduce their cost by #b1 this turn."]
+                "NAME": "동쪽 나라의 궁녀",
+                "DESCRIPTIONS": ["턴 시작시, 손패의 동쪽 나라 카드를 #b", " 장 선택합니다. 이번 턴 그 카드의 코스트를 #b1 감소시킵니다."]
         },
         "aigisMod:Blitzkrieg": {
-                "NAME": "Blitzkrieg",
-                "DESCRIPTIONS": ["At turn end, if you have no energy, you can choose #b", " Imperial cards to play from hand."]
+                "NAME": "블릿츠크릭",
+                "DESCRIPTIONS": ["턴 종료시 에너지가 없다면, 손패에서 제국 카드 #b", " 장을 선택해 사용합니다."]
         },
         "aigisMod:EightTrigrams": {
-                "NAME": "Eight Trigrams",
-                "DESCRIPTIONS": ["If you play #b", " Imperial cards, gain #b", " #yDexterity and #b1 intangible.", " Imperial card, gain #b"]
+                "NAME": "팔괘의 진",
+                "DESCRIPTIONS": ["제국 카드를 #b", " 장 사용할시, #b", " #y민첩과 #b1 불가침을 얻습니다.", " 사용 제국 카드 #b"]
         },
         "aigisMod:MarikaPower": {
-                "NAME": "Iai Slash",
-                "DESCRIPTIONS": ["When you defeat an enemy, #b", " #yImperial cards are cost #b0 for the turn."]
+                "NAME": "거합 베기",
+                "DESCRIPTIONS": ["적을 쓰러뜨렸을 때, 제국 카드 #b", " 장의 코스트가 이번 턴 #b0 이 됩니다."]
         },
         "aigisMod:DemonReturnPower": {
-                "NAME": "Demon Return",
-                "DESCRIPTIONS": ["At the start of , #b", " #yImperial cards are cost #b0 for the turn. This description should not appear..."]
+                "NAME": "마신전생",
+                "DESCRIPTIONS": ["턴 시작시 #b", " 장의 #y제국 카드가 이번 턴 #b0 코스트가 됩니다. 이 설명문은 표시되지 않을 것입니다..."]
         },
         "aigisMod:VictorySword": {
-                "NAME": "Victory Sword",
-                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial #yCharacter, draw #b", "This power has been activated."]
+                "NAME": "승리의 검",
+                "DESCRIPTIONS": ["한 턴에 한 번, #y제국 #y캐릭터 카드를 사용시, #b 장을 뽑습니다.", "이미 효과가 발동되었습니다."]
         },
         "aigisMod:ImperialCooking": {
-                "NAME": "Imperial Cooking",
-                "DESCRIPTIONS": ["If you play #b", " #yImperial cards, gain #b", " #yDexterity and #b", " #yStrength.", " #yImperial card, gain #b"]
+                "NAME": "제국식 요리술",
+                "DESCRIPTIONS": ["#y제국 카드 #b", " 장 사용시 #b", " #y민첩과 #b", " #y힘을 얻습니다.", " 사용 제국 카드 #b"]
         },
         "aigisMod:ImperialInventor": {
-                "NAME": "Imperial Inventor",
-                "DESCRIPTIONS": ["On start of turn, upgrade #b", " #yImperial cards in hand."]
+                "NAME": "제국 발명가",
+                "DESCRIPTIONS": ["턴 시작시 손패의 #제국 카드 #b", " 장을 업그레이드합니다."]
         },
         "aigisMod:WhiteMajesty": {
-                "NAME": "White Majesty",
-                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial #ycharacter #yAttack Card, Strikes gain #b", " damage this combat", "This power has been activated."]
+                "NAME": "백의 위엄",
+                "DESCRIPTIONS": ["한 턴에 한 번, #y제국 #y캐릭터 #y공격 카드 사용시 이번 전투에서 타격이 #b", " 데미지를 더 가합니다.", "이미 효과가 발동되어 있습니다."]
         },
         "aigisMod:WhiteDevotion": {
-                "NAME": "White Devotion",
-                "DESCRIPTIONS": ["On turn end, if you have cards in #yhand, you can exhaust #b1 card from hand and gain #b1 #yartifact.", " You can use this effect #b", " times"]
+                "NAME": "백의 헌신",
+                "DESCRIPTIONS": ["턴 종료시 손패에 카드가 남아있다면, 손패의 카드 #b1 장을 소멸시키고 #b1 #y인공물을 얻을 수 있습니다.", " 이 효과를 #b", " 회 사용가능"]
         },
         "aigisMod:CallingYou": {
-                "NAME": "Calling You",
-                "DESCRIPTIONS": ["At the start of your turn, You can add #b", " #yImperial #ycharacters from #ydiscard #ypile to your #yhand."]
+                "NAME": "콜링유",
+                "DESCRIPTIONS": ["턴 시작시, #y버린 #y카드 #y더미에서 #y손패로 #y제국 #캐릭터 카드를 #b", " 장 가져올 수 있습니다."]
         },
         "aigisMod:RangerTrap": {
-                "NAME": "Ranger Trap",
-                "DESCRIPTIONS": ["The next time you receive #yunblocked #ybattle #ydamage, deal #b", " damage back, then remove this power."]
+                "NAME": "트랩",
+                "DESCRIPTIONS": ["#y방어되지 않은 #y전투 #y데미지를 다음에 입을시, #b", " 데미지를 가하고 이 파워를 제거합니다."]
         },
         "aigisMod:YataWing": {
-                "NAME": "Yata Wing",
-                "DESCRIPTIONS": ["Once per turn, when you play an #yImperial card, exhaust #b", " status cards.", "You have already exhausted a card."]
+                "NAME": "팔지오",
+                "DESCRIPTIONS": ["한 턴에 한 번, #y제국 카드 사용시 상태이상 카드를 #b", " 장 소멸시킵니다.", "이미 소멸시켰습니다."]
         },
         "aigisMod:AerialSupremacy": {
-                "NAME": "Aerial Supremacy",
-                "DESCRIPTIONS": ["When creating #yAir #ySignal, upgrade it."]
+                "NAME": "패공의 기관",
+                "DESCRIPTIONS": ["#y에어 #y시그널을 생성할 때, 업그레이드합니다."]
         },
         "aigisMod:MakaiCooking": {
-                "NAME": "Makai Cooking",
-                "DESCRIPTIONS": ["On turn end, you can exhaust #b1 Demon from your #yhand to gain #b", " #yStrength."]
+                "NAME": "마계요리인",
+                "DESCRIPTIONS": ["턴 종료시, #y손패의 데몬 카드 #b1 장을 소멸시키고 #b", " #y힘을 얻을 수 있습니다."]
         },
         "aigisMod:BarricadeInstallation": {
-                "NAME": "Barricade Installation",
-                "DESCRIPTIONS": ["At start of turn, you can discard up to #b", " cards from #yhand to add #yBarricade to hand equal to cards discarded."]
+                "NAME": "바리케이드 설치",
+                "DESCRIPTIONS": ["턴 시작시, #y손패에서 카드 #b", " 장을 버리고 그 수와 동일한 양의 #y바리케이드를 손패에 추가합니다."]
         },
         "aigisMod:ExplosiveBarricade": {
-                "NAME": "Explosive Barricade",
-                "DESCRIPTIONS": ["When you play #yBarricade, deal #b", " damage to a random enemy."]
+                "NAME": "작렬 바리케이드 준비!",
+                "DESCRIPTIONS": ["#y바리케이드 사용시, 무작위의 적에게 #b", " 데미지를 가합니다."]
         },
         "aigisMod:OtherworldCall": {
-                "NAME": "Otherworld Call",
-                "DESCRIPTIONS": ["On turn end, you can exhaust up to #b", " #yDemons from your #yDraw #yPile."]
+                "NAME": "이계소환",
+                "DESCRIPTIONS": ["턴 종료시, #y뽑을 #y카드 #y더미에서 #b", " 장의 #y데몬 카드를 소멸시킬 수 있습니다."]
         },
         "aigisMod:EnergyAthanorPower": {
-                "NAME": "Energy Athanor",
-                "DESCRIPTIONS": ["When you use a #ypotion, refill all your [E] and gain #b", " #ygold."]
+                "NAME": "에너지 아타노르",
+                "DESCRIPTIONS": ["#y포션 사용시 [E] 를 전부 회복하고 #b", " #y골드를 얻습니다."]
         },
         "aigisMod:AcidBomb": {
-                "NAME": "Acid Bomb",
-                "DESCRIPTIONS": ["When you use a #ypotion, deal #b", " #ydamage to all enemies. On battle end, gain 1 potion."]
+                "NAME": "산성폭탄",
+                "DESCRIPTIONS": ["#y포션 사용시 모든 적에게 #b", " #y데미지를 가합니다. 전투 종료시 포션 1 개를 얻습니다."]
         },
         "aigisMod:Stealth": {
-                "NAME": "Stealth",
-                "DESCRIPTIONS": ["When player plays an skill card, gain #b", " #yblock."]
+                "NAME": "은밀",
+                "DESCRIPTIONS": ["스킬카드사용시 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:Watchdog": {
-                "NAME": "Watchdog",
-                "DESCRIPTIONS": ["When you play an #yImperial card, deal #b", " damage to a random enemy."]
+                "NAME": "정찰견",
+                "DESCRIPTIONS": ["#y제국 카드 사용시 무작위의 적에게 #b", " 데미지를 가합니다."]
         },
         "aigisMod:AirElemental": {
-                "NAME": "Air Elemental",
-                "DESCRIPTIONS": ["When you play an #ySkill card, deal #b", " damage to this enemy. Remove #b1 stack at the end of the turn if this enemy attacked."]
+                "NAME": "에어 엘레멘탈",
+                "DESCRIPTIONS": ["#y스킬 카드 사용시, 타겟에 #b", " 데미지를 가합니다. 타겟이 공격한 경우 턴 종료시 스택을 #b1 감소시킵니다."]
         },
         "aigisMod:CurseVoice": {
-                "NAME": "Cursed Voice",
-                "DESCRIPTIONS": ["The next #b", " buffs that are applied to this monster are negated."]
+                "NAME": "커스보이스",
+                "DESCRIPTIONS": ["타겟에 부여될 #b", " 개의 버프가 무효화됩니다."]
         },
         "aigisMod:MikoInspiration": {
-                "NAME": "Miko Inspiration",
-                "DESCRIPTIONS": ["When a curse is #yexhausted, gain #b", " #yblock and #b", " #ystregth."]
+                "NAME": "무녀의 격려",
+                "DESCRIPTIONS": ["저주 카드가 #y소멸될시 #b", " #y방어도와 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:Burn": {
-                "NAME": "Burn",
-                "DESCRIPTIONS": ["At the end of your turn, if the enemy intends to attack, it takes #b", " #ydamage. Burn is reduced at the start of the turn."]
+                "NAME": "화상",
+                "DESCRIPTIONS": ["턴 종료시 만약 적이 공격할 의도를 갖고 있다면, #b", " #y데미지를 입힙니다. 턴 시작시 #b1 스택이 감소됩니다."]
         },
         "aigisMod:Golemology": {
-                "NAME": "Golemology",
-                "DESCRIPTIONS": ["Golem Fragment gains #b", " #ydamage and #b", " #yblock."]
+                "NAME": "골렘학",
+                "DESCRIPTIONS": ["골렘의 부품이 #b", " #y데미지와 #b", " #y방어도를 추가로 얻습니다."]
         },
         "aigisMod:GolemTactics": {
-                "NAME": "Golem Tactics",
-                "DESCRIPTIONS": ["At the start of your next #b", " turns, add #b1 #yGolem #yFragment to hand.", "At the start of your next turn, add #b1 #yGolem #yFragment to hand."]
+                "NAME": "골렘 전술",
+                "DESCRIPTIONS": ["다음 #b", " 턴동안 턴 시작시, 손패에 #b1 #y골렘의 #y부품을 추가합니다.", "다음 턴 시작시, 손패에 #b1 #y골렘의 #y부품을 추가합니다."]
         },
         "aigisMod:SealTalisman": {
-                "NAME": "Seal Talisman",
-                "DESCRIPTIONS": ["When this monster intends to attack, this loses #b1 #yStrength. Seal Talisman is reduced by #y1 at the start of your turn."]
+                "NAME": "퇴마의 영표",
+                "DESCRIPTIONS": ["만약 적이 공격할 의도를 갖고 있다면, #b1 #y힘을 잃습니다. 턴 시작시 스택이 #y1 감소합니다."]
         },
         "aigisMod:CursedWhirlwind": {
-                "NAME": "Cursed Whirlwind",
-                "DESCRIPTIONS": ["When a curse is #yexhausted, all enemies lose #b", " #yStrength."]
+                "NAME": "주조 츠무지풍",
+                "DESCRIPTIONS": ["저주 카드가 #y소멸될시, 모든 적이 #b", " #y힘을 잃습니다."]
         },
         "aigisMod:CursedClaws": {
-                "NAME": "Cursed Claws",
-                "DESCRIPTIONS": ["When a curse is #yexhausted, all enemies lose #b", " % of their current HP."]
+                "NAME": "원차의 발톱",
+                "DESCRIPTIONS": ["저주 카드가 #y소멸될시, 모든 적이 현재 체력의 #b", " % 를 잃습니다."]
         },
         "aigisMod:DevilishRejection": {
-                "NAME": "Devilish Rejection",
-                "DESCRIPTIONS": ["When you draw a curse or status card, draw #b1 card and gain #b", " #yBlock."]
+                "NAME": "마성추방",
+                "DESCRIPTIONS": ["저주나 상태이상 카드를 뽑을시, #b1 카드를 뽑고 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:DragonFortune": {
-                "NAME": "Dragon's Fortune",
-                "DESCRIPTIONS": ["At end of your turn, gain #b", " #yBlock for each #yCurse in your Master Deck."]
+                "NAME": "용의 운명",
+                "DESCRIPTIONS": ["턴 종료시, 덱에 있는 #y저주 카드마다 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:DragonWrath": {
-                "NAME": "Dragon Wrath",
-                "DESCRIPTIONS": ["At end of your turn, all enemies lose #b", " #yHP for each #ystack of each #ydebuff."]
+                "NAME": "고대룡의 역린",
+                "DESCRIPTIONS": ["턴 종료시, 모든 적들이 각각의 #y디버프 #y스택마다 체력을 #b", " 씩 잃습니다."]
         },
         "aigisMod:FlameExorcism": {
-                "NAME": "Flame of Exorcism",
-                "DESCRIPTIONS": ["At end of your turn, all enemies lose #b", " #yHP for each #ycurse in your Master Deck."]
+                "NAME": "파마의 불꽃",
+                "DESCRIPTIONS": ["턴 종료시, 덱에 있는 #y저주 카드의 수만큼 체력을 #b", " 씩 잃습니다."]
         },
         "aigisMod:CarryingProvisions": {
-                "NAME": "Carrying Provisions",
-                "DESCRIPTIONS": ["When you play an #yArcher card this turn, gain #b", " #yBlock."]
+                "NAME": "휴대용 양식",
+                "DESCRIPTIONS": ["이번 턴 #y아쳐 카드 사용시, #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:HermitSanctuary": {
-                "NAME": "Hermit Sanctuary",
-                "DESCRIPTIONS": ["When you play a Tree of Life card, gain #b1 #yIntangible and remove #b1 #yStack of this power."]
+                "NAME": "은자의 성역",
+                "DESCRIPTIONS": ["생명의 나무를 사용할시 #b1 #y불가침을 얻고 이 파워의 스택을 #b1 감소시킵니다."]
         },
         "aigisMod:VampireBite": {
-                "NAME": "Vampire Bite",
-                "DESCRIPTIONS": ["When this has #b", " more stacks, remove this and #yStun this enemy, also this enemy gains #b1 #yStun #yResistance. At the end of turn, remove #b6 Vampire Bite."]
+                "NAME": "마비독",
+                "DESCRIPTIONS": ["스택이 #b", " 더 쌓이면, 이를 제거하고 타겟을 #y스턴시킨 뒤 #b1 #y스턴 #y저항을 부여합니다. 턴 종료시, 마비독을 #b6 감소시킵니다."]
         },
         "aigisMod:CorpseMarionette": {
-                "NAME": "Corpse Marionette",
-                "DESCRIPTIONS": ["Reduce #ystacks of this when you take #yunblocked damage. At start of turn, if this has #b0 #ystacks, stun all enemies and remove this power."]
+                "NAME": "조시인",
+                "DESCRIPTIONS": ["#y방어되지 않은 데미지를 입으면 그만큼 #y스택을 감소시킵니다. 턴 시작시 스택이 #b0 일 경우, 모든 적을 스턴시키고 이 파워를 제거합니다."]
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "Spooky Phenomenon",
-                "DESCRIPTIONS": ["At end of turn, you can #yexhaust #b1 character in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
+                "DESCRIPTIONS": ["턴 종료시, you can #yexhaust #b1 character in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "Clear and Serene",
@@ -348,7 +348,7 @@
 
         "aigisMod:LightweightPower": {
                 "NAME": "Lightweight Power",
-                "DESCRIPTIONS": ["At the end of turn, lose #b1 #ydexterity and gain #b", " #yblur."]
+                "DESCRIPTIONS": ["턴 종료시, lose #b1 #ydexterity and gain #b", " #yblur."]
         },
 
         "aigisMod:TigerHide": {
@@ -368,7 +368,7 @@
 
         "aigisMod:EndOfTurnHeal": {
                 "NAME": "End of Turn Heal",
-                "DESCRIPTIONS": ["At turn end, heal #b", " HP."]
+                "DESCRIPTIONS": ["턴 종료시, heal #b", " HP."]
         },
 
         "aigisMod:DivineStaffDagda": {
@@ -441,6 +441,6 @@
         },
         "aigisMod:DexterityForTheTurnPower": {
                 "NAME": "Dexterity for the Turn",
-                "DESCRIPTIONS": ["This turn, increases #yBlock gained from cards by #b" ,"This turn, decreases #yBlock gained from cards by #b", "."]
+                "DESCRIPTIONS": ["이번 턴, increases #yBlock gained from cards by #b" ,"이번 턴, decreases #yBlock gained from cards by #b", "."]
         }
 }
