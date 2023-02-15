@@ -56,65 +56,65 @@
 
 
   "aigisMod:CursedGem": {
-    "NAME": "Cursed Gem",
+    "NAME": "저주받은 보석",
     "DESCRIPTIONS": [
-      "Before you lies a dead body, it holds a mysterious gem. NL You also see a gold plated chest in the room. You feel some power coming from the gems, but the chest also has your attention.",
-      "With the gem in your hands now you can identify it comes from a cursed cult. You have the duty to safekeep it, but its power may come in handy.",
-      "As suspected, it is a monsters."
+      "눈 앞에 기이한 보석을 쥔 시체가 있습니다. NL 그 방에는 황금 보물상자도 있습니다. 당신은 보석에서 뿜어져나오는 힘을 느끼지만, 보물상자 또한 당신의 관심을 끌고 있습니다.",
+      "보석을 집어들자, 당신은 그것이 저주받은 교단의 것임을 알아차렸습니다. 비록 그것을 안전하게 간직해야 하는 의무가 생겼지만, 그 힘은 유용하게 사용될 수 있을 것입니다.",
+      "역시나 몬스터였다."
     ],
     "OPTIONS": [
-      "[Search] #gExamine #gthe #rgold #rchest?",
-      "[Take the Gem] #gGain #ga #gRelic and #ra #rCurse.",
-      "[Leave]",
-      "[Fight]"
+      "[상자를 탐색] #r황금 #r보물상자를 #g탐색한다?",
+      "[보석을 획득] #g유물과 #r저주를 얻는다.",
+      "[떠난다]",
+      "[전투]"
     ]
   },
   "aigisMod:TheVoice": {
-    "NAME": "The Voice",
+    "NAME": "목소리",
     "DESCRIPTIONS": [
-      "Navigating trough the floor you suddenly lose your senses and you begin to hear a voice...",
-      "You feel inspired and stronger for some reason.",
-      "You feel a familiar strength within you.",
-      "You should be more aware."
+      "탑을 탐색하는 도중 몸의 감각이 없어지면서 어떠한 목소리가 들리기 시작합니다...",
+      "당신은 어째서인지 영감을 받고 강해진 것처럼 느껴집니다.",
+      "당신 안의 익숙한 힘을 느낍니다.",
+      "좀 더 귀를 기울여주었으면 합니다."
     ],
     "OPTIONS": [
-      "[The Stars?] #gMax #gHP #b+8",
-      "[Commander?] #gGain #ga #gRelic",
-      "[Wake Up] Leave"
+      "[별?] #g최대 #g체력 #b+8",
+      "[단장?] #g유물을 #g얻습니다.",
+      "[일어난다] 떠난다."
     ]
   },
 
   "aigisMod:VampireDeal": {
-    "NAME": "Deal with a Vampire",
+    "NAME": "시조와의 거래",
     "DESCRIPTIONS": [
-      "You have a encounter with a powerful undead. NL She proposes to join your cause, but you don´t trust her words.",
-      "You accepted the deal.",
-      "You came to understand her goals.",
-      "You refuse and resume your journey."
+      "당신은 강력한 언데드와 조우했습니다. NL 그녀는 당신의 대의에 협력하고자 하지만, 당신은 그녀를 믿지 않습니다.",
+      "당신은 거래를 받아들입니다.",
+      "당신은 그녀의 목적을 이해합니다.",
+      "당신은 제안을 거절하고 여정을 계속합니다."
     ],
     "OPTIONS": [
-      "[Recruit] #gGain #gan #gUncommon #gHero #gCard. #rGain #ra #rLethal #rCurse.",
-      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
-      "[Refuse]",
-      "[Leave]",
-      "[Recruit] #gGain #ga #grare #gHero #gCard."
+      "[받아들이기] #g특별 #g영걸 #g카드를 #g얻습니다. #r치명적인 #r저주를 #r얻습니다.",
+      "[전투] #g업그레이드된 #g희귀 #g영걸 #g카드를 #g얻습니다.",
+      "[거절]",
+      "[떠난다]",
+      "[진입] #g희귀 #g영걸 #g카드를 #g얻습니다."
     ]
   },
   "aigisMod:FallenReunion": {
-    "NAME": "Fallen Reunion",
+    "NAME": "타락한 동맹",
     "DESCRIPTIONS": [
-      "Someone intercepts you. NL It might be an angel but it feels somewhat evil. NL You consider your options.",
-      "It seems there is some goals in common.",
-      "She says you passed her trial. ",
-      "You managed to run away."
+      "누군가 당신을 습격했습니다. NL 상대는 천사같지만 어딘가 악마같기도 합니다. NL 당신은 어떻게 할지 고민합니다.",
+      "공통의 목적이 있는듯하다.",
+      "그녀는 당신이 시련을 통과했음을 알립니다.",
+      "당신은 도망갈 수 있었다."
     ],
     "OPTIONS": [
-      "[Talk] #gGain #gan #gUncommon #gHero #gCard.",
-      "[Fight] #gGain #ga #gRare #gHero #gCard #gand #gUpgrade #git.",
-      "[Escape] #rLose #b5 #rHP.",
-      "[Recruit] #gGain #ga #grare #gHero #gCard.",
-      "[LOCKED] You don't have a Release card.",
-      "[Leave]"
+      "[대화하기] #g특별 #g영걸 #g카드를 #g얻습니다.",
+      "[전투] #g업그레이드된 #g희귀 #g영걸 #g카드를 #g얻습니다.",
+      "[도망] #r최대 #r체력을 #b5 #r잃습니다.",
+      "[받아들이기] #g희귀 #g영걸 #g카드를 #g얻습니다.",
+      "[잠김] 봉인해제 카드가 없습니다.",
+      "[떠난다]"
     ]
   }
 }
