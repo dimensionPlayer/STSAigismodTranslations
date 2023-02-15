@@ -66,12 +66,12 @@
 
         "aigisMod:EliteAssaultCommand": {
                 "NAME": "돌격명령",
-                "DESCRIPTIONS": ["카드를 #b", " 장 사용시 #b", " 에너지를 얻고 적에게 #b", " 취약을 부여합니다.", "카드를 #b", " 장 사용시, #b 를 얻습니다."]
+                "DESCRIPTIONS": ["카드를 #b", " 장 사용시 #b", " 에너지를 얻고 적에게 #b", " 취약을 부여합니다.", "카드를 #b", " 장 사용시 얻습니다 : #b"]
         },
 
         "aigisMod:OutlawMaid": {
                 "NAME": "무법자 메이드",
-                "DESCRIPTIONS": ["#y암살 카드를 #b", " 장 사용시 #b", " #y힘을 얻습니다.", "#y암살 카드를 #b", " 장 사용시, #b 를 얻습니다."]
+                "DESCRIPTIONS": ["#y암살 카드를 #b", " 장 사용시 #b", " #y힘을 얻습니다.", "#y암살 카드를 #b", " 장 사용시 얻습니다 : #b"]
         },
 
         "aigisMod:BloomPetal": {
@@ -264,183 +264,183 @@
                 "DESCRIPTIONS": ["#y방어되지 않은 데미지를 입으면 그만큼 #y스택을 감소시킵니다. 턴 시작시 스택이 #b0 일 경우, 모든 적을 스턴시키고 이 파워를 제거합니다."]
         },
         "aigisMod:SpookyPhenomenon": {
-                "NAME": "Spooky Phenomenon",
-                "DESCRIPTIONS": ["턴 종료시, you can #yexhaust #b1 character in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
+                "NAME": "으스스한 현상",
+                "DESCRIPTIONS": ["턴 종료시 캐릭터 카드 #b1 장을 #y소멸시킬 수 있고, 이를 행할시 스택이 #b1 줄어들면서 모든 적들이 #b1 #y약화를 얻습니다.", " 스택이 #b0 이 되면 이 파워를 제거합니다."]
         },
         "aigisMod:ClearAndSerene": {
-                "NAME": "Clear and Serene",
-                "DESCRIPTIONS": ["When you apply a #ydebuff to an enemy, gain #b.", " #yVigor."]
+                "NAME": "명경지수",
+                "DESCRIPTIONS": ["상대에게 #y디버프를 부여할시, #b.", " #y활력을 얻습니다."]
         },
         "aigisMod:StunResistance": {
-                "NAME": "Stun Resistance",
-                "DESCRIPTIONS": ["Negate the next #b", " times this enemy can be stunned."]
+                "NAME": "스턴 저항",
+                "DESCRIPTIONS": ["다음 #b", " 회의 스턴을 무효화합니다."]
         },
 
         "aigisMod:MeteorTactics": {
-                "NAME": "Meteor Tactics",
-                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage. Meteor orbs hits all enemies."]
+                "NAME": "천락암의 계",
+                "DESCRIPTIONS": ["메테오 오브의 데미지가 #b", " 상승합니다. 메테오 오브가 모든 적들을 타격합니다."]
         },
 
         "aigisMod:MultiPlosion": {
-                "NAME": "Multiplosion",
-                "DESCRIPTIONS": ["At the start of your turn, trigger the #ypassive of your rightmost orb #b", " times."]
+                "NAME": "멀티플로젼",
+                "DESCRIPTIONS": ["턴 시작시 가장 오른쪽 오브의 자동효과를 #b", " 회 발동합니다."]
         },
 
         "aigisMod:Inferno": {
-                "NAME": "Inferno",
-                "DESCRIPTIONS": ["When a #yMeteor #yorb hits an enemy, apply #b", " #yburn."]
+                "NAME": "인페르노",
+                "DESCRIPTIONS": ["#y메테오 #y오브가 적을 타격했을시, #b", " #y화상을 부여합니다."]
         },
 
         "aigisMod:HuntingTime": {
-                "NAME": "Hunting Time",
-                "DESCRIPTIONS": ["When an enemy is killed, gain #b", " #yblock and gain #b1 #yartifact."]
+                "NAME": "헌팅타임",
+                "DESCRIPTIONS": ["적을 쓰러뜨렸을 때, #b", " #y방어도와 #b1 #y인공물을 얻습니다."]
         },
 
         "aigisMod:MagicShells": {
-                "NAME": "Magic Shells",
-                "DESCRIPTIONS": ["When you play #b", " #yskill cards, #ychannel #b1 Meteor #yorb."]
+                "NAME": "마포탄",
+                "DESCRIPTIONS": ["#y스킬 카드를 #b", " 장 사용시, #b1 메테오 오브를 생성합니다."]
         },
 
         "aigisMod:ManaControl": {
-                "NAME": "Mana Control",
-                "DESCRIPTIONS": ["Meteor orbs gain #b", " damage this turn."]
+                "NAME": "마나 컨트롤",
+                "DESCRIPTIONS": ["메테오 오브의 데미지를 #b", " 증가시킵니다."]
         },
 
         "aigisMod:LifelinkPower": {
-                "NAME": "Lifelink",
-                "DESCRIPTIONS": ["This enemy loses #yHP equal to the amount of damage you #yBlock completely. Reduced by #b1 when you play a cost #b1 or higher attack."]
+                "NAME": "라이프링크",
+                "DESCRIPTIONS": ["당신이 완벽하게 방어한 데미지만큼 상대가 데미지를 입습니다. 코스트가 1 이상인 공격 카드를 사용할 때 스택이 #b1 감소합니다."]
         },
 
         "aigisMod:DineGainBlockPower": {
-                "NAME": "End of Turn Block",
-                "DESCRIPTIONS": ["Gain #b", " #yBlock at the end of this turn."]
+                "NAME": "턴 종료시 방어도 획득",
+                "DESCRIPTIONS": ["턴 종료시 #b", " #y방어도를 얻습니다."]
         },
 
         "aigisMod:MechaForm": {
-                "NAME": "Mecha Form",
-                "DESCRIPTIONS": ["After #b", " turns", " turn", ", gain ", " #yDexterity, #yStrength and #yBlur."]
+                "NAME": "대조형태",
+                "DESCRIPTIONS": ["#b", " 턴 뒤", " 턴 뒤", ", ", " #y민첩, #y힘과 #y흐릿함을 얻습니다."]
         },
 
         "aigisMod:BladeOfPursuitPower": {
-                "NAME": "Blade Of Pursuit",
-                "DESCRIPTIONS": ["For the next #b", " turns, #yattack cards that cost #b0 are played twice."]
+                "NAME": "추격의 낫검",
+                "DESCRIPTIONS": ["다음 #b", " 턴동안, 코스트가 #b0 인 #y공격 카드는 2 번 발동됩니다."]
         },
 
         "aigisMod:FlameMirage": {
-                "NAME": "Flame Mirage",
-                "DESCRIPTIONS": ["When a card is exhausted, gain #b1 #yblur. At the end of turn, deal #b", " damage to a random enemy if you have #yblur."]
+                "NAME": "영암의 신기루",
+                "DESCRIPTIONS": ["카드가 소멸되었을때, #b1 #y흐릿함을 얻습니다. 턴 종료시 #y흐릿함이 있다면, 무작위의 적에게 #b", " 데미지를 입힙니다."]
         },
 
         "aigisMod:ExterminationProgram": {
-                "NAME": "Extermination Program",
-                "DESCRIPTIONS": ["Whenever you play a #yskill card, this enemy takes #b", " damage."]
+                "NAME": "절멸 프로그램",
+                "DESCRIPTIONS": ["#y스킬 카드를 사용할 때마다, 타겟이 #b", " 데미지를 입습니다."]
         },
 
         "aigisMod:SpiritBoost": {
-                "NAME": "Spirit Boost",
-                "DESCRIPTIONS": ["If you #yplay an #yattack card, lose #yALL your #yenergy."]
+                "NAME": "스피릿 부스트",
+                "DESCRIPTIONS": ["#y공격 카드를 사용할 때, #y모든 에너지를 소비합니다."]
         },
 
         "aigisMod:AnnihilationProgram": {
-                "NAME": "Annihilation Program",
-                "DESCRIPTIONS": ["Whenever any #yblock is gained, take #b", " damage."]
+                "NAME": "절멸 프로그램",
+                "DESCRIPTIONS": ["#y방어도를 얻을 때마다, #b", " 데미지를 입습니다."]
         },
 
         "aigisMod:LightweightPower": {
-                "NAME": "Lightweight Power",
-                "DESCRIPTIONS": ["턴 종료시, lose #b1 #ydexterity and gain #b", " #yblur."]
+                "NAME": "경량화",
+                "DESCRIPTIONS": ["턴 종료시, #b1 #y민첩을 잃고 #b", " #y흐릿함을 얻습니다."]
         },
 
         "aigisMod:TigerHide": {
-                "NAME": "Fox in a Tiger's Hide",
-                "DESCRIPTIONS": ["When you gain #yblur, deal #b", " #ydamage to all enemies and draw #b1 card."]
+                "NAME": "호가호위",
+                "DESCRIPTIONS": ["#y흐릿함을 획득하면, 모든 적에게 #b", " #y데미지를 가하고 카드를 #b1 장 뽑습니다."]
         },
 
         "aigisMod:FlameBurstPower": {
-                "NAME": "Flame Burst",
-                "DESCRIPTIONS": ["When you gain #yblur, gain #b", " #yStrenght."]
+                "NAME": "대염상",
+                "DESCRIPTIONS": ["#y흐릿함을 획득하면, #b", " #y힘을 얻습니다."]
         },
 
         "aigisMod:AngelMaid": {
-                "NAME": "Angel Maid",
-                "DESCRIPTIONS": ["At turn start, add #b", " #yrelease card from your deck.", "Choose a card to add to hand.", "I don't have a Release card in my draw pile..."]
+                "NAME": "천사 메이드",
+                "DESCRIPTIONS": ["턴 시작시, #b", " #y봉인해제 카드를 뽑을 카드 더미에서 가져옵니다.", "손패에 추가할 카드를 선택하십시오.", "뽑을 카드 더미에 봉인해제 카드가 없어..."]
         },
 
         "aigisMod:EndOfTurnHeal": {
-                "NAME": "End of Turn Heal",
-                "DESCRIPTIONS": ["턴 종료시, heal #b", " HP."]
+                "NAME": "턴 종료시 회복",
+                "DESCRIPTIONS": ["턴 종료시, 체력을 #b", " 회복합니다."]
         },
 
         "aigisMod:DivineStaffDagda": {
-                "NAME": "Divine Staff Dagda",
-                "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
+                "NAME": "다그다의 신기",
+                "DESCRIPTIONS": ["체력을 회복하거나 임시체력을 얻을시, #b", " #y힘과 #b", "#y방어도를 얻습니다."]
         },
 
         "aigisMod:ImperialSmith": {
-                "NAME": "Imperial Smith",
-                "DESCRIPTIONS": ["When you play a #yStrike card, ALL #yStrike cards gain #b", " more damage."]
+                "NAME": "제국 대장장이",
+                "DESCRIPTIONS": ["#y타격 카드 사용시, 모든 #y타격 카드의 데미지가 #b", " 상승합니다."]
         },
 
         "aigisMod:OverclockPower": {
-                "NAME": "Overclock",
-                "DESCRIPTIONS": ["The next #yImperial card you play is played twice."]
+                "NAME": "오버클락",
+                "DESCRIPTIONS": ["다음에 사용될 #y제국 카드는 2 회 발동됩니다."]
         },
         "aigisMod:CommanderInspiration": {
-                "NAME": "Commander Inspiration",
-                "DESCRIPTIONS": ["Once per turn, when you play a #yStrike card or #yDefend, gain #b", " energy", "This power has been activated."]
+                "NAME": "교도대장의 고무",
+                "DESCRIPTIONS": ["한 턴에 한 번, #y타격이나 #y수비 카드 사용시, #b", " 에너지를 얻습니다", "효과가 이미 발동되었습니다."]
         },
 
 
         "aigisMod:MorningStar": {
-                "NAME": "Morning Star",
-                "DESCRIPTIONS": ["When you play a card this turn, gain #b", " #yDamage #yAura and #b", " block."]
+                "NAME": "새벽의 샛별",
+                "DESCRIPTIONS": ["이번 턴 카드를 사용할 때마다 #b", " #y데미지 #y아우라와 #b", " 방어도를 얻습니다."]
         },
         "aigisMod:RivenEnemyPower": {
-                "NAME": "True Blood",
-                "DESCRIPTIONS": ["While #yRiven #yPhantom is alive, take no damage. When this attacks, it's max HP increases by #b"]
+                "NAME": "트루 블러드",
+                "DESCRIPTIONS": ["#y리븐의 #y환영이 살아있는 동안 데미지를 입지 않습니다. 공격할 때 최대 체력이 #b 만큼 상승합니다."]
         },
         "aigisMod:LukiferEnemyPower": {
-                "NAME": "Wings of Dawn",
-                "DESCRIPTIONS": ["The next #b", " times this enemy dies, instead, revives next action. For each revive, gains #b1 #yStrength."]
+                "NAME": "여명의 날개",
+                "DESCRIPTIONS": ["다음 #b", " 회동안 이 적이 죽을때, 다음 차례에 부활합니다. 부활할 때마다 #b1 #y힘을 얻습니다."]
         },
         "aigisMod:NinpouBodySplit": {
-                "NAME": "Ninpou: Body-Split",
-                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yBlock."]
+                "NAME": "인법: 분신의 술",
+                "DESCRIPTIONS": ["이번 턴 #y수리검을 사용하면 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:SalveOfStrength": {
-                "NAME": "Salve of Strength",
-                "DESCRIPTIONS": ["This turn, when you play a #yShuriken, gain #b", " #yStrength."]
+                "NAME": "괴력의 연고",
+                "DESCRIPTIONS": ["이번 턴 #y수리검을 사용하면 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:KibaninFrenzy": {
-                "NAME": "Kibanin Frenzy",
-                "DESCRIPTIONS": ["This turn, when you play a #yCharacter, add #b", " #yShuriken card(s) to hand."]
+                "NAME": "귀인대차륜",
+                "DESCRIPTIONS": ["이번 턴 #y캐릭터 카드를 사용하면 #b", " #y수리검을 손패에 얻습니다."]
         },
         "aigisMod:SecretPill": {
-                "NAME": "Secret Pill",
-                "DESCRIPTIONS": ["When this enemy is attacked with a #yShuriken card, gain #b", " #yStrength."]
+                "NAME": "비전의 환약",
+                "DESCRIPTIONS": ["#y수리검으로 타겟을 공격하면 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:GoodLuckPrank": {
-                "NAME": "Good Luck Prank",
-                "DESCRIPTIONS": ["On victory, gain #b", " #ygold. At the start of turn, reduce this #yGold by #r", "."]
+                "NAME": "초복의 장난",
+                "DESCRIPTIONS": ["전투 승리시 #b", " #y골드를 얻습니다. 턴 시작마다, 얻을 수 있는 #y골드량이 #r", " 씩 줄어든다."]
         },
         "aigisMod:UmbrellaAttraction": {
-                "NAME": "Umbrella Attraction",
-                "DESCRIPTIONS": ["At the start of turn, you can select up to #b", " #yEastern #yCountry cards in Discard Pile to place at the bottom of Draw Pile and gain [E] if you placed a card in Draw Pile."]
+                "NAME": "간판 너구리의 우산 돌리기",
+                "DESCRIPTIONS": ["턴 시작시 버린 카드 더미에서 최대 #b", " 장의 #y동쪽 #y나라 카드를 선택하여 뽑을 카드 더미의 가장 아래에 넣고, [E] 를 얻습니다."]
         },
         "aigisMod:HighMoon": {
-                "NAME": "High Moon",
-                "DESCRIPTIONS": ["The next #b", " cost 4 card(s) you play, refill your energy."]
+                "NAME": "높은 달",
+                "DESCRIPTIONS": ["다음 #b", " 회, 4 코스트 카드를 사용하면 에너지를 충전합니다."]
         },
         "aigisMod:NightParade": {
-                "NAME": "Night Parade",
-                "DESCRIPTIONS": ["This turn, each time you play a #yEastern #yCountry or #yShuriken card, all enemies lose #b", " #yHP."]
+                "NAME": "백귀야행",
+                "DESCRIPTIONS": ["이번 턴, #y동쪽 #y나라 카드나 #y수리검 사용시, 모든 적이 #b", " 만큼 #y체력을 잃습니다."]
         },
         "aigisMod:StrengthForTheTurnPower": {
-                "NAME": "Strength for the Turn",
-                "DESCRIPTIONS": ["This turn, increases attack #ydamage by #b", "This turn, decreases attack #ydamage by #b", "."]
+                "NAME": "일시적 힘",
+                "DESCRIPTIONS": ["이번 턴, 공격 데미지를 증가시킵니다 : #b", "이번 턴, 공격 데미지를 감소시킵니다 : #b", "."]
         },
         "aigisMod:DexterityForTheTurnPower": {
-                "NAME": "Dexterity for the Turn",
-                "DESCRIPTIONS": ["이번 턴, increases #yBlock gained from cards by #b" ,"이번 턴, decreases #yBlock gained from cards by #b", "."]
+                "NAME": "일시적 민첩",
+                "DESCRIPTIONS": ["이번 턴, 방어도 획득량을 증가시킵니다 : #b" ,"이번 턴, 방어도 획득량을 감소시킵니다 : #b", "."]
         }
 }
