@@ -348,13 +348,16 @@
     "DESCRIPTION": "방어도가 해당 수치 이상일때 이 효과를 얻습니다."
   },
   {
+    "PROPER_NAME": "강직",
     "NAMES": [
+      "강직",
+      "강직을",
       "Armor",
       "Armor:",
       "armor",
       "armor:"
     ],
-    "DESCRIPTION": "#yUnplayable unless your Block is equal or higher than this amount."
+    "DESCRIPTION": "방어도가 해당 수치 이상일때 사용가능합니다."
   },
   {
     "PROPER_NAME": "봉인 해제",
