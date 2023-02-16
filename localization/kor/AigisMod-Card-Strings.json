@@ -3913,7 +3913,7 @@
   },
   "aigisMod:Alta1": {
     "NAME": "알타",
-    "DESCRIPTION": "방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸. NL 휘발성.",
+    "DESCRIPTION": "방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸. 휘발성.",
     "UPGRADE_DESCRIPTION": "방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "장미의 자동인형"
