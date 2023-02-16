@@ -411,64 +411,64 @@
     ]
   },
   "aigisMod:SuperMeteor": {
-    "NAME": "Super Meteor Tactics",
-    "FLAVOR": "Aisha: What, I don't look like a tactician to you?",
+    "NAME": "초 천락암의 계",
+    "FLAVOR": "아이샤 : 나, 군사처럼 보이지 않아?",
     "DESCRIPTIONS": [
-      "Once per turn, when you play a #yMeteor card gain [E]"
+      "한 턴에 한 번, #y메테오 카드 사용시 [E] 를 얻습니다."
     ]
   },
   "aigisMod:BlastingEnhancement": {
-    "NAME": "Secret Art of Blasting Enhancement",
-    "FLAVOR": "Garania: Mastering the spirit of magic, that's my mission.",
+    "NAME": "폭쇄강화의 비술",
+    "FLAVOR": "가라니아 : 마력의 정수를 다하는 것이 저의 사명입니다.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yMeteor if there is more than #b1 enemy.",
-      " When an enemy appears in combat, #yChannel #b1 #yMeteor."
+      "전투 시작시 적이 #b2 이상일때 #y메테오를 #b1 개 생성합니다.",
+      " 전투 중 적이 추가되었을 때, #y메테오를 #b1 개 생성합니다."
     ]
   },
   "aigisMod:BlastingBall": {
-    "NAME": "Super Human Blasting Ball",
-    "FLAVOR": "Dina: I wonder if it's because of my armor... My muscles are all worn out.",
+    "NAME": "괴력퐁쇄철구",
+    "FLAVOR": "디나 : 갑옷 때문이려나... 근육이 피곤해.",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b10 damage to all enemies if you have #b16 or more #yBlock"
+      "턴 종료시 #b16 이상의 #y방어도를 가진 경우 모든 적에게 #b10 데미지를 가합니다."
     ]
   },
   "aigisMod:SealRelease": {
-    "NAME": "Divine Seal Release",
-    "FLAVOR": "Chloe: Even fallen angels have something to defend.",
+    "NAME": "신마봉인해제",
+    "FLAVOR": "클로에 : 타천사라도 지키고 싶은 것은 있어.",
     "DESCRIPTIONS": [
-      "Start each combat with #b2 #yBlur."
+      "전투 시작시 #b2 #y흐릿함을 얻습니다."
     ]
   },
   "aigisMod:IndomitableTraitor": {
-    "NAME": "Indomitable Traitor",
-    "FLAVOR": "Shadia: You humans, thousands of years pass and you remain as foolish as ever.",
+    "NAME": "불굴의 반역자",
+    "FLAVOR": "샤디아 : 천 년이 지났음에도, 너희들 인간의 어리석음도 상냥함도 변하지 않는다는건가.",
     "DESCRIPTIONS": [
-      "At the end of player's turn #b5, if you have not received #yHP damage, deal #b50 damage to all enemies."
+      "#b5 턴이 종료될 때까지, 데미지를입지 않은 경우, 모든 적에게 #b50 데미지를 가합니다."
     ]
   },
   "aigisMod:HolyAura": {
-    "NAME": "Holy Aura",
-    "FLAVOR": "Yurina: I can't believe that I still have human feelings...",
+    "NAME": "성스러운 아우라",
+    "FLAVOR": "유리나 : 사람의 감정이, 나에게도 아직 남아있었다니...",
     "DESCRIPTIONS": [
-      "#yDark #yFighter cards are retained.",
-      " At the end of your #b4th turn, gain #b10 #yBlock."
+      "#y다크파이터 카드들이 보존됩니다.",
+      " #b4 턴 종료시, #b10 #y방어도를 얻습니다."
     ]
   },
   "aigisMod:HotSands": {
-    "NAME": "Hot Sand Tactics",
-    "FLAVOR": "Nephty: Leave it to us to guide you through the desert. Come on, let's go with the wind.",
+    "NAME": "사막의 연계전술",
+    "FLAVOR": "네프티 : 사막길 안내는 맡겨주세요. 자, 바람과 함께 떠납시다.",
     "DESCRIPTIONS": [
-      "When you attack an #yElite or #yBoss enemy, gain #b2 Block."
+      "엘리트나 보스를 공격했을때, #b2 방어도를 얻습니다."
     ]
   },
 
 
   "aigisMod:Miracle": {
-    "NAME": "Miracle ",
-    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+    "NAME": "기적 ",
+    "FLAVOR": "여신 아이기스 : 인간이여, 포기하지 마십시오. 제가 당신에게 힘을 빌려드릴게요.",
     "DESCRIPTIONS": [
-      "When a card is created gain #b2 #yTemporal #yHP.",
-      "Draw #b1 card when you take damage."
+      "카드가 생성되면 #b2 #y임시체력을 얻습니다.",
+      "데미지를 받을시 카드를 #b1 장 뽑습니다."
     ]
   },
 
@@ -476,31 +476,31 @@
 
 
   "aigisMod:AigisShrine": {
-    "NAME": "Aigis Shrine",
-    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
     ]
   },
   "aigisMod:AigisShrineEmperor": {
-    "NAME": "Aigis Shrine",
-    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
     ]
   },
   "aigisMod:AigisShrineAvenger": {
-    "NAME": "Aigis Shrine",
-    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
     ]
   },
   "aigisMod:AigisShrineKnight": {
-    "NAME": "Aigis Shrine",
-    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
     "DESCRIPTIONS": [
-      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
     ]
   }
 }
