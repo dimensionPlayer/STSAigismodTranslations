@@ -18,338 +18,338 @@
 
   "AmbrosePDiscardAction": {
     "TEXT": [
-      "discard (up to 3)",
-      "discard."
+      "버립니다 (최대 3 장까지)",
+      "버립니다."
     ]
   },
 
   "ArmorSmithAction": {
     "TEXT": [
-      "upgrade."
+      "업그레이드합니다."
     ]
   },
 
   "CindyAction": {
     "TEXT": [
-      "discard."
+      "버립니다."
     ]
   },
 
   "CursedBoundaryAction": {
     "TEXT": [
-      "discard."
+      "버립니다."
     ]
   },
 
   "EasternMaidAction": {
     "TEXT": [
-      "reduce it's cost for the turn."
+      "코스트를 감소시킬 카드를 선택합니다."
     ]
   },
 
   "DengunsCommandAction": {
     "TEXT": [
-      "Select a card to put at the top of the Draw Pile.",
-      "Select cards to put at the top of the Draw Pile.",
-      "I don't have an Eastern Country in Draw Pile..."
+      "뽑을 카드 더미 가장 위에 올릴 카드 1 장을 선택합니다.",
+      "뽑을 카드 더미 가장 위에 올릴 카드를 선택합니다.",
+      "뽑을 카드 더미에 동쪽 나라 카드가 없어..."
     ]
   },
 
   "LepuruAction": {
     "TEXT": [
-      "return to draw pile.",
-      "return to draw pile."
+      "뽑을 카드 더미에 되돌립니다.",
+      "뽑을 카드 더미에 되돌립니다."
     ]
   },
 
   "OldClergymanAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
 
   "SuzuneAction": {
     "TEXT": [
-      "Choose a card to add to your hand."
+      "손패에 추가할 카드를 선택합니다."
     ]
   },
 
   "SwordSmithAction": {
     "TEXT": [
-      "upgrade."
+      "업그레이드합니다."
     ]
   },
 
   "TowaAction": {
     "TEXT": [
-      "Choose 1 witch to add to top of Draw Pile.",
-      "Choose 2 witches to add to top of Draw Pile.",
-      "I don't have a witch card in my deck..."
+      "뽑을 카드 더미 가장 위에 올릴 윗치 카드 1 장을 선택합니다.",
+      "뽑을 카드 더미 가장 위에 올릴 윗치 카드 2 장을 선택합니다.",
+      "덱에 윗치 카드가 없어..."
     ]
   },
 
   "VampireHunterDPAction": {
     "TEXT": [
-      "Choose a card to exhaust."
+      "소멸시킬 카드를 선택합니다."
     ]
   },
 
   "YashimaAction": {
     "TEXT": [
-      "Choose a card to copy it's effect."
+      "효과를 복사할 카드를 선택합니다."
     ]
   },
 
   "PrincessMaidAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "Choose cards to add to your hand.",
-      "i don't have a princess card in my deck..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "손패에 추가할 카드를 선택합니다.",
+      "덱에 프린세스 카드가 없어..."
     ]
   },
 
   "RisleyAction": {
     "TEXT": [
-      "reduce it's cost."
+      "코스트를 감소시킵니다."
     ]
   },
 
   "ShizukaAction": {
     "TEXT": [
-      "discard.",
-      "I don't have an Eastern Country in hand..."
+      "버립니다.",
+      "손패에 동쪽 나라 카드가 없어..."
     ]
   },
 
   "KagerouAction": {
     "TEXT": [
-      "Discard."
+      "버립니다."
     ]
   },
 
   "SanmotoAction": {
     "TEXT": [
-      "play."
+      "사용합니다."
     ]
   },
 
   "AirshipAction": {
     "TEXT": [
-      "Select an Imperial card to add to your hand.",
-      "I don't have an Imperial Card in deck..."
+      "손패에 추가할 제국 카드 1 장을 선택합니다.",
+      "덱에 제국 카드가 없어..."
     ]
   },
 
   "RuteKnightAction": {
     "TEXT": [
-      "Select an Imperial Knight card to add to your hand.",
-      "I don't have an Imperial Knight Card in deck..."
+      "손패에 추가할 제국 기사 카드 1 장을 선택합니다.",
+      "덱에 제국 기사 카드가 없어..."
     ]
   },
 
   "RuteStrikeAction": {
     "TEXT": [
-      "Select an Strike card to add to your hand.",
-      "I don't have an Strike card in discard pile..."
+      "손패에 추가할 타격 카드 1 장을 선택합니다.",
+      "버린 카드 더미에 타격 카드가 없어..."
     ]
   },
 
   "LilyAction": {
     "TEXT": [
-      "play from your hand. (Optional)"
+      "손패에서 선택해 사용합니다 (임의)"
     ]
   },
 
   "BlitzkriegAction": {
     "TEXT": [
-      " what Imperial cards to play. (Optional) ",
-      " what Imperial card to play. (Optional)",
-      "Can Select: "
+      " 사용할 제국 카드를 선택합니다 (임의) ",
+      " 사용할 제국 카드 1 장을 선택합니다 (임의)",
+      "선택가능 : "
     ]
   },
 
   "LieselotteAction": {
     "TEXT": [
-      "Discard. (Optional)"
+      "버립니다 (임의)"
     ]
   },
 
   "MephistoAction": {
     "TEXT": [
-      "Select an Imperial or Demon card to exhaust. (Optional)",
-      "I don't have an Imperial or Demon Card in deck..."
+      "소멸시킬 제국 또는 데몬 카드를 선택합니다 (임의)",
+      "덱에 제국 또는 데몬 카드가 없어..."
     ]
   },
   "AuroraAction": {
     "TEXT": [
-      "Select card(s) to Exhausts. (Optional)"
+      "소멸시킬 카드를 선택합니다 (임의)"
     ]
   },
   "WhiteDevotionAction": {
     "TEXT": [
-      "exhaust. (Optional)"
+      "소멸시킵니다 (임의)"
     ]
   },
   "CallingYouAction": {
     "TEXT": [
-      "Choose a character to add to your hand.",
-      "Choose characters to add to your hand.",
-      "I don't have an Imperial character in my discard pile..."
+      "손패에 추가할 캐릭터 카드 1 장을 선택합니다.",
+      "손패에 추가할 캐릭터 카드를 선택합니다.",
+      "버린 카드 더미에 제국 캐릭터 카드가 없어..."
     ]
   },
   "AirSignalAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "Choose cards to add to your hand.",
-      "I don't have an Aerial card in my discard pile..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "손패에 추가할 카드를 선택합니다.",
+      "버린 카드 더미에 비행대 카드가 없어..."
     ]
   },
   "DemonCommandAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "HelmineAction": {
     "TEXT": [
-      "exhaust.",
-      "I don't have cards in hand..."
+      "소멸시킵니다.",
+      "손패에 카드가 없어..."
     ]
   },
   "StrikeModifStrings": {
     "TEXT": [
-      "Vulnerable.",
-      "Poison.",
-      " NL Apply ", " Vulnerable.",
-      " NL Apply ", " Poison.",
-      "Sluggish.",
-      " NL Apply ", " aigismod:Sluggish. ",
-      "Energy.",
-      " NL Gain ", " Energy."
+      "취약",
+      "중독",
+      " NL 취약 ", " 을 부여합니다.",
+      " NL 중독 ", " 을 부여합니다.",
+      "둔족",
+      " NL aigismod:둔족 ", " 을 부여합니다. ",
+      "에너지",
+      " NL 에너지 ", " 를 얻습니다."
     ]
   },
   "BelpheAction": {
     "TEXT": [
-      "Exhaust ", " cards. (Optional)", "I don't have anything in discard pile..."
+      "카드를 ", " 소멸시킵니다 (임의)", "버린 카드 더미에 아무것도 없어..."
     ]
   },
   "ImperialInventorAction": {
     "TEXT": [
-      "upgrade. (Optional)"
+      "업그레이드합니다 (임의)"
     ]
   },
   "MakaiCookingAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "NormaAction": {
     "TEXT": [
-      "You can exhaust up to ", " Demon card.", "I don't have Demons in discard Pile..."
+      "데몬 카드를 최대 ", " 장까지 소멸시킵니다.", "버린 카드 더미에 데몬 카드가 없어..."
     ]
   },
   "OtherworldCallAction": {
     "TEXT": [
-      "Choose ", " Demons to exhaust.", "I don't have Demons in my Draw Pile..."
+      "소멸시킬 데몬 카드를 ", " 선택합니다.", "뽑을 카드 더미에 데몬 카드가 없어..."
     ]
   },
   "NatalieAction": {
     "TEXT": [
-      "discard."
+      "버립니다."
     ]
   },
   "TsugumiExhaustAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "TsugumiRecoverAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have Eastern Country cards in Discard Pile..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "버린 카드 더미에 동쪽 나라 카드가 없어..."
     ]
   },
   "EstrieAction": {
     "TEXT": [
-      "You can exhaust up to ", " Undead cards.", "I don't have an Undead in discard Pile..."
+      "언데드 카드를 최대 ", " 장까지 소멸시킵니다.", "버린 카드 더미에 언데드 카드가 없어..."
     ]
   },
   "SpookyPhenomenonAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "FedoraAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "TenguBlazeAction": {
     "TEXT": [
-      "exhaust."
+      "소멸시킵니다."
     ]
   },
   "UndeadWorldAction": {
     "TEXT": [
-      "Choose 1 Undead to add to your hand.", "i don't have an Undead card in Exhaust Pile..."
+      "손패에 추가할 언데드 카드 1 장을 선택합니다.", "소멸 카드 더미에 언데드 카드가 없어..."
     ]
   },
 
   "HeroCrystalText": {
     "TEXT": [
-      "Viewing the Hero cards."
+      "영걸 카드를 봅니다."
     ]
   },
 
   "SumireAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Meteor or Eastern card in Draw Pile..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "뽑을 카드 더미에 동쪽 나라 카드나 메테오가 없어..."
     ]
   },
 
   "NielAction": {
     "TEXT": [
-      "Select a cost 1 or lower card to add to hand.",
-      "I don't have any cost 1 or lower Card in Discard Pile..."
+      "손패에 추가할 코스트 1 이하의 카드 1 장을 선택합니다.",
+      "버린 카드 더미에 코스트 1 이하의 카드가 없어..."
     ]
   },
 
   "ErunAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "I don't have a Release card in Draw Pile..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "뽑을 카드 더미에 봉인해제 카드가 없어..."
     ]
   },
 
   "NephtyAction": {
     "TEXT": [
-      "to reduce it's cost for the turn."
+      "이번 턴에 코스트를 감소시킵니다."
     ]
   },
 
   "VivianAction": {
     "TEXT": [
-      "to reduce it's cost for the combat."
+      "이번 전투에서 코스트를 감소시킵니다t."
     ]
   },
 
   "AngelMaidAction": {
     "TEXT": [
-      "Choose a card to add to your hand.",
-      "Choose cards to add to your hand.",
-      "I don't have a Release card in my draw pile..."
+      "손패에 추가할 카드 1 장을 선택합니다.",
+      "손패에 추가할 카드 선택합니다.",
+      "뽑을 카드 더미에 봉인해제 카드가 없어..."
     ]
   },
 
   "ShinatoAction": {
     "TEXT": [
-      "Choose 1 card to shuffle back to Draw Pile."
+      "뽑을 카드 더미에 섞어 넣을 카드 1 장을 선택합니다."
     ]
   },
 
   "ShukaAction": {
     "TEXT": [
-      "You can choose up to ", " Eastern Country cards."
+      "동쪽 나라 카드를 최대 ", " 장까지 선택할 수 있습니다."
     ]
   }
 }
