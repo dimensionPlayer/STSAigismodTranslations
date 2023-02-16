@@ -1,18 +1,18 @@
 {
   "CharTooltipsID": {
     "TEXT": [
-      "Witch", "Enemies attacked by this card receives temporary #ySlow.",
-      "Archer", "This card #bignores enemy powers that activate when they are #yattacked, like Thorns.",
-      "Princess", "Gain #b2 #yMax #yHP when you add a #yPrincess card to your Deck.",
-      "Undead", "This class activates #badditional effects when #yexhausted.",
-      "Black Rarity", "This type of character have #ybranching paths when #yupgrading. Only Rare cards may have this property.",
-      "Eastern Country", "This card applies for other effects listing #yEastern #yCountry cards.",
-      "Hero", "This card can be upgraded any number of times. NL Only obtainable by the #yHero #yCrystal relic and #yTower #yof #yHeroes event.",
-      "White Empire", "This card has synergies with effects listing Imperial cards, only in the card pool of #yThe #yEmperor.",
-      "Curse User", "When played, add the #yCurse this card previews to your Master Deck if you don't have it.",
-      "Demon", "If this card is in Exhaust Pile at the start of your turn: add this to your hand with -1 of its #yOriginal cost for that turn.",
-      "Aerial", "When played, shuffle #b1 #yAir #ySignal to your Draw Pile. Increase damage by #b1 for each #yAir #ySignal Exhausted.",
-      "Necromancer", "Increase damage by #b1 for each #yUndead #yExhausted. When this deals unblocked damage, add #b1 #ySkeleton #yUnit to your hand."
+      "윗치", "이 카드로 공격할시 적에게 일시적으로 #y둔화를 부여합니다.",
+      "아쳐", "이 카드는 공격했을 때 발동하는, 가시와 같은 여러 #y부정적 효과들을 #y무시합니다.",
+      "프린세스", "이 카드를 덱에 추가했을 때 #y최대 #y체력이 #b2 증가합니다.",
+      "언데드", "이 카드는 #y소멸되었을 때 #y추가적인 효과를 발동합니다.",
+      "블랙 등급", "이 카드는 업그레이드할 때 #y두 #y가지 #y분기 중 하나를 선택할 수 있습니다. 이 특성은 오직 희귀 카드만 보유하고 있습니다.",
+      "동쪽 나라", "이 카드는 #y동쪽 #y나라 카드들을 지명하는 효과를 받는 대상이 됩니다.",
+      "영걸", "이 카드는 업그레이드를 제한 없이 할 수 있습니다. NL 오직 #y영걸수정 유물과 #y영걸탑 이벤트로만 획득할 수 있습니다.",
+      "백의 제국", "이 카드는 #y제국 카드들을 지명하는 효과를 받는 대상이 됩니다. #y황제로 플레이할 때에만 얻을 수 있습니다.",
+      "주술사", "이 카드를 사용했을 때 표시되는 #y저주가 덱에 없다면 덱에 해당 저주를 추가합니다.",
+      "데몬", "이 카드가 턴 시작시 소멸 카드 더미에 있을 경우, 이번 턴에만 이 카드의 코스트를 본래 코스트에서 1 감소된 상태로 손패에 넣습니다.",
+      "비행대", "이 카드를 사용했을 때, #b1 #y에어 #y시그널을 뽑을 카드 더미에 섞어 넣습니다. 소멸된 #y에어 #y시그널 #b1 장당 데미지가 #b1 증가합니다.",
+      "네크로멘서", "소멸된 #y언데드 #b1 장당 데미지가 #b1 증가합니다. 이 카드가 방어되지 않은 데미지를 가할 경우, 손패에 #b1 #y스켈레톤을 추가합니다."
     ]
   },
 
