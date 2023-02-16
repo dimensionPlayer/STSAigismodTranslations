@@ -525,8 +525,8 @@
   },
   "aigisMod:Soma": {
     "NAME": "소마",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:페어 : 아리사",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:페어 : 아리사 (이번 턴에만 1 코스트)",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:페어 : 아리사",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:페어 : 아리사 (이번 턴에만 1 코스트)",
     "EXTENDED_DESCRIPTION" : [
       "궁병"
     ]
