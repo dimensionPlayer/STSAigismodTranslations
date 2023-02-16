@@ -469,16 +469,16 @@
   },
   "aigisMod:Carrie": {
     "NAME": "캐리",
-    "DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] 를 얻습니다. NL 첫 사용 이후 이 카드의 데미지를 2 증가시킵니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] [E] 를 얻습니다. NL 첫 사용 이후 이 카드의 데미지를 2 증가시킵니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL 첫 사용 이후 이 카드의 데미지를 2 증가시킵니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] [E] 를 얻습니다. NL 첫 사용 이후 이 카드의 데미지를 2 증가시킵니다.",
     "EXTENDED_DESCRIPTION" : [
       "창기병"
     ]
   },
   "aigisMod:Thetis": {
     "NAME": "테티스",
-    "DESCRIPTION": "!D! 데미지를 가하고 방어도를 !B! 얻습니다. 치명타일 경우 [E] 를 얻습니다. NL aigismod:페어 : 바시라.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가하고 방어도를 !B! 얻습니다. 치명타일 경우 [E] [E] 를 얻습니다. NL aigismod:페어 : 바시라 (이번 턴에만 0 코스트)",
+    "DESCRIPTION": "!D! 데미지를 가하고 방어도를 !B! 얻습니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL aigismod:페어 : 바시라.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가하고 방어도를 !B! 얻습니다. 적을 쓰러뜨린 경우 [E] [E] 를 얻습니다. NL aigismod:페어 : 바시라 (이번 턴에만 0 코스트)",
     "EXTENDED_DESCRIPTION" : [
       "흰 백합기사"
     ]
@@ -811,16 +811,16 @@
   },
   "aigisMod:Mischa": {
     "NAME": "미샤",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 치명타일 경우 [E] 를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 치명타일 경우 [E] 와 5 방어도를 얻습니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 적을 쓰러뜨린 경우 [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 적을 쓰러뜨린 경우 [E] 와 5 방어도를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "견습 기병"
     ]
   },
   "aigisMod:Elaine": {
     "NAME": "에레인",
-    "DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] 를 얻습니다 .",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] 를 얻고, 전투 중 이 카드의 데미지가 3 증가합다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다 .",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻고, 전투 중 이 카드의 데미지가 3 증가합다.",
     "EXTENDED_DESCRIPTION" : [
       "창기병"
     ]
@@ -1369,8 +1369,8 @@
   },
   "aigisMod:Isabelle": {
     "NAME": "이사벨라",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다, 치명타일 경우 [E] 를 얻습니다. NL 이 카드의 데미지가 !M! 감소합니다.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다, 치명타일 경우 [E] 를 얻습니다. NL 이 카드의 데미지가 !M! 감소합니다.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다, 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL 이 카드의 데미지가 !M! 감소합니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다, 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL 이 카드의 데미지가 !M! 감소합니다.",
     "EXTENDED_DESCRIPTION" : [
       "제국 천마기사"
     ]
@@ -1418,8 +1418,8 @@
   },
   "aigisMod:Clara": {
     "NAME": "클라라",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다: 치명타일 경우 [E] 를 얻습니다. NL aigismod:재동 : !M! : 4 데미지를 더 가합니다.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다: 치명타일 경우 [E] 를 얻습니다. NL aigismod:재동 : !M! : 4 데미지를 더 가합니다.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL aigismod:재동 : !M! : 4 데미지를 더 가합니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL aigismod:재동 : !M! : 4 데미지를 더 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "제국 천마기사"
     ]
@@ -1523,8 +1523,8 @@
   },
   "aigisMod:Meer": {
     "NAME": "메아",
-    "DESCRIPTION": "!D! 데미지를 가합니다, 치명타일 경우 [E] 를 얻습니다. NL 만약 적이 공격할 의도를 갖고 있다면 !M! 데미지를 추가로 가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다, 치명타일 경우 [E] [E] 를 얻습니다. NL 만약 적이 공격할 의도를 갖고 있다면 !M! 데미지를 추가로 가합니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다, 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL 만약 적이 공격할 의도를 갖고 있다면 !M! 데미지를 추가로 가합니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다, 적을 쓰러뜨린 경우 [E] [E] 를 얻습니다. NL 만약 적이 공격할 의도를 갖고 있다면 !M! 데미지를 추가로 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "제국 창기사"
     ]
@@ -1773,8 +1773,8 @@
   },
   "aigisMod:Rhyno": {
     "NAME": "라이노",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 치명타일 경우, 이 카드의 데미지를 !M! 상승시킵니다",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 치명타일 경우, 이 카드의 데미지를 !M! 상승시킵니다",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 적을 쓰러뜨린 경우, 이 카드의 데미지를 !M! 상승시킵니다",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 적을 쓰러뜨린 경우, 이 카드의 데미지를 !M! 상승시킵니다",
     "EXTENDED_DESCRIPTION" : [
       "취익의 전사"
     ]
@@ -2270,8 +2270,8 @@
   },
   "aigisMod:Meer2": {
     "NAME": "메아",
-    "DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] 를 얻습니다. NL 무작위의 타격 카드 1 장에 [E] 를 얻는 효과를 부여합니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 치명타일 경우 [E] [E] 를 얻습니다. NL 무작위의 타격 카드 1 장에 [E] 를 얻는 효과를 부여합니다. NL 소멸.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] 를 얻습니다. NL 무작위의 타격 카드 1 장에 [E] 를 얻는 효과를 부여합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. 적을 쓰러뜨린 경우 [E] [E] 를 얻습니다. NL 무작위의 타격 카드 1 장에 [E] 를 얻는 효과를 부여합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "제국 창기사"
     ]
