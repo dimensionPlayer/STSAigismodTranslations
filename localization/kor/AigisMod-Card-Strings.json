@@ -3230,8 +3230,8 @@
   },
   "aigisMod:Raichi": {
     "NAME": "라이치",
-    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 손패의 카드 1 장을 소멸시킵니다. NL aigismod:잔여횟수: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 손패의 카드 1 장을 소멸시킵니다. NL aigismod:잔여횟수: !stslib:ex!",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 손패의 카드 1 장을 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 손패의 카드 1 장을 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "요정마도병"
     ]
@@ -3823,7 +3823,7 @@
   "aigisMod:Vivian": {
     "NAME": "비비안",
     "DESCRIPTION": "이 전투 중, 공격 카드 1 장의 코스트를 1 감소시킵니다. NL 민첩을 1 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "이 전투 중, 공격 카드 1 장의 코스트를 1 감소시킵니다. NL 민첩을 1 얻습니다. NL aigismod:잔여횟수: !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "이 전투 중, 공격 카드 1 장의 코스트를 1 감소시킵니다. NL 민첩을 1 얻습니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION": [
       "이방의 무희"
     ]
@@ -3848,7 +3848,7 @@
   "aigisMod:Seria": {
     "NAME": "세리아",
     "DESCRIPTION": "무작위의 성령 카드 1 장을 손패에 추가합니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "무작위의 성령 카드 1 장을 손패에 추가합니다. NL aigismod:잔여횟수: !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "무작위의 성령 카드 1 장을 손패에 추가합니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION": [
       "성령의 친구"
     ]
