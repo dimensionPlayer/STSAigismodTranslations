@@ -1922,8 +1922,8 @@
   },
   "aigisMod:Belphe": {
     "NAME": "벨페",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:암살 때마다 버린 카드 더미에서 카드 1 장을 소멸시킬 수 있습니다.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:암살 때마다 버린 카드 더미에서 카드 1 장을 소멸시킬 수 있습니다.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:암살 때마다 버린 카드 더미에서 카드 1 장을 소멸시킬 수 있습니다. NL aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:암살 때마다 버린 카드 더미에서 카드 1 장을 소멸시킬 수 있습니다. NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "나태의 마신"
     ]
