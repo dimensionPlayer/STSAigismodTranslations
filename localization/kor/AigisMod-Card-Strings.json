@@ -418,8 +418,8 @@
   },
   "aigisMod:Rita": {
     "NAME": "리타",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:재동 : !M! : 2 회 공격하며, 이 카드의 코스트가 0 이 됩니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. aigismod:재동 : !M! : 2회 공격하며, 이 카드의 코스트가 0 이 됩니다.",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 2 회 공격하며, 이 카드의 코스트가 0 이 됩니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 2회 공격하며, 이 카드의 코스트가 0 이 됩니다.",
     "EXTENDED_DESCRIPTION" : [
       "칠흑의 사수"
     ]
@@ -678,11 +678,11 @@
 
   "aigisMod:Sybilla": {
     "NAME": "시빌라",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화를 부여합니다. NL aigismod:페어 : 파텔. aigismod:암살.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL !M! 약화를 부여합니다 모든 적에게. NL aigismod:페어 : 파텔 (이번 턴에만 1 코스트) aigismod:암살.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화를 부여합니다. NL aigismod:페어 : 파텔. NL aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL !M! 약화를 부여합니다 모든 적에게. NL aigismod:페어 : 파텔 (이번 턴에만 1 코스트) NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화와 !M! 취약을 부여합니다. NL aigismod:페어 : 파텔 (이번 턴에만 0 코스트). aigismod:암살."
+      "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화와 !M! 취약을 부여합니다. NL aigismod:페어 : 파텔 (이번 턴에만 0 코스트). NL aigismod:암살."
     ]
   },
   "aigisMod:Uzume": {
@@ -2770,8 +2770,8 @@
   },
   "aigisMod:Shizuka": {
     "NAME": "시즈카",
-    "DESCRIPTION": "동쪽 나라 카드를 1 장 버리고, 해당 카드의 코스트 X 7 방어도를 얻습니다. NL !M! aigismod:카운터를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "동쪽 나라 카드를 1 장 버리고, 해당 카드의 코스트 X 7 방어도를 얻습니다. NL !M! aigismod:카운터를 얻습니다.",
+    "DESCRIPTION": "동쪽 나라 카드를 1 장 버리고, 해당 카드의 코스트 x 7 방어도를 얻습니다. NL !M! aigismod:카운터를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "동쪽 나라 카드를 1 장 버리고, 해당 카드의 코스트 x 7 방어도를 얻습니다. NL !M! aigismod:카운터를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "공주 사무라이"
     ]
@@ -2837,8 +2837,8 @@
   },
   "aigisMod:Skeleton": {
     "NAME": "스켈레톤",
-    "DESCRIPTION": "보존. NL !D! 데미지를 가합니다. NL 소멸. NL aigismod:언데드 : 소멸된 스켈레톤 수만큼 방어도를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "보존. NL !D! 데미지를 가합니다. NL 소멸. NL aigismod:언데드 : 소멸된 스켈레톤 수만큼 방어도를 얻습니다.",
+    "DESCRIPTION": "보존. NL !D! 데미지를 가합니다. NL aigismod:언데드 : 소멸된 스켈레톤 수만큼 방어도를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존. NL !D! 데미지를 가합니다. NL aigismod:언데드 : 소멸된 스켈레톤 수만큼 방어도를 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
