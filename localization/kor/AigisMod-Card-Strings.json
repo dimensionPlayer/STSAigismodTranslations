@@ -4572,7 +4572,7 @@
     ]
   },
   "aigisMod:KikyouB": {
-    "NAME": "Kikyou",
+    "NAME": "키쿄우",
     "DESCRIPTION": "Deal 15 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou to 버린 카드 더미. NL 소멸.",
     "UPGRADE_DESCRIPTION": "Deal 20 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou+ to 버린 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
