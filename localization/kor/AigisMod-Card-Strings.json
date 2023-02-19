@@ -2960,7 +2960,7 @@
     ]
   },
   "aigisMod:Maryfa": {
-    "NAME": "Maryfa",
+    "NAME": "메리파",
     "DESCRIPTION": "손패에 생명의 나무 1 장을 추가합니다. NL 모든 적에게 !M! 취약을 부여합니다. NL 소멸.",
     "UPGRADE_DESCRIPTION": "손패에 생명의 나무 1 장을 추가합니다. NL 모든 적에게 !M! 취약을 부여합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
