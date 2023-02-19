@@ -525,7 +525,7 @@
   },
   "aigisMod:Soma": {
     "NAME": "소마",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:페어 : 아리사",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:페어 : 아리사.",
     "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:페어 : 아리사 (이번 턴에만 1 코스트)",
     "EXTENDED_DESCRIPTION" : [
       "궁병"
@@ -3689,20 +3689,20 @@
   },
   "aigisMod:Dina2": {
     "NAME": "디나",
-    "DESCRIPTION": "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네",
-    "UPGRADE_DESCRIPTION": "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네",
+    "DESCRIPTION": "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네.",
+    "UPGRADE_DESCRIPTION": "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네.",
     "EXTENDED_DESCRIPTION": [
       "괴력소녀",
-      "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네"
+      "aigismod:강직 : 16 NL !D! aigismod:스플래시 데미지를 가합니다. NL !M! 흐릿함을 얻습니다. NL aigismod:페어 : 디네."
     ]
   },
   "aigisMod:Dine": {
     "NAME": "디네",
-    "DESCRIPTION": "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나",
-    "UPGRADE_DESCRIPTION": "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나",
+    "DESCRIPTION": "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나.",
+    "UPGRADE_DESCRIPTION": "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나.",
     "EXTENDED_DESCRIPTION": [
       "철완소녀",
-      "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나"
+      "aigismod:강직 : 16 NL 모든 적에게 !D! 데미지를 가합니다. NL 턴 종료시 방어도를 !B! 얻습니다. NL aigismod:페어 : 디나."
     ]
   },
   "aigisMod:Threse": {
