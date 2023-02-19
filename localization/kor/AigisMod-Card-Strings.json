@@ -3386,8 +3386,8 @@
   },
   "aigisMod:DarkKnight": {
     "NAME": "암흑기사",
-    "DESCRIPTION": "aigismod:다크파이터 NL 카드를 2 장 뽑습니다. NL !M! 약화를 부여합니다. NL [E] 를 얻습니다 ",
-    "UPGRADE_DESCRIPTION": "aigismod:다크파이터 NL 카드를 2 장 뽑습니다. NL !M! 약화를 부여합니다. NL [E] [E] 를 얻습니다 ",
+    "DESCRIPTION": "aigismod:다크파이터 NL 카드를 2 장 뽑습니다. NL !M! 약화를 부여합니다. NL [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:다크파이터 NL 카드를 2 장 뽑습니다. NL !M! 약화를 부여합니다. NL [E] [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "초대 단장"
     ]
@@ -4281,8 +4281,8 @@
   },
   "aigisMod:Murua": {
     "NAME": "Murua",
-    "DESCRIPTION": "aigismod:심해 NL Apply aigismod:수압 to everyone. NL At the start of turn [E] 를 얻습니다 ",
-    "UPGRADE_DESCRIPTION": "aigismod:심해 NL Apply aigismod:수압 모든 적에게. NL At the start of turn [E] 를 얻습니다 ",
+    "DESCRIPTION": "aigismod:심해 NL Apply aigismod:수압 to everyone. NL At the start of turn [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해 NL Apply aigismod:수압 모든 적에게. NL At the start of turn [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "Scarlet Gem's Corporal"
     ]
