@@ -965,8 +965,8 @@
   },
   "aigisMod:Miruno": {
     "NAME": "미르노",
-    "DESCRIPTION": "카드를 1 장 뽑습니다. 랜덤 디버프 1 개를 제거합니다. NL aigismod:재동 : !M! : 무작위의 적에게 !D! aigismod:아쳐 데미지를 가합니다.",
-    "UPGRADE_DESCRIPTION": "카드를 1 장 뽑습니다. 랜덤 디버프 1 개를 제거합니다. NL aigismod:재동 : !M! : 무작위의 적에게 !D! aigismod:아쳐 데미지를 가합니다.",
+    "DESCRIPTION": "카드를 1 장 뽑습니다. 무작위의 디버프 1 개를 제거합니다. NL aigismod:재동 : !M! : 무작위의 적에게 !D! aigismod:아쳐 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "카드를 1 장 뽑습니다. 무작위의 디버프 1 개를 제거합니다. NL aigismod:재동 : !M! : 무작위의 적에게 !D! aigismod:아쳐 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "천사장"
     ]
@@ -3656,8 +3656,8 @@
   },
   "aigisMod:Miruno2": {
     "NAME": "미르노",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:봉인해제 : 랜덤 디버프 1 개를 제거하고 카드를 1 장 뽑습니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:봉인해제 : 랜덤 디버프 1 개를 제거하고 카드를 1 장 뽑습니다.",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:봉인해제 : 무작위의 디버프 1 개를 제거하고 카드를 1 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:봉인해제 : 무작위의 디버프 1 개를 제거하고 카드를 1 장 뽑습니다.",
     "EXTENDED_DESCRIPTION": [
       "천사장"
     ]
@@ -3732,7 +3732,7 @@
   "aigisMod:Fermi": {
     "NAME": "페르미",
     "DESCRIPTION": "이번 턴 손패의 무작위 공격 카드 1 장의 코스트를 1 감소시킵니다. 또는 만약 타겟이 공격할 의도를 갖고 있다면 5 방어도를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "이번 턴 손패의 공격 카드 1 장의 코스트를 1 감소시킵니다.. 또는 만약 타겟이 공격할 의도를 갖고 있다면 8 방어도를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "이번 턴 손패의 공격 카드 1 장의 코스트를 1 감소시킵니다. 또는 만약 타겟이 공격할 의도를 갖고 있다면 8 방어도를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "신관전사"
     ]
@@ -3748,7 +3748,7 @@
   "aigisMod:Danan": {
     "NAME": "다난",
     "DESCRIPTION": "aigismod:강직 : 5 NL 이번 턴 !B! 방어도와 !M! 힘을 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:강직 : 5 NL 이번 턴 !B! 방어도와 !M! 힘을 얻습니다..",
+    "UPGRADE_DESCRIPTION": "aigismod:강직 : 5 NL 이번 턴 !B! 방어도와 !M! 힘을 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "밀림의 수호자"
     ]
