@@ -394,16 +394,16 @@
   },
   "aigisMod:Wonderheart": {
     "NAME": "원더하트",
-    "DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살",
+    "DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. aigismod:데미지_아우라 만큼 데미지가 상승합니다. NL aigismod:암살 시 2 aigismod:데미지_아우라를 획득합니다. NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "도화사"
     ]
   },
   "aigisMod:Benibotan": {
     "NAME": "베니보탄",
-    "DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성",
-    "UPGRADE_DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성",
+    "DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성.",
+    "UPGRADE_DESCRIPTION": "불가침을 1 획득합니다. NL 모든 적들의 힘을 !M! 상승시킵니다. NL 소멸. NL 휘발성.",
     "EXTENDED_DESCRIPTION" : [
       "가부키히메"
     ]
@@ -437,8 +437,8 @@
   },
   "aigisMod:Suzune": {
     "NAME": "스즈네",
-    "DESCRIPTION": "버린 카드 더미에서 한 장을 손패로 가져옵니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "버린 카드 더미에서 한 장을 손패로 가져오고, 그 카드의 코스트를 1 로 만듭니다. NL 소멸",
+    "DESCRIPTION": "버린 카드 더미에서 한 장을 손패로 가져옵니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "버린 카드 더미에서 한 장을 손패로 가져오고, 그 카드의 코스트를 1 로 만듭니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "요괴 너구리"
     ]
@@ -541,7 +541,7 @@
   },
   "aigisMod:Drania": {
     "NAME": "도라니아",
-    "DESCRIPTION": "aigismod:스킬챠지 : 이번 전투에서 이 카드의 코스트를 1 감소시킵니다. NL 아냐를 1 장 손패에 가져옵니다. NL 소멸",
+    "DESCRIPTION": "aigismod:스킬챠지 : 이번 전투에서 이 카드의 코스트를 1 감소시킵니다. NL 아냐를 1 장 손패에 가져옵니다. NL 소멸.",
     "UPGRADE_DESCRIPTION": "aigismod:스킬챠지 : 이번 전투에서 이 카드의 코스트를 1 감소시킵니다. NL 아냐+를 1 장 손패에 가져옵니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "봉인된 자"
@@ -884,8 +884,8 @@
   },
   "aigisMod:Dorca": {
     "NAME": "도르카",
-    "DESCRIPTION": "체력을 !M! 회복합니다. 소멸",
-    "UPGRADE_DESCRIPTION": "체력을 !M! 회복합니다. 소멸",
+    "DESCRIPTION": "체력을 !M! 회복합니다. 소멸.",
+    "UPGRADE_DESCRIPTION": "체력을 !M! 회복합니다. 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "치유의 손"
     ]
@@ -1091,7 +1091,7 @@
   "aigisMod:Patel": {
     "NAME": "파텔",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:페어 : 시빌라. NL aigismod:암살.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:페어 : 시빌라 (이번 턴에만 0 코스트) NL aigismod:암살",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:페어 : 시빌라 (이번 턴에만 0 코스트) NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "공주 기사"
     ]
@@ -4142,101 +4142,101 @@
   },
   "aigisMod:Genin": {
     "NAME": "Genin Ninja",
-    "DESCRIPTION": "손패에 수리검 1 장을 얻습니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Add 1 수리검+ to hand. NL 소멸",
+    "DESCRIPTION": "손패에 수리검 1 장을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Add 1 수리검+ to hand. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:SoldierA": {
     "NAME": "Soldier",
-    "DESCRIPTION": "Deal 6 !D! damage. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 8 !D! damage. NL 소멸",
+    "DESCRIPTION": "Deal 6 !D! damage. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 8 !D! damage. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:HeavySoldierA": {
     "NAME": "Heavy Soldier",
-    "DESCRIPTION": "Gain 5 !B! 방어도. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 7 !B! 방어도. NL 소멸",
+    "DESCRIPTION": "Gain 5 !B! 방어도. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 7 !B! 방어도. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:BowSoldierA": {
     "NAME": "Bow Soldier",
-    "DESCRIPTION": "Deal 5 !D! aigismod:아쳐 데미지. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 7 !D! aigismod:아쳐 데미지. NL 소멸",
+    "DESCRIPTION": "Deal 5 !D! aigismod:아쳐 데미지. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 7 !D! aigismod:아쳐 데미지. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:MagicSoldierA": {
     "NAME": "Magic Soldier",
-    "DESCRIPTION": "Deal 9 !D! aigismod:스플래시 데미지. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 12 !D! aigismod:splash_damage. NL 소멸",
+    "DESCRIPTION": "Deal 9 !D! aigismod:스플래시 데미지. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 12 !D! aigismod:splash_damage. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:Hashim": {
     "NAME": "Hashim",
-    "DESCRIPTION": "Deal 5 !D! damage. Gain 6 !B! 방어도. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 7 !D! damage. Gain 8 !B! 방어도. NL 소멸",
+    "DESCRIPTION": "Deal 5 !D! damage. Gain 6 !B! 방어도. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 7 !D! damage. Gain 8 !B! 방어도. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Dextrous Soldier"
     ]
   },
   "aigisMod:Dirk": {
     "NAME": "Dirk",
-    "DESCRIPTION": "Deal 7 !D! damage. NL 카드를 1 장 뽑습니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 9 !D! damage. NL 카드를 1 장 뽑습니다. NL 소멸",
+    "DESCRIPTION": "Deal 7 !D! damage. NL 카드를 1 장 뽑습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 9 !D! damage. NL 카드를 1 장 뽑습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Imperial Infantry"
     ]
   },
   "aigisMod:Russell": {
     "NAME": "Russell",
-    "DESCRIPTION": "보존 NL Gain 7 !B! 방어도. NL 소멸",
-    "UPGRADE_DESCRIPTION": "보존 NL Gain 10 !B! 방어도. NL 소멸",
+    "DESCRIPTION": "보존 NL Gain 7 !B! 방어도. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존 NL Gain 10 !B! 방어도. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Royal Heavy Infantry"
     ]
   },
   "aigisMod:SeaSoldier": {
     "NAME": "Deep Sea Soldier",
-    "DESCRIPTION": "Apply 1 !M! aigismod:수압. Gain 5 !B! 방어도. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Apply 2 !M! aigismod:수압. 방어도를 !B! 얻습니다. NL 소멸",
+    "DESCRIPTION": "Apply 1 !M! aigismod:수압. Gain 5 !B! 방어도. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Apply 2 !M! aigismod:수압. 방어도를 !B! 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Reinforcements"
     ]
   },
   "aigisMod:BirdmanArcher": {
     "NAME": "Birdman Archer",
-    "DESCRIPTION": "Deal 9 !D! damage 모든 적에게. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 12 damage 모든 적에게. NL 소멸",
+    "DESCRIPTION": "Deal 9 !D! damage 모든 적에게. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 12 damage 모든 적에게. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Falcon-Winged"
     ]
   },
   "aigisMod:BirdmanSoldier": {
     "NAME": "Birdman Soldier",
-    "DESCRIPTION": "Deal 7 !D! aigismod:아쳐 데미지. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 9 aigismod:아쳐 데미지. NL 소멸",
+    "DESCRIPTION": "Deal 7 !D! aigismod:아쳐 데미지. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 9 aigismod:아쳐 데미지. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "Hawk-Winged"
     ]
   },
   "aigisMod:WaterField": {
     "NAME": "수압",
-    "DESCRIPTION": "휘발성. NL Apply aigismod:수압 to everyone. NL Gain 5 방어도. NL 소멸",
-    "UPGRADE_DESCRIPTION": "휘발성. NL Apply aigismod:수압 모든 적에게. NL Gain 6 방어도. NL 소멸"
+    "DESCRIPTION": "휘발성. NL Apply aigismod:수압 to everyone. NL Gain 5 방어도. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "휘발성. NL Apply aigismod:수압 모든 적에게. NL Gain 6 방어도. NL 소멸."
   },
   "aigisMod:Hellbeast": {
     "NAME": "Hellbeast",
-    "DESCRIPTION": "Deal 8 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존",
-    "UPGRADE_DESCRIPTION": "Deal 11 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존"
+    "DESCRIPTION": "Deal 8 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존.",
+    "UPGRADE_DESCRIPTION": "Deal 11 aigismod:관통 데미지 for each Beast tamer 소멸ed. NL 보존."
   },
   "aigisMod:Moltena": {
     "NAME": "Moltena",
@@ -4411,8 +4411,8 @@
   },
   "aigisMod:Aran": {
     "NAME": "Aran",
-    "DESCRIPTION": "힘을 1 얻습니다. Apply 1 취약 모든 적에게. Shuffle 1 Aran2 to 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "선천성. NL 힘을 1 얻습니다. Apply 1 취약 모든 적에게. Shuffle 1 Aran2 to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "힘을 1 얻습니다. Apply 1 취약 모든 적에게. Shuffle 1 Aran2 to 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 힘을 1 얻습니다. Apply 1 취약 모든 적에게. Shuffle 1 Aran2 to 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Demigod of the Silver Moon",
       "힘을 1 얻습니다. Apply 1 취약 모든 적에게. Shuffle 1 Aran2 to 뽑을 카드 더미. NL 소멸(cost 0)"
@@ -4420,7 +4420,7 @@
   },
   "aigisMod:Aran2": {
     "NAME": "Aran",
-    "DESCRIPTION": "힘을 2 얻습니다. 2 취약을 부여합니다 모든 적에게. Shuffle 1 Aran3 to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "힘을 2 얻습니다. 2 취약을 부여합니다 모든 적에게. Shuffle 1 Aran3 to 뽑을 카드 더미. NL 소멸.",
     "UPGRADE_DESCRIPTION": "힘을 2 얻습니다. 2 취약을 부여합니다 모든 적에게. Shuffle 1 Aran3 to 뽑을 카드 더미. NL 소멸 (cost 0)",
     "EXTENDED_DESCRIPTION" : [
       "Penumbral Silver Moon"
@@ -4428,7 +4428,7 @@
   },
   "aigisMod:Aran3": {
     "NAME": "Aran",
-    "DESCRIPTION": "힘을 3 얻습니다. 모든 적이 힘을 2 만큼 잃습니다. Shuffle 1 Aran4 to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "힘을 3 얻습니다. 모든 적이 힘을 2 만큼 잃습니다. Shuffle 1 Aran4 to 뽑을 카드 더미. NL 소멸.",
     "UPGRADE_DESCRIPTION": "힘을 3 얻습니다. 모든 적이 힘을 2 만큼 잃습니다. Shuffle 1 Aran4 to 뽑을 카드 더미. NL 소멸 (cost 1)",
     "EXTENDED_DESCRIPTION" : [
       "Umbral Silver Moon"
@@ -4436,16 +4436,16 @@
   },
   "aigisMod:Aran4": {
     "NAME": "Aran",
-    "DESCRIPTION": "Gain 6 힘. All enemies lose 4 힘. Apply 4 취약 모든 적에게. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 6 힘. All enemies lose 4 힘. Apply 4 취약 모든 적에게. (cost 2) NL 소멸",
+    "DESCRIPTION": "Gain 6 힘. All enemies lose 4 힘. Apply 4 취약 모든 적에게. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 6 힘. All enemies lose 4 힘. Apply 4 취약 모든 적에게. (cost 2) NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Encrowned Silver Moon"
     ]
   },
   "aigisMod:Lefka": {
     "NAME": "Lefka",
-    "DESCRIPTION": "Gain 7 aigismod:임시체력. Add 1 Air Signal to hand. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 10 aigismod:임시체력. Add 1 Air Signal to hand. NL 소멸",
+    "DESCRIPTION": "Gain 7 aigismod:임시체력. Add 1 Air Signal to hand. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 10 aigismod:임시체력. Add 1 Air Signal to hand. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Osprey-Winged Healer"
     ]
@@ -4468,72 +4468,72 @@
   },
   "aigisMod:Yae": {
     "NAME": "Yae",
-    "DESCRIPTION": "Enemy loses 5 HP when you play a cost 0 or 동쪽 나라 카드. Shuffle 1 Toki into 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Enemy loses 8 HP when you play a cost 0 or 동쪽 나라 카드. Shuffle 1 Toki into 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "Enemy loses 5 HP when you play a cost 0 or 동쪽 나라 카드. Shuffle 1 Toki into 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Enemy loses 8 HP when you play a cost 0 or 동쪽 나라 카드. Shuffle 1 Toki into 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Gunjou Sisters"
     ]
   },
   "aigisMod:Toki": {
     "NAME": "Toki",
-    "DESCRIPTION": "보존 NL Deal !D! 2 damage 3 times. 2 취약을 부여합니다. Shuffle 1 Yuki into 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "보존 NL Deal !D! 3 damage 3 times. 2 취약을 부여합니다. Shuffle 1 Yuki into 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "보존 NL Deal !D! 2 damage 3 times. 2 취약을 부여합니다. Shuffle 1 Yuki into 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존 NL Deal !D! 3 damage 3 times. 2 취약을 부여합니다. Shuffle 1 Yuki into 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Gunjou Sisters"
     ]
   },
   "aigisMod:Yuki": {
     "NAME": "Yuki",
-    "DESCRIPTION": "민첩을 1 얻습니다. Gain 5 Temporary HP. Shuffle 1 Yae into 뽑을 카드 더미. 소멸",
-    "UPGRADE_DESCRIPTION": "민첩을 1 얻습니다. Gain 8 Temporary HP. Shuffle 1 Yae into 뽑을 카드 더미. 소멸",
+    "DESCRIPTION": "민첩을 1 얻습니다. Gain 5 Temporary HP. Shuffle 1 Yae into 뽑을 카드 더미. 소멸.",
+    "UPGRADE_DESCRIPTION": "민첩을 1 얻습니다. Gain 8 Temporary HP. Shuffle 1 Yae into 뽑을 카드 더미. 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Gunjou Sisters"
     ]
   },
   "aigisMod:Kokohime": {
     "NAME": "Kokohime",
-    "DESCRIPTION": "Deal !D! 8 damage. Kamaitachi Canaria Sisters deal 2 more damage. Add 1 Hayase to your hand. 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 10 damage. Kamaitachi Canaria Sisters deal 3 more damage. Add 1 Hayase to your hand. 소멸",
+    "DESCRIPTION": "Deal !D! 8 damage. Kamaitachi Canaria Sisters deal 2 more damage. Add 1 Hayase to your hand. 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 10 damage. Kamaitachi Canaria Sisters deal 3 more damage. Add 1 Hayase to your hand. 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Canaria Sisters"
     ]
   },
   "aigisMod:Hayase": {
     "NAME": "Hayase",
-    "DESCRIPTION": "Deal !D! 10 damage. 보존. Shuffle 1 Kishima into 뽑을 카드 더미. 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 15 damage. 보존. Shuffle 1 Kishima into 뽑을 카드 더미. 소멸",
+    "DESCRIPTION": "Deal !D! 10 damage. 보존. Shuffle 1 Kishima into 뽑을 카드 더미. 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 15 damage. 보존. Shuffle 1 Kishima into 뽑을 카드 더미. 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Canaria Sisters"
     ]
   },
   "aigisMod:Kishima": {
     "NAME": "Kishima",
-    "DESCRIPTION": "Deal !D! 5 damage. Gain 5 방어도. Shuffle 1 Kokohime into 뽑을 카드 더미. 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 8 damage. Gain 8 방어도. Shuffle 1 Kokohime into 뽑을 카드 더미. 소멸",
+    "DESCRIPTION": "Deal !D! 5 damage. Gain 5 방어도. Shuffle 1 Kokohime into 뽑을 카드 더미. 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 8 damage. Gain 8 방어도. Shuffle 1 Kokohime into 뽑을 카드 더미. 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Canaria Sisters"
     ]
   },
   "aigisMod:Shimai": {
     "NAME": "Shimai",
-    "DESCRIPTION": "Gain 9 방어도. Add 1 Suruga to your hand. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 12 방어도. Add 1 Suruga to your hand. NL 소멸",
+    "DESCRIPTION": "Gain 9 방어도. Add 1 Suruga to your hand. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 12 방어도. Add 1 Suruga to your hand. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Shion Sisters"
     ]
   },
   "aigisMod:Suruga": {
     "NAME": "Suruga",
-    "DESCRIPTION": "Deal !D! 7 damage. 1 약화를 부여합니다. Shuffle 1 Yatake into 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! 10 damage. 1 약화를 부여합니다. Shuffle 1 Yatake into 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "Deal !D! 7 damage. 1 약화를 부여합니다. Shuffle 1 Yatake into 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal !D! 10 damage. 1 약화를 부여합니다. Shuffle 1 Yatake into 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Shion Sisters"
     ]
   },
   "aigisMod:Yatake": {
     "NAME": "Yatake",
-    "DESCRIPTION": "보존 NL 카드를 1 장 뽑습니다. Add 1 Shimai to your hand. NL 소멸",
-    "UPGRADE_DESCRIPTION": "보존 NL 카드를 2 장 뽑습니다. Add 1 Shimai to your hand. NL 소멸",
+    "DESCRIPTION": "보존 NL 카드를 1 장 뽑습니다. Add 1 Shimai to your hand. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존 NL 카드를 2 장 뽑습니다. Add 1 Shimai to your hand. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Kamaitachi Shion Sisters"
     ]
@@ -4564,49 +4564,49 @@
   },
   "aigisMod:Kikyou": {
     "NAME": "Kikyou",
-    "DESCRIPTION": "Gain 6 !M! aigismod:임시체력. NL Add 1 Kikyou to 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 10 !M! aigismod:임시체력. NL Add 1 KikyouB+ to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "Gain 6 !M! aigismod:임시체력. NL Add 1 Kikyou to 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 10 !M! aigismod:임시체력. NL Add 1 KikyouB+ to 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Dark Purple Miko",
-      "Gain 6 !M! aigismod:임시체력. NL Add 1 KikyouB+ to hand. NL 소멸"
+      "Gain 6 !M! aigismod:임시체력. NL Add 1 KikyouB+ to hand. NL 소멸."
     ]
   },
   "aigisMod:KikyouB": {
     "NAME": "Kikyou",
-    "DESCRIPTION": "Deal 15 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou to 버린 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 20 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou+ to 버린 카드 더미. NL 소멸",
+    "DESCRIPTION": "Deal 15 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou to 버린 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 20 !D! damage. NL 힘을 1 얻습니다. NL Add 1 Kikyou+ to 버린 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Dark Purple Miko"
     ]
   },
   "aigisMod:Shiho": {
     "NAME": "Shiho",
-    "DESCRIPTION": "Gain 2 !M! aigismod:임시체력. Gain 2 방어도 NL Add 1 Shiho to 버린 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 3 !M! aigismod:임시체력. Gain 3 방어도 NL Add 1 Shiho+ to 버린 카드 더미. NL 소멸",
+    "DESCRIPTION": "Gain 2 !M! aigismod:임시체력. Gain 2 방어도 NL Add 1 Shiho to 버린 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 3 !M! aigismod:임시체력. Gain 3 방어도 NL Add 1 Shiho+ to 버린 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Miko"
     ]
   },
   "aigisMod:ShihoB": {
     "NAME": "Shiho",
-    "DESCRIPTION": "Deal 4 !D! damage. 카드를 1 장 뽑습니다. NL Add 1 Shiho to 버린 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 4 !D! damage. 카드를 1 장 뽑습니다. NL Add 1 Shiho to 버린 카드 더미. NL 소멸",
+    "DESCRIPTION": "Deal 4 !D! damage. 카드를 1 장 뽑습니다. NL Add 1 Shiho to 버린 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 4 !D! damage. 카드를 1 장 뽑습니다. NL Add 1 Shiho to 버린 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Miko"
     ]
   },
   "aigisMod:Kagura": {
     "NAME": "Kagura",
-    "DESCRIPTION": "Gain 1 !M! 힘. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Gain 1 !M! 힘. Gain 8 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "Gain 1 !M! 힘. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Gain 1 !M! 힘. Gain 8 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Miko"
     ]
   },
   "aigisMod:KaguraB": {
     "NAME": "Kagura",
-    "DESCRIPTION": "Deal 5 damage. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal 5 damage. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸",
+    "DESCRIPTION": "Deal 5 damage. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "Deal 5 damage. Gain 5 방어도. NL Add 1 Kagura to 뽑을 카드 더미. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "Miko"
     ]
