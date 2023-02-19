@@ -43,14 +43,14 @@
   },
   "aigisMod:AmbrosePlatinum": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸_페탈을 얻습니다.",
+    "DESCRIPTION": "카드를 최대 3장까지 버립니다. NL 버린 개수 x !M! + !aigisMod:SecondMagic! aigismod:블룸_페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
   },
   "aigisMod:AmbroseBlack": {
     "NAME": "암브로즈",
-    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수만큼의 !aigisMod:SecondMagic! + !M! aigismod:블룸_페탈을 얻습니다.",
+    "DESCRIPTION": "카드를 매수 상관없이 버립니다. NL 버린 개수 x !M! + !aigisMod:SecondMagic! aigismod:블룸_페탈을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "다시 피어나는 자"
     ]
@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 영구적으로 1 씩 증가합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "에프트라",
-    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 1 씩 줄어듭니다. NL 소멸.",
+    "DESCRIPTION": "모든 적에게 !D! aigismod:관통 데미지를 가합니다. NL 모든 적의 체력이 !M! 감소하고, 감소되는 체력량은 이 카드를 사용할 때마다 영구적으로 1 씩 증가합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "세계를 초월한 자"
     ]
@@ -1171,7 +1171,7 @@
   },
   "aigisMod:Yukari": {
     "NAME": "유카리",
-    "DESCRIPTION": "공격으로부터 받는 데미지를 !M! % 경감시킵니다. (최대 30%).",
+    "DESCRIPTION": "공격으로부터 받는 데미지를 !M! % 경감시킵니다. NL (최대 30%)",
     "UPGRADE_DESCRIPTION": "공격으로부터 받는 데미지를 !M! % 경감시킵니다. aigismod:스킬챠지 : 이 카드의 효과가 4% 상승합니다 (최대 30%)",
     "EXTENDED_DESCRIPTION" : [
       "증기 무사"
