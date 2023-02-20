@@ -679,7 +679,7 @@
   "aigisMod:Sybilla": {
     "NAME": "시빌라",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화를 부여합니다. NL aigismod:페어 : 파텔. NL aigismod:암살.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL !M! 약화를 부여합니다 모든 적에게. NL aigismod:페어 : 파텔 (이번 턴에만 1 코스트) NL aigismod:암살.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화를 부여합니다. NL aigismod:페어 : 파텔 (이번 턴에만 1 코스트) NL aigismod:암살.",
     "EXTENDED_DESCRIPTION" : [
       "",
       "!D! 데미지를 가합니다. NL 모든 적에게 !M! 약화와 !M! 취약을 부여합니다. NL aigismod:페어 : 파텔 (이번 턴에만 0 코스트). NL aigismod:암살."
@@ -1008,7 +1008,7 @@
   "aigisMod:SetsunaClone": {
     "NAME": "세츠나 분신",
     "DESCRIPTION": "모든 적에게 소멸된 수리검의 개수와 같은 !D! 데미지를 가합니다. NL 카드를 !M! 장 뽑습니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다 equal to the amount of 수리검 소멸ed 모든 적에게. NL 카드를 !M! 장 뽑습니다."
+    "UPGRADE_DESCRIPTION": "모든 적에게 소멸된 수리검의 개수와 같은 !D! 데미지를 가합니다. NL 카드를 !M! 장 뽑습니다."
   },
   "aigisMod:Ramii": {
     "NAME": "라미",
@@ -2062,7 +2062,7 @@
   "aigisMod:Tanya": {
     "NAME": "타냐",
     "DESCRIPTION": "카드를 2 장 뽑습니다. NL 골드를 !M! 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "카드를 2 장 뽑습니다. NL [E] 를 얻습니다 NL 골드를 !M! 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "카드를 2 장 뽑습니다. NL [E] 를 얻습니다. NL 골드를 !M! 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "제국 상인"
     ]
@@ -3088,7 +3088,7 @@
     "UPGRADE_DESCRIPTION": "!D! aigismod:마비 데미지를 가합니다. NL aigismod:스킬챠지 : 이 카드의 데미지를 !M! 상승시킵니다. NL aigismod:언데드 : !aigisMod:SecondMagic! 민첩을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "홍혈의 황녀",
-      "!D! aigismod:마비 데미지를 가합니다. NL aigismod:스킬챠지 : 이 카드의 데미지를 !M! 상승시킵니다 NL aigismod:언데드 : !aigisMod:SecondMagic! 민첩을 얻습니다."
+      "!D! aigismod:마비 데미지를 가합니다. NL aigismod:스킬챠지 : 이 카드의 데미지를 !M! 상승시킵니다. NL aigismod:언데드 : !aigisMod:SecondMagic! 민첩을 얻습니다."
     ]
   },
 
