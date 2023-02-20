@@ -187,14 +187,14 @@
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "伊姆萝",
-    "DESCRIPTION": "在本回合结束时回复 !M! 点生命。 NL 当你回复生命或是获得临时生命时，获得 !aigisMod:SecondMagic! 点 力量 和 5 点 格挡 。",
+    "DESCRIPTION": "在本回合结束时回复 !M! 点生命。 NL 当你回复生命时，获得 !aigisMod:SecondMagic! 点 力量 和 10 点 格挡 。",
     "EXTENDED_DESCRIPTION" : [
       "讴歌生命者"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "伊姆萝",
-    "DESCRIPTION": "在本回合结束时回复 !M! 点生命。 NL 当你回复生命或是获得临时生命时，获得 !aigisMod:SecondMagic! 点 力量 和 5 点 格挡 。",
+    "DESCRIPTION": "在本回合结束时回复 !M! 点生命。 NL 当你回复生命时，获得 !aigisMod:SecondMagic! 点 力量 和 10 点 格挡 。",
     "EXTENDED_DESCRIPTION" : [
       "讴歌生命者"
     ]
@@ -4218,8 +4218,8 @@
   },
   "aigisMod:Shuka": {
     "NAME": "珠桦",
-    "DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张牌从弃牌堆送入抽牌堆底部并获得 [E]",
-    "UPGRADE_DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张牌从弃牌堆送入抽牌堆底部并获得 [E]",
+    "DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张 东国 牌从弃牌堆送入抽牌堆底部并获得 [E]",
+    "UPGRADE_DESCRIPTION": "失去 !M! 点 力量 。 NL 获得 5 金币 NL 回合开始时，将 1 张 东国 牌从弃牌堆送入抽牌堆底部并获得 [E]",
     "EXTENDED_DESCRIPTION": [
       "分福茶釜付丧神"
     ]

@@ -374,7 +374,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "达格达的神杖",
-                "DESCRIPTIONS": ["回复或获得临时生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
+                "DESCRIPTIONS": ["回复生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
         },
 
         "aigisMod:ImperialSmith": {
@@ -414,7 +414,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "鬼刃大车轮",
-                "DESCRIPTIONS": ["本回合每当你打出一张 #y角色 牌， 将 #b", " 张 #y手里剑 牌加入手牌。"]
+                "DESCRIPTIONS": ["下 #b", " 回合，每当你打出一张 #y角色 牌将 #b1 张 #y手里剑 牌加入手牌。"]
         },
         "aigisMod:SecretPill": {
                 "NAME": "秘传的丸药",

@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "ダグザの神杖",
-                "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
+                "DESCRIPTIONS": ["HPを回復する時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
         },
 
         "aigisMod:ImperialSmith": {
@@ -413,7 +413,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "鬼刃大車輪",
-                "DESCRIPTIONS": ["このターン、 #yキャラクター カードをプレイした時、 #y手裏剣 #b", " 枚を手札に加える。"]
+                "DESCRIPTIONS": ["#b", " ターンの間、 #yキャラクター カードをプレイした時、 #y手裏剣 #b1 枚を手札に加える。"]
         },
         "aigisMod:SecretPill": {
                 "NAME": "秘伝の丸薬",

@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "다그다의 신기",
-                "DESCRIPTIONS": ["체력을 회복하거나 임시체력을 얻을시, #b", " #y힘과 #b", "#y방어도를 얻습니다."]
+                "DESCRIPTIONS": ["체력을 회복하시, #b", " #y힘과 #b", " #y방어도를 얻습니다."]
         },
 
         "aigisMod:ImperialSmith": {
@@ -413,7 +413,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "귀인대차륜",
-                "DESCRIPTIONS": ["이번 턴 #y캐릭터 카드를 사용하면 #b", " #y수리검을 손패에 얻습니다."]
+                "DESCRIPTIONS": ["다음 #b", " 턴동안, 이번 턴 #y캐릭터 카드를 사용하면 #b1 #y수리검을 손패에 얻습니다."]
         },
         "aigisMod:SecretPill": {
                 "NAME": "비전의 환약",

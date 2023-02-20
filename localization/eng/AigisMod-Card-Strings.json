@@ -187,14 +187,14 @@
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "Imlau",
-    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP, gain !aigisMod:SecondMagic! Strength and 10 Block.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Extols Life"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "Imlau",
-    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP or gain Temporal HP, gain !aigisMod:SecondMagic! Strength and 5 Block.",
+    "DESCRIPTION": "Heal !M! HP at the end of this turn. NL When you heal HP, gain !aigisMod:SecondMagic! Strength and 10 Block.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Extols Life"
     ]
@@ -1325,8 +1325,8 @@
   },
   "aigisMod:Lizette": {
     "NAME": "Lizette",
-    "DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
-    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card the next turn.",
+    "DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card next turn.",
+    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Sluggish to all enemies. NL Draw 1 Card next turn.",
     "EXTENDED_DESCRIPTION" : [
       "Time Witch"
     ]
@@ -4020,7 +4020,7 @@
   "aigisMod:Izuna": {
     "NAME": "Izuna",
     "DESCRIPTION": "When you gain Blur, deal !M! damage to all enemies and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "When you gain Blur deal, !M! damage to all enemies and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "When you gain Blur, deal !M! damage to all enemies and draw 1 card.",
     "EXTENDED_DESCRIPTION": [
       "Youko"
     ]
@@ -4732,8 +4732,8 @@
   },
   "aigisMod:Shuka": {
     "NAME": "Shuka",
-    "DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
-    "UPGRADE_DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 card from Discard Pile to the bottom of Draw Pile to gain [E]",
+    "DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 Eastern Country card from Discard Pile to the bottom of the Draw Pile to gain [E]",
+    "UPGRADE_DESCRIPTION": "Lose !M! Strength. NL Gain 5 Gold. NL At the start of turn, send 1 Eastern Country card from Discard Pile to the bottom of the Draw Pile to gain [E]",
     "EXTENDED_DESCRIPTION": [
       "Bunbuku Tea-Kettle Tsukumogami"
     ]

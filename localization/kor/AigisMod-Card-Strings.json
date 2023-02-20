@@ -187,14 +187,14 @@
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "임라우",
-    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5 를 얻습니다.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복할 시, 힘 !aigisMod:SecondMagic! 과 방어도 10 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "생명을 칭송하는 자"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "임라우",
-    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복하거나 aigismod:임시체력을 획득할 시, 힘 !aigisMod:SecondMagic! 과 방어도 5 를 얻습니다.",
+    "DESCRIPTION": "이 턴이 끝난 뒤 체력을 !M! 회복합니다. NL 체력을 회복할 시, 힘 !aigisMod:SecondMagic! 과 방어도 10 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "생명을 칭송하는 자"
     ]

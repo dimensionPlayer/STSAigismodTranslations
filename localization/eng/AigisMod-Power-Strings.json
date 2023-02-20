@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "Divine Staff Dagda",
-                "DESCRIPTIONS": ["On heal or gaining temporal HP, gain #b", " #yStrenght and #b", "#yblock."]
+                "DESCRIPTIONS": ["When you heal HP, gain #b", " #yStrenght and #b", " #yblock."]
         },
 
         "aigisMod:ImperialSmith": {
@@ -389,7 +389,6 @@
                 "NAME": "Commander Inspiration",
                 "DESCRIPTIONS": ["Once per turn, when you play a #yStrike card or #yDefend, gain #b", " energy", "This power has been activated."]
         },
-
 
         "aigisMod:MorningStar": {
                 "NAME": "Morning Star",
@@ -413,7 +412,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "Kibanin Frenzy",
-                "DESCRIPTIONS": ["This turn, when you play a #yCharacter, add #b", " #yShuriken card(s) to hand."]
+                "DESCRIPTIONS": ["For the next #b", " turns, when you play a #yCharacter, add 1 #yShuriken card to your hand."]
         },
         "aigisMod:SecretPill": {
                 "NAME": "Secret Pill",

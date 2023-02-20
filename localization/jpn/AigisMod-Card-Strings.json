@@ -187,14 +187,14 @@
   },
   "aigisMod:ImlauPlatinum": {
     "NAME": "イムラウ",
-    "DESCRIPTION": "このターン終了時、 NL HPを !M! 回復する。 NL 回復か aigismod:仮初 のHP を得るたびに 筋力 !aigisMod:SecondMagic! と 5 ブロックを得る。",
+    "DESCRIPTION": "このターン終了時、 NL HPを !M! 回復する。 NL HPを回復するたびに 筋力 !aigisMod:SecondMagic! と 10 ブロックを得る。",
     "EXTENDED_DESCRIPTION" : [
       "生命を謳う者"
     ]
   },
   "aigisMod:ImlauBlack": {
     "NAME": "イムラウ",
-    "DESCRIPTION": "このターン終了時、 NL HPを !M! 回復する。 NL 回復か aigismod:仮初 のHP を得るたびに 筋力 !aigisMod:SecondMagic! と 5 ブロックを得る。",
+    "DESCRIPTION": "このターン終了時、 NL HPを !M! 回復する。 NL HPを回復するたびに 筋力 !aigisMod:SecondMagic! と 10 ブロックを得る。",
     "EXTENDED_DESCRIPTION" : [
       "生命を謳う者"
     ]
