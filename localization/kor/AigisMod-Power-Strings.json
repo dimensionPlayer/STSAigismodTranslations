@@ -397,7 +397,7 @@
         },
         "aigisMod:RivenEnemyPower": {
                 "NAME": "트루 블러드",
-                "DESCRIPTIONS": ["#y리븐의 #y환영이 살아있는 동안 데미지를 입지 않습니다. 공격할 때 최대 체력이 #b 만큼 상승합니다."]
+                "DESCRIPTIONS": ["#y리븐의 #y환영이 살아있는 동안 데미지를 입지 않습니다. 공격할 때 증가하는 최대 체력량 : #b"]
         },
         "aigisMod:LukiferEnemyPower": {
                 "NAME": "여명의 날개",
