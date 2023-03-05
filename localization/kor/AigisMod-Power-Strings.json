@@ -56,7 +56,7 @@
 
         "aigisMod:SteamGuardianPower": {
                 "NAME": "스팀 가디언",
-                "DESCRIPTIONS": ["#y공격받았을 때 데미지를 #b", "% 덜 받습니다. #y체력 #y소비나 #y가시로 인한 데미지는 감소되지 않습니다."]
+                "DESCRIPTIONS": ["#y공격받았을 때 데미지를 #b", " % 덜 받습니다. #y체력 #y소비나 #y가시로 인한 데미지는 감소되지 않습니다."]
         },
 
         "aigisMod:SacrificePower": {
@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "다그다의 신기",
-                "DESCRIPTIONS": ["체력을 회복하시, #b", " #y힘과 #b", " #y방어도를 얻습니다."]
+                "DESCRIPTIONS": ["체력을 회복할 시, #b", " #y힘과 #b", " #y방어도를 얻습니다."]
         },
 
         "aigisMod:ImperialSmith": {
@@ -397,7 +397,7 @@
         },
         "aigisMod:RivenEnemyPower": {
                 "NAME": "트루 블러드",
-                "DESCRIPTIONS": ["#y리븐의 #y환영이 살아있는 동안 데미지를 입지 않습니다. 공격할 때 최대 체력이 #b 만큼 상승합니다."]
+                "DESCRIPTIONS": ["#y리븐의 #y환영이 살아있는 동안 데미지를 입지 않습니다. 공격할 때 증가하는 최대 체력량 : #b"]
         },
         "aigisMod:LukiferEnemyPower": {
                 "NAME": "여명의 날개",
@@ -413,7 +413,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "귀인대차륜",
-                "DESCRIPTIONS": ["다음 #b", " 턴동안, 이번 턴 #y캐릭터 카드를 사용하면 #b1 #y수리검을 손패에 얻습니다."]
+                "DESCRIPTIONS": ["다음 #b", " 턴동안, #y캐릭터 카드를 사용하면 #b1 #y수리검을 손패에 얻습니다."]
         },
         "aigisMod:SecretPill": {
                 "NAME": "비전의 환약",
