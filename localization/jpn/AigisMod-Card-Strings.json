@@ -982,7 +982,7 @@
   "aigisMod:Rindou": {
     "NAME": "リンドウ",
     "DESCRIPTION": "引いた時、 5 固定の ブロック を得る。 NL !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "引いた時、 7 固定の ブロック を得る。 NL デッキにこれ以外のコスト4カードがある時、このカードのコストは1減少する。 NL !D! ダメージを与える",
+    "UPGRADE_DESCRIPTION": "引いた時、 7 固定の ブロック を得る。 NL デッキにリンドウ以外のコスト4カードがある時、このカードのコストは1減少する。 NL !D! ダメージを与える",
     "EXTENDED_DESCRIPTION" : [
       "蒼角の鬼娘"
     ]
@@ -1310,7 +1310,7 @@
   "aigisMod:Kokoro": {
     "NAME": "ココロ",
     "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 2 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
