@@ -71,7 +71,7 @@
 
         "aigisMod:OutlawMaid": {
                 "NAME": "無法者のメイド",
-                "DESCRIPTIONS": [" #y暗殺 カードを #b", " 枚プレイした時に、 #y筋力 #b", " を得る", " #y暗殺 カードを  #b", "  枚プレイした時に増加する #b"]
+                "DESCRIPTIONS": [" #y暗殺 カードを #b", " 枚プレイした時に、 #y筋力 #b", " を得る", " #y暗殺 カードを #b", " 枚プレイした時に増加する #b"]
         },
 
         "aigisMod:BloomPetal": {
@@ -189,7 +189,7 @@
         },
         "aigisMod:Stealth": {
                 "NAME": "隠密",
-                "DESCRIPTIONS": ["スキルカードをプレイした時、 #b", "  #yブロック を得る。"]
+                "DESCRIPTIONS": ["スキルカードをプレイした時、 #b", " #yブロック を得る。"]
         },
         "aigisMod:Watchdog": {
                 "NAME": "ウォッチドッグ",
@@ -205,7 +205,7 @@
         },
         "aigisMod:MikoInspiration": {
                 "NAME": "巫女の激励",
-                "DESCRIPTIONS": ["呪いカードを #y廃棄 した時、 #b", "  #yブロック と #y筋力 #b", " を得る。"]
+                "DESCRIPTIONS": ["呪いカードを #y廃棄 した時、 #b", " #yブロック と #y筋力 #b", " を得る。"]
         },
         "aigisMod:Burn": {
                 "NAME": "バーン",

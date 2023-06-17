@@ -982,7 +982,7 @@
   "aigisMod:Rindou": {
     "NAME": "リンドウ",
     "DESCRIPTION": "引いた時、 5 固定の ブロック を得る。 NL !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "引いた時、 7 固定の ブロック を得る。 NL これ以外のデッキ内のコスト4カードのコストを1減少する。 NL !D! ダメージを与える",
+    "UPGRADE_DESCRIPTION": "引いた時、 7 固定の ブロック を得る。 NL デッキにリンドウ以外のコスト4カードがある時、このカードのコストは1減少する。 NL !D! ダメージを与える",
     "EXTENDED_DESCRIPTION" : [
       "蒼角の鬼娘"
     ]
@@ -1310,7 +1310,7 @@
   "aigisMod:Kokoro": {
     "NAME": "ココロ",
     "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 2 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
@@ -1967,7 +1967,7 @@
   "aigisMod:Ethnea": {
     "NAME": "エスネア",
     "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇し、 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇し、 筋力 1 を得る",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇し、 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の魔兵"
     ]
@@ -1982,8 +1982,8 @@
   },
   "aigisMod:Kihor": {
     "NAME": "キホル",
-    "DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。 NL ターン終了時、手札のデーモンを 1 枚 廃棄 して筋力 1 を得ることができる。",
-    "UPGRADE_DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。 NL ターン終了時、手札のデーモンを 1 枚 廃棄 して筋力 1 を得ることができる。",
+    "DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。 NL ターン終了時、手札のデーモンを 1 枚 廃棄 して 筋力 1 を得ることができる。",
+    "UPGRADE_DESCRIPTION": "aigismod:ダメージオーラ !M! を得る。 NL ターン終了時、手札のデーモンを 1 枚 廃棄 して 筋力 1 を得ることができる。",
     "EXTENDED_DESCRIPTION" : [
       "魔界料理人"
     ]
@@ -2082,8 +2082,8 @@
 
   "aigisMod:Motley": {
     "NAME": "モトリー",
-    "DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "手札と捨て札をデッキに戻す。 NL カードを !M! 枚引く。 NL !B! ブロック を得る。 NL 廃棄",
+    "DESCRIPTION": "手札と捨て札を山札に戻す。 NL カードを !M! 枚引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札と捨て札を山札に戻す。 NL カードを !M! 枚引く。 NL !B! ブロック を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国道化師"
     ]
@@ -2264,8 +2264,8 @@
   },
   "aigisMod:Rute2": {
     "NAME": "ルーテ",
-    "DESCRIPTION": "山札の帝国騎士カードを NL 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "山札の帝国騎士カードを NL 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
+    "DESCRIPTION": "山札の帝国騎士カードを 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "山札の帝国騎士カードを 1 枚手札に加える。 NL 捨て札の ストライク を 1 枚手札に加える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国魔鎧兵"
     ]
@@ -2464,7 +2464,7 @@
     "UPGRADE_DESCRIPTION": "手札に 式鬼+ を 1 枚加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。",
     "EXTENDED_DESCRIPTION" : [
       "陰陽師",
-      "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : 全ての敵はHPの !M! % を失う。"
+      "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。"
     ]
   },
   "aigisMod:Akira": {
@@ -2512,8 +2512,8 @@
   },
   "aigisMod:Homura": {
     "NAME": "ホムラ",
-    "DESCRIPTION": "呪いを 1 枚 廃棄 するまで使用不可。 NL aigismod:バーン を !M! 与える。 NL カードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "呪いを 1 枚 廃棄 するまで使用不可。 NL aigismod:バーン を !M! 与える。 NL カードを 1 枚引く。",
+    "DESCRIPTION": "呪いを 1 枚 廃棄 するまで使用不可。 NL aigismod:バーン !M! を与える。 NL カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "呪いを 1 枚 廃棄 するまで使用不可。 NL aigismod:バーン !M! を与える。 NL カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "天狗"
     ]
@@ -3658,7 +3658,7 @@
     "UPGRADE_DESCRIPTION": "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
     "EXTENDED_DESCRIPTION": [
       "鉄腕乙女",
-      "aigismod:堅物 : 16. NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
+      "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
     ]
   },
   "aigisMod:Threse": {
@@ -3733,7 +3733,7 @@
     "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL aigismod:堅牢 :12: 全ての敵は 筋力 !M! を失う。",
     "EXTENDED_DESCRIPTION": [
       "鋼の重装砲兵",
-      "!D! aigismod:拡散 ダメージを与える。 NL aigismod:堅牢 12: 全ての敵は 筋力 !M! を失う。"
+      "!D! aigismod:拡散 ダメージを与える。 NL aigismod:堅牢 :12: 全ての敵は 筋力 !M! を失う。"
     ]
   },
   "aigisMod:Regina": {
