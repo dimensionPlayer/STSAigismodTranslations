@@ -467,10 +467,27 @@
     "NAME": "Miracle ",
     "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
     "DESCRIPTIONS": [
-      "When a card is created gain #b2 #yTemporal #yHP.",
-      "Draw #b1 card when you take damage."
+      "Gain #b1 #yTemporal #yHP when you play a card that was created in combat.",
+      "Usable up to 7 times per turn."
     ]
   },
+  "aigisMod:DepthTorpedo": {
+    "NAME": "Depth Torpedo",
+    "FLAVOR": "Wirbel: I wish I could dive into people's minds and solve everything.",
+    "DESCRIPTIONS": [
+      "The first time in a combat you take damage while you have Drown, all enemies lose 2 Strength."
+    ]
+  },
+  "aigisMod:SharkTide": {
+    "NAME": "Shark Tide",
+    "FLAVOR": "Fine: I came from an underwater city. I'll do my best to study the dry land!",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of turn if you have 2 or more Water Pressure.",
+      "Draw 1 card when you play Water Pressure."
+    ]
+  },
+
+
 
 
 

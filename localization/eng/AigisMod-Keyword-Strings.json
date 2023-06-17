@@ -287,30 +287,40 @@
     "PROPER_NAME": "Deep Sea",
     "NAMES": [
       "Deep Sea",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
+      "Deep Sea.",
+      "Deep_sea",
+      "deep_sea."
     ],
-    "DESCRIPTION": "Unplayable unless there is #yWater #yPressure in #yExhaust Pile. On draw add #b1 #yWater #yPressure ."
+    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
   },
   {
     "PROPER_NAME": "Water Pressure",
     "NAMES": [
       "Water Pressure",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
+      "Water_pressure.",
+      "Water_pressure",
+      "water_pressure"
     ],
-    "DESCRIPTION": "At the start of turn apply depending on amount of stacks. 1:Add 1 Dazed to Discard Pile. 2:Gain 1 Frail. 3:Gain 1 Weak 4+:Gain constricted equal to stacks."
+    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches 6, it loses all HP."
+  },
+  {
+    "PROPER_NAME": "Sailor",
+    "NAMES": [
+      "Sailor",
+      "sailor",
+      "Sailor.",
+      "Sailor:"
+    ],
+    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
   },
   {
     "PROPER_NAME": "Beast Tamer",
     "NAMES": [
       "Beast Tamer",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
+      "Beast_tamer.",
+      "Beast_tamer",
+      "beast_tamer"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast ."
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
   }
 ]

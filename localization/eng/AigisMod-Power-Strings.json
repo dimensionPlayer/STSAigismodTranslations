@@ -434,6 +434,17 @@
                 "NAME": "Night Parade",
                 "DESCRIPTIONS": ["This turn, each time you play a #yEastern #yCountry or #yShuriken card, all enemies lose #b", " #yHP."]
         },
+        "aigisMod:WaterPressure": {
+                "NAME": "Water Pressure",
+                "DESCRIPTIONS": ["At the start of turn, lose #b", " #yHP, or all #yHP if this has 6 stacks."]
+        },
+        "aigisMod:DrownedEnemy": {
+                "NAME": "Drown",
+                "DESCRIPTIONS": ["At the start of turn, lose #b", " #yHP."]
+        },
+
+
+
         "aigisMod:StrengthForTheTurnPower": {
                 "NAME": "Strength for the Turn",
                 "DESCRIPTIONS": ["This turn, increases attack #ydamage by #b", "This turn, decreases attack #ydamage by #b", "."]
