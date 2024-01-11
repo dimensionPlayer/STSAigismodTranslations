@@ -369,6 +369,57 @@
       "release:"
     ],
     "DESCRIPTION": "ブロックが0である、またはブラーを得ている時、以下の効果を得る。"
-  }
+  },
 
+
+  {
+    "PROPER_NAME": "Deep Sea",
+    "NAMES": [
+      "Deep Sea",
+      "Deep_sea.",
+      "Deep_sea",
+      "deep_sea"
+    ],
+    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
+  },
+  {
+    "PROPER_NAME": "Water Pressure",
+    "NAMES": [
+      "Water Pressure",
+      "Water_pressure.",
+      "Water_pressure",
+      "water_pressure"
+    ],
+    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
+  },
+  {
+    "PROPER_NAME": "Sailor",
+    "NAMES": [
+      "Sailor",
+      "sailor",
+      "Sailor.",
+      "Sailor:"
+    ],
+    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+  },
+  {
+    "PROPER_NAME": "Beast Tamer",
+    "NAMES": [
+      "Beast Tamer",
+      "Beast_tamer.",
+      "Beast_tamer",
+      "beast_tamer"
+    ],
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+  },
+  {
+    "PROPER_NAME": "Cursed Shadows",
+    "NAMES": [
+      "Cursed Shadows",
+      "Cursed_shadows.",
+      "Cursed_shadows",
+      "cursed_shadows"
+    ],
+    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+  }
 ]

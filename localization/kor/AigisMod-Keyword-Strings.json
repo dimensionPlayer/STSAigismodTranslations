@@ -407,7 +407,7 @@
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "#y소멸된 카드 더미에 #y수압이 없다면 사용불가. 카드를 뽑을 때 #b1 #y수압을 획득합니다."
+    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
   },
   {
     "PROPER_NAME": "수압",
@@ -419,7 +419,7 @@
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "턴 시작시 쌓여있는 스택별로 다른 효과가 발동됩니다. 1)버린 카드 더미에 1 어지러움을 추가합니다. 2)1 손상을 획득합니다. 3)1 약화를 획득합니다. 4+)스택과 동일한 양의 포박을 받습니다."
+    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
   },
   {
     "PROPER_NAME": "마물술사",
@@ -446,5 +446,41 @@
       "자동발동"
     ],
     "DESCRIPTION": "이 카드를 뽑는 순간 자동적으로 효과가 발동됩니다."
+  },
+
+
+
+
+
+
+  {
+    "PROPER_NAME": "Sailor",
+    "NAMES": [
+      "Sailor",
+      "sailor",
+      "Sailor.",
+      "Sailor:"
+    ],
+    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+  },
+  {
+    "PROPER_NAME": "Beast Tamer",
+    "NAMES": [
+      "Beast Tamer",
+      "Beast_tamer.",
+      "Beast_tamer",
+      "beast_tamer"
+    ],
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+  },
+  {
+    "PROPER_NAME": "Cursed Shadows",
+    "NAMES": [
+      "Cursed Shadows",
+      "Cursed_shadows.",
+      "Cursed_shadows",
+      "cursed_shadows"
+    ],
+    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
   }
 ]

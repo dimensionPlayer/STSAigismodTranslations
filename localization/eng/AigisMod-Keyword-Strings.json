@@ -287,9 +287,9 @@
     "PROPER_NAME": "Deep Sea",
     "NAMES": [
       "Deep Sea",
-      "Deep Sea.",
+      "Deep_sea.",
       "Deep_sea",
-      "deep_sea."
+      "deep_sea"
     ],
     "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
   },
@@ -301,7 +301,7 @@
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches 6, it loses all HP."
+    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
   },
   {
     "PROPER_NAME": "Sailor",
@@ -321,6 +321,16 @@
       "Beast_tamer",
       "beast_tamer"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted, add #b1 #yHellbeast to hand."
+  },
+  {
+    "PROPER_NAME": "Cursed Shadows",
+    "NAMES": [
+      "Cursed Shadows",
+      "Cursed_shadows.",
+      "Cursed_shadows",
+      "cursed_shadows"
+    ],
+    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
   }
 ]
