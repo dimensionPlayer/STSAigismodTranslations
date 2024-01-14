@@ -5127,8 +5127,8 @@
   },
   "aigisMod:Thelma": {
     "NAME": "テルマ",
-    "DESCRIPTION": "弱体 1 を受ける。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "弱体 1 を受ける。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
+    "DESCRIPTION": "弱体 1 を与える。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "弱体 1 を与える。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "錬金術士"
     ]
