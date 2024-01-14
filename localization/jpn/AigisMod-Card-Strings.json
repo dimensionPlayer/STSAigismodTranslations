@@ -4764,7 +4764,7 @@
   "aigisMod:Sabrina": {
     "NAME": "サブリナ",
     "DESCRIPTION": "!D! ダメージを 3 回与える。 NL 廃棄 NL aigismod:水兵 1: [E] を得る。 ",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを3回与える。 NL aigismod:水兵 1: [E] を得る。 ",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 3 回与える。 NL aigismod:水兵 1: [E] を得る。 ",
     "EXTENDED_DESCRIPTION" : [
       "私掠船長"
     ]
@@ -4779,8 +4779,8 @@
   },
   "aigisMod:Amelie": {
     "NAME": "アメリ",
-    "DESCRIPTION": "山札の 水兵 アタックカード 1枚 を 手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "山札の 水兵 アタックカード 1枚 を 手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
+    "DESCRIPTION": "山札の 水兵 アタックカードを 1枚  手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "山札の 水兵 アタックカードを 1枚 を 手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "航海士"
     ]
@@ -4797,7 +4797,7 @@
   "aigisMod:Jacqueline": {
     "NAME": "ジャクリーヌ",
     "DESCRIPTION": "捨て札の 水兵アタック もしくは 深海兵 カード 1 枚 を 手札に加える。 NL aigismod:水兵 2: ターンの間 そのカードのコストを0にする。",
-    "UPGRADE_DESCRIPTION": "捨て札の 水兵アタック もしくは 深海兵 カード 1 枚 を 手札に加える。 NL aigismod:水兵 2: ターンの間 そのカードのコストを0にする。",
+    "UPGRADE_DESCRIPTION": "捨て札の 水兵アタック もしくは 深海兵 カード 1 枚 を 手札に加える。 NL aigismod:水兵 2: この戦闘中 そのカードのコストを0にする。",
     "EXTENDED_DESCRIPTION" : [
       "航海士"
     ]
@@ -5014,7 +5014,7 @@
   },
   "aigisMod:Aquamarie": {
     "NAME": "アクアマリー",
-    "DESCRIPTION": "ウンディーネを 1 枚山札に加える。 NL 次のターン開始時に カードを !M! 枚引く。 NL 廃棄",
+    "DESCRIPTION": "ウンディーネを 1 枚 山札に加える。 NL 次のターン開始時に カードを !M! 枚引く。 NL 廃棄",
     "UPGRADE_DESCRIPTION": "ウンディーネを 1 枚 山札に加える。 NL 次のターン開始時に カードを !M! 枚引く。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "召喚士"
