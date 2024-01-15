@@ -42,5 +42,17 @@
       "あなたは心臓に向かって奥義を放ち…",
       "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式の NL ようなものを行っているところに出くわした。あなたが近づくと、 NL 薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった NL 彼らは長く青白い手をあなたに伸ばしてくる。 NL 「騎士よ我らと共に、そして塔の温もりを感じるのだ」"
     ]
+  },
+
+  "aigisMod:TheMiracleManCharacter": {
+    "NAMES": [
+      "The Miracle Man",
+      "the Miracle Man"
+    ],
+    "TEXT": [
+      "Dan, a martial artist, is always pursuing power. Looking for enemies stronger than himself, this monk will ascend the Spire.",
+      "You fire up, knowing you are gonna get a tough opponent to fight",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~monk,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
   }
 }

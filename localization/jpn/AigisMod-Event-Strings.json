@@ -116,5 +116,23 @@
       "[LOCKED] 封印解除カードを持っていない。",
       "[離れる]"
     ]
+  },
+
+
+  "aigisMod:AigisMiracle": {
+    "NAME": "Aigis Miracle",
+    "DESCRIPTIONS": [
+      "You hear the voice of the Goddess Aigis. NL She asks you for what you need.",
+      "You feel an immense strength, but wonder how long your body will last.",
+      "An ally got summoned to help you.",
+      "You feel refreshed and motivated."
+    ],
+    "OPTIONS": [
+      "[Power] #gTransform #gALL #gStrikes into #gMiracle #gStrikes. Gain the Aigis Statue.",
+      "[Support] #gAdd #ga #gCard to your deck.",
+      "[Endurance] #gMax #gHP #b+8",
+      "[LOCKED] You don't have Strikes.",
+      "[Leave]"
+    ]
   }
 }
