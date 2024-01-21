@@ -1363,8 +1363,8 @@
   },
   "aigisMod:Kokoro": {
     "NAME": "ココロ",
-    "DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
+    "DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 !aigisMod:SecondMagic! を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]

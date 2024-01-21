@@ -473,7 +473,7 @@
                 "DESCRIPTIONS": ["あなたが #y水圧 を得た時、 #y筋力 #b", " を得る。"]
         },
         "aigisMod:DragonPalaceDance": {
-                "NAME": "龍宮ノ舞	",
+                "NAME": "龍宮ノ舞",
                 "DESCRIPTIONS": ["#y水圧 のダメージを受けない。 あなたが #y水圧 を得た時、敵全体に #y脱力 #b", " を与える。"]
         },
         "aigisMod:AerialSupremacy": {
@@ -529,7 +529,7 @@
                 "DESCRIPTIONS": ["戦闘勝利時、 ランダムな #yポーション #b1 つを入手する。"]
         },
         "aigisMod:PreciousMetals": {
-                "NAME": "貴金属錬成	",
+                "NAME": "貴金属錬成",
                 "DESCRIPTIONS": ["ターン開始時、 #b", " ダメージを受ける。 戦闘勝利時、 獲得 #yゴールドが #b", " 増加する。"]
         },
         "aigisMod:InmortalFeast": {
