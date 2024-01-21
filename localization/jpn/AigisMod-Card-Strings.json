@@ -15,28 +15,28 @@
   },
   "aigisMod:SolaisPlatinum": {
     "NAME": "ソラス",
-    "DESCRIPTION": "天賦 NL 全ての敵に !D! ダメージを 2 回与える。 NL aigismod:強化スキル : NL 保留するたび、ダメージが !M! 上昇する。",
+    "DESCRIPTION": "天賦 NL 敵全体に !D! ダメージを 2 回与える。 NL aigismod:強化スキル : NL 保留するたび、ダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "星を詠む者"
     ]
   },
   "aigisMod:SolaisBlack": {
     "NAME": "ソラス",
-    "DESCRIPTION": "天賦 NL 全ての敵に !D! ダメージを 2 回与える。 NL aigismod:強化スキル : NL 保留するたび、ダメージが !M! 上昇する。",
+    "DESCRIPTION": "天賦 NL 敵全体に !D! ダメージを 2 回与える。 NL aigismod:強化スキル : NL 保留するたび、ダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "星を詠む者"
     ]
   },
   "aigisMod:ArgePlatinum": {
     "NAME": "アージェ",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージを与え、チャージ が 1 減少する NL aigismod:強化スキル : 保留するたび、チャージが 1 増加する (最大 7 )。 NL チャージ 1 につき !aigisMod:SecondMagic! ダメージ上昇する。 (チャージ !M!)",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与え、チャージ が 1 減少する NL aigismod:強化スキル : 保留するたび、チャージが 1 増加する (最大 7 )。 NL チャージ 1 につき !aigisMod:SecondMagic! ダメージ上昇する。 (チャージ !M!)",
     "EXTENDED_DESCRIPTION" : [
       "万機の祖たる者"
     ]
   },
   "aigisMod:ArgeBlack": {
     "NAME": "アージェ",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージを与え、チャージが 1 減少 NL aigismod:強化スキル : 保留するたび、チャージが 2 増加する。 NL チャージ 1 で !aigisMod:SecondMagic! ダメージ上昇する。 (チャージ !M!)",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与え、チャージが 1 減少 NL aigismod:強化スキル : 保留するたび、チャージが 2 増加する。 NL チャージ 1 で !aigisMod:SecondMagic! ダメージ上昇する。 (チャージ !M!)",
     "EXTENDED_DESCRIPTION" : [
       "万機の祖たる者"
     ]
@@ -127,7 +127,7 @@
   },
   "aigisMod:RawalCPlatinum": {
     "NAME": "ラーワル",
-    "DESCRIPTION": "全ての敵に、弱体 1 と !D! ダメージを与える。 NL 戦闘中、全てのラーワルのダメージが !M! 上昇する。",
+    "DESCRIPTION": "敵全体に 弱体 1 と !D! ダメージを与える。 NL 戦闘中、全てのラーワルのダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "魔導を宿す者"
     ]
@@ -148,7 +148,7 @@
   },
   "aigisMod:RawalCBlack": {
     "NAME": "ラーワル",
-    "DESCRIPTION": "全ての敵に、弱体 2 と !D! ダメージを与える。 NL 戦闘中、全てのラーワルのダメージが !M! 上昇する。",
+    "DESCRIPTION": "敵全体に、弱体 2 と !D! ダメージを与える。 NL 戦闘中、全てのラーワルのダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "魔導を宿す者"
     ]
@@ -173,14 +173,14 @@
   },
   "aigisMod:EphtraPlatinum": {
     "NAME": "エフトラ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
   },
   "aigisMod:EphtraBlack": {
     "NAME": "エプトラ",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージ を与える。 NL 全ての敵はHP !M! を失う。失うHPはカードをプレイするたびに永続で 1 上昇する。 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "世界を超える者"
     ]
@@ -201,7 +201,7 @@
   },
   "aigisMod:SanmotoPlatinum": {
     "NAME": "山ン本五郎左衛門",
-    "DESCRIPTION": "手札の東の国カード 1 枚を !M! 回プレイする。 NL 廃棄",
+    "DESCRIPTION": "保留 NL 手札の東の国カード 1 枚を !M! 回プレイする。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -229,21 +229,21 @@
   },
   "aigisMod:RivenPlatinum": {
     "NAME": "リヴン",
-    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : 山札にリヴンの幻影 1 枚を加える。",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : リヴンの幻影 を 1 枚山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "永夜の始祖たる者"
     ]
   },
   "aigisMod:RivenBlack": {
     "NAME": "リヴン",
-    "DESCRIPTION": "全ての敵に !D! aigismod:麻痺 ダメージを与える。 NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : 山札にリヴンの幻影 1 枚を加える。",
+    "DESCRIPTION": "敵全体に !D! aigismod:麻痺 ダメージを与える。 NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : リヴンの幻影 を 1 枚山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "永夜の始祖たる者"
     ]
   },
   "aigisMod:RivenPhantom": {
     "NAME": "リヴンの幻影",
-    "DESCRIPTION": "全ての敵に !D! aigismod:麻痺 ダメージを与える。"
+    "DESCRIPTION": "敵全体に !D! aigismod:麻痺 ダメージを与える。"
   },
   "aigisMod:RepeatingNightmare": {
     "NAME": "繰り返す悪夢",
@@ -251,55 +251,55 @@
   },
   "aigisMod:MorfessaPlatinum": {
     "NAME": "モルフェサ",
-    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
+    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 呪影の数 x !M! の HP を失わせる。",
     "EXTENDED_DESCRIPTION" : [
       "災禍を律す者"
     ]
   },
   "aigisMod:MorfessaBlack": {
     "NAME": "モルフェサ",
-    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
+    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 呪影の数 x !M! の HP を失わせる。",
     "EXTENDED_DESCRIPTION" : [
       "災禍を律す者"
     ]
   },
   "aigisMod:CursedFog": {
-    "NAME": "Fog of Falias",
-    "DESCRIPTION": "Exhaust. NL If this card is in your hand at the end of your turn, lose 1 Max HP."
+    "NAME": "ファリアスの迷霧",
+    "DESCRIPTION": "このカードが手札にある状態でターンを終了した時は 最大HP が 1 減少する。 NL 廃棄"
   },
   "aigisMod:MildrithPlatinum": {
-    "NAME": "Mildrith",
-    "DESCRIPTION": "At the start of combat add 1 Garuda to your draw pile. NL Deal !D! damage 2 times. NL Heal !M! HP. NL Exhaust",
+    "NAME": "ミルドリス",
+    "DESCRIPTION": "戦闘開始時に ガルダ を 1 枚 山札 に加える。 NL !D! ダメージを 2 回与える。 NL !M! HP 回復する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls the Beasts"
+      "獣を統べる者"
     ]
   },
   "aigisMod:MildrithBlack": {
-    "NAME": "Mildrith",
-    "DESCRIPTION": "At the start of combat add 1 Garuda to your hand. NL Deal !D! damage 3 times. NL Heal !M! HP. NL Exhaust",
+    "NAME": "ミルドリス",
+    "DESCRIPTION": "戦闘開始時に ガルダ を 1 枚 手札 に加える。 NL !D! ダメージを 3 回与える。 NL !M! HP 回復する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls the Beasts"
+      "獣を統べる者"
     ]
   },
   "aigisMod:Garuda": {
-    "NAME": "Garuda",
-    "DESCRIPTION": "Deal !D! aigismod:True_damage 3 times. NL Draw 1 card.",
+    "NAME": "ガルダ",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを 3 回与える。 NL 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "Divine Beast"
+      "神獣"
     ]
   },
   "aigisMod:TowerOfHeroes": {
-    "NAME": "Tower of Heroes",
-    "DESCRIPTION": "Choose 1 from 3 random Hero Cards to add to your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 from 3 random Hero Cards with !M! upgrades to add to your hand. NL Exhaust.",
+    "NAME": "英傑の塔",
+    "DESCRIPTION": "ランダムな 英傑 カード 3 枚から 1 枚選び 手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ランダムな !M! 回 アップグレード された英傑 カード 3 枚から 1 枚選び 手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:TowerOfHeroesAw": {
-    "NAME": "Tower of Heroes",
-    "DESCRIPTION": "Innate. NL Choose 1 from 3 random Rare Hero Cards to add to your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Choose 1 from 3 random Rare Hero Cards with !M! upgrades to add to your hand. NL Exhaust.",
+    "NAME": "英傑の塔",
+    "DESCRIPTION": "天賦 NL ランダムな レア英傑 カード 3 枚から 1 枚選び 手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "天賦 NL ランダムな !M! 回 アップグレード されたレア英傑 カード 3 枚から 1 枚選び 手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -343,15 +343,15 @@
   "aigisMod:Azami": {
     "NAME": "アザミ",
     "DESCRIPTION": "aigismod:忍術 を得る。 NL 敵を倒した時、 手裏剣を 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "aigismod:忍術 を得る。 NL 手裏剣に 1 の追加ダメージ、 NL 敵を倒した時、 手裏剣を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "aigismod:忍術 を得る。 NL 手裏剣に 1 の追加ダメージ。 NL 敵を倒した時、 手裏剣を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "忍者"
     ]
   },
   "aigisMod:Emelda": {
     "NAME": "エメルダ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージ を NL 2 回与える。 NL aigismod:強化スキル : NL 次に攻撃する時のみ、全ての敵に攻撃する。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を NL 2 回与える。 NL aigismod:強化スキル : NL 次に攻撃する時のみ、全ての敵に攻撃する。",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージ を NL 2 回与える。 NL aigismod:強化スキル : NL 次に攻撃する時のみ、敵全体に攻撃する。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を NL 2 回与える。 NL aigismod:強化スキル : NL 次に攻撃する時のみ、敵全体に攻撃する。",
     "EXTENDED_DESCRIPTION" : [
       "翠森の弓騎兵",
       " !D! aigismod:弓 ダメージ を 与える。 aigismod:強化スキル : ダメージが 7 上昇する。"
@@ -378,7 +378,7 @@
   "aigisMod:Despia": {
     "NAME": "デスピア",
     "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL この戦闘中、ウィッチが 1 追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL この戦闘中、ウィッチが 1 追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL この戦闘中、ウィッチが 1 追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "魔女",
       "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL この戦闘中、ウィッチが 1 追加ダメージ。"
@@ -427,8 +427,8 @@
   },
   "aigisMod:Katara": {
     "NAME": "カタラ",
-    "DESCRIPTION": "全ての敵に 脱力 2 と 弱体 2 を与える。 NL aigismod:呪術 : aigismod:ダメージオーラ !M! を得る。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 脱力 2 と 弱体 2 を与える。 NL aigismod:呪術 : aigismod:ダメージオーラ !M! を得る。",
+    "DESCRIPTION": "敵全体に 脱力 2 と 弱体 2 を与える。 NL aigismod:呪術 : aigismod:ダメージオーラ !M! を得る。",
+    "UPGRADE_DESCRIPTION": "敵全体に 脱力 2 と 弱体 2 を与える。 NL aigismod:呪術 : aigismod:ダメージオーラ !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "呪術師"
     ]
@@ -436,10 +436,10 @@
   "aigisMod:Rinne": {
     "NAME": "リンネ",
     "DESCRIPTION": "アーティファクト !M! を得る。 NL 金属化 !aigisMod:SecondMagic! を得る。",
-    "UPGRADE_DESCRIPTION": "アーティファクト !M! を得る。 NL 金属化 !aigisMod:SecondMagic! を得る。 NL 山札 に 1 枚 避禍予見の鏡影 を加える。",
+    "UPGRADE_DESCRIPTION": "アーティファクト !M! を得る。 NL 金属化 !aigisMod:SecondMagic! を得る。 NL 避禍予見の鏡影を 1 枚 山札 に を加える。",
     "EXTENDED_DESCRIPTION" : [
       "刻詠の風水士",
-      "アーティファクト !M! を得る。 NL 金属化 !aigisMod:SecondMagic! を得る。 NL 山札 に 1 枚 避禍予見の鏡影 を加える。"
+      "アーティファクト !M! を得る。 NL 金属化 !aigisMod:SecondMagic! を得る。 NL 避禍予見の鏡影を 1 枚 山札 に を加える。"
     ]
   },
   "aigisMod:Mirage": {
@@ -604,7 +604,7 @@
   "aigisMod:Anya": {
     "NAME": "アーニャ",
     "DESCRIPTION": "!B! ブロック を得た後、ランダムな敵に NL ブロックの値同じ NL ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得た後、全ての敵に NL ブロックの値同じ NL ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得た後、敵全体に NL ブロックの値同じ NL ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "竜姫",
       "( ", " ダメージ与える)"
@@ -714,8 +714,8 @@
   },
   "aigisMod:Kanon": {
     "NAME": "カノン",
-    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 aigismod:強化スキル : NL 次に使用する時のみ、!M! ダメージ上昇した通常ダメージを全ての敵に与える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 aigismod:強化スキル : NL 次に使用する時のみ、!M! ダメージ上昇した通常ダメ―ジを全ての敵に与える。",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 aigismod:強化スキル : NL 次に使用する時のみ、!M! ダメージ上昇した通常ダメージを敵全体に与える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 aigismod:強化スキル : NL 次に使用する時のみ、!M! ダメージ上昇した通常ダメ―ジを敵全体に与える。",
     "EXTENDED_DESCRIPTION": [
       "爆砲の新兵",
       "!D! aigismod:拡散 ダメージを与える。 aigismod:強化スキル : NL [#ffff00]次に[] [#ffff00]使用[] [#ffff00]する[] [#ffff00]時のみ、[] [#ffff00] !M! [] [#ffff00]ダメージ[] [#ffff00]上昇[] [#ffff00]した[] [#ffff00]通常[] [#ffff00]ダメージ[] [#ffff00]を[] [#ffff00]全て[] [#ffff00]の[] [#ffff00]敵[] [#ffff00]に[] [#ffff00]与える。[]"
@@ -732,11 +732,11 @@
 
   "aigisMod:Sybilla": {
     "NAME": "シビラ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 全ての敵に 脱力 !M! を与える。 NL aigismod:ペア : パテル NL aigismod:暗殺 。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 全ての敵に 脱力 !M! を与える。 NL aigismod:ペア : パテル NL (このターンコスト 1) NL aigismod:暗殺 。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 敵全体に 脱力 !M! を与える。 NL aigismod:ペア : パテル NL aigismod:暗殺 。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 敵全体に 脱力 !M! を与える。 NL aigismod:ペア : パテル NL (このターンコスト 1) NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "!D! ダメージを与える。 NL 全ての敵に 脱力 !M! と 弱体 !M! を与える。 NL aigismod:ペア : パテル NL (このターンコスト0) NL aigismod:暗殺"
+      "!D! ダメージを与える。 NL 敵全体に 脱力 !M! と 弱体 !M! を与える。 NL aigismod:ペア : パテル NL (このターンコスト0) NL aigismod:暗殺"
     ]
   },
   "aigisMod:Uzume": {
@@ -750,7 +750,7 @@
   "aigisMod:Luvea": {
     "NAME": "ルヴェア",
     "DESCRIPTION": "カード 8 枚プレイした時、 [E] を得て、敵に 弱体 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "敏捷性 1 を得る。 NL カード 8 枚プレイした時、 [E] を得て、全ての敵に 弱体 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "敏捷性 1 を得る。 NL カード 8 枚プレイした時、 [E] を得て、敵全体に 弱体 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "戦場指揮官"
     ]
@@ -789,20 +789,20 @@
 
   "aigisMod:Towa": {
     "NAME": "トワ",
-    "DESCRIPTION": "全ての敵に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚引く",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚引く",
+    "DESCRIPTION": "敵全体に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚引く",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚引く",
     "EXTENDED_DESCRIPTION" : [
       "時の調停者",
-      "全ての敵に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚まで引く"
+      "敵全体に !D! ダメージと aigismod:鈍足 を与える。ウィッチカードを使った数だけ、この戦闘中ダメージが上昇する NL ウィッチ を !M! 枚まで引く"
     ]
   },
   "aigisMod:Dina": {
     "NAME": "ディーナ",
     "DESCRIPTION": "!B! ブロック を得る。 aigismod:クールタイム : !M! : NL ランダムな敵に NL !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 aigismod:クールタイム : !M! : NL 全ての敵に NL !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 aigismod:クールタイム : !M! : NL 敵全体に NL !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "怪力少女",
-      "!B! ブロック を得る。 aigismod:クールタイム : !M! : 全ての敵に !D! ダメージを与える。"
+      "!B! ブロック を得る。 aigismod:クールタイム : !M! : 敵全体に !D! ダメージを与える。"
     ]
   },
   "aigisMod:Elyse": {
@@ -816,11 +816,11 @@
   },
   "aigisMod:Sarah": {
     "NAME": "セーラ",
-    "DESCRIPTION": "ターン開始時、 山札から プリンセス を 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL ターン開始時、 山札から プリンセス を 1 枚手札に加える。",
+    "DESCRIPTION": "ターン開始時、 山札の プリンセス を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "筋力 1 を得る。 NL ターン開始時、 山札の プリンセス を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "王宮侍女武官",
-      "天賦 NL ターン開始時、 山札から プリンセス を 1 枚手札に加える。"
+      "天賦 NL ターン開始時、 山札の プリンセス を 1 枚手札に加える。"
     ]
   },
   "aigisMod:Pommier": {
@@ -1035,8 +1035,8 @@
   },
   "aigisMod:Rindou": {
     "NAME": "リンドウ",
-    "DESCRIPTION": "引いた時、 5 固定の ブロック を得る。 NL !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "引いた時、 7 固定の ブロック を得る。 NL デッキ内のコスト4の異なる名のカードがあるならこのカードのコストは 1 減少する。  NL !D! ダメージを与える",
+    "DESCRIPTION": "引いた時に 5 固定の ブロック を得る。 NL !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "引いた時に 7 固定の ブロック を得る。 NL デッキ内にリンドウ以外の コスト4のカードがある場合はこのカードのコストが 1 減少する。 NL !D! ダメージを与える",
     "EXTENDED_DESCRIPTION" : [
       "蒼角の鬼娘"
     ]
@@ -1061,21 +1061,21 @@
   },
   "aigisMod:SetsunaClone": {
     "NAME": "セツナ(分身)",
-    "DESCRIPTION": "全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。",
-    "UPGRADE_DESCRIPTION": "全ての敵に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。"
+    "DESCRIPTION": "敵全体に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "敵全体に廃棄した手裏剣の数と同じ !D! ダメージを与え、 !M! 枚引く。"
   },
   "aigisMod:Ramii": {
     "NAME": "ラミィ",
-    "DESCRIPTION": "このカードを引いた時 NL 全ての敵に !M! ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL 全ての敵に !M! ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時 NL 敵全体に !M! ダメージを与える。 NL 敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL 敵全体に !M! ダメージを与える。 NL 敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "雷神の娘"
     ]
   },
   "aigisMod:Fuuko": {
     "NAME": "フーコ",
-    "DESCRIPTION": "このカードを引いた時全ての敵に aigismod:鈍足 1 を与える。全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時全ての敵に aigismod:鈍足 1 を与える。全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時敵全体に aigismod:鈍足 1 を与える。敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時敵全体に aigismod:鈍足 1 を与える。敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "風神の娘"
     ]
@@ -1160,8 +1160,8 @@
   },
   "aigisMod:Yoshino": {
     "NAME": "ヨシノ",
-    "DESCRIPTION": "山札から東の国カードを !M! 枚引く。行えた時、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 山札から東の国カードを !M! 枚引く。行えた時、 [E] を得る。",
+    "DESCRIPTION": "山札から東の国カードを !M! 枚引く。引いた時は [E] を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 山札から東の国カードを !M! 枚引く。引いた時は [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "",
       "山札から東の国カードを最大 !M! 枚引く。 1 枚以上引いた時、 [E] を得る。"
@@ -1218,7 +1218,7 @@
   "aigisMod:Yashima": {
     "NAME": "ヤシマ",
     "DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 全ての敵に NL 脱力 2 を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 敵全体に NL 脱力 2 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "妖狸"
     ]
@@ -1242,15 +1242,15 @@
   "aigisMod:Hikage": {
     "NAME": "ヒカゲ",
     "DESCRIPTION": "!B! ブロック を得る。 NL 山札か捨て札から NL カグヤを 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 山札か捨て札から NL カグヤを 1 枚加え NL このターンコスト0 。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 山札か捨て札から NL カグヤを 1 枚加え このターンコスト0 にする。",
     "EXTENDED_DESCRIPTION" : [
       "庭番女官"
     ]
   },
   "aigisMod:Shiranui": {
     "NAME": "シラヌイ",
-    "DESCRIPTION": "ぬりかべ分身を NL 山札に 3 枚加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL トゲ 3 を得る。 NL ぬりかべ分身を NL 山札に 3 枚加える。 NL 廃棄",
+    "DESCRIPTION": "ぬりかべ分身を 3 枚山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL トゲ 3 を得る。 NL ぬりかべ分身を 3 枚山札に 加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "ヌリカベ"
     ]
@@ -1275,20 +1275,20 @@
   },
   "aigisMod:Remii": {
     "NAME": "レミィ",
-    "DESCRIPTION": "このカードを引いた時全ての敵に !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時全ての敵に !M! aigismod:貫通 ダメージを与える。 NL 全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時敵全体に !M! aigismod:貫通 ダメージを与える。 NL 敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時敵全体に !M! aigismod:貫通 ダメージを与える。 NL 敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "雷神の娘",
-      "このカードを引いた時 aigismod:ペア : ラミィ NL (このターンコスト 1 )。 NL 全ての敵に NL !D! ダメージを与える。"
+      "このカードを引いた時 aigismod:ペア : ラミィ NL (このターンコスト 1 )。 NL 敵全体に NL !D! ダメージを与える。"
     ]
   },
   "aigisMod:Kuuko": {
     "NAME": "クーコ",
-    "DESCRIPTION": "このカードを引いた時 NL 全ての敵に 弱体 !M! を与える。 NL 全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL 全ての敵に 弱体 !M! を与える。 NL 全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "このカードを引いた時 NL 敵全体に 弱体 !M! を与える。 NL 敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時 NL 敵全体に 弱体 !M! を与える。 NL 敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "風神の娘",
-      "このカードを引いた時 aigismod:ペア : フーコ NL (このターンコスト 1 )。 NL 全ての敵に !D! ダメージを与える。"
+      "このカードを引いた時 aigismod:ペア : フーコ NL (このターンコスト 1 )。 NL 敵全体に !D! ダメージを与える。"
     ]
   },
   "aigisMod:Tomoe": {
@@ -1323,8 +1323,8 @@
   },
   "aigisMod:Karmaplat": {
     "NAME": "カルマ",
-    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL HPを !M! 回復する。 NL aigismod:残り回数 : !stslib:ex! 。 NL aigismod:アンデッド : 山札に カルマ を 1 枚加える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL HPを !M! 回復する。 NL aigismod:残り回数 : !stslib:ex! 。 NL aigismod:アンデッド : 山札に カルマ を 1 枚加える。",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL HPを !M! 回復する。 NL aigismod:残り回数 : !stslib:ex! 。 NL aigismod:アンデッド : カルマ を 1 枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL HPを !M! 回復する。 NL aigismod:残り回数 : !stslib:ex! 。 NL aigismod:アンデッド : カルマ を 1 枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "黒衣の花嫁"
     ]
@@ -1340,8 +1340,8 @@
   },
   "aigisMod:Tokoyo": {
     "NAME": "トコヨ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 山札か捨て札から NL カグヤ 1 枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 山札か捨て札から NL カグヤ 1 枚を手札に NL 加え、そのコストを 0 にする。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 山札か捨て札から NL カグヤ を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 山札か捨て札から NL カグヤを 1 枚手札に NL 加え、そのコストを 0 にする。",
     "EXTENDED_DESCRIPTION" : [
       "降魔の戦姫"
     ]
@@ -1363,24 +1363,24 @@
   },
   "aigisMod:Kokoro": {
     "NAME": "ココロ",
-    "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
+    "DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵 1 体をスタンさせる",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : NL ランダムな敵1体をスタンさせる",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
   },
   "aigisMod:Early": {
     "NAME": "アーリー",
-    "DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に aigismod:鈍足 を与える。 aigismod:強化スキル : 鈍足を !aigisMod:SecondMagic! 増やす。",
-    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 全ての敵に aigismod:鈍足 を与える。 aigismod:強化スキル : 鈍足を !aigisMod:SecondMagic! 増やす。",
+    "DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に aigismod:鈍足 を与える。 aigismod:強化スキル : 鈍足を !aigisMod:SecondMagic! 増やす。",
+    "UPGRADE_DESCRIPTION": "カードを 2 枚引く。 NL 敵全体に aigismod:鈍足 を与える。 aigismod:強化スキル : 鈍足を !aigisMod:SecondMagic! 増やす。",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
   },
   "aigisMod:Lizette": {
     "NAME": "リゼット",
-    "DESCRIPTION": "全ての敵に NL aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
+    "DESCRIPTION": "敵全体に NL aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "敵全体に aigismod:鈍足 !M! を与える。 NL 次のターン、カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "時の魔女"
     ]
@@ -1388,42 +1388,42 @@
 
   "aigisMod:Hina": {
     "NAME": "ヒナ",
-    "DESCRIPTION": "手札に手裏剣を 2 枚加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "手札に手裏剣を 2 枚加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
+    "DESCRIPTION": "手裏剣を 2 枚手札に加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "手裏剣を 2 枚手札に加える。 NL このターン、手裏剣をプレイした時に !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
       "忍者"
     ]
   },
   "aigisMod:Kaname": {
     "NAME": "カナメ",
-    "DESCRIPTION": "手札に手裏剣を 1 枚加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 手札に手裏剣を 1 枚加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
+    "DESCRIPTION": "手裏剣を 1 枚手札に加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 手裏剣を 1 枚手札に加える。 NL このターン、手裏剣をプレイした時に 筋力 1 を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
       "封妖の忍者"
     ]
   },
   "aigisMod:Setsuna2": {
     "NAME": "セツナ",
-    "DESCRIPTION": "手札に手裏剣を 3 枚加える。 NL 手裏剣をつかうたび、 aigismod:ダメージオーラ 1 を得る。",
-    "UPGRADE_DESCRIPTION": "手札に手裏剣を 4 枚加える。 NL 手裏剣をつかうたび、 aigismod:ダメージオーラ 1 を得る。",
+    "DESCRIPTION": "手裏剣を 3 枚手札に加える。 NL 手裏剣をプレイした時に aigismod:ダメージオーラ 1 を得る。",
+    "UPGRADE_DESCRIPTION": "手裏剣を 4 枚手札に加える。 NL 手裏剣をプレイした時に aigismod:ダメージオーラ 1 を得る。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍",
-      "手札に手裏剣を 3 枚加える。 NL 手裏剣をつかうたび、 aigismod:ダメージオーラ 1 を得る。 NL 手札のコスト4 カードをプレイする。"
+      "手裏剣を 3 枚手札に加える。 NL 手裏剣をプレイした時に aigismod:ダメージオーラ 1 を得る。 NL 手札のコスト4 カードをプレイする。"
     ]
   },
   "aigisMod:Tachibana": {
     "NAME": "タチバナ",
-    "DESCRIPTION": "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。",
+    "DESCRIPTION": "このターン、 キャラクターカードをプレイした時に 手裏剣 を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "このターン、 キャラクターカードをプレイした時に 手裏剣を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍",
-      "このターン、 キャラクターカードをプレイするたび、手裏剣を 1 枚手札に加える。 NL 手札のコスト4カードのコストをこのターン 0 にする。"
+      "このターン、 キャラクターカードをプレイした時に 手裏剣を 1 枚手札に加える。 NL 手札のコスト4カードのコストをこのターン 0 にする。"
     ]
   },
   "aigisMod:Momiji": {
     "NAME": "モミジ",
-    "DESCRIPTION": "筋力 !M! を得る。 NL 手札にランダムな コスト 4 キャラクターカード 1枚 を加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "筋力 !M! を得る。 NL 手札にランダムな コスト 4 キャラクターカード 1枚 を加える。 NL 廃棄",
+    "DESCRIPTION": "筋力 !M! を得る。 NL ランダムな コスト 4 キャラクターカード を 1枚 手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "筋力 !M! を得る。 NL ランダムな コスト 4 キャラクターカードを 1枚 手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
       "剣豪"
     ]
@@ -1471,11 +1471,11 @@
   },
   "aigisMod:Nagi": {
     "NAME": "ナギ",
-    "DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL 廃棄",
+    "DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手裏剣を 1 枚手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手裏剣を 1 枚手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "封妖の忍者",
-      "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手札に手裏剣を 1 枚加える。 NL aigismod:残り回数 : !stslib:ex!"
+      "弱体 !M! を与える。 その敵を手裏剣でアタックするたび、筋力 1 を得る。 NL 手裏剣を 1 枚手札に加える。 NL aigismod:残り回数 : !stslib:ex!"
     ]
   },
   "aigisMod:Enju": {
@@ -1529,8 +1529,8 @@
   },
   "aigisMod:Shirogane": {
     "NAME": "シロガネ",
-    "DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣 !M! 枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣 !M! 枚を手札に加える。",
+    "DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣を !M! 枚を手札に加える。",
+    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP 2 を得る。 NL 手裏剣を !M! 枚を手札に加える。",
     "EXTENDED_DESCRIPTION": [
       "鬼刃忍"
     ]
@@ -1578,7 +1578,7 @@
   "aigisMod:Patricia": {
     "NAME": "パトリシア",
     "DESCRIPTION": "ターン開始時、カードを 1 枚捨ててバリケードを 1 枚 手札に加えることができる。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 脱力 2 を NL 与える。 NL ターン開始時、カードを NL 1 枚捨ててバリケードを 1 枚 手札に加えることができる。",
+    "UPGRADE_DESCRIPTION": "敵全体に 脱力 2 を NL 与える。 NL ターン開始時、カードを NL 1 枚捨ててバリケードを 1 枚 手札に加えることができる。",
     "EXTENDED_DESCRIPTION" : [
       "帝国防塞工兵"
     ]
@@ -1589,8 +1589,8 @@
   },
   "aigisMod:Isabelle": {
     "NAME": "イザベラ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL このカードのダメージが !M! 減少する。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL このカードのダメージが !M! 減少する。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL このカードのダメージが !M! 減少する。 NL aigismod:撃破 : [E] 。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL このカードのダメージが !M! 減少する。 NL aigismod:撃破 : [E] 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国天馬騎士"
     ]
@@ -1630,16 +1630,16 @@
   },
   "aigisMod:IslaEmperor": {
     "NAME": "アイラ",
-    "DESCRIPTION": "全ての敵に 脱力 2 を与える。 NL aigismod:ダメージオーラ !M! を得る",
-    "UPGRADE_DESCRIPTION": "全ての敵に、 NL 脱力 2 を与える。 NL aigismod:ダメージオーラ !M! を得る",
+    "DESCRIPTION": "敵全体に 脱力 2 を与える。 NL aigismod:ダメージオーラ !M! を得る",
+    "UPGRADE_DESCRIPTION": "敵全体に 脱力 2 を与える。 NL aigismod:ダメージオーラ !M! を得る",
     "EXTENDED_DESCRIPTION" : [
       "迷子の悪魔召喚士"
     ]
   },
   "aigisMod:Clara": {
     "NAME": "クラーラ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL aigismod:クールタイム : !M! : NL 4 ダメージ追加する。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL aigismod:クールタイム : !M! : NL 4 ダメージ追加する。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL aigismod:クールタイム : !M! : NL 4 ダメージ追加する。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:撃破 : [E] 。 NL aigismod:クールタイム : !M! : NL 4 ダメージ追加する。",
     "EXTENDED_DESCRIPTION" : [
       "帝国天馬騎士"
     ]
@@ -1759,8 +1759,8 @@
   },
   "aigisMod:Weiss": {
     "NAME": "ヴァイス",
-    "DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
+    "DESCRIPTION": "敵全体に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを X 回与える。 NL aigismod:撃破 : [E] NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国剣士"
     ]
@@ -1783,41 +1783,41 @@
   },
   "aigisMod:Diana": {
     "NAME": "ディアナ",
-    "DESCRIPTION": "aigismod:帝国騎士 : [E] を得る。 NL デッキの帝国キャラカードの数だけ全ての敵に !D! ダメージを与える。 ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : [E] を得る。 NL デッキの帝国キャラカードの数だけ全ての敵に !D! ダメージを与える。 ( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : [E] を得る。 NL デッキの帝国キャラカードの数だけ敵全体に !D! ダメージを与える。 ( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : [E] を得る。 NL デッキの帝国キャラカードの数だけ敵全体に !D! ダメージを与える。 ( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士団長",
-      "aigismod:帝国騎士 : [E] [E] を得る。 NL デッキの帝国キャラカードの数だけ全ての敵に !D! ダメージを与える。( !M! 回)"
+      "aigismod:帝国騎士 : [E] [E] を得る。 NL デッキの帝国キャラカードの数だけ敵全体に !D! ダメージを与える。( !M! 回)"
     ]
   },
   "aigisMod:Gertrude": {
     "NAME": "ゲルトル―ト",
-    "DESCRIPTION": "aigismod:帝国騎士 : !B! ブロック を得る。 NL デッキの帝国キャラスキルカードの数だけ全ての敵に !D! ダメージを与える。 ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : !B! ブロック を得る。 NL デッキの帝国キャラスキルカードの数だけ全ての敵に !D! ダメージを与える。 ( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : !B! ブロック を得る。 NL デッキの帝国キャラスキルカードの数だけ敵全体に !D! ダメージを与える。 ( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : !B! ブロック を得る。 NL デッキの帝国キャラスキルカードの数だけ敵全体に !D! ダメージを与える。 ( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
   },
   "aigisMod:Aleese": {
     "NAME": "アリーセ",
-    "DESCRIPTION": "aigismod:帝国騎士 : 全ての敵に 5 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : 全ての敵に 8 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ全ての敵に !D! ダメージを与える。( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : 敵全体に 5 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ敵全体に !D! ダメージを与える。( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : 敵全体に 8 固定のダメージを与える。 NL デッキの帝国キャラアタックカードの数だけ敵全体に !D! ダメージを与える。( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
   },
   "aigisMod:Viola": {
     "NAME": "ヴィオラ",
-    "DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 2 を得る。 NL デッキの帝国パワーカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 4 を得る。 NL デッキの帝国パワーカードの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
+    "DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 2 を得る。 NL デッキの帝国パワーカードの数だけ敵全体に !D! ダメージを与える。 NL ( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : このターン 筋力 4 を得る。 NL デッキの帝国パワーカードの数だけ敵全体に !D! ダメージを与える。 NL ( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
   },
   "aigisMod:Lux": {
     "NAME": "ルークス",
-    "DESCRIPTION": "エセリアル NL aigismod:帝国騎士 : ランダムな敵に 6 固定のダメージを与える。 NL デッキのストライクの数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
-    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : ランダムな敵に 9 固定のダメージを与える。 NL デッキのストライクと防御の数だけ全ての敵に !D! ダメージを与える。 NL ( !M! 回)",
+    "DESCRIPTION": "エセリアル NL aigismod:帝国騎士 : ランダムな敵に 6 固定のダメージを与える。 NL デッキのストライクの数だけ敵全体に !D! ダメージを与える。 NL ( !M! 回)",
+    "UPGRADE_DESCRIPTION": "aigismod:帝国騎士 : ランダムな敵に 9 固定のダメージを与える。 NL デッキのストライクと防御の数だけ敵全体に !D! ダメージを与える。 NL ( !M! 回)",
     "EXTENDED_DESCRIPTION" : [
       "帝国騎士"
     ]
@@ -1875,17 +1875,17 @@
   },
   "aigisMod:Mephisto": {
     "NAME": "メフィスト",
-    "DESCRIPTION": "全ての敵に !D! aigismod:貫通 ダメージを与える。 NL 廃棄",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL 廃棄",
     "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国魔神団長",
-      "全ての敵に !D! aigismod:貫通 ダメージを与える。 NL 山札の 帝国 か デーモン カードを 1 枚 廃棄 することができる。 NL 廃棄"
+      "敵全体に !D! aigismod:貫通 ダメージを与える。 NL 山札の 帝国 か デーモン カードを 1 枚 廃棄 することができる。 NL 廃棄"
     ]
   },
   "aigisMod:Sieglinde": {
     "NAME": "ジークリンデ",
     "DESCRIPTION": "X ダメージを !M! 回与える。 NL 脱力 X を与える。 NL この戦闘中、ストライクのダメージが 1 増加する。",
-    "UPGRADE_DESCRIPTION": "全ての敵に X ダメージを !M! 回与える。 NL 全ての敵に 脱力 X を与える NL この戦闘中、ストライクのダメージが 1 増加する。",
+    "UPGRADE_DESCRIPTION": "敵全体に X ダメージを !M! 回与える。 NL 敵全体に 脱力 X を与える NL この戦闘中、ストライクのダメージが 1 増加する。",
     "EXTENDED_DESCRIPTION" : [
       "帝国剣士",
       "X ダメージを !M! 回与える NL 脱力 X と 弱体 X を与える。 NL この戦闘中、ストライクのダメージが 1 +X 増加する。"
@@ -1937,11 +1937,11 @@
   },
   "aigisMod:Malebranche": {
     "NAME": "マレブランケ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。",
     "EXTENDED_DESCRIPTION" : [
       "魔神副団長",
-      "全ての敵に !D! 貫通ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。"
+      "敵全体に !D! 貫通ダメージを与える。 NL 1 戦闘に 1 回、 HPを敵の数 x !M! 回復する。"
     ]
   },
   "aigisMod:Martina": {
@@ -1980,8 +1980,8 @@
 
   "aigisMod:AirSignal": {
     "NAME": "エアーシグナル",
-    "DESCRIPTION": "保留 NL 捨て札から 飛行隊 を NL 1 枚手札に加え、 NL このターンのコストを 0 。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 捨て札から 飛行隊 を NL 1 枚手札に加える。 NL このターン、そのカードのコストを 0 。 NL ランダムな敵に 脱力 1 を与える。 NL 廃棄",
+    "DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL 次に受ける自傷ダメージを無効化する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL 次に受ける自傷ダメージを 2回 無効化する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2104,7 +2104,7 @@
   "aigisMod:Nicole": {
     "NAME": "ニコル",
     "DESCRIPTION": "天賦 NL ポーションを使用した時、 [E] を全快し、 !M! ゴールドを得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL ポーションを使用した時、 [E] を全快し、 !M! ゴールドを得る。 NL 全ての敵に、 脱力 1 を与える。",
+    "UPGRADE_DESCRIPTION": "天賦 NL ポーションを使用した時、 [E] を全快し、 !M! ゴールドを得る。 NL 敵全体に、 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION" : [
       "錬金調合師",
       "天賦 NL ポーションを使用した時、 [E] を全快し、 !M! ゴールドを得る。"
@@ -2138,7 +2138,7 @@
 
   "aigisMod:Rosel": {
     "NAME": "レーゼル",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリートには、 !M! の追加ダメージと [E] を得る。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリートには !M! の追加ダメージと [E] を得る。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリートには !M! の追加ダメージと [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国猟兵"
@@ -2162,24 +2162,24 @@
   },
   "aigisMod:Belphe": {
     "NAME": "ベル―フェ",
-    "DESCRIPTION": "全ての敵に、 !D! ダメージを与える。 NL aigismod:暗殺 するたび、捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
-    "UPGRADE_DESCRIPTION": "全ての敵に、 !D! ダメージを与える。 NL aigismod:暗殺 するたび、捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:暗殺 時に捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:暗殺 時に捨て札を 1 枚 廃棄 できる。 NL aigismod:暗殺 。",
     "EXTENDED_DESCRIPTION" : [
       "怠惰の魔神"
     ]
   },
   "aigisMod:Eithne": {
     "NAME": "エフネ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このカードを 廃棄 したとき、全ての敵に 弱体 2 を与え、このカードのダメージが !M! 上昇する。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 このカードを 廃棄 したとき、全ての敵に 弱体 2 を与え、このカードのダメージが !M! 上昇する。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードを 廃棄 した時、敵全体に 弱体 2 を与え、このカードのダメージが !M! 上昇する。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 このカードを 廃棄 した時、敵全体に 弱体 2 を与え、このカードのダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "悪魔妖術師"
     ]
   },
   "aigisMod:Ethnea": {
     "NAME": "エスネア",
-    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇し、 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇し、 筋力 1 を得る。",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇して 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 このカードを 廃棄 した時、ダメージが !M! 上昇して 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の魔兵"
     ]
@@ -2187,7 +2187,7 @@
   "aigisMod:Harmonia": {
     "NAME": "ハルモニア",
     "DESCRIPTION": "!D! ダメージを与える。 NL デーモン が 廃棄札 にある時、このカードのコストは 1 下がる。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL デーモン が 廃棄札 にある時、このカードのコストは 1 下がる。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL デーモン が 廃棄札 にある時、このカードのコストは 1 下がる。",
     "EXTENDED_DESCRIPTION" : [
       "調停の魔将"
     ]
@@ -2226,11 +2226,11 @@
   },
   "aigisMod:Rakshasa": {
     "NAME": "ラクシャーサ",
-    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、全ての敵に 脱力 !M! と 弱体 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、全ての敵に 脱力 !M! と 弱体 !M! を与える。",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、敵全体に 脱力 !M! と 弱体 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、敵全体に 脱力 !M! と 弱体 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "鬼神姫",
-      "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、全ての敵に 脱力 !M! と 弱体 !M! を与える。"
+      "!D! aigismod:貫通 ダメージを与える。 NL このカードを 廃棄 した時、敵全体に 脱力 !M! と 弱体 !M! を与える。"
     ]
   },
   "aigisMod:Saoshu": {
@@ -2276,11 +2276,11 @@
   },
   "aigisMod:Grimm2": {
     "NAME": "グリム",
-    "DESCRIPTION": "山札に 魔王の影 1 枚 を加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
-    "UPGRADE_DESCRIPTION": "山札に 魔王の影 1 枚 を加える。 NL aigismod:ダメージオーラ !M! を得る。ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
+    "DESCRIPTION": "魔王の影 を 1 枚 山札に 加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
+    "UPGRADE_DESCRIPTION": "魔王の影 を 1 枚山札に 加える。 NL aigismod:ダメージオーラ !M! を得る。ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。",
     "EXTENDED_DESCRIPTION" : [
       "異界召喚士",
-      "山札に 魔王の影+ 1 枚 を加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。"
+      "魔王の影+ を 1 枚 山札に 加える。 NL ターン終了時、 山札の デーモン を 1 枚 廃棄 できる。"
     ]
   },
   "aigisMod:MaouShadow": {
@@ -2327,8 +2327,8 @@
   },
   "aigisMod:Sephire": {
     "NAME": "セフィーレ",
-    "DESCRIPTION": "カードを !M! 枚引く。 NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL 全ての敵に !D ダメージを与え、捨て札を 1 枚 廃棄 できる。",
-    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL 全ての敵に !D ダメージを与え、捨て札を 1 枚 廃棄 できる。",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL 敵全体に !D ダメージを与え、捨て札を 1 枚 廃棄 できる。",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL aigismod:クールタイム : !aigisMod:SecondMagic! : NL 敵全体に !D ダメージを与え、捨て札を 1 枚 廃棄 できる。",
     "EXTENDED_DESCRIPTION" : [
       "主天使"
     ]
@@ -2352,18 +2352,18 @@
   "aigisMod:Erde": {
     "NAME": "エルデ",
     "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "B! ブロック を得る。 NL 全ての敵に 弱体 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "B! ブロック を得る。 NL 敵全体に 弱体 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "帝国重装騎士"
     ]
   },
   "aigisMod:Katerina": {
     "NAME": "カトリーナ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国工兵",
-      " 全ての敵に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄"
+      " 敵全体に !D! ダメージを与える。攻撃した敵が スロー の時、 筋力 !M! を得る。 NL 時空ポーションを 1 つ得る。 NL 廃棄"
     ]
   },
   "aigisMod:Margot": {
@@ -2377,8 +2377,8 @@
   },
   "aigisMod:Marleen": {
     "NAME": "マルレーン",
-    "DESCRIPTION": "バリケードをプレイした時、ランダムな敵に !M! ダメージを NL 与える。 NL 手札にバリケードを 1 枚 手札に加える。",
-    "UPGRADE_DESCRIPTION": "バリケードをプレイした時、ランダムな敵に !M! ダメージを NL 与える。 NL 手札にバリケードを 1 枚 手札に加える。",
+    "DESCRIPTION": "バリケードをプレイした時、ランダムな敵に !M! ダメージを NL 与える。 NL バリケードを 1 枚 手札に加える。",
+    "UPGRADE_DESCRIPTION": "バリケードをプレイした時、ランダムな敵に !M! ダメージを NL 与える。 NL バリケードを 1 枚 手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "帝国建機工兵"
     ]
@@ -2394,8 +2394,8 @@
   },
   "aigisMod:Lehne": {
     "NAME": "レーネ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 山札からランダムな帝国カード1枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを 2 回 NL 与える。 NL 山札からランダムな帝国カード1枚を手札に加える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 山札からランダムな帝国カードを1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 2 回 NL 与える。 NL 山札からランダムな帝国カードを1枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "帝都の大泥棒"
     ]
@@ -2460,16 +2460,16 @@
   },
   "aigisMod:Gratia": {
     "NAME": "グラティア",
-    "DESCRIPTION": "ストライクカードをプレイした時、この戦闘中ストライクカードのダメージが 1 増加する。",
-    "UPGRADE_DESCRIPTION": "戦闘中、すべてのストライクカードを アップグレード する。 NL ストライクカードをプレイした時、この戦闘中ストライクカードのダメージが 1 増加する。",
+    "DESCRIPTION": "ストライクをプレイした時、この戦闘中ストライクのダメージが 1 増加する。",
+    "UPGRADE_DESCRIPTION": "戦闘中、すべてのストライクを アップグレード する。 NL ストライクをプレイした時、この戦闘中ストライクのダメージが 1 増加する。",
     "EXTENDED_DESCRIPTION": [
       "帝国鍛冶師"
     ]
   },
   "aigisMod:Charme2": {
     "NAME": "シャルム",
-    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリ 1 枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリ 1 枚を手札に加える。",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリ を1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 山札か捨て札から NL リィーリを 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "炎の竜皇女"
     ]
@@ -2501,7 +2501,7 @@
   "aigisMod:Erde2": {
     "NAME": "エルデ",
     "DESCRIPTION": "!B! ブロック を得る。 NL 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 全ての敵に 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 敵全体に 弱体 !M! を与える。 NL 手札のランダムな ストライク を1枚プレイする。",
     "EXTENDED_DESCRIPTION" : [
       "帝国重装騎士"
     ]
@@ -2549,8 +2549,8 @@
   },
   "aigisMod:Eva": {
     "NAME": "エヴァ",
-    "DESCRIPTION": "全ての敵に aigismod:カースボイス !M! を与える。 NL aigismod:呪術 : 全ての敵に 脱力 !aigisMod:SecondMagic! と 弱体 !aigisMod:SecondMagic! を与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:カースボイス !M! を与える。 NL aigismod:呪術 : 全ての敵に 脱力 !aigisMod:SecondMagic! と 弱体 !aigisMod:SecondMagic! を与える。",
+    "DESCRIPTION": "敵全体に aigismod:カースボイス !M! を与える。 NL aigismod:呪術 : 敵全体に 脱力 !aigisMod:SecondMagic! と 弱体 !aigisMod:SecondMagic! を与える。",
+    "UPGRADE_DESCRIPTION": "敵全体に aigismod:カースボイス !M! を与える。 NL aigismod:呪術 : 敵全体に 脱力 !aigisMod:SecondMagic! と 弱体 !aigisMod:SecondMagic! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "呪術師"
     ]
@@ -2565,19 +2565,19 @@
   },
   "aigisMod:Revy": {
     "NAME": "レヴィ",
-    "DESCRIPTION": "全ての敵に 弱体 !M! を与える。 NL aigismod:呪術 : 次のターン、カードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 弱体 !M! と 脱力 1 を与える。 NL aigismod:呪術 : 次のターン、カードを 1 枚引く。",
+    "DESCRIPTION": "敵全体に 弱体 !M! を与える。 NL aigismod:呪術 : 次のターン、カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "敵全体に 弱体 !M! と 脱力 1 を与える。 NL aigismod:呪術 : 次のターン、カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
       "忘我の呪術師"
     ]
   },
   "aigisMod:Orochihime": {
     "NAME": "オロチヒメ",
-    "DESCRIPTION": "全ての敵に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。",
-    "UPGRADE_DESCRIPTION": "全ての敵に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。",
+    "DESCRIPTION": "敵全体に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。",
+    "UPGRADE_DESCRIPTION": "敵全体に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。",
     "EXTENDED_DESCRIPTION" : [
       "蛇霊の呪術師",
-      "全ての敵に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。"
+      "敵全体に 脱力 !M! と 毒 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の敵の 筋力 を 1 減らす。"
     ]
   },
   "aigisMod:Golem": {
@@ -2598,8 +2598,8 @@
   },
   "aigisMod:Meredith": {
     "NAME": "メレディス",
-    "DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL !M! aigismod:バーン を与える。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL !M! aigismod:バーン を与える。",
+    "DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL !M! aigismod:バーン を与える。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL !M! aigismod:バーン を与える。",
     "EXTENDED_DESCRIPTION" : [
       "付与魔術師"
     ]
@@ -2607,33 +2607,33 @@
 
   "aigisMod:Honey": {
     "NAME": "ハーニィ",
-    "DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL 弱体 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL 全ての敵に 弱体 !M! を与える。",
+    "DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL 弱体 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL 敵全体に 弱体 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "付与魔術師"
     ]
   },
   "aigisMod:Ersha": {
     "NAME": "エルシャ",
-    "DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL 次のターン、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品 1 枚を手札に加える。 NL 次のターン、 [E] を得る。",
+    "DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL 次のターン、 [E] を得る。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品を 1 枚手札に加える。 NL 次のターン、 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "付与魔術師"
     ]
   },
   "aigisMod:Anri": {
     "NAME": "アンリ",
-    "DESCRIPTION": "ゴーレムの部品+ と 負傷 1 枚を手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品+ と 負傷 1 枚を手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。",
+    "DESCRIPTION": "ゴーレムの部品+ と 負傷を 1 枚手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品+ と 負傷を 1 枚手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "付与魔術師",
-      "ゴーレムの部品+ と 負傷 1 枚を手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。"
+      "ゴーレムの部品+ と 負傷を 1 枚手札に加える。 NL ゴーレムの部品はダメージと ブロック が !M! 上昇する。"
     ]
   },
   "aigisMod:Anabella": {
     "NAME": "アナベラ",
-    "DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品 1 枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品 1 枚を手札に加える。",
+    "DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "ゴーレムの部品 の ブロック が !M! 上昇する。 NL 次の !aigisMod:SecondMagic! ターン開始時、ゴーレムの部品を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "知識の求道者"
     ]
@@ -2648,8 +2648,8 @@
   },
   "aigisMod:Tamami": {
     "NAME": "タマミ",
-    "DESCRIPTION": "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : 次のターン、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "手札に 式鬼+ を 1 枚加える。 NL aigismod:呪術 : 次のターン、 [E] を得る。",
+    "DESCRIPTION": "式鬼 を 1 枚手札に 加える。 NL aigismod:呪術 : 次のターン、 [E] を得る。",
+    "UPGRADE_DESCRIPTION": "式鬼+ を 1 枚手札に 加える。 NL aigismod:呪術 : 次のターン、 [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "陰陽師"
     ]
@@ -2664,19 +2664,19 @@
   },
   "aigisMod:Koyomi": {
     "NAME": "コヨミ",
-    "DESCRIPTION": "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : aigismod:退魔の霊符 !M! を与える。",
-    "UPGRADE_DESCRIPTION": "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : aigismod:退魔の霊符 !M! を与える。",
+    "DESCRIPTION": "式鬼 を 1 枚手札に 加える。 NL aigismod:呪術 : aigismod:退魔の霊符 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "式鬼 を 1 枚手札に 加える。 NL aigismod:呪術 : aigismod:退魔の霊符 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
       "陰陽師"
     ]
   },
   "aigisMod:Mikoto": {
     "NAME": "ミコト",
-    "DESCRIPTION": "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。",
-    "UPGRADE_DESCRIPTION": "手札に 式鬼+ を 1 枚加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。",
+    "DESCRIPTION": "式鬼 を 1 枚手札に 加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。",
+    "UPGRADE_DESCRIPTION": "式鬼+ を 1 枚手札に 加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。",
     "EXTENDED_DESCRIPTION" : [
       "陰陽師",
-      "手札に 式鬼 を 1 枚加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。"
+      "式鬼 を 1 枚手札に 加える。 NL aigismod:呪術 : 全ての敵は現HPの !M! % を失う。"
     ]
   },
   "aigisMod:Akira": {
@@ -2707,8 +2707,8 @@
   },
   "aigisMod:Tsugumi": {
     "NAME": "ツグミ",
-    "DESCRIPTION": "保留 NL 手札の 呪い か 状態異常 を 1 枚廃棄して、捨て札の東の国カード 1 枚を手札に加える。",
-    "UPGRADE_DESCRIPTION": "保留 NL 手札の 呪い か 状態異常 を 1 枚廃棄して、捨て札の東の国カード 1 枚を手札に加える。",
+    "DESCRIPTION": "保留 NL 手札の 呪い か 状態異常 を 1 枚廃棄して、捨て札の東の国カードを 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "保留 NL 手札の 呪い か 状態異常 を 1 枚廃棄して、捨て札の東の国カードを 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "夜鳥"
     ]
@@ -2750,8 +2750,8 @@
 
   "aigisMod:Koma": {
     "NAME": "コマ",
-    "DESCRIPTION": "山札に 阿形の獅子 1 枚 を加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "山札に 阿形の獅子 1 枚 を加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "DESCRIPTION": " 阿形の獅子を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "阿形の獅子を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "狛犬"
     ]
@@ -2784,7 +2784,7 @@
   "aigisMod:Tenma": {
     "NAME": "テンマ",
     "DESCRIPTION": "敵の ブロック を取り除き、同じ数のHPを失わせる。 NL 弱体 2 を与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵の ブロック を取り除き、それぞれ同じ数のHPを失わせる。 NL 全ての敵に 弱体 2 を与える。",
+    "UPGRADE_DESCRIPTION": "全ての敵の ブロック を取り除き、それぞれ同じ数のHPを失わせる。 NL 敵全体に 弱体 2 を与える。",
     "EXTENDED_DESCRIPTION" : [
       "封鎧の剣士",
       "敵の ブロック を取り除き、同じ数のHPを失わせる。 NL 弱体 2 を与える。"
@@ -2835,8 +2835,8 @@
   },
   "aigisMod:Claire": {
     "NAME": "クレア",
-    "DESCRIPTION": "全ての敵に !D! aigismod:弓 ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! aigismod:弓 ダメージを与える。",
+    "DESCRIPTION": "敵全体に !D! aigismod:弓 ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:弓 ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "鋼鉄弓"
     ]
@@ -2919,8 +2919,8 @@
   },
   "aigisMod:Anelia": {
     "NAME": "アネリア",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 デバフを持つ敵は !M! の追加ダメージ NL aigismod:ペア : イメリア",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 デバフを持つ敵は !M! の追加ダメージ NL aigismod:ペア : イメリア (このターンコスト0)",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 デバフを持つ敵は !M! の追加ダメージ NL aigismod:ペア : イメリア",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 デバフを持つ敵は !M! の追加ダメージ NL aigismod:ペア : イメリア (このターンコスト0)",
     "EXTENDED_DESCRIPTION" : [
       "姫海賊"
     ]
@@ -3002,8 +3002,8 @@
   },
   "aigisMod:Memento": {
     "NAME": "メメント",
-    "DESCRIPTION": "!D! ダメージを与える。 NL スケルトン+を 1 枚を 捨て札 に加える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL スケルトン+を 1 枚を 捨て札 に加える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL スケルトン+を 1 枚 捨て札 に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL スケルトン+を 1 枚 捨て札 に加える。",
     "EXTENDED_DESCRIPTION" : [
       "死霊魔術師"
     ]
@@ -3035,11 +3035,11 @@
   },
   "aigisMod:Melabyss": {
     "NAME": "メルアビス",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "冥霊魔術師",
-      "全ての敵に !D! ダメージを与える。 NL スケルトン+ 1 枚を 廃棄 札 に加える"
+      "敵全体に !D! ダメージを与える。 NL スケルトン+を 1 枚 廃棄 札 に加える"
     ]
   },
   "aigisMod:Sue": {
@@ -3094,56 +3094,56 @@
   },
   "aigisMod:Solare": {
     "NAME": "ソラーレ",
-    "DESCRIPTION": "aigismod:仮初 のHP を !M! 得る。 NL 生命の木 1 枚を手札に加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP を !M! 得る。 NL 生命の木 1 枚を手札に加える。 NL 廃棄",
+    "DESCRIPTION": "aigismod:仮初 のHP を !M! 得る。 NL 生命の木を 1 枚手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP を !M! 得る。 NL 生命の木を 1 枚手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国神樹使い"
     ]
   },
   "aigisMod:Laurier": {
     "NAME": "ローリエ",
-    "DESCRIPTION": "生命の木 1 枚を手札に加える。 NL !B! ブロック を得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "生命の木 1 枚を手札に加える。 NL !B! ブロック を得る。 NL 廃棄",
+    "DESCRIPTION": "生命の木を 1 枚手札に加える。 NL !B! ブロック を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "生命の木を 1 枚手札に加える。 NL !B! ブロック を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "森の守り手"
     ]
   },
   "aigisMod:Mistel": {
     "NAME": "ミステル",
-    "DESCRIPTION": "手札を !M! 枚 廃棄 できる。 NL 生命の木 1 枚を手札に加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "手札を !M! 枚まで 廃棄 できる。 NL 生命の木 1 枚を手札に加える。 NL 廃棄",
+    "DESCRIPTION": "手札を !M! 枚 廃棄 できる。 NL 生命の木を 1 枚手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札を !M! 枚まで 廃棄 できる。 NL 生命の木を 1 枚手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "帝国神樹使い"
     ]
   },
   "aigisMod:Pupuru": {
     "NAME": "ププル",
-    "DESCRIPTION": "生命の木 1 枚を手札に加える。 NL 全ての敵に !D! ダメージを与える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "生命の木 1 枚を手札に加える。 NL 全ての敵に !D! ダメージを与える。 NL 廃棄",
+    "DESCRIPTION": "生命の木を 1 枚手札に加える。 NL 敵全体に !D! ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "生命の木を 1 枚手札に加える。 NL 敵全体に !D! ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "巫女姫"
     ]
   },
   "aigisMod:Maple": {
     "NAME": "メープル",
-    "DESCRIPTION": "生命の木 1 枚を手札に加える。 NL アーチャーは !M! の追加ダメージ。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "生命の木 1 枚を手札に加える。 NL アーチャーは !M! の追加ダメージ。 NL 廃棄",
+    "DESCRIPTION": "生命の木を 1 枚手札に加える。 NL アーチャーは !M! の追加ダメージ。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "生命の木を 1 枚手札に加える。 NL アーチャーは !M! の追加ダメージ。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "大自然の乙女"
     ]
   },
   "aigisMod:Maryfa": {
     "NAME": "メリーファ",
-    "DESCRIPTION": "生命の木 1 枚を手札に加える。 NL 全ての敵に 弱体 !M! を与える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "生命の木 1 枚を手札に加える。 NL 全ての敵に 弱体 !M! を与える。 NL 廃棄",
+    "DESCRIPTION": "生命の木を 1 枚手札に加える。 NL 敵全体に 弱体 !M! を与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "生命の木を 1 枚手札に加える。 NL 敵全体に 弱体 !M! を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "眠りの森巫女"
     ]
   },
   "aigisMod:Rose": {
     "NAME": "ローズ",
-    "DESCRIPTION": "生命の木 1 枚を手札に加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "生命の木 1 枚を手札に加える。 NL aigismod:残り回数 : !stslib:ex!",
+    "DESCRIPTION": "生命の木を 1 枚手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "生命の木を 1 枚手札に加える。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "王宮薬草師"
     ]
@@ -3223,8 +3223,8 @@
   },
   "aigisMod:LeiMei": {
     "NAME": "レイメイ",
-    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : 全ての敵に !M! aigismod:貫通 ダメージ を与える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : 全ての敵に !M! aigismod:貫通 ダメージ を与える。",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : 敵全体に !M! aigismod:貫通 ダメージ を与える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : 敵全体に !M! aigismod:貫通 ダメージ を与える。",
     "EXTENDED_DESCRIPTION" : [
       "雷爪道士"
     ]
@@ -3239,11 +3239,11 @@
   },
   "aigisMod:ShuXian": {
     "NAME": "スーシェン",
-    "DESCRIPTION": "すべての敵に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。",
-    "UPGRADE_DESCRIPTION": "すべての敵に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "屍仙道士",
-      "すべての敵に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。"
+      "敵全体に !D! aigismod:貫通 ダメージを与える。 NL aigismod:アンデッド : aigismod:操屍人 !M! を得る。"
     ]
   },
   "aigisMod:HuLong": {
@@ -3275,11 +3275,11 @@
   },
   "aigisMod:Ema": {
     "NAME": "エマ",
-    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 山札に鏡花水月を 1 枚加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 山札に鏡花水月を 1 枚加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、鏡花水月を 1 枚 山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 鏡花水月を 1 枚山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
     "EXTENDED_DESCRIPTION" : [
       "絢爛の吸血鬼",
-      "!D! aigismod:麻痺 ダメージを与える NL 1 戦闘に 1 回、 山札に鏡花水月を 1 枚加える。 NL aigismod:アンデッド : HPを !M! 回復する。"
+      "!D! aigismod:麻痺 ダメージを与える NL 1 戦闘に 1 回、 鏡花水月を 1 枚山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。"
     ]
   },
   "aigisMod:MirrorFlower": {
@@ -3314,8 +3314,8 @@
   },
   "aigisMod:Charlotte": {
     "NAME": "シャルロット",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 捨て札に魔法剣暴走を 1 枚加える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 捨て札に魔法剣暴走を 1 枚加える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 魔法剣暴走を 1 枚捨て札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 魔法剣暴走を 1 枚捨て札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "魔法剣士"
      ]
@@ -3354,8 +3354,8 @@
     },
   "aigisMod:Nimue": {
     "NAME": "ニミュエ",
-    "DESCRIPTION": "ターン終了時、 キャラクターカード 1枚を 廃棄 して全ての敵に 脱力 1 を与えることができる。( !M! 回まで) aigismod:アンデッド : アーティファクト 2 を得る。",
-    "UPGRADE_DESCRIPTION": "ターン終了時、 キャラクターカード 1枚を 廃棄 して全ての敵に 脱力 1 を与えることができる。( !M! 回まで) aigismod:アンデッド : アーティファクト 2 を得る。",
+    "DESCRIPTION": "ターン終了時、 キャラクターカード 1枚を 廃棄 して敵全体に 脱力 1 を与えることができる。( !M! 回まで) aigismod:アンデッド : アーティファクト 2 を得る。",
+    "UPGRADE_DESCRIPTION": "ターン終了時、 キャラクターカード 1枚を 廃棄 して敵全体に 脱力 1 を与えることができる。( !M! 回まで) aigismod:アンデッド : アーティファクト 2 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "孤独な迷宮守"
     ]
@@ -3370,16 +3370,16 @@
   },
   "aigisMod:Abby": {
     "NAME": "アビー",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 山札に めまい を 1 枚加える。 NL 次のターン、 [E] [E] を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 山札に めまい を 1 枚加える。 NL 次のターン、 [E] [E] を得る。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL めまい を 1 枚山札に加える。 NL 次のターン、 [E] [E] を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL めまい を 1 枚山札に 加える。 NL 次のターン、 [E] [E] を得る。",
     "EXTENDED_DESCRIPTION" : [
       "新米兵士"
     ]
   },
   "aigisMod:Colum": {
     "NAME": "コルム",
-    "DESCRIPTION": "次のアタックに !M! の追加ダメージ。 NL 山札に 火傷 1 枚を加える。",
-    "UPGRADE_DESCRIPTION": "次のアタックに !M! の追加ダメージ。 NL 山札に 火傷 1 枚を加える。",
+    "DESCRIPTION": "次のアタックに !M! の追加ダメージ。 NL 火傷 を 1 枚山札に 加える。",
+    "UPGRADE_DESCRIPTION": "次のアタックに !M! の追加ダメージ。 NL 火傷 を 1 枚山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "信仰の槍士"
     ]
@@ -3394,8 +3394,8 @@
   },
   "aigisMod:Momo": {
     "NAME": "モモ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 した 状態異常の数x 2 ブロック を得る。 NL 手札にめまいを 1 枚 手札に加える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 した 状態異常の数x 2 ブロック を得る。 NL 手札にめまいを 1 枚 手札に加える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 した 状態異常の数x 2 ブロック を得る。 NL めまいを 1 枚 手札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 した 状態異常の数x 2 ブロック を得る。 NL めまいを 1 枚 手札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "鉄甲闘士",
       " NL ( !B! ブロック )"
@@ -3435,8 +3435,8 @@
   },
   "aigisMod:ShengPu": {
     "NAME": "金光聖菩",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:呪術 : 山札に金光聖菩(分身)を 1 枚加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:呪術 : 山札に金光聖菩(分身)+を 1 枚加える。 NL 廃棄",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 :金光聖菩(分身)を 1 枚 山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : 金光聖菩(分身)+を 1 枚山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -3451,11 +3451,11 @@
   },
   "aigisMod:Erlang": {
     "NAME": "清源妙道真君",
-    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 敵全体に 脱力 1 を与える。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 敵全体に 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 全ての敵に 脱力 1 を与える。"
+      "!B! ブロック を得る。 NL aigismod:強化スキル :保留するたび !M! ブロック上昇する。 NL aigismod:呪術 : 敵全体に 脱力 1 を与える。"
     ]
   },
   "aigisMod:TaoPao": {
@@ -3472,8 +3472,8 @@
     },
   "aigisMod:Solano": {
     "NAME": "ソラノ",
-    "DESCRIPTION": "全ての敵に aigismod:バーン !M! を与える。 NL aigismod:強化スキル : 保留するたび、与える aigismod:バーン が 2 上昇する。",
-    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:バーン !M! を与える。 NL aigismod:強化スキル : 保留するたび、与える aigismod:バーン が 3 上昇する。",
+    "DESCRIPTION": "敵全体に aigismod:バーン !M! を与える。 NL aigismod:強化スキル : 保留するたび、与える aigismod:バーン が 2 上昇する。",
+    "UPGRADE_DESCRIPTION": "敵全体に aigismod:バーン !M! を与える。 NL aigismod:強化スキル : 保留するたび、与える aigismod:バーン が 3 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "召喚士"
     ]
@@ -3520,16 +3520,16 @@
   },
   "aigisMod:Arietta": {
     "NAME": "アリエッタ",
-    "DESCRIPTION": "aigismod:暗黒騎士 NL 全ての敵に !D! ダメージを与える。 NL ブラー !M! を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:暗黒騎士 NL 全ての敵に !D! ダメージを与える。 NL ブラー !M! を得る。",
+    "DESCRIPTION": "aigismod:暗黒騎士 NL 敵全体に !D! ダメージを与える。 NL ブラー !M! を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:暗黒騎士 NL 敵全体に !D! ダメージを与える。 NL ブラー !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "迅雷の黒騎士"
     ]
   },
   "aigisMod:Yurina": {
     "NAME": "ユリナ",
-    "DESCRIPTION": "aigismod:暗黒騎士 NL 全ての敵に 脱力 !M! を与える。 NL !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:暗黒騎士 NL 全ての敵に 脱力 !M! を与える。 NL !B! ブロック を得る。",
+    "DESCRIPTION": "aigismod:暗黒騎士 NL 敵全体に 脱力 !M! を与える。 NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:暗黒騎士 NL 敵全体に 脱力 !M! を与える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "暗黒騎士"
     ]
@@ -3587,8 +3587,8 @@
   },
   "aigisMod:Sandra": {
     "NAME": "サンドラ",
-    "DESCRIPTION": "手札のアタックをすべて捨てる。捨てた枚数分だけすべての敵に !D! aigismod:貫通 ダメージ を与える。",
-    "UPGRADE_DESCRIPTION": "手札のアタックをすべて捨てる。捨てた枚数分だけすべての敵に !D! aigismod:貫通 ダメージ を与える。",
+    "DESCRIPTION": "手札のアタックをすべて捨てる。捨てた枚数分だけ敵全体に !D! aigismod:貫通 ダメージ を与える。",
+    "UPGRADE_DESCRIPTION": "手札のアタックをすべて捨てる。捨てた枚数分だけ敵全体に !D! aigismod:貫通 ダメージ を与える。",
     "EXTENDED_DESCRIPTION" : [
       "剣士"
     ]
@@ -3627,11 +3627,11 @@
   },
   "aigisMod:Spiria": {
     "NAME": "スピリア",
-    "DESCRIPTION": "全ての敵に aigismod:ライフリンク 1 を与える。 NL 対象の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。",
-    "UPGRADE_DESCRIPTION": "全ての敵に aigismod:ライフリンク 1 を与える。 NL 全ての敵の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。",
+    "DESCRIPTION": "敵全体に aigismod:ライフリンク 1 を与える。 NL 対象の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。",
+    "UPGRADE_DESCRIPTION": "敵全体に aigismod:ライフリンク 1 を与える。 NL 全ての敵の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。",
     "EXTENDED_DESCRIPTION": [
       "魂鎖の紡ぎ手n",
-      "全ての敵に aigismod:ライフリンク 1 を与える。 NL 対象の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。"
+      "敵全体に aigismod:ライフリンク 1 を与える。 NL 対象の HP を全体の aigismod:ライフリンク のスタック数× !M! 失わせる。"
     ]
   },
   "aigisMod:Daniela": {
@@ -3695,8 +3695,8 @@
   },
   "aigisMod:Zola": {
     "NAME": "ゾラ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL このターン、 スキルを 2 枚プレイするたびに、 aigismod:流星 1 を生成する 。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL このターン、 スキルを 2 枚プレイするたびに、 aigismod:流星 1 を生成する 。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL このターン、 スキルを 2 枚プレイするたびに aigismod:流星 1 を生成する 。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL このターン、 スキルを 2 枚プレイするたびに aigismod:流星 1 を生成する 。",
     "EXTENDED_DESCRIPTION": [
       "魔砲士"
     ]
@@ -3792,8 +3792,8 @@
   },
   "aigisMod:Parhelia": {
     "NAME": "パフィリア",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : NL !B! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : NL !B! ブロック を得る。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:封印解除 : NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:封印解除 : NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
       "堕天使"
     ]
@@ -3816,8 +3816,8 @@
   },
   "aigisMod:Erun": {
     "NAME": "エルン",
-    "DESCRIPTION": "カードを !M! 枚引き、 NL 1 枚捨てる。 NL aigismod:封印解除 : 山札から 封印解除 カードを1枚加える。",
-    "UPGRADE_DESCRIPTION": "カードを !M! 枚引き、 1 枚捨てる。 NL aigismod:封印解除 : 山札から 封印解除 カードを1枚加える。",
+    "DESCRIPTION": "カードを !M! 枚引き、 NL 1 枚捨てる。 NL aigismod:封印解除 : 山札の 封印解除 カードを1枚加える。",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚引き、 1 枚捨てる。 NL aigismod:封印解除 : 山札の 封印解除 カードを1枚加える。",
     "EXTENDED_DESCRIPTION": [
       "堕天使"
     ]
@@ -3840,8 +3840,8 @@
   },
   "aigisMod:Sephire2": {
     "NAME": "セフィーレ",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 全ての敵に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 敵全体に !D! ダメージを与える。 NL aigismod:封印解除 : このカードのコストを1下げる。",
     "EXTENDED_DESCRIPTION": [
       "主天使"
     ]
@@ -3866,11 +3866,11 @@
   },
   "aigisMod:Dine": {
     "NAME": "ディーネ",
-    "DESCRIPTION": "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
-    "UPGRADE_DESCRIPTION": "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
+    "DESCRIPTION": "aigismod:堅物 : 16 NL 敵全体に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
+    "UPGRADE_DESCRIPTION": "aigismod:堅物 : 16 NL 敵全体に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ",
     "EXTENDED_DESCRIPTION": [
       "鉄腕乙女",
-      "aigismod:堅物 : 16 NL 全ての敵に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
+      "aigismod:堅物 : 16 NL 敵全体に !D! ダメージを与える。 NL ターン終了時、 !B! ブロック を得る。 NL aigismod:ペア : ディーナ"
     ]
   },
   "aigisMod:Threse": {
@@ -3958,8 +3958,8 @@
   },
   "aigisMod:MaouMecha": {
     "NAME": "大爪形態",
-    "DESCRIPTION": "3ターン後に 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL 3ターン後に 筋力 !M! 、 敏捷性 !M! とブラー !M! を得る。",
+    "DESCRIPTION": "3ターン後に 筋力 !M! と 敏捷性 !M! とブラー !M! を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 3ターン後に 筋力 !M! と 敏捷性 !M! とブラー !M! を得る。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -4089,11 +4089,11 @@
   },
   "aigisMod:Wendy": {
     "NAME": "ウェンディ",
-    "DESCRIPTION": "aigismod:堅物 !M! NL 全ての敵に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "aigismod:堅物 !M! NL 全ての敵に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。",
+    "DESCRIPTION": "aigismod:堅物 !M! NL 敵全体に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:堅物 !M! NL 敵全体に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       "天才機甲士",
-      "aigismod:堅物 !M! NL 全ての敵に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。"
+      "aigismod:堅物 !M! NL 敵全体に !D! ダメージを与える。 NL aigismod:堅牢 : !aigisMod:SecondMagic! : !D! aigismod:拡散 ダメージを与える。"
     ]
   },
   "aigisMod:Fee": {
@@ -4122,8 +4122,8 @@
   },
   "aigisMod:Vine": {
     "NAME": "パイン",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:堅牢 :7: 全ての敵に !D! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:堅牢 :7: 全ての敵に !D! ダメージを与える。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:堅牢 :7: 敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:堅牢 :7: 敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
       "兎耳武闘家"
     ]
@@ -4187,8 +4187,8 @@
   },
   "aigisMod:Izuna": {
     "NAME": "イズナ",
-    "DESCRIPTION": "ブラーを得た時、全ての敵に !M! ダメージを与え、カードを1枚引く",
-    "UPGRADE_DESCRIPTION": "ブラーを得た時、全ての敵に !M! ダメージを与え、カードを1枚引く",
+    "DESCRIPTION": "ブラーを得た時、敵全体に !M! ダメージを与え、カードを1枚引く",
+    "UPGRADE_DESCRIPTION": "ブラーを得た時、敵全体に !M! ダメージを与え、カードを1枚引く",
     "EXTENDED_DESCRIPTION": [
       "妖狐"
     ]
@@ -4245,11 +4245,11 @@
   },
   "aigisMod:Rinne2": {
     "NAME": "リンネ",
-    "DESCRIPTION": "ブラー X を得る。 NL 金属化 X を得る。 NL 手札に避禍予見の鏡影を1枚加える。",
-    "UPGRADE_DESCRIPTION": "ブラー X+1 を得る。 NL 金属化 X+1 を得る。 NL 手札に避禍予見の鏡影を1枚加える。",
+    "DESCRIPTION": "ブラー X を得る。 NL 金属化 X を得る。 NL 避禍予見の鏡影を1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "ブラー X+1 を得る。 NL 金属化 X+1 を得る。 NL 避禍予見の鏡影を1枚手札に加える。",
     "EXTENDED_DESCRIPTION": [
       "刻詠の風水士",
-      "ブラー X を得る。 NL 金属化 X を得る。 NL 手札に避禍予見の鏡影+を1枚加える。"
+      "ブラー X を得る。 NL 金属化 X を得る。 NL 避禍予見の鏡影+を1枚手札に加える。"
     ]
   },
   "aigisMod:Mirage2": {
@@ -4262,11 +4262,11 @@
   },
   "aigisMod:Ariel": {
     "NAME": "アリエル",
-    "DESCRIPTION": "ターン開始時、 山札から封印解除カードを1枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "ターン開始時、 山札から封印解除カードを1枚手札に加える。",
+    "DESCRIPTION": "ターン開始時、 山札の封印解除カードを1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、 山札の封印解除カードを1枚手札に加える。",
     "EXTENDED_DESCRIPTION": [
       "神癒の召使",
-      "ブラー !M! を得る。 NL ターン開始時、 山札から封印解除カードを1枚手札に加える。"
+      "ブラー !M! を得る。 NL ターン開始時、 山札の封印解除カードを1枚手札に加える。"
     ]
   },
   "aigisMod:Shemia": {
@@ -4289,309 +4289,309 @@
 
 
   "aigisMod:StrikeRush": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 Strike to discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add 1 Strike+ to discard pile. NL Exhaust."
+    "NAME": "ストライク",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ストライク を 1 枚 捨て札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ストライク+ を 1 枚 捨て札に 加える。 NL 廃棄"
   },
   "aigisMod:StrikeRush2": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 Strike to discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add 1 Strike+ to discard pile. NL Exhaust."
+    "NAME": "ストライク",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ストライク を 1 枚 捨て札に 加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ストライク+ を 1 枚 捨て札に 加える。 NL 廃棄"
   },
   "aigisMod:MiracleStrike": {
-    "NAME": "Miracle Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 Strike to discard pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add 1 Strike+ to discard pile. NL Exhaust"
+    "NAME": "ミラクルストライク",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ストライク を 1 枚 捨て札に 加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ストライク+ を 1 枚 捨て札に 加える。 NL 廃棄"
   },
   "aigisMod:DefendRush": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! block."
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロックを得る。"
   },
   "aigisMod:SacredShrine": {
-    "NAME": "Sacred Shrine",
-    "DESCRIPTION": "Add 1 random Reinforcement character to hand.",
-    "UPGRADE_DESCRIPTION": "Add 1 random Reinforcement character to hand."
+    "NAME": "聖なる神殿",
+    "DESCRIPTION": "ランダムな 援軍 キャラを 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "ランダムな 援軍 キャラを 1 枚手札に加える。"
   },
   "aigisMod:DesertSoldier": {
-    "NAME": "Desert Soldier",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust",
+    "NAME": "砂漠兵士",
+    "DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:Genin": {
-    "NAME": "Genin",
-    "DESCRIPTION": "Add 1 Shuriken to hand. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Add 1 Shuriken+ to hand. NL Exhaust",
+    "NAME": "下忍",
+    "DESCRIPTION": "手裏剣 を 1 枚 手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手裏剣+ を 1 枚 手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:SoldierA": {
-    "NAME": "Soldier",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Exhaust",
+    "NAME": "一般兵",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:HeavySoldierA": {
-    "NAME": "Heavy Soldier",
-    "DESCRIPTION": "Gain !B! Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust",
+    "NAME": "重装兵",
+    "DESCRIPTION": "!B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!B! ブロックを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:BowSoldierA": {
-    "NAME": "Bow Soldier",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL Exhaust",
+    "NAME": "弓兵",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:MagicSoldierA": {
-    "NAME": "Magic Soldier",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL Exhaust",
+    "NAME": "魔法兵",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:Hashim": {
-    "NAME": "Hashim",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust",
+    "NAME": "ハシム",
+    "DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Dextrous Soldier"
+      "熟練兵"
     ]
   },
   "aigisMod:Russell": {
-    "NAME": "Russell",
-    "DESCRIPTION": "Retain NL Gain !B! Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Retain NL Gain !B! Block. NL Exhaust",
+    "NAME": "ラセル",
+    "DESCRIPTION": "保留 NL !B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL !B! ブロックを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Royal Heavy Infantry"
+      "王国重歩兵"
     ]
   },
   "aigisMod:SeaSoldier": {
-    "NAME": "Deep Sea Soldier",
-    "DESCRIPTION": "Deal !D! damage. NL Apply 1 aigismod:Water_pressure. Gain !M! Temporal HP. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply 1 aigismod:Water_pressure. Gain !M! Temporal HP. NL Exhaust",
+    "NAME": "深海兵",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水圧 を与える。 aigismod:仮初 のHP !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水圧 を与える。 aigismod:仮初 のHP !M! を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Reinforcements"
+      "援軍"
     ]
   },
   "aigisMod:BirdmanArcher": {
-    "NAME": "Birdman Archer",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL Exhaust",
+    "NAME": "鳥人弓士",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Falcon-Winged"
+      "隼翼"
     ]
   },
   "aigisMod:BirdmanSoldier": {
-    "NAME": "Birdman Soldier",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Exhaust",
+    "NAME": "鳥人戦士",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Hawk-Winged"
+      "鷹翼"
     ]
   },
   "aigisMod:WaterField": {
-    "NAME": "Deep Sea",
-    "DESCRIPTION": "Apply aigismod:Water_pressure to everyone. NL Gain !B! Block. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Apply aigismod:Water_pressure to everyone. NL Gain !B! Block. NL Exhaust"
+    "NAME": "深海",
+    "DESCRIPTION": "全員に aigismod:水圧 を与える。 NL !B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "全員に aigismod:水圧 を与える。 NL !B! ブロックを得る。 NL 廃棄"
   },
   "aigisMod:Hellbeast": {
-    "NAME": "Hellbeast",
-    "DESCRIPTION": "Retain NL For each Beast tamer exhausted, deal !D! aigismod:True_damage.",
-    "UPGRADE_DESCRIPTION": "Retain NL For each Beast tamer exhausted, deal !D! aigismod:True_damage."
+    "NAME": "魔獣",
+    "DESCRIPTION": "保留 NL 廃棄 された 魔物使い の数だけ !D! aigismod:貫通 ダメージ を与える。",
+    "UPGRADE_DESCRIPTION": "保留 NL 廃棄 された 魔物使い の数だけ !D! aigismod:貫通 ダメージ を与える。"
   },
   "aigisMod:Moltena": {
-    "NAME": "Moltena",
-    "DESCRIPTION": "aigismod:Beast_tamer NL Hellbeast become cost 0 and gain !M! damage.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer. NL Hellbeast become cost 0 and gain !M! damage. NL Add 1 Hellbeast to Draw Pile.",
+    "NAME": "モルテナ",
+    "DESCRIPTION": "aigismod:魔物使い NL 魔獣 のダメージを !M! 増加して コスト を 0 にする。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL 魔獣 のダメージを !M! 増加して コスト を 0 にする。 NL 魔獣 を 1 枚 山札に加える。",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer",
-      "aigismod:Beast_tamer. NL Hellbeast become cost 0 and gain !M! damage."
+      "魔物使い",
+      "aigismod:魔物使い NL 魔獣 のダメージを !M! 増加して コスト を 0 にする。"
     ]
   },
   "aigisMod:Suil": {
-    "NAME": "Suil",
-    "DESCRIPTION": "aigismod:Beast_tamer NL Draw 2 cards. NL Gain !M! Vigor.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL Draw 2 cards. NL Gain !M! Vigor.",
+    "NAME": "スイル",
+    "DESCRIPTION": "aigismod:魔物使い NL カードを 2 枚引く。 NL 気力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL カードを 2 枚引く。 NL 気力 !M! を得る。",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer"
+      "魔物使い"
     ]
   },
   "aigisMod:Blanche": {
-    "NAME": "Blanche",
-    "DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain 1 Strength.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain 1 Strength. NL Apply 1 Weak to ALL enemies.",
+    "NAME": "ブランシュ",
+    "DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に 筋力 1 を得る。 NL 敵全体に 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer"
+      "魔物使い"
     ]
   },
   "aigisMod:Shushu": {
-    "NAME": "Shushu",
-    "DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain !M! Block.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain !M! Block.",
+    "NAME": "シュシュ",
+    "DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に !M! ブロックを得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に !M! ブロックを得る。",
     "EXTENDED_DESCRIPTION": [
-      "Bunny-Eared Beast Tamer"
+      "兎耳の魔物使い"
     ]
   },
   "aigisMod:Fine": {
-    "NAME": "Fine",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL Gain [E] equal to your aigismod:Water_Pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL Gain [E] equal to your aigismod:Water_Pressure.",
+    "NAME": "フィーヌ",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:水圧 の数に等しい [E] を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:水圧 の数に等しい [E] を得る。",
     "EXTENDED_DESCRIPTION": [
-      "Emerald Deep Sea Soldier"
+      "翠玉の深海兵"
     ]
   },
   "aigisMod:Murua": {
-    "NAME": "Murua",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! + aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! + aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
+    "NAME": "ムルーア",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを3回与える。 NL あなたの aigismod:水圧 が !M! 以上の時、 手札全ての コストを この戦闘中 1 下げる。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを3回与える。 NL あなたの aigismod:水圧 が !M! 以上の時、 手札全ての コストを この戦闘中 1 下げる。",
     "EXTENDED_DESCRIPTION": [
-      "Scarlet Gem's Corporal"
+      "朱珠の深海兵長"
     ]
   },
   "aigisMod:Ritva2": {
-    "NAME": "Ritva",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure +1.",
+    "NAME": "リトヴァ",
+    "DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数に等しいカードを引く。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数 +1 に等しいカードを引く。",
     "EXTENDED_DESCRIPTION": [
-      "Pink Deep Sea Soldier"
+      "淡紅の深海兵"
     ]
   },
   "aigisMod:Havfrue": {
-    "NAME": "Havfrue",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Enemy loses !M! HP for each of your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea ALL enemies lose !M! HP for each of your aigismod:Water_pressure.",
+    "NAME": "ハルフゥ",
+    "DESCRIPTION": "aigismod:深海兵 NL HPをあなたの aigismod:水圧 の数 x !M! 失わせる。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 全ての敵の HPをあなたの aigismod:水圧 の数 x !M! 失わせる。",
     "EXTENDED_DESCRIPTION": [
-      "Purple-Scaled Sea Miko",
-      "aigismod:Deep_Sea NL Enemy loses !M! HP for each of your aigismod:Water_pressure."
+      "紫鱗の海巫女",
+      "aigismod:深海兵 NL HPをあなたの aigismod:水圧 の数 x !M! 失わせる。"
     ]
   },
   "aigisMod:Liban": {
-    "NAME": "Liban",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage. NL Deal damage twice if you have 2 or more aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage. NL Deal damage twice if you have 2 or more aigismod:Water_pressure.",
+    "NAME": "リバン",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL あなたの aigismod:水圧 が 2 以上の時は 2 回攻撃する。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL あなたの aigismod:水圧 が 2 以上の時は 2 回攻撃する。",
     "EXTENDED_DESCRIPTION": [
-      "Apprentice Sea Miko"
+      "見習い海巫女"
     ]
   },
   "aigisMod:Muiru": {
-    "NAME": "Muiru",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Draw !M! cards. NL Apply Weak equal to your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Draw !M! cards. NL Apply Weak equal to your aigismod:Water_pressure.",
+    "NAME": "ムイル",
+    "DESCRIPTION": "aigismod:深海兵 NL カードを !M! 枚引く。 NL aigismod:水圧 の数に等しい 脱力 を与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL カードを !M! 枚引く。 NL aigismod:水圧 の数に等しい 脱力 を与える。",
     "EXTENDED_DESCRIPTION": [
-      "Prudent Sea Miko"
+      "深慮の海巫女"
     ]
   },
   "aigisMod:Ionami": {
-    "NAME": "Ionami",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage. NL Gain !M! Temporal HP for each of your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage. NL Gain !M! Temporal HP for each of your aigismod:Water_pressure.",
+    "NAME": "イヲナミ",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL あなたの aigismod:水圧 の数だけ aigismod:仮初 のHP !M! を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL あなたの aigismod:水圧 の数だけ aigismod:仮初 のHP !M! を得る。",
     "EXTENDED_DESCRIPTION": [
-      "Miko of the Dragon Palace"
+      "龍宮の海巫女"
     ]
   },
   "aigisMod:Scar": {
-    "NAME": "Scar",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage to a random enemy for each of your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage to a random enemy for each of your aigismod:Water_pressure.",
+    "NAME": "スカー",
+    "DESCRIPTION": "aigismod:深海兵 NL ランダムな敵に !D! ダメージを あなたの aigismod:水圧 に等しい回数与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL ランダムな敵に !D! ダメージを あなたの aigismod:水圧 に等しい回数与える。",
     "EXTENDED_DESCRIPTION": [
-      "Angry Shark Warrior"
+      "怒りの鮫戦士"
     ]
   },
   "aigisMod:Wirbel": {
-    "NAME": "Wirbel",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! aigismod:true_damage. NL Enemy loses Strength equal to your aigismod:Water_pressure. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Enemy loses Strength equal to your aigismod:Water_pressure. NL Exhaust",
+    "NAME": "ヴィアベル",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! aigismod:貫通 ダメージを与える。 NL あなたの aigismod:水圧 に等しい 筋力 を失わせる。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える NL あなたの aigismod:水圧 に等しい 筋力 を失わせる。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Submarine Knight"
+      "潜航騎士"
     ]
   },
   "aigisMod:Cedyna": {
-    "NAME": "Cedyna",
-    "DESCRIPTION": "aigismod:Deep_Sea NL At the end of your turn, gain 2 Block for each of your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Innate NL At the end of your turn, gain 2 Block for each of your aigismod:Water_pressure.",
+    "NAME": "セディナ",
+    "DESCRIPTION": "aigismod:深海兵 NL ターン終了時にあなたの aigismod:水圧 の数 x 2 ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 天賦 NL ターン終了時にあなたの aigismod:水圧 の数 x 2 ブロック を得る。",
     "EXTENDED_DESCRIPTION": [
-      "Diving Knight"
+      "潜泳騎士"
     ]
   },
   "aigisMod:Marsi2": {
-    "NAME": "Marsi",
-    "DESCRIPTION": "aigismod:Deep_Sea NL This enemy takes !M! damage when you Exhaust a card. NL Draw 1 card. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL This enemy takes !M! damage when you Exhaust a card. NL Draw 1 card. NL Exhaust",
+    "NAME": "マルスィ",
+    "DESCRIPTION": "aigismod:深海兵 NL カードを廃棄した時、 対象に !M! ダメージを与える。 NL カードを 1 枚引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL カードを廃棄した時、 対象に !M! ダメージを与える。 NL カードを 1 枚引く。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Diving Knight"
+      "潜水騎士"
     ]
   },
   "aigisMod:Kuste": {
-    "NAME": "Kuste",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Gain Strength equal to your aigismod:Water_pressure. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Gain Strength equal to your aigismod:Water_pressure +1. NL Exhaust.",
+    "NAME": "キュステ",
+    "DESCRIPTION": "aigismod:深海兵 NL あなたの aigismod:水圧 に等しい 筋力 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL あなたの aigismod:水圧 +1 に等しい 筋力 を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION": [
-      "Rookie Diving Knight"
+      "新人潜水騎士"
     ]
   },
   "aigisMod:Meshina": {
-    "NAME": "Meshina",
-    "DESCRIPTION": "aigismod:Deep_Sea NL When you gain aigismod:Water_pressure gain 1 Strength.",
-    "UPGRADE_DESCRIPTION": "Innate NL aigismod:Deep_Sea NL When you gain aigismod:Water_pressure gain 1 Strength.",
+    "NAME": "メシナ",
+    "DESCRIPTION": "aigismod:深海兵 NL aigismod:水圧 を得た時に 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL aigismod:深海兵 NL aigismod:水圧 を得た時に 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION": [
-      "Demigod of Whirling Tides"
+      "渦潮の亜神"
     ]
   },
   "aigisMod:Otohime": {
-    "NAME": "Otohime",
-    "DESCRIPTION": "aigismod:Deep_Sea NL You take no damage from aigismod:Water_pressure. NL When you gain aigismod:Water_pressure apply 1 Weak to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Innate. NL You take no damage from aigismod:Water_pressure. NL When you gain aigismod:Water_pressure apply 1 Weak to ALL enemies.",
+    "NAME": "乙姫",
+    "DESCRIPTION": "aigismod:深海兵 NL aigismod:水圧 からのダメージを受けなくなる。 NL aigismod:水圧 を得た時、 敵全体に 脱力 1 を与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 天賦 NL aigismod:水圧 からのダメージを受けなくなる。 NL aigismod:水圧 を得た時、 敵全体に 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION": [
-      "Great Sea God's Daughter"
+      "大海神の娘"
     ]
   },
   "aigisMod:Lasithi": {
-    "NAME": "Lasithi",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Deal !M! damage to ALL enemies when you play Air Signal.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage to ALL enemies. NL Deal !M! damage to ALL enemies when you play Air Signal.",
+    "NAME": "ラシティ",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL エアーシグナル をプレイした時、 敵全体に !M! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:弓 ダメージを与える。 NL エアーシグナルをプレイした時、 敵全体に !M! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
-      "Black-Winged Elite Archer"
+      "黒翼の精鋭射手"
     ]
   },
   "aigisMod:Krehl": {
     "NAME": "クレール",
-    "DESCRIPTION": "Discard !M! cards to gain 1 Intangible. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Discard !M! card to gain 1 Intangible. NL Exhaust.",
+    "DESCRIPTION": "カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "飛行警備隊長"
     ]
   },
   "aigisMod:Oviely": {
     "NAME": "オヴェリー",
-    "DESCRIPTION": "Apply 1 Weak to enemies with attack intent. NL 廃棄 された エアーシグナル の 枚数x 1 ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "Apply 1 Weak to enemies with attack intent. NL Gain 1 Block for each Air Signal Exhausted +2.",
+    "DESCRIPTION": "攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数の ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数+2 の ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "筆頭飛行士"
     ]
   },
   "aigisMod:Pallios": {
     "NAME": "パリオス",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "白翼の戦士"
     ]
   },
   "aigisMod:Rhyno": {
     "NAME": "ライノー",
-    "DESCRIPTION": "Deal !D! damage. NL Gain 1 Blur.",
-    "UPGRADE_DESCRIPTION": "Creates 1 more Air Signal. NL Deal !D! damage. NL Gain 1 Blur.",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ブラー 1 を得る。",
+    "UPGRADE_DESCRIPTION": "エアーシグナル 1枚 を 山札に生成する。 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "鷲翼の戦士"
     ]
@@ -4606,603 +4606,603 @@
   },
   "aigisMod:Orku": {
     "NAME": "オーキュ",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage twice.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage twice.",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを 2 回 与える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを 2 回 与える。",
     "EXTENDED_DESCRIPTION" : [
       "覚賀鳥の射手"
     ]
   },
   "aigisMod:Pheasant": {
     "NAME": "フーザント",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の射手"
     ]
   },
   "aigisMod:Potal": {
-    "NAME": "Potal",
-    "DESCRIPTION": "Creates 1 more Air Signal. NL You can send !M! Aerial card from Draw Pile to Discard Pile.",
-    "UPGRADE_DESCRIPTION": "Creates 1 more Air Signal. NL You can send up to !M! Aerial cards from Draw Pile to Discard Pile.",
+    "NAME": "ポタル",
+    "DESCRIPTION": "エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
+    "UPGRADE_DESCRIPTION": "エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
     "EXTENDED_DESCRIPTION" : [
-      "Horned Owl-Winged Warrior"
+      "木兎翼の戦士"
     ]
   },
   "aigisMod:Lela": {
-    "NAME": "Lela",
-    "DESCRIPTION": "When you play an Air Signal, gain 1 Temporal HP.",
-    "UPGRADE_DESCRIPTION": "Add 1 Air Signal to hand. NL When you play an Air Signal, gain 1 Temporal HP.",
+    "NAME": "イエラ",
+    "DESCRIPTION": "エアーシグナルをプレイした時に aigismod:仮初 のHP 1 を得る。",
+    "UPGRADE_DESCRIPTION": "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Pigeon-Winged Healer"
+      "蓑鳩翼の癒し手"
     ]
   },
   "aigisMod:Kania": {
-    "NAME": "Kania",
-    "DESCRIPTION": "When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
-    "UPGRADE_DESCRIPTION": "When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
+    "NAME": "カーニア",
+    "DESCRIPTION": "エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
+    "UPGRADE_DESCRIPTION": "エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
     "EXTENDED_DESCRIPTION" : [
-      "Hawk-Winged Healer",
-      "Add 1 Air Signal to your hand. NL When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable."
+      "鷹翼の癒し手",
+      "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。"
     ]
   },
   "aigisMod:Lefka": {
-    "NAME": "Lefka",
-    "DESCRIPTION": "Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
+    "NAME": "レフカ",
+    "DESCRIPTION": "aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Osprey-Winged Healer"
+      "鶚翼の癒し手"
     ]
   },
   "aigisMod:Tabitha": {
-    "NAME": "Tabitha",
-    "DESCRIPTION": "At the start of turn, add 1 Hellbeast, Water Pressure, or Air Signal at random to hand.",
-    "UPGRADE_DESCRIPTION": "At the start of turn, add 1 Hellbeast, Water Pressure, or Air Signal at random to hand.",
+    "NAME": "タバサ",
+    "DESCRIPTION": "ターン開始時に 魔獣 、 深海 、 エアーシグナル のいずれかを 1枚 手札 に加える。",
+    "UPGRADE_DESCRIPTION": "ターン開始時に 魔獣 、 深海 、 エアーシグナル のいずれかを 1枚手札 に 加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Inventor of Bizarre Ideas"
+      "奇想の発明家"
     ]
   },
   "aigisMod:Puniru": {
-    "NAME": "Puniru",
-    "DESCRIPTION": "Add 1 Exhausted Beast Tamer to hand. NL Draw 1 card. NL Gain !M! Temporal HP. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add 1 Exhausted Beast Tamer to hand, it becomes cost 0. NL Draw 1 card. NL Gain !M! Temporal HP. NL Exhaust.",
+    "NAME": "プニル",
+    "DESCRIPTION": "廃棄 された 魔物使い を 1枚 手札に加える。 NL カードを 1 枚引く。 NL aigismod:仮初 のHP !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "廃棄 された 魔物使い を 1枚 コストを 0 にして手札に加える。 NL カードを 1 枚引く。 NL aigismod:仮初 のHP !M! を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Demon Wolf Miko"
+      "魔狼巫女"
     ]
   },
   "aigisMod:Tsayu": {
-    "NAME": "Tsayu",
-    "DESCRIPTION": "Hellbeast deal !M! more damage. NL Increase this damage by 1 at the start of turn.",
-    "UPGRADE_DESCRIPTION": "Hellbeast deal !M! more damage. NL Increase this damage by 1 at the start of turn.",
+    "NAME": "ツァーユ",
+    "DESCRIPTION": "魔獣 のダメージが !M! 増加する。 NL ターン開始時に 魔獣 のダメージが 1 増加する。",
+    "UPGRADE_DESCRIPTION": "魔獣 のダメージが !M! 増加する。 NL ターン開始時に 魔獣 のダメージが 1 増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "Friend of the White Wolf",
-      "Hellbeast deal !M! more damage. NL Increase this damage by 1 at the start of turn."
+      "白狼の朋",
+      "魔獣 のダメージが !M! 増加する。 NL ターン開始時に 魔獣 のダメージが 1 増加する。"
     ]
   },
   "aigisMod:Renata": {
-    "NAME": "Renata",
-    "DESCRIPTION": "Innate. NL Send up to !M! cards from draw pile to discard pile. NL Add 2 Air Signal to hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Send up to !M! cards from draw pile to discard pile. NL Add 2 Air Signal to hand. NL Exhaust.",
+    "NAME": "レナータ",
+    "DESCRIPTION": "天賦 NL 山札 から !M! 枚捨てる。 NL エアーシグナル を 2 枚 手札 に 加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "天賦 NL 山札 から !M! 枚捨てる。 NL エアーシグナル を 2 枚 手札 に 加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Heavenly-Eyed Scout",
-      "Innate. NL Send up to !M! cards from draw pile to discard pile. NL Add 2 Air Signal to hand."
+      "天眼の偵察者",
+      "天賦 NL 山札 から !M! 枚捨てる。 NL エアーシグナル を 2 枚 手札 に 加える。"
     ]
   },
   "aigisMod:Miriam": {
-    "NAME": "Miriam",
-    "DESCRIPTION": "Retain. NL Add 1 Air Signal to hand. NL Gain !M! Vigor.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Air Signal+ to hand. NL Gain !M! Vigor.",
+    "NAME": "ミリアム",
+    "DESCRIPTION": "保留 NL エアーシグナル を 1 枚 手札 に 加える。 NL 気力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "保留 NL エアーシグナル+ を 1 枚 手札 に 加える。 NL 気力 !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Hawk-Eye Scout"
+      "鷹目の偵察兵"
     ]
   },
   "aigisMod:Duo2": {
-    "NAME": "Duo",
-    "DESCRIPTION": "Deal !D! damage twice. aigismod:Sailor !M! : Add 1 Double Gatling to discard pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage twice. aigismod:Sailor !M! : Add 1 Double Gatling to discard pile. NL Exhaust",
+    "NAME": "デューオ",
+    "DESCRIPTION": "!D! ダメージを 2 回与える。 aigismod:水兵 !M! : ダブルガトリング を 1 枚捨て札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 2 回与える。 aigismod:水兵 !M! : ダブルガトリング を 1 枚捨て札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Peerless Pirate",
-      "Deal !D! damage twice. aigismod:Sailor !M! : Add 1 Double Gatling to discard pile. NL Exhaustive: !stslib:ex!"
+      "無双の海賊",
+      "!D! ダメージを 2 回与える。 aigismod:水兵 !M! : ダブルガトリング を 1 枚捨て札に加える。 NL aigismod:残り回数 : !stslib:ex!"
     ]
   },
   "aigisMod:DGDuo": {
-    "NAME": "Double Gatling",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaustive: !stslib:ex!",
+    "NAME": "ダブルガトリング",
+    "DESCRIPTION": "!D! ダメージを !M! 回与える。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを !M! 回与える。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Beatrica": {
-    "NAME": "Beatrica",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust. NL aigismod:Sailor 2: Add 1 Beatrica to the top of the draw pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Exhaust. NL aigismod:Sailor 2: Add 1 Beatrica+ to the top of the draw pile.",
+    "NAME": "ベアトリカ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 NL aigismod:水兵 2: ベアトリカを山札 の一番上に 加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 NL aigismod:水兵 2:ベアトリカ+ を 山札 の一番上に 加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Crimson Pirate"
+      "紅の海賊"
     ]
   },
   "aigisMod:Karina": {
-    "NAME": "Karina",
-    "DESCRIPTION": "Deal !D! damage. NL aigismod:Assassination NL aigismod:Sailor 1: This card gains !M! damage for the combat.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Assassination NL aigismod:Sailor 1: This card gains !M! damage for the combat.",
+    "NAME": "カリナ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:暗殺 NL aigismod:水兵 1: この戦闘中 !M! ダメージ増加する。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:暗殺 NL aigismod:水兵 1: この戦闘中 !M! ダメージ増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "Pretty Pirate"
+      "可憐海賊"
     ]
   },
   "aigisMod:Maurette2": {
-    "NAME": "Maurette",
-    "DESCRIPTION": "Deal !D! aigismod:splash damage. NL Exhaust NL aigismod:Sailor 1: Gain !M! Gold",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:splash damage. NL Exhaust NL aigismod:Sailor 1: Gain !M! Gold",
+    "NAME": "モーレット",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 廃棄 NL aigismod:水兵 1: !M! ゴールドを得る。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 廃棄 NL aigismod:水兵 1: !M! ゴールドを得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Explosion Pirate"
+      "爆裂海賊"
     ]
   },
   "aigisMod:Minerva": {
-    "NAME": "Minerva",
-    "DESCRIPTION": "aigismod:Skill_charge: Increase this card´s damage by !M! NL aigismod:Sailor !aigisMod:SecondMagic! : Deal !D! damage.",
-    "UPGRADE_DESCRIPTION": "aigismod:Skill_charge: Increase this card´s damage by !M! NL aigismod:Sailor !aigisMod:SecondMagic! : Deal !D! damage.",
+    "NAME": "ミネルバ",
+    "DESCRIPTION": "aigismod:強化スキル : 保留するたびに ダメージ !M! 増加する。 NL aigismod:水兵 !aigisMod:SecondMagic! : !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:強化スキル : 保留するたびに ダメージ !M! 増加する。 NL aigismod:水兵 !aigisMod:SecondMagic! : !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
-      "Legendary Pirate",
-      "aigismod:Skill_charge: Increase this card´s damage by !M! NL aigismod:Sailor !aigisMod:SecondMagic! : Deal !D! damage."
+      "伝説の海賊",
+      "aigismod:強化スキル : 保留するたびに ダメージ !M! 増加する。 NL aigismod:水兵 !aigisMod:SecondMagic! : !D! ダメージを与える。"
     ]
   },
   "aigisMod:Monica2": {
-    "NAME": "Monica",
-    "DESCRIPTION": "Deal !D! damage 1 time. NL aigismod:Sailor 2: Add !M! more hits for this use.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage 1 time. NL aigismod:Sailor 2: Add !M! more hits for this use.",
+    "NAME": "モニカ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水兵 2: 攻撃回数が !M! 増加する。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水兵 2: 攻撃回数が !M! 増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "Fledgling Pirate"
+      "駆け出し海賊"
     ]
   },
   "aigisMod:Rachel2": {
-    "NAME": "Rachel",
-    "DESCRIPTION": "Deal !D! damage. NL aigismod:Sailor 1: Return this to hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL aigismod:Sailor 1: Return this to hand.",
+    "NAME": "レイチェル",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水兵 1: このカードを手札に戻す。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:水兵 1: このカードを手札に戻す。",
     "EXTENDED_DESCRIPTION" : [
-      "Pirate"
+      "海賊"
     ]
   },
   "aigisMod:Sabrina": {
-    "NAME": "Sabrina",
-    "DESCRIPTION": "Deal !D! damage 3 times. NL Exhaust NL aigismod:Sailor 1: Gain [E]",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage 3 times. NL aigismod:Sailor 1: Gain [E]",
+    "NAME": "サブリナ",
+    "DESCRIPTION": "!D! ダメージを 3 回与える。 NL 廃棄 NL aigismod:水兵 1: [E] を得る。 ",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 3 回与える。 NL aigismod:水兵 1: [E] を得る。 ",
     "EXTENDED_DESCRIPTION" : [
-      "Corsair Captain"
+      "私掠船長"
     ]
   },
   "aigisMod:Verotte2": {
-    "NAME": "Verotte",
-    "DESCRIPTION": "Apply 1 Vulnerable. NL aigismod:Sailor 1: Deal !D! damage to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Apply 1 Vulnerable. NL aigismod:Sailor 1: Deal !D! damage to ALL enemies.",
+    "NAME": "ヴェロッテ",
+    "DESCRIPTION": "弱体 1 を与える。 NL aigismod:水兵 1 : 敵全体に !D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "弱体 1 を与える。 NL aigismod:水兵 1 : 敵全体に !D! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
-      "Pirate"
+      "海賊"
     ]
   },
   "aigisMod:Amelie": {
-    "NAME": "Amelie",
-    "DESCRIPTION": "Add 1 Sailor attack card from draw pile to hand. NL aigismod:Sailor 1: Draw 1 card next turn.",
-    "UPGRADE_DESCRIPTION": "Add 1 Sailor attack card from draw pile to hand. NL aigismod:Sailor 1: Draw 1 card next turn.",
+    "NAME": "アメリ",
+    "DESCRIPTION": "山札の 水兵 アタックカードを 1枚  手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "山札の 水兵 アタックカードを 1枚 を 手札に加える。 NL aigismod:水兵 1: 次のターン開始時にカードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "Navigator"
+      "航海士"
     ]
   },
   "aigisMod:Ibuki": {
-    "NAME": "Ibuki",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies when you play a Sailor or Deep Sea card. NL aigismod:Sailor 1: Gain 1 Dexterity",
-    "UPGRADE_DESCRIPTION": "Deal !M! damage to ALL enemies when you play a Sailor or Deep Sea card. NL aigismod:Sailor 1: Gain 1 Dexterity",
+    "NAME": "イブキ",
+    "DESCRIPTION": "水兵 もしくは 深海兵 をプレイした時、敵全体に !M! ダメージを与える。 NL aigismod:水兵 1: 敏捷性 1 を得る。",
+    "UPGRADE_DESCRIPTION": "水兵 もしくは 深海兵 をプレイした時、敵全体に !M! ダメージを与える。 NL aigismod:水兵 1: 敏捷性 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Fleet Admiral",
-      "Innate. NL Deal !M! damage to ALL enemies when you play a Sailor or Deep Sea card. NL aigismod:Sailor 1: Gain 1 Dexterity"
+      "海軍元帥",
+      "天賦 NL 水兵 もしくは 深海兵 をプレイした時、敵全体に !M! ダメージを与える。 NL aigismod:水兵 1: 敏捷性 1 を得る。"
     ]
   },
   "aigisMod:Jacqueline": {
-    "NAME": "Jacqueline",
-    "DESCRIPTION": "Add 1 Sailor Attack or Deep Sea card from discard pile to hand. NL aigismod:Sailor 2: Reduce to 0 the cost of that card for the turn.",
-    "UPGRADE_DESCRIPTION": "Add 1 Sailor Attack or Deep Sea card from discard pile to hand. NL aigismod:Sailor 2: Reduce to 0 the cost of that card for the combat.",
+    "NAME": "ジャクリーヌ",
+    "DESCRIPTION": "捨て札の 水兵アタック もしくは 深海兵 カード 1 枚 を 手札に加える。 NL aigismod:水兵 2: ターンの間 そのカードのコストを0にする。",
+    "UPGRADE_DESCRIPTION": "捨て札の 水兵アタック もしくは 深海兵 カード 1 枚 を 手札に加える。 NL aigismod:水兵 2: この戦闘中 そのカードのコストを0にする。",
     "EXTENDED_DESCRIPTION" : [
-      "Navigator"
+      "航海士"
     ]
   },
   "aigisMod:Marie2": {
-    "NAME": "Marie",
-    "DESCRIPTION": "Gain 2 Vigor NL aigismod:Sailor 1: Gain !M! Vigor.",
-    "UPGRADE_DESCRIPTION": "Gain 2 Vigor NL aigismod:Sailor 1: Gain !M! Vigor.",
+    "NAME": "マリエ",
+    "DESCRIPTION": "気力 2 を得る。 NL aigismod:水兵 1: 気力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "気力 2 を得る。 NL aigismod:水兵 1: 気力 !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Apprentice Sailor"
+      "見習い水兵"
     ]
   },
   "aigisMod:Reanbell": {
-    "NAME": "Reanbell",
-    "DESCRIPTION": "Retain.  NL aigismod:Sailor 2: Deal !D! damage 6 times. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL aigismod:Sailor 2: Deal !D! damage 6 times. NL Exhaust.",
+    "NAME": "リーンベル",
+    "DESCRIPTION": "保留 NL aigismod:水兵 2: !D! ダメージを 6 回与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL aigismod:水兵 2: !D! ダメージを 6 回与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Admiral"
+      "提督"
     ]
   },
   "aigisMod:Viera": {
-    "NAME": "Viera",
-    "DESCRIPTION": "At the start of turn, gain 1 Vigor. NL aigismod:Sailor 1: Gain !M! more Vigor per turn.",
-    "UPGRADE_DESCRIPTION": "At the start of turn, gain 1 Vigor. NL aigismod:Sailor 1: Gain !M! more Vigor per turn.",
+    "NAME": "ビエラ",
+    "DESCRIPTION": "ターン開始時に 気力 1 を得る。 NL aigismod:水兵 1: 効果量が !M! 増加する。",
+    "UPGRADE_DESCRIPTION": "ターン開始時に 気力 1 を得る。 NL aigismod:水兵 1: 効果量が !M! 増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "Sailor"
+      "水兵"
     ]
   },
   "aigisMod:Arlette": {
-    "NAME": "Arlette",
-    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it.",
-    "UPGRADE_DESCRIPTION": "Whenever a card is created during combat, Upgrade it.",
+    "NAME": "アルレット",
+    "DESCRIPTION": "戦闘中に生成するカードを アップグレード する。",
+    "UPGRADE_DESCRIPTION": "戦闘中に生成するカードを アップグレード する。",
     "EXTENDED_DESCRIPTION" : [
-      "Super Ancient Inventor"
+      "超古代発明家"
     ]
   },
   "aigisMod:Reve": {
-    "NAME": "Reve",
-    "DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
+    "NAME": "レーヴ",
+    "DESCRIPTION": "ランダムな アイギス キャラカード を !M! 枚 から 1 枚選んで コスト を 0 にして手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ランダムな アイギス キャラカード を !M! 枚 から 1 枚選んで コスト を 0 にして手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Traveling Priestess"
+      "神殿書記官"
     ]
   },
   "aigisMod:Patra": {
-    "NAME": "Patra",
-    "DESCRIPTION": "Choose 1 of !M! cost 1 Aigis character cards to add to hand and it becomes cost 0. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Choose 1 of !M! cost 1 Aigis character cards to add to hand and it becomes cost 0. NL Exhaust",
+    "NAME": "パトラ",
+    "DESCRIPTION": "ランダムな コスト 1 の アイギス キャラカード を !M! 枚 から 1 枚選んで コスト を 0 にして手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ランダムな コスト 1 の アイギス キャラカード を !M! 枚 から 1 枚選んで コスト を 0 にして手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Sun Priestess"
+      "太陽神官"
     ]
   },
   "aigisMod:Paula": {
-    "NAME": "Paula",
-    "DESCRIPTION": "Choose 1 of !M! Beast Tamer, Undead or Demon Aigis character cards to exhaust. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Choose 1 of !M! Beast Tamer, Undead or Demon Aigis character cards to exhaust. NL Exhaustive: !stslib:ex!",
+    "NAME": "ポーラ",
+    "DESCRIPTION": "ランダムな 魔物使い 、 アンデット 、 デーモン !M! 枚から 1枚選んで 廃棄 する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ランダムな 魔物使い 、 アンデット 、 デーモン !M! 枚から 1枚選んで 廃棄 する。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
-      "Traveling Priestess"
+      "旅の司祭"
     ]
   },
   "aigisMod:Noel": {
-    "NAME": "Noel",
-    "DESCRIPTION": "Choose an Attack card in hand. Add a copy of that card to hand. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Choose an Attack card in hand. Add a copy of that card to hand. NL Exhaustive: !stslib:ex!",
+    "NAME": "ノエル",
+    "DESCRIPTION": "手札の アタック 1 枚 を複製する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札の アタック 1 枚 を複製する。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
-      "Dwarven Priestess"
+      "妖精司祭"
     ]
   },
   "aigisMod:Shirley": {
-    "NAME": "Shirley",
-    "DESCRIPTION": "Add 1 Spirit User, Elemental, Summoner or Summon from draw pile or discard pile to hand.",
-    "UPGRADE_DESCRIPTION": "Add 1 Spirit User, Elemental, Summoner or Summon from draw pile or discard pile to hand.",
+    "NAME": "シャーリー",
+    "DESCRIPTION": "山札もしくは捨て札の 精霊使い 、 精霊 、 召喚士 、 召喚獣 カードを 1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "山札もしくは捨て札の 精霊使い 、 精霊 、 召喚士 、 召喚獣 カードを 1枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Specialist Court Lady"
+      "術士女官"
     ]
   },
   "aigisMod:Cenote": {
-    "NAME": "Cenote",
-    "DESCRIPTION": "Add 1 Water Elemental to hand. NL Gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "Add 1 Water Elemental to hand. NL Gain !B! Block.",
+    "NAME": "セノーテ",
+    "DESCRIPTION": "水霊 を 1 枚 手札に加える。 NL !B! ブロックを得る。",
+    "UPGRADE_DESCRIPTION": "水霊 を 1 枚手札に加える。 NL !B! ブロックを得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Water Spirit User"
+      "水霊使い"
     ]
   },
   "aigisMod:WaterElemental": {
-    "NAME": "Water Elemental",
-    "DESCRIPTION": "Apply !M! aigismod:water_pressure. NL Gain !B! Block. NL aigismod:Skill_charge : Applies 1 aigismod:water_pressure more. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:water_pressure. NL Gain !B! Block. aigismod:Skill_charge : Applies 1 aigismod:water_pressure more. NL Exhaust",
+    "NAME": "水霊",
+    "DESCRIPTION": "aigismod:水圧 !M! を与える。 NL !B! ブロックを得る。 NL aigismod:強化スキル : 保留するたびに与える aigismod:水圧 が 1 増加する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:水圧 !M! を与える。 NL !B! ブロックを得る。 NL aigismod:強化スキル : 保留するたびに与える aigismod:水圧 が 1 増加する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Clarice": {
-    "NAME": "Clarice",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. NL Add 1 Darkness Elemental to draw pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. NL Add 1 Darkness Elemental to draw pile.",
+    "NAME": "クラリーチェ",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL 闇霊 を 1枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL 闇霊 を 1枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Darkness Spirit User"
+      "闇霊使い"
     ]
   },
   "aigisMod:DarknessElemental": {
-    "NAME": "Darkness Elemental",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. NL Draw 1 card. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. NL Draw 1 card. NL Exhaustive: !stslib:ex!",
+    "NAME": "闇霊",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL カードを 1 枚引く。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL カードを 1 枚引く。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Loretta": {
-    "NAME": "Loretta",
-    "DESCRIPTION": "Gain !M! Vigor. Add 1 Fire Elemental to draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Vigor. Add 1 Fire Elemental to draw pile.",
+    "NAME": "ロレッタ",
+    "DESCRIPTION": "気力 !M! を得る。 火霊 を 1枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "気力 !M! を得る。 火霊 を 1枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Fire Spirit User"
+      "火霊使い"
     ]
   },
   "aigisMod:FireElemental": {
-    "NAME": "Fire Elemental",
-    "DESCRIPTION": "Deal !D! damage twice. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage twice. NL Exhaust",
+    "NAME": "火霊",
+    "DESCRIPTION": "!D! ダメージを 2 回与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 2 回与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Neve": {
-    "NAME": "Neve",
-    "DESCRIPTION": "Add 1 Chaos Elemental to hand at the start of turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Add 1 Chaos Elemental to hand at the start of turn.",
+    "NAME": "ニーヴ",
+    "DESCRIPTION": "ターン開始時に 混沌霊を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 NL ターン開始時に 混沌霊を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Chaos Spirit User",
-      "Add 1 Chaos Elemental to hand at the start of turn."
+      "混沌霊使い",
+      "ターン開始時に 混沌霊を 1 枚手札に加える。"
     ]
   },
   "aigisMod:ChaosElemental": {
-    "NAME": "Chaos Elemental",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage. Gain !M! Temporal HP. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. Gain !M! Temporal HP. NL Exhaust",
+    "NAME": "混沌霊",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージ を与える。 aigismod:仮初 のHP !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージ を与える。 aigismod:仮初 のHP !M! を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Reflet": {
-    "NAME": "Reflet",
-    "DESCRIPTION": "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand.",
-    "UPGRADE_DESCRIPTION": "Innate NL Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand.",
+    "NAME": "ルフレ",
+    "DESCRIPTION": "光霊を 1枚 手札に加える。 NL 山札もしくは捨て札の 光霊を 1 枚手札に加えることができる。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 光霊を 1枚 手札に加える。 NL 山札もしくは捨て札の 光霊を 1 枚手札に加えることができる。",
     "EXTENDED_DESCRIPTION" : [
-      "Light Spirit User",
-      "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental or discard pile from draw pile to hand."
+      "光霊使い",
+      "光霊を 1枚 手札に加える。 NL 山札もしくは捨て札の 光霊を 1 枚手札に加えることができる。"
     ]
   },
   "aigisMod:LightElemental": {
-    "NAME": "Light Elemental",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage. Double the base damage of this card. HP. NL Exhaustive !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. Double the base damage of this card. HP. NL Exhaustive !stslib:ex!",
+    "NAME": "光霊",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージ を与える。 このカードの ダメージ を倍にする。 NL aigismod:残り回数 !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージ を与える。 このカードの ダメージ を倍にする。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:XiaoMei": {
-    "NAME": "Xiao-Mei",
-    "DESCRIPTION": "Add 1 Earth Elemental to hand. NL Gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "Add 1 Earth Elemental to hand. NL Gain !B! Block.",
+    "NAME": "シャオメイ",
+    "DESCRIPTION": "土霊を 1枚 手札に加える。 NL !B! ブロックを得る。",
+    "UPGRADE_DESCRIPTION": "土霊を 1枚 手札に加える。 NL !B! ブロックを得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Earth Spirit User"
+      "土霊"
     ]
   },
   "aigisMod:EarthElemental": {
-    "NAME": "Earth Elemental",
-    "DESCRIPTION": "Retain NL Gain !B! Block for each enemy. NL Deal !D! damage to ALL enemies. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Retain NL Gain !B! Block for each enemy. NL Deal !D! damage to ALL enemies. NL Exhaust",
+    "NAME": "土霊",
+    "DESCRIPTION": "保留 NL 敵の数 ｘ !B! ブロックを得る。 NL 敵全体に !D! ダメージを与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 敵の数 ｘ !B! ブロックを得る。 NL 敵全体に !D! ダメージを与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Yukihime": {
-    "NAME": "Yukihime",
-    "DESCRIPTION": "Add 1 Ice Elemental to discard pile. NL Apply !M! Weak.",
-    "UPGRADE_DESCRIPTION": "Add 1 Ice Elemental to discard pile. NL Apply !M! Weak.",
+    "NAME": "ユキヒメ",
+    "DESCRIPTION": "氷霊を 1 枚 捨て札 に加える。 NL 脱力 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "氷霊を 1 枚 捨て札 に加える。 NL 脱力 !M! を与える。",
     "EXTENDED_DESCRIPTION" : [
-      "Ice Spirit User"
+      "氷霊使い"
     ]
   },
   "aigisMod:IceElemental": {
-    "NAME": "Ice Elemental",
-    "DESCRIPTION": "Draw !M! card. NL Gain [E] for each aigismod:water_pressure and aigismod:sluggish in target. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Gain [E] for each aigismod:water_pressure and aigismod:sluggish in target. NL Exhaust",
+    "NAME": "氷霊",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL 対象の aigismod:水圧 と aigismod:鈍足 の数に等しい [E] を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL 対象の aigismod:水圧 と aigismod:鈍足 の数に等しい [E] を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Zilva": {
-    "NAME": "Zilva",
-    "DESCRIPTION": "Add 1 Thunder Elemental to hand. NL Apply Weak to enemies with aigismod:water_pressure.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Add 1 Thunder Elemental to hand. NL Apply Weak to enemies with aigismod:water_pressure.",
+    "NAME": "ジルヴァ",
+    "DESCRIPTION": "雷霊を 1枚手札に加える。 NL aigismod:水圧 を持つ敵に 脱力 1 を与える。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 雷霊を 1枚手札に加える。 NL aigismod:水圧 を持つ敵に 脱力 1 を与える。",
     "EXTENDED_DESCRIPTION" : [
-      "Thunder Spirit User"
+      "雷霊使い"
     ]
   },
   "aigisMod:ThunderElemental": {
-    "NAME": "Thunder Elemental",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL aigismod:Skill_charge : add 1 hit to this card. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL aigismod:Skill_charge : add 1 hit to this card. NL Exhaust",
+    "NAME": "雷霊",
+    "DESCRIPTION": "敵全体に !D! ダメージを !M! 回与える。 NL aigismod:強化スキル : 保留するたびに攻撃回数が 1 増加する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを !M! 回与える。 NL aigismod:強化スキル : 保留するたびに攻撃回数が 1 増加する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Latour": {
-    "NAME": "Latour",
-    "DESCRIPTION": "Choose a card in hand, discard the rest to draw equal to the amount discarded. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Choose a card in hand, discard the rest to draw equal to the amount discarded. NL Add 1 Latour to draw pile. NL Exhaust",
+    "NAME": "ラトゥール",
+    "DESCRIPTION": "手札 を 1 枚選ぶ。 それ以外を捨てて同じ枚数引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札 を 1 枚選ぶ。 それ以外を捨てて同じ枚数引く。 NL ラトゥール を 1 枚山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Undefeated Gambler"
+      "不敗の賭博師"
     ]
   },
   "aigisMod:Aquamarie": {
-    "NAME": "Aquamarie",
-    "DESCRIPTION": "Shuffle 1 Undine in draw pile. NL Draw !M! card next turn. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Shuffle 1 Undine in draw pile. NL Draw !M! cards next turn. NL Exhaust",
+    "NAME": "アクアマリー",
+    "DESCRIPTION": "ウンディーネを 1 枚 山札に加える。 NL 次のターン開始時に カードを !M! 枚引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ウンディーネを 1 枚 山札に加える。 NL 次のターン開始時に カードを !M! 枚引く。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summoner"
+      "召喚士"
     ]
   },
   "aigisMod:Undine": {
-    "NAME": "Undine",
-    "DESCRIPTION": "Enemies with aigismod:water_pressure lose !M! % of its max HP. NL Apply aigismod:water_pressure to everyone. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Enemies with aigismod:water_pressure lose !M! % of its max HP. NL Apply aigismod:water_pressure to everyone. NL Exhaust",
+    "NAME": "ウンディーネ",
+    "DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summoned"
+      "召喚獣"
     ]
   },
   "aigisMod:Farne2": {
-    "NAME": "Farne",
-    "DESCRIPTION": "Add 1 Phoenix to hand. NL Gain !M! Temporal HP. NL Heal !M! HP. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Add 1 Phoenix to hand. NL Gain !M! Temporal HP. NL Heal !M! HP. NL Exhaust",
+    "NAME": "ファルネ",
+    "DESCRIPTION": "フェニックスを 1 枚手札に加える。 NL aigismod:仮初 のHP !M! を得る。 NL HPを !M! 回復。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "フェニックスを 1 枚手札に加える。 NL aigismod:仮初 のHP !M! を得る。 NL HPを !M! 回復。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summoner",
-      "Innate. NL Add 1 Phoenix to hand. NL Gain !M! Temporal HP. NL Heal !M! HP. NL Exhaust"
+      "召喚士",
+      "天賦 NL フェニックスを 1 枚手札に加える。 NL aigismod:仮初 のHP !M! を得る。 NL HPを !M! 回復。 NL 廃棄"
     ]
   },
   "aigisMod:Phoenix": {
-    "NAME": "Phoenix",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL Gain !M! Temporal HP. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Gain !M! Temporal HP. NL Exhaustive: !stslib:ex!",
+    "NAME": "フェニックス",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える NL aigismod:仮初 のHP !M! を得る。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える NL aigismod:仮初 のHP !M! を得る。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
-      "Summoned"
+      "召喚獣"
     ]
   },
   "aigisMod:Rino2": {
-    "NAME": "Rino",
-    "DESCRIPTION": "Shuffle 1 Salamander in draw pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Shuffle 1 Salamander in draw pile. NL Exhaust",
+    "NAME": "リノ",
+    "DESCRIPTION": "サラマンダーを 1 枚 山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "サラマンダーを 1 枚 山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summoner"
+      "見習い召喚士"
     ]
   },
   "aigisMod:Salamander": {
-    "NAME": "Salamander",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card.",
+    "NAME": "サラマンダー",
+    "DESCRIPTION": "!D! ダメージを与える。 NL カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "Summoned"
+      "召喚獣"
     ]
   },
   "aigisMod:Solano2": {
-    "NAME": "Solano",
-    "DESCRIPTION": "Draw !M! card. NL Shuffle 1 Ifrit to draw pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 1 Ifrit in draw pile. NL Exhaust",
+    "NAME": "ソラノ",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL イフリートを 1 枚 山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL イフリートを 1 枚 山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summoner"
+      "召喚士"
     ]
   },
   "aigisMod:Ifrit": {
-    "NAME": "Ifrit",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Exhaustive: !stslib:ex!",
+    "NAME": "イフリート",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
-      "Summoned"
+      "召喚獣"
     ]
   },
   "aigisMod:Charles2": {
-    "NAME": "Charles",
-    "DESCRIPTION": "Gain [E] [E] NL Shuffle 1 Technique of Softening to draw pile. NL Lose !M! HP at the end of this turn. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain [E] [E] NL Shuffle 1 Technique of Softening to draw pile. NL Lose !M! HP at the end of this turn. NL Exhaust",
+    "NAME": "シャルル",
+    "DESCRIPTION": "[E] [E] を得る。 NL 軟化の秘術を 1 枚 山札に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "[E] [E] を得る。 NL 軟化の秘術を 1 枚 山札に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Mysterious Technique User"
+      "神秘の術士"
     ]
   },
   "aigisMod:Softening": {
-    "NAME": "Technique of Softening",
-    "DESCRIPTION": "Gain 1 Fear Potion. NL Gain !M! Gold. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 1 Fear Potion. NL Gain !M! Gold. NL Exhaust",
+    "NAME": "軟化の秘術",
+    "DESCRIPTION": "恐怖ポーション 1 つを得る。 NL !M! ゴールドを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "恐怖ポーション 1 つを得る。 NL !M! ゴールドを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Corin2": {
-    "NAME": "Corin",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 Force Sword to discard pile. NL Lose 5 HP at the end of this turn. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add 1 Force Sword to discard pile. NL Lose 5 HP at the end of this turn. NL Exhaust",
+    "NAME": "コリン",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 理力の剣を 1枚 捨て札 に加える。 NL このターン終了時に HP を 5 HP失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 理力の剣を 1枚 捨て札 に加える。 NL このターン終了時に HP を 5 HP失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "White-Robed Alchemist"
+      "白衣の錬金術士"
     ]
   },
   "aigisMod:ForceSword": {
-    "NAME": "Force Sword",
-    "DESCRIPTION": "Deal !D! damage. NL Gain 1 Flex Potion. NL Gain !M! Gold. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain 1 Flex Potion. NL Gain !M! Gold. NL Exhaust",
+    "NAME": "理力の剣",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ステロイドポーション 1 つ を得る。 NL !M! ゴールドを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ステロイドポーション 1 つ を得る。 NL !M! ゴールドを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Lehren2": {
-    "NAME": "Lehren",
-    "DESCRIPTION": "Exhaust ALL Status cards. NL Add 1 Miracle Drug Theriac to discard pile. NL Lose !M! HP at the end of this turn. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Exhaust ALL Status cards. NL Add 1 Miracle Drug Theriac to discard pile. NL Lose !M! HP at the end of this turn. NL Exhaust",
+    "NAME": "レーレン",
+    "DESCRIPTION": "全ての 状態異常 カード を 廃棄 する。 NL 霊薬テリアカを 1 枚 捨て札 に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "全ての 状態異常 カード を 廃棄 する。 NL 霊薬テリアカを 1 枚 捨て札 に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Alchemy Lecturer"
+      "錬金講師"
     ]
   },
   "aigisMod:Theriac": {
-    "NAME": "Miracle Drug Theriac",
-    "DESCRIPTION": "Heal 5 HP. Gain 1 Weak Potion. NL Gain !M! Gold. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Heal 5 HP. Gain 1 Weak Potion. NL Gain !M! Gold. NL Exhaust",
+    "NAME": "霊薬テリアカ",
+    "DESCRIPTION": "HP を 5 回復する。 脱力ポーションを 1 つ得る。 NL !M! ゴールドを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "HP を 5 回復する。 脱力ポーションを 1 つ得る。 NL !M! ゴールドを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Thelma": {
     "NAME": "テルマ",
-    "DESCRIPTION": "弱体 1 を受ける。 NL 持っているポーション x !M! ゴールドを得る。 NL Lose 3 HP at the end of this turn. NL 廃棄",
-    "UPGRADE_DESCRIPTION": "弱体 1 を受ける。 NL 持っているポーション x !M! ゴールドを得る。 NL Lose 3 HP at the end of this turn. NL 廃棄",
+    "DESCRIPTION": "弱体 1 を与える。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "弱体 1 を与える。 NL 持っているポーション x !M! ゴールドを得る。 NL このターン終了時に 3 HP を失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "錬金術士"
     ]
   },
   "aigisMod:Machina": {
-    "NAME": "Machina",
-    "DESCRIPTION": "When you use a potion, everyone takes !M! damage. NL Shuffle 1 Steam Tank to draw pile.",
-    "UPGRADE_DESCRIPTION": "When you use a potion, everyone takes !M! damage. NL Shuffle 1 Steam Tank to draw pile.",
+    "NAME": "マキナ",
+    "DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL スチームタンク を 1 枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL スチームタンク を 1 枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Alchemy Technician",
-      "Innate. NL When you use a potion, everyone takes !M! damage. NL Shuffle 1 Steam Tank to draw pile."
+      "錬金技工士",
+      "天賦 NL ポーション使用時に 全員が !M! ダメージを受ける。 NL スチームタンク を 1 枚 山札に加える。"
     ]
   },
   "aigisMod:SteamTank": {
-    "NAME": "Steam Tank",
-    "DESCRIPTION": "Deal !D! Damage. Heal !M! HP. NL Gain 1 random Potion when you win the combat. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! Damage. Heal !M! HP. NL Gain 1 random Potion when you win the combat. NL Exhaust",
+    "NAME": "スチームタンク",
+    "DESCRIPTION": "!D! ダメージを与える。 HPを !M! 回復。 NL 戦闘勝利時に ランダムなポーション 1つを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 HPを !M! 回復。 NL 戦闘勝利時に ランダムなポーション 1つを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Nicole2": {
-    "NAME": "Nicole",
-    "DESCRIPTION": "At the start of turn take 2 damage. Gain !M! Gold when you win the combat. NL Add 1 Energy Athanor to discard pile.",
-    "UPGRADE_DESCRIPTION": "At the start of turn take 2 damage. Gain !M! Gold when you win the combat. NL Add 1 Energy Athanor to discard pile.",
+    "NAME": "ニコル",
+    "DESCRIPTION": "ターン開始時に 2 ダメージを受ける。 戦闘勝利時に !M! ゴールドを得る。 NL エナジーアタノールを 1 枚捨て札に加える。",
+    "UPGRADE_DESCRIPTION": "ターン開始時に 2 ダメージを受ける。 戦闘勝利時に !M! ゴールドを得る。 NL エナジーアタノールを 1 枚捨て札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Alchemical Compounder",
-      "Innate. NL At the start of turn take 2 damage. Gain !M! Gold when you win the combat. NL Add 1 Energy Athanor to discard pile."
+      "錬金調合士",
+      "天賦 NL ターン開始時に 2 ダメージを受ける。 戦闘勝利時に !M! ゴールドを得る。 NL エナジーアタノールを 1 枚捨て札に加える。"
     ]
   },
   "aigisMod:EnergyAthanor": {
-    "NAME": "Energy Athanor",
-    "DESCRIPTION": "Gain 1 Energy Potion. NL Gain 1 Dexterity. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Gain 1 Energy Potion. NL Gain 1 Dexterity. NL Exhaustive: !stslib:ex!",
+    "NAME": "エナジーアタノール",
+    "DESCRIPTION": "エナジーポーション を 1 つ得る。 NL 敏捷性 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "エナジーポーション を 1 つ得る。 NL 敏捷性 1 を得る。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:CaitSith": {
-    "NAME": "Cait Sith",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Exhaust.",
+    "NAME": "ケットシ―",
+    "DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロックを得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Summon"
+      "召喚獣"
     ]
   },
   "aigisMod:Gina": {
-    "NAME": "Gina",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 copy of this card to discard pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add 1 copy of this card to discard pile.",
+    "NAME": "ジーナ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL このカードの複製を 捨て札 に加える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL このカードの複製を 捨て札 に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Grappler"
+      "格闘士"
     ]
   },
   "aigisMod:Thrud": {
-    "NAME": "Thrud",
-    "DESCRIPTION": "Deal !D! damage. NL Send 1 aerial card from draw pile to discard pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Send 1 aerial card from draw pile to discard pile.",
+    "NAME": "スルーズ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 山札の 飛行隊カード 1 枚を捨てる。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 山札の 飛行隊カード 1 枚を捨てる。",
     "EXTENDED_DESCRIPTION" : [
-      "Heavenly Spear Knight"
+      "天槍騎士団"
     ]
   },
   "aigisMod:Ur2": {
-    "NAME": "Ur",
-    "DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Deal !D! damage twice. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Deal !D! aigismod:true_damage twice. NL Exhaust",
+    "NAME": "ウル",
+    "DESCRIPTION": "このカードを引いた時に 複製を手札に加える。 NL !D! ダメージを 2 回与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "このカードを引いた時に 複製を手札に加える。 NL !D! aigismod:貫通 ダメージを 2 回与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Ferocious Clawed Beast"
+      "猛き爪獣"
     ]
   },
   "aigisMod:AigisStatue": {
-    "NAME": "Aigis Statue",
-    "DESCRIPTION": "Add 1 random Aigis character card to hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add 1 random Aigis character card to hand. NL Exhaust.",
+    "NAME": "アイギス像",
+    "DESCRIPTION": "ランダムな アイギスキャラ カード を手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "ランダムな アイギスキャラ カード を手札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -5212,7 +5212,7 @@
   "aigisMod:Note": {
     "NAME": "New Hero cards",
     "DESCRIPTION": "implement these: MorfessaPlatinum, MoefessaBlack, CursedFog, MildrithPlatinum, MildrithBlack, Garuda, TowerOfHeroes, TowerOfHeroesAW",
-    "UPGRADE_DESCRIPTION": "They are on the top of the file.",
+    "UPGRADE_DESCRIPTION": "They are on the top of the file",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -5233,8 +5233,8 @@
 
   "aigisMod:Calope": {
     "NAME": "キャロップ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL 負傷 2 枚を捨て札に加える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL 負傷 2 枚を捨て札に加える。",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL 負傷を 2 枚捨て札に加える。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージ を !M! 回与える。 NL 負傷を 2 枚捨て札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "獣耳の射手"
     ]
@@ -5266,16 +5266,16 @@
   },
   "aigisMod:Maglica": {
     "NAME": "マグリカ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL カードを1枚捨てる。 呪いか状態異常を捨てた場合 !B! ブロック と 活力 を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL カードを1枚捨てる。 呪いか状態異常を捨てた場合 !B! ブロック と 活力 を得る。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL カードを1枚捨てる。 呪い か 状態異常 を捨てた時 !M! ブロック と 活力 !M! を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL カードを1枚捨てる。 呪い か 状態異常 を捨てた時 !M! ブロック と 活力 !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "下町料理人"
     ]
   },
   "aigisMod:Tyr": {
     "NAME": "ティール",
-    "DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL ゴーレムの部品 !M! 枚を 廃棄 札 に加える。 NL 廃棄 ",
-    "UPGRADE_DESCRIPTION": "全ての敵に !D! ダメージを与える。 NL ゴーレムの部品 !M! 枚を 廃棄 札 に加える。 NL 廃棄 ",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL ゴーレムの部品を !M! 枚 廃棄 札 に加える。 NL 廃棄 ",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL ゴーレムの部品を !M! 枚 廃棄 札 に加える。 NL 廃棄 ",
     "EXTENDED_DESCRIPTION" : [
       "封鋼の剣士"
     ]
@@ -5293,132 +5293,132 @@
 
 
   "aigisMod:Hohle": {
-    "NAME": "Hohle",
-    "DESCRIPTION": "Scry !M! 3. NL Gain !B! 3 Block. NL You can add 1 Strike/Defend from discard pile to hand.",
-    "UPGRADE_DESCRIPTION": "Scry !M! 4. NL Gain !B! 4 Block. NL You can add 1 Strike/Defend from discard pile to hand.",
+    "NAME": "ヘーレ",
+    "DESCRIPTION": "占術 !M! NL !B! ブロックを得る。 NL 捨て札のストライクか防御を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "占術 !M! NL !B! ブロックを得る。 NL 捨て札のストライクか防御を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Digger"
+      "帝国掘削兵"
     ]
   },
   "aigisMod:Tilt": {
-    "NAME": "Tilt",
-    "DESCRIPTION": "Exhuast 1 card from draw pile and gain Strength equal to its cost. NL Increase this card´s cost by 1.",
-    "UPGRADE_DESCRIPTION": "(cost 0) Exhuast 1 card from draw pile and gain Strength equal to its cost. NL Increase this card´s cost by 1.",
+    "NAME": "ティルト",
+    "DESCRIPTION": "山札を 1 枚選んで廃棄する。 そのカードのコストに等しい 筋力を得る。 NL このカードのコストを 1 上げる。",
+    "UPGRADE_DESCRIPTION": "山札を 1 枚廃棄する。 そのカードのコストに等しい 筋力を得る。 NL このカードのコストを 1 上げる。",
     "EXTENDED_DESCRIPTION" : [
-      "Underworld Imperial Knight",
-      "Innate NL Exhuast 1 card from draw pile and gain Strength equal to its cost. NL Increase this card´s cost by 1."
+      "冥神近衛騎士",
+      "天賦 NL 山札を 1 枚選んで廃棄する。 そのカードのコストに等しい 筋力を得る。 NL このカードのコストを 1 上げる。"
     ]
   },
   "aigisMod:Trisha": {
-    "NAME": "Trisha",
-    "DESCRIPTION": "Apply !M! 2 Vulnerable to ALL enemies. NL Strike cards gain 2 more hits.",
-    "UPGRADE_DESCRIPTION": "Apply !M! 2 Vulnerable to ALL enemies. NL Strike cards gain 2 more hits and 1 more damage.",
+    "NAME": "トリシャ",
+    "DESCRIPTION": "敵全体に 弱体 !M! を与える。 NL ストライク の攻撃回数が 2 増加する。",
+    "UPGRADE_DESCRIPTION": "敵全体に 弱体 !M! を与える。 NL ストライク のダメージを 1 増加して攻撃回数が 2 増加する。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Black Dragon Mage",
-      "(cost 0) Apply !M! 2 Vulnerable to ALL enemies. NL Strike cards gain 2 more hits."
+      "帝国黒竜魔術士",
+      "敵全体に 弱体 !M! を与える。 NL ストライク の攻撃回数が 2 増加する。"
     ]
   },
   "aigisMod:Steffi": {
-    "NAME": "Steffi",
-    "DESCRIPTION": "Deal !D! 5 damage. NL You can add 1 Strike or Defend from draw pile to hand. NL On aigismod:Assassination : Strike cards deal 2 more damage.",
-    "UPGRADE_DESCRIPTION": "Deal !D! 8 damage. NL You can add 1 Strike or Defend from draw pile to hand. NL On aigismod:Assassination : Strike cards deal 2 more damage.",
+    "NAME": "シュテフィ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 山札のストライクか防御を 1 枚手札に加える。 NL aigismod:暗殺 時に ストライクのダメージが 2 増加する。 NL aigismod:暗殺",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 山札のストライクか防御を 1 枚手札に加える。 NL aigismod:暗殺 時に ストライクのダメージが 2 増加する。 NL aigismod:暗殺",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Intelligence Agent"
+      "帝国諜報兵"
     ]
   },
   "aigisMod:Heidemarie": {
-    "NAME": "Heidemarie",
-    "DESCRIPTION": "Deal !D! 13 splash damage. NL Strike cards gain !M! 1 more damage when you play a Defend (Killzone Make). NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! 15 splash damage. NL Strike cards gain !M! 2 more damage when you play a Defend. NL Exhaust",
+    "NAME": "ハイデマリー",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 防御をプレイした時に ストライクのダメージが !M! 増加する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 防御をプレイした時に ストライクのダメージが !M! 増加する。 (砲兵陣地構築) NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Artillery Soldier"
+      "帝国砲術士"
     ]
   },
   "aigisMod:Delia": {
-    "NAME": "Delia",
-    "DESCRIPTION": "Deal !D! 7 splash damage. NL If target enemy has a buff, draw 2 cards.",
-    "UPGRADE_DESCRIPTION": "Deal !D! 10 splash damage. NL If target enemy has a buff, draw 2 cards.",
+    "NAME": "デリア",
+    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 対象がバフを持つ場合は カードを 2 枚引く。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL 対象がバフを持つ場合は カードを 2 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Dragon Artillery Cavalry"
+      "帝国竜砲騎兵"
     ]
   },
   "aigisMod:Haruka2": {
-    "NAME": "Haruka",
-    "DESCRIPTION": "Scry !M! NL Add 1 Air Elemental to your draw pile.",
-    "UPGRADE_DESCRIPTION": "Scry !M! NL Add 1 Air Elemental to your draw pile.",
+    "NAME": "ハルカ",
+    "DESCRIPTION": "占術 !M! NL 風霊を 1 枚 山札 に加える。",
+    "UPGRADE_DESCRIPTION": "占術 !M! NL 風霊を 1 枚 山札 に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Wind Spirit User"
+      "帝国風霊使い"
     ]
   },
   "aigisMod:AirElemental": {
-    "NAME": "Air Elemental",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL Exhaust.",
+    "NAME": "風霊",
+    "DESCRIPTION": "敵全体に !D! ダメージを 2 回 与える。 NL 占術 !M! NL カードを 1 枚引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを 2 回 与える。 NL 占術 !M! NL カードを 1 枚引く。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Irvit": {
-    "NAME": "Irvit",
-    "DESCRIPTION": "Deal 8 !D! damage. NL Exhaust 1 card in hand.",
-    "UPGRADE_DESCRIPTION": "Deal 9 !D! damage to ALL enemies. NL Exhaust 1 card in hand.",
+    "NAME": "イルヴィ",
+    "DESCRIPTION": "!D! ダメージ を与える。 NL 手札を 1 枚 廃棄 する。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージ を与える。 NL 手札を 1 枚 廃棄 する。",
     "EXTENDED_DESCRIPTION" : [
-      "Progenitor's Bloodline"
+      "創道の血統"
     ]
   },
   "aigisMod:Fora": {
-    "NAME": "Fora",
-    "DESCRIPTION": "Add 1 Imperial Airship to hand. NL Gain 5 !B! Block. (aerial)",
-    "UPGRADE_DESCRIPTION": "Add 1 Imperial Airship to hand. NL Gain 10 !B! Block.",
+    "NAME": "フォーラ",
+    "DESCRIPTION": "帝国飛空艇 を 1 枚 手札に加える。 NL !B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": " 帝国飛空艇 を 1 枚 手札に加える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Air Sailor"
+      "帝国飛艦士"
     ]
   },
   "aigisMod:Parabel": {
-    "NAME": "Parabel",
-    "DESCRIPTION": "Deal 1 !D! damage 2 !M! times. NL If enemy has a Buff, add 4 more hits. NL Exhaust this and 1 other card in hand.",
-    "UPGRADE_DESCRIPTION": "Deal 1 !D! damage 4 !M! times. NL If enemy has a Buff, add 4 more hits. NL Exhaust this and 1 other card in hand.",
+    "NAME": "パラベル",
+    "DESCRIPTION": "!D! ダメージを !M! 回与える。 NL 対象がバフを持つ時は回数が 4 増加する。 NL このカードと手札 1 枚 を廃棄する。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを !M! 回与える。 NL 対象がバフを持つ時は回数が 4 増加する。 NL このカードと手札 1 枚 を廃棄する。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Gunslinger"
+      "帝国銃撃士"
     ]
   },
   "aigisMod:Jenny": {
-    "NAME": "Jenny",
-    "DESCRIPTION": "Whenever a Character card is Exhausted, remove the Strength buff from 1 random enemy.",
-    "UPGRADE_DESCRIPTION": "Whenever a Character card is Exhausted, remove the Strength buff from 1 random enemy. (cost 1)",
+    "NAME": "ジェニー",
+    "DESCRIPTION": "キャラカードを廃棄した時に ランダムな敵の 筋力 バフを取り除く。",
+    "UPGRADE_DESCRIPTION": "キャラカードを廃棄した時に ランダムな敵の 筋力 バフを取り除く。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Humanities Scholar"
+      "帝国人間学者"
     ]
   },
   "aigisMod:Heleus": {
-    "NAME": "Heleus",
-    "DESCRIPTION": "Exhaust 1 Character card from draw pile to add 1 Ghost of Icy Death to hand.",
-    "UPGRADE_DESCRIPTION": "Innate. Exhaust 1 Character card from draw pile to add 1 Ghost of Icy Death to hand.",
+    "NAME": "ヘリューズ",
+    "DESCRIPTION": "山札のキャラカードを 1 枚 廃棄 することで 死氷の亡霊を 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 山札のキャラカードを 1 枚 廃棄 することで 死氷の亡霊を 1 枚手札に加える。",
     "EXTENDED_DESCRIPTION" : [
-      "Demigod of Icy Death"
+      "死氷の亜神"
     ]
   },
   "aigisMod:IcyDeath": {
-    "NAME": "Ghost of Icy Death",
-    "DESCRIPTION": "Ethereal NL Gain !M! 2 aigismod:damage_aura. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Ethereal NL Gain !M! 4 aigismod:damage_aura. NL Exhaust",
+    "NAME": "死氷の亡霊",
+    "DESCRIPTION": "エセリアル NL aigismod:ダメージオーラ !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "エセリアル NL aigismod:ダメージオーラ !M! を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Muret": {
-    "NAME": "Muret",
-    "DESCRIPTION": "Enemy loses 12 HP. NL Scry 3 !M!. NL Draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Enemy loses 12 HP. NL Scry 5 !M!. NL Draw 1 card.",
+    "NAME": "ミュレ",
+    "DESCRIPTION": "12 HP を失わせる。 NL 占術 !M! NL カードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "12 HP を失わせる。 NL 占術 !M! NL カードを 1 枚引く。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Excavation Instructor",
-      "Enemy loses 12 HP. NL Scry 3 !M!. NL Draw 2 cards."
+      "帝国掘削教官",
+      "12 HP を失わせる。 NL 占術 !M! NL カードを 2 枚引く。"
     ]
   },
   "aigisMod:EmpireCastle": {
-    "NAME": "White Empire Castle",
-    "DESCRIPTION": "Whenever you play a Strike deal 10 !D! damage to ALL enemies. NL aigismod:Skill_charge: Increase this power by 6 !M! .",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Strike deal 12 !D! damage to ALL enemies. NL aigismod:Skill_charge: Increase this power by 10 !M! .",
+    "NAME": "白の帝国城",
+    "DESCRIPTION": "ストライクをプレイした時に 敵全体に !D! ダメージを与える。 NL aigismod:強化スキル : 保留するたびに 効果量が !M! 増加する。",
+    "UPGRADE_DESCRIPTION": "ストライクをプレイした時に 敵全体に !D! ダメージを与える。 NL aigismod:強化スキル : 保留するたびに 効果量が !M! 増加する。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]

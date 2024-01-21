@@ -87,7 +87,7 @@
   "aigisMod:VampireDeal": {
     "NAME": "始祖との取引",
     "DESCRIPTIONS": [
-      "あなたは強力なアンデッドと遭遇した。 NL 彼女はあなたの目的への協力を提案してきたが、その言葉を信用できない。",
+      "あなたは強力なアンデッドと遭遇した。 NL 彼女はあなたへの協力を提案してきたが、その言葉を信用できない。",
       "その取引を受け入れた。",
       "あなたは彼女の目的を理解した。",
       "提案を拒否し、旅を再開した。"
@@ -120,19 +120,19 @@
 
 
   "aigisMod:AigisMiracle": {
-    "NAME": "Aigis Miracle",
+    "NAME": "女神の奇跡",
     "DESCRIPTIONS": [
-      "You hear the voice of the Goddess Aigis. NL She asks you for what you need.",
-      "You feel an immense strength, but wonder how long your body will last.",
-      "An ally got summoned to help you.",
-      "You feel refreshed and motivated."
+      "女神アイギスの声が聞こえる。 NL 「人の子よ、必要なものを選ぶのです」",
+      "絶大な力を感じる。しかし体はもつのか…？",
+      "あなたを助けるために仲間が召喚された。",
+      "気分爽快！絶好調！"
     ],
     "OPTIONS": [
-      "[Power] #gTransform #gALL #gStrikes into #gMiracle #gStrikes. Gain the Aigis Statue.",
-      "[Support] #gAdd #ga #gCard to your deck.",
-      "[Endurance] #gMax #gHP #b+8",
-      "[LOCKED] You don't have Strikes.",
-      "[Leave]"
+      "[力] #gすべてのストライクをミラクルストライクに変更する。 アイギスの像を得る。",
+      "[援助] #gカードを3枚の中から1枚選んで手に入れる。",
+      "[体力] #g最大HP+8",
+      "[LOCKED] ストライクを持っていない。",
+      "[離れる]"
     ]
   }
 }
