@@ -1,0 +1,555 @@
+{
+        "aigisMod:CursedRitesPower": {
+                "NAME": "诅咒仪式",
+                "DESCRIPTIONS": ["你拥有此能力时无法回血。回合结束时移除 #b1 层。"]
+        },
+
+        "aigisMod:Geotoken": {
+                "NAME": "地脉",
+                "DESCRIPTIONS": ["回合结束时, 获得 #b" , " 点 临时生命。"]
+        },
+
+        "aigisMod:DamageAura": {
+                "NAME": "伤害光环",
+                "DESCRIPTIONS": ["回合结束时, 敌人受到 #b" , " 点伤害。"]
+        },
+
+        "aigisMod:Ninjutsu": {
+                "NAME": "忍术",
+                "DESCRIPTIONS": ["你的回合开始时，创造一张 #y手里剑 。 #y手里剑 获得 #b", " 点额外伤害和 #b", " 次额外伤害次数。"]
+        },
+
+        "aigisMod:AzamiNinjutsuPower": {
+                "NAME": "蓟忍术",
+                "DESCRIPTIONS": ["一名敌人死亡时，将 #b1 张手里剑加入手牌。"]
+        },
+
+        "aigisMod:CounterPower": {
+                "NAME": "反击",
+                "DESCRIPTIONS": ["敌人攻击时对其造成 #b", " 点伤害。 自己的回合开始时移除。"]
+        },
+
+        "aigisMod:LoseDamageAura": {
+                "NAME": "失去伤害光环",
+                "DESCRIPTIONS": ["回合开始时，失去 #r", " 层 伤害光环。"]
+        },
+
+        "aigisMod:Sluggish": {
+                "NAME": "减速",
+                "DESCRIPTIONS": ["回合结束时, 移除 #b1 层， 层数为0时移除 #y缓慢 。"]
+        },
+
+        "aigisMod:ArmorSmith": {
+                "NAME": "护甲匠人",
+                "DESCRIPTIONS": ["回合开始时，升级 #b", " 张手牌中的非英杰技能牌。"]
+        },
+
+        "aigisMod:SwordSmith": {
+                "NAME": "锻剑匠人",
+                "DESCRIPTIONS": ["回合开始时，升级 #b", " 张手牌中的非英杰攻击牌。"]
+        },
+
+        "aigisMod:RagingFlameFormation": {
+                "NAME": "烈火之阵",
+                "DESCRIPTIONS": ["每回合一次, 每打出 #b", " 张攻击牌, 获得 #b", "  [E] .", "你打出了 #b3 张攻击牌，本回合能力已激活。"]
+        },
+
+        "aigisMod:SteamGuardianPower": {
+                "NAME": "蒸汽守护者",
+                "DESCRIPTIONS": ["你被攻击时受到的伤害减少 #b", "% #y失去生命 和 #y荆棘 造成的伤害不会减少。"]
+        },
+
+        "aigisMod:SacrificePower": {
+                "NAME": "献祭",
+                "DESCRIPTIONS": ["当受到伤害与生命流失时，提升此能力的 #g治疗 。你的下回合开始时， #g治疗  #b", " 的一半并移除此能力。"]
+        },
+
+        "aigisMod:EliteAssaultCommand": {
+                "NAME": "精锐突击命令",
+                "DESCRIPTIONS": ["打出 #b", " 张牌时, 获得 #b", "  [E] 对所有敌人施加 #b", " 层 易伤 .", "打出 #b", " 张牌时, 获得 #b "]
+        },
+
+        "aigisMod:OutlawMaid": {
+                "NAME": "罪犯女仆",
+                "DESCRIPTIONS": ["打出 #b", " 张带有 #y暗杀 的牌时， 获得 #b", " 点 #y力量 。", "打出 #b", " 张带有 #y暗杀 的牌时, 获得 #b "]
+        },
+
+        "aigisMod:BloomPetal": {
+                "NAME": "开花阵",
+                "DESCRIPTIONS": ["在你的第 #b", "回合结束时，所有敌人受到 #b", "点伤害，获得 #b2  层 #y虚弱 和 #b2  层 #y易伤 ，然后移除此能力。",
+                                 "在你的下回合结束时，所有敌人受到 #b", " 点伤害，获得 #b2  层 #y虚弱 和 #b2  层 #y易伤 ，然后移除此能力。"]
+        },
+        "aigisMod:CalamityAverting": {
+                "NAME": "避祸预知",
+                "DESCRIPTIONS": ["死亡时，如果手牌中有避祸预知的镜影则免死并回复。"]
+        },
+        "aigisMod:ForgeEquipment": {
+                "NAME": "锻造装备",
+                "DESCRIPTIONS": ["每次打出技能牌时, 本回合内获得 #b", " 点 #y敏捷 。", " 每次打出攻击牌时，本回合内 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:SpeedCooking": {
+                "NAME": "快速烹饪",
+                "DESCRIPTIONS": ["回合开始时，获得 #b", "  点 #y力量 和 #b", "  点 #y敏捷 。"]
+        },
+        "aigisMod:NumbingPoisonPower": {
+                "NAME": "痹脉之毒",
+                "DESCRIPTIONS": ["#y手里剑 会给予目标怪物 #b", " 层 #y中毒 。"]
+        },
+        "aigisMod:AllTreasure": {
+                "NAME": "遍地宝物",
+                "DESCRIPTIONS": ["战斗结束时，移除以下 #y遗物 ： "]
+        },
+        "aigisMod:LightningSpeed": {
+                "NAME": "疾风迅雷",
+                "DESCRIPTIONS": ["每回合一次, 当你造成未被格挡伤害时， 获得 #b", " 点 #y力量 。", "此效果本回合已发动。"]
+        },
+        "aigisMod:PrincessMaid": {
+                "NAME": "皇家女仆",
+                "DESCRIPTIONS": ["回合开始时, 选择牌组中 #b", " 张公主牌。", "选择一张加入手牌。", "我的牌组中没有公主牌..."]
+        },
+        "aigisMod:EasternMaid": {
+                "NAME": "东国女仆",
+                "DESCRIPTIONS": ["回合开始时，选择手牌中 #b", " 张东国牌，他们本回合的耗能减 #b1 。"]
+        },
+        "aigisMod:Blitzkrieg": {
+                "NAME": "闪电战",
+                "DESCRIPTIONS": ["回合结束时，如果你没有剩余能量，你可以选择 #b", " 张帝国牌从手牌中打出。"]
+        },
+        "aigisMod:EightTrigrams": {
+                "NAME": "八卦阵",
+                "DESCRIPTIONS": ["打出打出 #b", " 张帝国牌时，获得 #b", " 点 #y敏捷 和 #b1 层无实体。", " 帝国牌, 获得 #b"]
+        },
+        "aigisMod:MarikaPower": {
+                "NAME": "居合斩",
+                "DESCRIPTIONS": ["击败敌人时，本回合 #b", " 张 #y帝国 牌耗能变为 #b0 。"]
+        },
+        "aigisMod:DemonReturnPower": {
+                "NAME": "魔神转生",
+                "DESCRIPTIONS": ["回合开始时, #b", " 张 #y帝国 牌本回合耗能变为 #b0 。此说明不应当出现..."]
+        },
+        "aigisMod:VictorySword": {
+                "NAME": "胜利之剑",
+                "DESCRIPTIONS": ["每回合一次，打出 #y帝国  牌时，抽 #b 张牌", "此效果本回合已发动。"]
+        },
+        "aigisMod:ImperialCooking": {
+                "NAME": "帝国式料理术",
+                "DESCRIPTIONS": ["打出 #b", " 张帝国牌时，获得 #b", " 点 #y敏捷 和 #b", " 点 #y力量 .", " #y帝国 牌，获得 #b"]
+        },
+        "aigisMod:ImperialInventor": {
+                "NAME": "帝国发明家",
+                "DESCRIPTIONS": ["回合开始时，升级手牌中 #b", " 张 #y帝国 牌。"]
+        },
+        "aigisMod:WhiteMajesty": {
+                "NAME": "白之威严",
+                "DESCRIPTIONS": ["每回合一次, 打出 #y帝国攻击 牌时, 本次战斗打击的伤害增加 #b", " 点。", "此效果本回合已发动。"]
+        },
+        "aigisMod:WhiteDevotion": {
+                "NAME": "白之献身",
+                "DESCRIPTIONS": ["回合结束时，如果有 #y手牌 , 可以消耗手牌中的 #b1 张牌并获得 #b1 层 #y人工制品 。", "你可以使用此效果 #b", " 次"]
+        },
+        "aigisMod:CallingYou": {
+                "NAME": "现世的呼唤",
+                "DESCRIPTIONS": ["回合开始时，你可以将 #b", " 张弃牌堆中的 #y帝国 牌从弃牌堆放入手牌。"]
+        },
+        "aigisMod:RangerTrap": {
+                "NAME": "游侠陷阱",
+                "DESCRIPTIONS": ["下一次受到 #y未被格挡 的战斗伤害时，对攻击者造成 #b", " 点伤害，然后移除此效果"]
+        },
+        "aigisMod:YataWing": {
+                "NAME": "八咫之翼",
+                "DESCRIPTIONS": ["每回合一次，打出 #y帝国 牌时，消耗 #b", " 张状态牌。", "你已经消耗过牌了。"]
+        },
+        "aigisMod:AerialSupremacy000": {
+                "NAME": "霸空的机关少女",
+                "DESCRIPTIONS": ["当生成 #y空中标记 时，将其升级。"]
+        },
+        "aigisMod:MakaiCooking": {
+                "NAME": "魔界式烹饪",
+                "DESCRIPTIONS": ["回合结束时，你可以消耗手牌中 #b1 张恶魔牌来获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:BarricadeInstallation": {
+                "NAME": "路障设置",
+                "DESCRIPTIONS": ["回合开始时, 你可以从 #y手牌 弃至多 #b", " 张牌，根据弃的数量将 #y路障 加入手牌。"]
+        },
+        "aigisMod:ExplosiveBarricade": {
+                "NAME": "爆炸路障准备！",
+                "DESCRIPTIONS": ["当你打出 #y路障 ， 对一名随机敌人造成 #b", " 点伤害。"]
+        },
+        "aigisMod:OtherworldCall": {
+                "NAME": "异界的呼唤",
+                "DESCRIPTIONS": ["回合结束时，你可以消耗 #y抽牌堆 中 #b", " 张 #y恶魔 牌。"]
+        },
+        "aigisMod:EnergyAthanorPower": {
+                "NAME": "活力炼金炉",
+                "DESCRIPTIONS": ["当你使用 #y药水 时，回复所有 [E] 并获得 #b", " 枚 #y金币 。"]
+        },
+        "aigisMod:AcidBomb000": {
+                "NAME": "强酸炸弹",
+                "DESCRIPTIONS": ["当你使用 #y药水 时, 对所有敌人造成 #b", " 点 #y伤害 。战斗结束时，获得1瓶药水。"]
+        },
+        "aigisMod:Stealth": {
+                "NAME": "隐秘",
+                "DESCRIPTIONS": ["当你打出技能牌时，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:Watchdog": {
+                "NAME": "看门狗",
+                "DESCRIPTIONS": ["当你打出 #y帝国 牌时，对一名随机敌人造成 #b", " 点伤害。"]
+        },
+        "aigisMod:AirElemental": {
+                "NAME": "风元素",
+                "DESCRIPTIONS": ["当你打出 #y技能牌 时，对此敌人造成 #b", " 点伤害。如果此敌人进行了攻击，回合结束时移除 #b1 层。"]
+        },
+        "aigisMod:CurseVoice": {
+                "NAME": "诅咒之声",
+                "DESCRIPTIONS": ["无效敌人获得的下 #b", " 个增益。"]
+        },
+        "aigisMod:MikoInspiration": {
+                "NAME": "战巫女的激励",
+                "DESCRIPTIONS": ["当诅咒牌被 #y消耗 时,获得 #b", " 点 #y格挡 和 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:Burn": {
+                "NAME": "灼伤",
+                "DESCRIPTIONS": ["回合结束时, 如果敌人意图为攻击,则其受到 #b", " 点 #y伤害 . 灼伤的层数在回合开始时减少。"]
+        },
+        "aigisMod:Golemology": {
+                "NAME": "魔像学",
+                "DESCRIPTIONS": ["魔像部件获得 #b", " 点 #y伤害 和 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:GolemTactics": {
+                "NAME": "魔像战术",
+                "DESCRIPTIONS": ["下 #b"," 個回合开始时,将 #b1 张魔像部件加入手牌。","下回合开始时,将 #b1 张魔像部件加入手牌。"]
+        },
+        "aigisMod:SealTalisman": {
+                "NAME": "退魔守护灵符",
+                "DESCRIPTIONS": ["敌人意图为攻击时，其失去 #b1  点 #y力量。回合开始时，退魔守护灵符层数减少 #y1 层。"]
+        },
+        "aigisMod:CursedWhirlwind": {
+                "NAME": "咒爪旋风",
+                "DESCRIPTIONS": ["当诅咒牌被 #y消耗 时，所有敌人失去 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:CursedClaws": {
+                "NAME": "大厄咒爪",
+                "DESCRIPTIONS": ["当诅咒牌被 #y消耗 时，所有敌人失去当前生命值的 #b", " %。"]
+        },
+        "aigisMod:DevilishRejection": {
+                "NAME": "魔性禁入",
+                "DESCRIPTIONS": ["当你抽到诅咒牌或状态牌时，再抽 #b1 张牌并获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:DragonFortune": {
+                "NAME": "龙之运势",
+                "DESCRIPTIONS": ["你的回合结束时，你的主牌组中每有一张 #y诅咒 牌，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:DragonWrath": {
+                "NAME": "古代龙的逆鳞",
+                "DESCRIPTIONS": ["你的回合结束时，敌人每有一层 #y负面效果 ，便失去 #b", " 点 #y生命 。"]
+        },
+        "aigisMod:FlameExorcism": {
+                "NAME": "破魔之炎",
+                "DESCRIPTIONS": ["回合结束时，你的主牌组中每有一张 #y诅咒，敌人失去 #b", " 点 #y生命 。"]
+        },
+        "aigisMod:CarryingProvisions": {
+                "NAME": "便携补给",
+                "DESCRIPTIONS": ["当你打出 #y弓箭手 牌时，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:HermitSanctuary": {
+                "NAME": "隐士的圣域",
+                "DESCRIPTIONS": ["当你打出生命之树时，获得 #b1 层 #y无实体 并移除 #b1 #y层 此能力。"]
+        },
+        "aigisMod:VampireBite": {
+                "NAME": "吸血鬼噬咬",
+                "DESCRIPTIONS": ["达到 #b", " 层时，移除此能力并击晕该敌人，敌人获得 #b1 层 #y击晕抗性 。回合结束时，吸血鬼噬咬层数减少 #b6 层  。"]
+        },
+        "aigisMod:CorpseMarionette": {
+                "NAME": "操尸人",
+                "DESCRIPTIONS": ["当你受到 #y未被格挡 的伤害时, 减少此能力的 #y层数 。回合开始时，如果层数为 #b0 , 击晕所有敌人并移除此能力。"]
+        },
+        "aigisMod:SpookyPhenomenon": {
+                "NAME": "惊吓现象",
+                "DESCRIPTIONS": ["回合结束时，可以消耗 #b1 张角色牌，对所有敌人施加 #b1 层 #y虚弱 并减少此能力 #b1 层。", "层数为 #b0 时移除此能力。"]
+        },
+        "aigisMod:ClearAndSerene": {
+                "NAME": "明镜止水",
+                "DESCRIPTIONS": ["对敌人施加 #y负面效果 时，获得 #b", " 层 #y活力 。"]
+        },
+        "aigisMod:StunResistance": {
+                "NAME": "击晕抗性",
+                "DESCRIPTIONS": ["无效下 #b", " 次受到的击晕。"]
+        },
+
+
+        "aigisMod:MeteorTactics": {
+                "NAME": "天落岩之计",
+                "DESCRIPTIONS": ["#y流星充能球 获得 #b", " 点伤害。 流星充能球攻击所有敌人。"]
+        },
+
+        "aigisMod:MultiPlosion": {
+                "NAME": "多重爆炸",
+                "DESCRIPTIONS": ["在你的回合开始时，触发你最右侧的充能球 #y被动 #b", " 次。"]
+        },
+
+        "aigisMod:Inferno": {
+                "NAME": "狱炎",
+                "DESCRIPTIONS": [" #y流星充能球 命中敌人时，施加 #b", " 层 #y灼热 。"]
+        },
+
+        "aigisMod:HuntingTime": {
+                "NAME": "狩猎时间",
+                "DESCRIPTIONS": ["击败敌人时，获得 #b", " 点 #y格挡 并且获得 #b1 层 #y人工制品 。"]
+        },
+
+        "aigisMod:MagicShells": {
+                "NAME": "魔炮弹",
+                "DESCRIPTIONS": ["当你打出 #b", " 张 #y技能 牌时， #y生成  #b1 颗 #y流星充能球 。"]
+        },
+
+        "aigisMod:ManaControl": {
+                "NAME": "玛娜掌控",
+                "DESCRIPTIONS": ["#y流星充能球 本回合获得 #b", " 点伤害。"]
+        },
+
+        "aigisMod:LifelinkPower": {
+                "NAME": "生命连接",
+                "DESCRIPTIONS": ["此敌人根据你完全 #y格挡 的伤害 失去 #y生命 。 当你打出耗能为 #b1 以上的攻击牌时，层数减少 #b1 。"]
+        },
+
+        "aigisMod:DineGainBlockPower": {
+                "NAME": "回合结束格挡",
+                "DESCRIPTIONS": ["回合结束时获得 #b", " 点 #y格挡 。"]
+        },
+
+        "aigisMod:MechaForm": {
+                "NAME": "铠甲模式",
+                "DESCRIPTIONS": ["在 #b", " 回合后", " 回合", ", #y击晕 一名随机敌人并且获得", " #y敏捷 和 #y残影 。"]
+        },
+
+        "aigisMod:BladeOfPursuitPower": {
+                "NAME": "追击的镰状剑",
+                "DESCRIPTIONS": ["下 #b", " 回合，耗能为 #b0 的 #y攻击 牌打出2次。"]
+        },
+
+        "aigisMod:FlameMirage": {
+                "NAME": "影炎的海市蜃楼",
+                "DESCRIPTIONS": ["当卡牌被消耗时，获得 #b1 层 #y残影 。在回合结束时, 如果拥有 #y残影 对一名随机敌人造成 #b", " 点伤害。"]
+        },
+
+        "aigisMod:ExterminationProgram": {
+                "NAME": "人类灭绝程序",
+                "DESCRIPTIONS": ["你每打出一张 #y技能 牌，此敌人受到 #b", " 点伤害。"]
+        },
+
+        "aigisMod:SpiritBoost": {
+                "NAME": "精神强化",
+                "DESCRIPTIONS": ["如果你 #y打出 一张 #y攻击 牌，失去 #y所有能量 。"]
+        },
+
+        "aigisMod:AnnihilationProgram": {
+                "NAME": "灭杀构造",
+                "DESCRIPTIONS": ["每当有人获得 #y格挡 ，受到 #b", " 伤害。"]
+        },
+
+        "aigisMod:LightweightPower": {
+                "NAME": "定制【轻量化】",
+                "DESCRIPTIONS": ["在回合结束时，失去 #b1 点 #敏捷 ，获得 #b", " 层 #y残影 。"]
+        },
+
+        "aigisMod:TigerHide": {
+                "NAME": "狐假虎威",
+                "DESCRIPTIONS": ["当你获得 #y残影 时，对所有敌人造成 #b", " 点 #y伤害 并且抽 #b1 张牌。"]
+        },
+
+        "aigisMod:FlameBurstPower": {
+                "NAME": "大炎上",
+                "DESCRIPTIONS": ["当你获得 #y残影 时， 获得 #b", " 点 #y力量 。"]
+        },
+
+        "aigisMod:AngelMaid": {
+                "NAME": "天使女仆",
+                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y解放牌 从你的牌库加入手牌。", "选择一张牌加入手牌。", "我的抽牌堆中没有解放牌..."]
+        },
+
+        "aigisMod:EndOfTurnHeal": {
+                "NAME": "回合结束治疗",
+                "DESCRIPTIONS": ["回合结束时，回复 #b", " 点生命。"]
+        },
+
+        "aigisMod:DivineStaffDagda": {
+                "NAME": "达格达的神杖",
+                "DESCRIPTIONS": ["回复生命时，获得 #b", " 点 #y力量 和 #b", " 点 #y格挡 。"]
+        },
+
+        "aigisMod:ImperialSmith": {
+                "NAME": "帝国锻造师",
+                "DESCRIPTIONS": ["打出 #y打击 牌时,本次战斗打击的伤害增加 #b", " 点。"]
+        },
+        "aigisMod:OverclockPower": {
+                "NAME": "超频",
+                "DESCRIPTIONS": ["你的下一张 #y帝国 牌将被打出两次。"]
+        },
+        "aigisMod:CommanderInspiration": {
+                "NAME": "教导队长的鼓舞",
+                "DESCRIPTIONS": ["每回合一次,打出 #y打击/防御 牌时, 获得 #b", " [E] 。", "此效果本回合已发动。"]
+        },
+
+
+
+        "aigisMod:MorningStar": {
+                "NAME": "明星",
+                "DESCRIPTIONS": ["本回合当你打出一张牌时，获得 #b", " 层 #y伤害光环 和 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:RivenEnemyPower": {
+                "NAME": "始祖之血",
+                "DESCRIPTIONS": ["当 #y变幻自在的幻影 存活时不会受到伤害。当攻击时，最大HP减少 #b"]
+        },
+        "aigisMod:LukiferEnemyPower": {
+                "NAME": "黎明之翼",
+                "DESCRIPTIONS": ["下 #b", " 次，该敌人死亡时，下个行动变为复活。每次复活时，获得 #b1 点 #y力量 。"]
+        },
+        "aigisMod:NinpouBodySplit": {
+                "NAME": "忍术：雏分身之术",
+                "DESCRIPTIONS": ["本回合每当你打出一张 #y手里剑 ，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:SalveOfStrength": {
+                "NAME": "怪力的软膏",
+                "DESCRIPTIONS": ["本回合每当你打出一张 #y手里剑 ，获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:KibaninFrenzy": {
+                "NAME": "鬼刃大车轮",
+                "DESCRIPTIONS": ["下 #b", " 回合，每当你打出一张 #y角色 牌将 #b1 张 #y手里剑 牌加入手牌。"]
+        },
+        "aigisMod:SecretPill": {
+                "NAME": "秘传的丸药",
+                "DESCRIPTIONS": ["当该敌人被 #y手里剑 牌攻击时 ，获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:GoodLuckPrank": {
+                "NAME": "招福的恶作剧",
+                "DESCRIPTIONS": ["胜利时，获得 #b", " #y金币。 回合开始时，获得 #y金币 减少 #r", "。"]
+        },
+        "aigisMod:UmbrellaAttraction": {
+                "NAME": "招揽客人的狸猫转伞",
+                "DESCRIPTIONS": ["回合开始时，你可以选择至多 #b", " 张在弃牌堆的 #y东国 牌 将其放到抽牌堆底部，并获得 [E] 如果你至少放了一张牌。"]
+        },
+        "aigisMod:HighMoon": {
+                "NAME": "明月高悬的夜行妖怪",
+                "DESCRIPTIONS": ["你打出的下 #b", " 张消耗为 4 的牌，回复所有的能量。"]
+        },
+        "aigisMod:NightParade": {
+                "NAME": "千鬼夜行",
+                "DESCRIPTIONS": ["本回合每次你打出 #y东国 或 #y手里剑 牌时，所有敌人失去 #b", " 点 #y生命 。"]
+        },
+
+
+
+
+
+        "aigisMod:WaterPressure": {
+                "NAME": "水压",
+                "DESCRIPTIONS": ["回合结束时失去 #b", " 点 #y生命， 或者所有 #y生命，如果拥有 #b7 层以上，boss除外。"]
+        },
+        "aigisMod:DrownedEnemy": {
+                "NAME": "淹没",
+                "DESCRIPTIONS": ["回合开始时，失去 #b", " 点 #y生命 。"]
+        },
+        "aigisMod:HellbeastTraining": {
+                "NAME": "魔兽调教",
+                "DESCRIPTIONS": ["#y魔兽刻耳柏洛斯耗能变为 #b0 并且增加 #b", " 点伤害。"]
+        },
+        "aigisMod:BoostBeast": {
+                "NAME": "野兽增速",
+                "DESCRIPTIONS": ["当你打出 #y魔兽刻耳柏洛斯 时，获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:FullPowerYell": {
+                "NAME": "全力应援!",
+                "DESCRIPTIONS": ["当你打出 #y魔兽刻耳柏洛斯 时，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:GreatWhirlpool": {
+                "NAME": "大涡的波动",
+                "DESCRIPTIONS": ["回合结束时，你每有一层 #y水压 ，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:SpinningSlash": {
+                "NAME": "回旋斩",
+                "DESCRIPTIONS": ["当你 #y消耗 牌时，这个敌人受到 #b", " 点 #y伤害 。"]
+        },
+        "aigisMod:FierceSeas": {
+                "NAME": "波涛汹涌之海的象征",
+                "DESCRIPTIONS": ["当你获得 #y水压 时， 获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:DragonPalaceDance": {
+                "NAME": "龙宫之舞",
+                "DESCRIPTIONS": ["你不会受到来自 #y水压 的伤害。 当你获得 #y水压 时, 对所有敌人施加 #b", " 层 #y虚弱 。"]
+        },
+        "aigisMod:AerialSupremacy": {
+                "NAME": "霸空的机关少女",
+                "DESCRIPTIONS": ["本回合阻止下1次受到的来自你自己的伤害。 ", "本回合阻止下 #b", " 次受到的来自你自己的 #y伤害 。"]
+        },
+        "aigisMod:StormArrow": {
+                "NAME": "风暴之矢",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，对所有敌人造成 #b", " 点 #y伤害 。"]
+        },
+        "aigisMod:Aerobatics": {
+                "NAME": "曲技飞行",
+                "DESCRIPTIONS": ["阻止下1次受到的 #b", " 或以下的伤害。"]
+        },
+        "aigisMod:WarshipArtillery": {
+                "NAME": "大舰巨炮",
+                "DESCRIPTIONS": ["当你打出 #y水兵 或 #y深海 牌时，对所有敌人造成 #b", " 点 #y伤害 。"]
+        },
+        "aigisMod:TailwindPrayer": {
+                "NAME": "顺风的祈祷",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，获得 #b", " 点 #y临时生命 。"]
+        },
+        "aigisMod:HeavenlyAirspace": {
+                "NAME": "天惠空域",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，对随机敌人施加 #b", " 层 #y易伤，并且移除你的所有 #y虚弱 和 #y易伤 。"]
+        },
+        "aigisMod:Eureka": {
+                "NAME": "尤里卡!",
+                "DESCRIPTIONS": ["在回合开始时，随机将 #b", " #y魔兽刻耳柏洛斯 、 #y水压 或 #y空中标记 加入手牌。"]
+        },
+        "aigisMod:DevouringGreatwolf": {
+                "NAME": "噬天的大狼",
+                "DESCRIPTIONS": ["#y魔兽刻耳柏洛斯 额外造成 #b", " 点伤害。 回合开始时，此伤害提升 #b", " 点。"]
+        },
+        "aigisMod:SuppressiveRounds": {
+                "NAME": "镇压用散弹",
+                "DESCRIPTIONS": ["在回合开始时，获得 #b", " 层 #y活力 。"]
+        },
+        "aigisMod:ChaosDominance": {
+                "NAME": "混沌支配",
+                "DESCRIPTIONS": ["在回合开始时，将 #b", " 张 #y混沌元素 加入手牌。"]
+        },
+        "aigisMod:MiracleDiet": {
+                "NAME": "奇迹节食",
+                "DESCRIPTIONS": ["在回合结束时，失去 #b", " 点 #y生命 。"]
+        },
+        "aigisMod:AcidBomb": {
+                "NAME": "强酸炸弹",
+                "DESCRIPTIONS": ["当你使用1瓶 #y药水时， 对 #y所有人 造成 #b", " 点 #y伤害 。"]
+        },
+        "aigisMod:ElixirSpray": {
+                "NAME": "长生不老药散布",
+                "DESCRIPTIONS": ["胜利时，获得随机 #y药水 。 每场战斗一次。"]
+        },
+        "aigisMod:PreciousMetals": {
+                "NAME": "贵金属炼成",
+                "DESCRIPTIONS": ["在回合开始时， 收到 #b", " 点伤害。胜利时，获得 #b", " 枚 #y金币 。"]
+        },
+        "aigisMod:InmortalFeast": {
+                "NAME": "不死者的飨宴",
+                "DESCRIPTIONS": ["每当你消耗 #y不死族 或 #y诅咒 时，获得 #b", " 点 #y力量 。"]
+        },
+        "aigisMod:CursedShadows": {
+                "NAME": "咒影的大结界",
+                "DESCRIPTIONS": ["额外受到 #b", " 点来自 #y攻击牌 的伤害。 在回合结束时，获得 #b", " 点 #y格挡 。"]
+        },
+
+
+
+        "aigisMod:Strength ForTheTurnPower": {
+                "NAME": "回合内力量",
+                "DESCRIPTIONS": ["本回合，提升攻击 #y伤害 #b", " 点。本回合，降低攻击 #y伤害 #b", "点。"]
+        },
+        "aigisMod:DexterityForTheTurnPower": {
+                "NAME": "回合内敏捷",
+                "DESCRIPTIONS": ["本回合，提升 #y格挡 获得 #b", "点。本回合，降低 #y格挡 获得 #b", " 点。"]
+        }
+}

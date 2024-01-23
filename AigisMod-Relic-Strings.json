@@ -1,0 +1,589 @@
+{
+  "aigisMod:PosterInvitation": {
+    "NAME": "看板娘的劝诱",
+    "FLAVOR": "茱诺：我家的生意还不错吧？毕竟有这么可爱的我在这呢!",
+    "DESCRIPTIONS": [
+      "添加 #b1 张已升级的茱诺到牌组中 。在普通和精英战斗中额外获得一张 #y卡牌奖励 ，但只包含普通卡牌。"
+    ]
+  },
+  "aigisMod:HappyWishes": {
+    "NAME": "恭贺的微笑",
+    "FLAVOR": "罗洁特: 我为了亡国而挥舞着我的剑",
+    "DESCRIPTIONS": [
+      "升级你牌组中的 #b1  张 #y罗洁特 或者将 #b1  张已升级的 #y罗洁特 加入牌组。当你将普通卡牌加入卡组时 #y升级 它。"
+    ]
+  },
+  "aigisMod:Ate": {
+    "NAME": "吞食",
+    "FLAVOR": "鬼忍姬: 惹恼鬼可是很恐怖的哦，所以不要摸我的头啊！",
+    "DESCRIPTIONS": [
+      "当你抽到一张原始耗能为 #b4 的卡牌时获得 [E] 。"
+    ]
+  },
+  "aigisMod:DarkGuild": {
+    "NAME": "暗之公会的女仆",
+    "FLAVOR": "艾琳：照顾起居、暗杀、间谍，您可以随意吩咐。",
+    "DESCRIPTIONS": [
+      "当 #y暗杀 触发时抽 #b1 张卡，获得 #y8 金币 (每场战斗只会获得一次金币)。"
+    ]
+  },
+  "aigisMod:MagicAcceleration": {
+    "NAME": "魔导加速之理",
+    "FLAVOR": "托娃：这就是时间支配者的力量。",
+    "DESCRIPTIONS": [
+      " #y减速 不会移除 #y缓慢 。",
+      " 当你打出一张 #y魔女 牌时，抽一张牌。"
+    ]
+  },
+  "aigisMod:WhiteWitch": {
+    "NAME": "白之魔女的智慧",
+    "FLAVOR": "贝琳达：妈妈太爱管闲事了，我一个人能做到的。",
+    "DESCRIPTIONS": [
+      "战斗开始时敌人拥有 #b1 #y减速 (临时 #y缓慢 )。",
+      "一回合内使用 #b2 张 #y魔女 牌后，对所有敌人造成 #b3 点伤害。"
+    ]
+  },
+  "aigisMod:HealingTreasure": {
+    "NAME": "治愈的秘宝",
+    "FLAVOR": "莉安娜： 虽然我能治愈伤痛，但我更想治愈人心。",
+    "DESCRIPTIONS": [
+      "当回复 #g生命 时随机消耗 #y手牌 、 #y抽牌堆 或 #y弃牌堆 中的 #b1 张 #y状态 牌。"
+    ]
+  },
+  "aigisMod:DarknessAura": {
+    "NAME": "暗黑波动",
+    "FLAVOR": "暗黑骑士：我早已舍弃这条性命，你当我是弃子用也无妨.....",
+    "DESCRIPTIONS": [
+      "每场战斗开始时将 #y暗黑骑士 放入手牌。",
+      "如果你在回合中没有打出任何 #b攻击 牌，对所有敌人施加 #b1 层 #y虚弱 并获得 #b8 点 #y格挡 。"
+    ]
+  },
+  "aigisMod:AegisTreasure": {
+    "NAME": "神器的继承者",
+    "FLAVOR": "安娜：这就是埃癸斯大人曾经使用过的武具。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时获得 #b1 点 #y敏捷 。将 #b1 张埃癸斯的神器加入卡组。",
+      "当你打出 #y技能 牌时获得 #b1 层 #y反击 。"
+    ]
+  },
+  "aigisMod:GodSlaying": {
+    "NAME": "神杀的英雄",
+    "FLAVOR": "战胜科俄斯的英雄啊，让我赠予你这个神器。",
+    "DESCRIPTIONS": [
+      "将 #b1 张科俄斯的神器加入卡组。",
+      "你的回合结束时，如果你没有剩余 [E] 对所有敌人造成 #b5 点伤害。"
+    ]
+  },
+  "aigisMod:HeroKing": {
+    "NAME": "英雄王的继承者",
+    "FLAVOR": "施比拉：每个人都在等待王子的命令，新的英雄王的命令。",
+    "DESCRIPTIONS": [
+      "将 #b1 张救世之剑加入牌组。",
+      "回合结束时，如果你手中没有卡牌获得 #b1 #y力量 和 #b1 #y敏捷 。"
+    ]
+  },
+  "aigisMod:Fortress": {
+    "NAME": "固若金汤的要塞",
+    "FLAVOR": "路易丝: 纵使国家已经不在，但我依然会为了还活着的人民而战。.",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时获得 #b2 点 #y敏捷 。每回合开始时 #y随机 增加一张卡牌的 #y耗能 #b1 点直到回合结束。"
+    ]
+  },
+  "aigisMod:RoyalHighness": {
+    "NAME": "公主殿下",
+    "FLAVOR": "施比拉：如果我和王子一起建立国家...…你不觉得会很棒吗？",
+    "DESCRIPTIONS": [
+      "每回合一次，当你抽到或者打出 #y公主 牌时，本回合内获得 #b1 #y力量 和 #b1 #y敏捷 。"
+    ]
+  },
+  "aigisMod:FidelityHarmony": {
+    "NAME": "和之信义",
+    "FLAVOR": "辉夜：虽然我们是政治婚姻……但我很庆幸丈夫是你。",
+    "DESCRIPTIONS": [
+      "将一张 #y辉夜 或者 #y日影 (如果你拥有辉夜)加入卡组。 你每打出 #b5 张 #y东国 或者 #y手里剑 获得 [E] 。战斗结束时重置此计数。"
+    ]
+  },
+  "aigisMod:HardFlame": {
+    "NAME": "魔神的药丸【刚炎】",
+    "FLAVOR": "刹那: 鬼刃众的一员，刹那参上！怎样？很帅气吧？",
+    "DESCRIPTIONS": [
+      " #y手里剑 卡牌额外造成 #b3 点伤害。 你可以 #y右击 此遗物失去 #b10 #y生命 (无实体不会减少此伤害) 并且将 #b1 张 #y刹那 加入你的 #y手牌。 每场战斗仅限一次。"
+    ]
+  },
+  "aigisMod:HeroCrystal": {
+    "NAME": "英杰水晶",
+    "FLAVOR": "索拉斯: 我会给你'英杰水晶'作为征服高塔的奖励。",
+    "DESCRIPTIONS": [
+      "赢得战斗之后获得 #b1 点。 ",
+      " 在地图界面（篝火，战斗，商店页面之外）， #y右击 此遗物并且花费 #b200 金币和 #b5 点来获得一张 #y罕见英杰卡牌 。添加相同卡牌时改为升级此卡牌。",
+      "我现在不能使用...",
+      "选择一张英杰牌加入你的卡组。"
+    ]
+  },
+  "aigisMod:DescendantHero": {
+    "NAME": "英雄的后裔",
+    "FLAVOR": "...",
+    "DESCRIPTIONS": [
+      "每场战斗的第一回合额外抽一张卡。 NL 每赢得 #b4 场战斗添加一个永久效果，最多有 #b4 种效果。",
+      " NL #y1. 第一回合之后，每回合额外抽一张牌。",
+      " NL #y2. 每场战斗第一回合获得 [E] 。",
+      " NL #y3. 第一个效果翻倍。",
+      " NL #y4. 第二回合获得 [E] 。"
+    ]
+  },
+
+
+  "aigisMod:EmpireHero": {
+    "NAME": "帝国的英雄",
+    "FLAVOR": "给予帝国最强之人的称号。",
+    "DESCRIPTIONS": [
+      "#y打击 造成 #y真实伤害 。 NL 每赢得 #b5 场战斗添加一个永久效果，最多有 #b3 种效果。",
+      " NL #y1 。 #y打击 和 #y防御 额外获得 #b2  点伤害/格挡。",
+      " NL #y2 。 当你打出攻击牌时移除你的 #y虚弱 。",
+      " NL #y3 。 当你打出技能牌时移除你的 #y易伤 。"
+    ]
+  },
+
+  "aigisMod:ImperialTactics": {
+    "NAME": "帝国元帅",
+    "FLAVOR": "被誉为不败的智囊的白之帝国首席军师",
+    "DESCRIPTIONS": [
+      "当你打出 #y蕾欧娜 或 #y蕾欧拉 时，获得 [E] ",
+      " NL 当你打出 #y防御 时获得 #b3 层反击。"
+    ]
+  },
+  "aigisMod:ImperialKnight": {
+    "NAME": "帝国骑士护卫队",
+    "FLAVOR": "我叫鲁克斯。是白之帝国享誉盛名的骑士。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，将 #b1 张 #y帝国骑士鲁克斯 置入手牌。",
+      " NL 当你抽到 #y帝国骑士 时，回合结束前获得 #b1 点 #y力量 。"
+    ]
+  },
+  "aigisMod:DemonicTerritory": {
+    "NAME": "恶魔领域",
+    "FLAVOR": "拉碧丝：我会把力量借给你的...感谢我吧。",
+    "DESCRIPTIONS": [
+      "每场战斗的前 #b5 回合，获得 #b1  层伤害光环。",
+      " NL 每回合结束时，如果你本回合中打出过 #y恶魔 能力牌，获得伤害光环点数的格挡。"
+    ]
+  },
+  "aigisMod:ImperialAgent": {
+    "NAME": "帝国暗部",
+    "FLAVOR": "维克托：没错，我就是曾经让帝国闻风丧胆的大恶人。",
+    "DESCRIPTIONS": [
+      "当一名敌人被 #y击败 时, 对所有敌人施加 #b2 #y虚弱 和 #b2 #y易伤 。"
+    ]
+  },
+  "aigisMod:WhiteDragon": {
+    "NAME": "白龙的布阵",
+    "FLAVOR": "萨贝因：这和种族与国家无关。因为我们的心都向着同一个未来。",
+    "DESCRIPTIONS": [
+      "每场战斗 #y3 次：在一回合内同时打出 #y帝国 和 #y恶魔 牌时获得 [E] 。"
+    ]
+  },
+  "aigisMod:ImperialSniper": {
+    "NAME": "帝国狙击兵",
+    "FLAVOR": "拉尔夫凭借其速射的非凡能力成为了狙击兵部队的队长。.",
+    "DESCRIPTIONS": [
+      "在 #yBoss 或是 #y精英 战斗中，如果你击败了任何敌人获得 [E] 和 #b2 点 #y力量 。"
+    ]
+  },
+  "aigisMod:ImperialDeploy": {
+    "NAME": "帝国应急布阵",
+    "FLAVOR": "白之皇帝：我们取得了无数的胜利。",
+    "DESCRIPTIONS": [
+      "如果你的回合中只使用了 #y帝国 牌，下一回合获得 [E] 。",
+      " NL 每场战斗开始时将 #y帝国飞空艇 加入手牌。"
+    ]
+  },
+  "aigisMod:ImperialInfantry": {
+    "NAME": "帝国重装步兵",
+    "FLAVOR": "德怀特：我的忠诚不会改变，所以我不会脱下这身铠甲。",
+    "DESCRIPTIONS": [
+      " #y防御 额外获得 #b1 点格挡。",
+      " NL 你每打出 #b8 张 #y帝国 牌，获得 #b4 点格挡。"
+    ]
+  },
+  "aigisMod:DemonCommand": {
+    "NAME": "魔神团长的号令",
+    "FLAVOR": "梅菲斯特：用武力解决一切是蛮族的思维。让我见识下你的智慧吧。",
+    "DESCRIPTIONS": [
+      "每场战斗一次， #y右击 此遗物， #y消耗 手牌中的 #b1 张卡。",
+      " NL 如果你通过此遗物消耗了 #y恶魔 卡牌，获得 #b1 点 #y力量 。"
+    ]
+  },
+  "aigisMod:AdamasChosen": {
+    "NAME": "阿达玛斯的神选",
+    "FLAVOR": "白之皇帝：这不仅是为了地位与荣誉，更是为了保护我所珍爱的人。",
+    "DESCRIPTIONS": [
+      " #y打击 和 #y防御 的消耗变为 #b0 。"
+    ]
+  },
+  "aigisMod:AerialFight00": {
+    "NAME": "空域战斗",
+    "FLAVOR": "凯特丽姬：比天更高，比风更快！在天空飞行的我帅呆了！",
+    "DESCRIPTIONS": [
+      "每回合 #y2 次,当你的 #y抽牌堆 中有卡时, 你抽到 #y空中标记 时抽 #b1 张卡。"
+    ]
+  },
+  "aigisMod:MagnumOpus": {
+    "NAME": "宏伟巨作",
+    "FLAVOR": "赫尔敏：别看我这样，我可是白之帝国公认的炼金术师喔。",
+    "DESCRIPTIONS": [
+      "获得 #b1 药水栏位。 当你使用 #y药水 时， #y升级 你手牌中的所有 #y普通 和 #y罕见 牌，直到本场 #y战斗 结束。"
+    ]
+  },
+  "aigisMod:EmperorAwakening": {
+    "NAME": "皇帝觉醒",
+    "FLAVOR": "白之皇帝： 不，生活在帝国就意味着不断地取胜。",
+    "DESCRIPTIONS": [
+      "在与 #y精英 和 #yBoss 战斗时，获得 #b3 点 #y力量 和 #b3 点 #y敏捷 。"
+    ]
+  },
+  "aigisMod:DemonicRelease": {
+    "NAME": "魔之解放",
+    "FLAVOR": "莉莉: 谢谢你解放了真正的我。",
+    "DESCRIPTIONS": [
+      "每回合第一张 #y打击 的伤害翻倍。",
+      "每回合一次: 当你打出 #y打击 或 #y防御 时，可以选择 #y消耗 抽牌堆中 #b1 张 #y恶魔牌 。"
+    ]
+  },
+  "aigisMod:CallHelp": {
+    "NAME": "呼叫援助",
+    "FLAVOR": "托托诺: 唉... 钱根本不够啊。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时获得 [E] 。将 #b1 张被伏击的商队加入牌组。"
+    ]
+  },
+  "aigisMod:CursedBoundary": {
+    "NAME": "咒界",
+    "FLAVOR": "卡塔拉:我所拥有的力量不过是家族传承下来的『破灭之力』的碎片罢了",
+    "DESCRIPTIONS": [
+      "如果你拾起这个遗物时牌组中有诅咒牌，将 #b1 张 #y已升级 的 #y卡塔拉 加入牌组。",
+      "每回合一次， #y右击 此遗物来弃置手中的 #b1 张诅咒牌，并对所有敌人造成 #y5 点伤害。",
+      "我的手牌中没有任何诅咒牌..."
+    ]
+  },
+  "aigisMod:OldClergyman": {
+    "NAME": "老神父",
+    "FLAVOR": "文森特：当我某天工作完回到家时，我的妻子和女儿被吸血鬼袭击了。",
+    "DESCRIPTIONS": [
+      "每场战斗一次,  #y右击 消耗你手牌中的 #b1 张卡。如果是 #y不死族 牌，根据其费用获得 [E] 。"
+    ]
+  },
+  "aigisMod:DeathCurse": {
+    "NAME": "死亡诅咒",
+    "FLAVOR": "密特拉: 被称作“诅咒”的能力是把双刃剑，不正确使用的话会夺走自己的生命。",
+    "DESCRIPTIONS": [
+      "如果你的 #y主卡组 中有 #b3 张或更多 #y诅咒 ，回合结束时打败所有生命低于最大生命值 #b10% 的拥有 #y虚弱 的敌人。"
+    ]
+  },
+  "aigisMod:TenguBlaze": {
+    "NAME": "天狗的火焰",
+    "FLAVOR": "红莲: 那你就让我见识一下理想的尽头吧。我会帮你到那天的。",
+    "DESCRIPTIONS": [
+      "每场战斗一次，你可以 #右击 此遗物，消耗手中的 #b1 张卡， 如果是 #y状态 或 #y诅咒 ， #y抽 #b1 张卡，所有敌人获得 #b3 层灼伤。"
+    ]
+  },
+  "aigisMod:CatDisturbance": {
+    "NAME": "猫骚动",
+    "FLAVOR": "小春: 给予人恐怖太庸俗了，我只想给予人感动。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时所有敌人失去 #b1 力量。第 #b6 回合，所有敌人失去 #b1 力量。"
+    ]
+  },
+  "aigisMod:ScrambleGolem": {
+    "NAME": "赶制魔像",
+    "FLAVOR": "莉尔克: 诶？要我给你占卜？……喔。那好吧。",
+    "DESCRIPTIONS": [
+      "每场战斗一次，你可以 #y右击 此遗物来消耗手牌中的 #b1 张卡，如果它是 #y魔像部件 ，获得 #b3 层金属化。"
+    ]
+  },
+  "aigisMod:GolemBoost": {
+    "NAME": "魔像增强",
+    "FLAVOR": "安莉：将力量注入没有生命的物体，这就是赋予魔法的真谛，请尽情使用吧。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时将 #y魔像部件+ 放入手牌。当魔像部件被创造时，将之 #y升级 。"
+    ]
+  },
+  "aigisMod:WorldTree": {
+    "NAME": "世界树的守护者",
+    "FLAVOR": "罗薇妮亚：王子每天都很辛苦呢。没事吧？有好好睡觉吗？",
+    "DESCRIPTIONS": [
+      "每场战斗开始时拥有 #b8 层游侠陷阱。当你拥有 #y游侠陷阱 时， #y弓箭手 牌额外造成 #b1 点伤害。"
+    ]
+  },
+  "aigisMod:WoundReturning": {
+    "NAME": "反伤咒言",
+    "FLAVOR": "命：可以让我来祓除王子的灾厄吗？",
+    "DESCRIPTIONS": [
+      "每场战斗开始时将 #b1 张 #y式鬼 放入手牌。 式鬼获得 #b3 点额外格挡。"
+    ]
+  },
+  "aigisMod:SerpentPoison": {
+    "NAME": "蛇灵咒毒",
+    "FLAVOR": "大蛇姬：咒术可药可毒，呵呵呵，不知道这次是哪边？",
+    "DESCRIPTIONS": [
+      "每场战斗开始时对所有敌人施加 #b2  层 #y诅咒之声 。 当敌人攻击时，获得 #b1 层中毒。"
+    ]
+  },
+  "aigisMod:Ifrit": {
+    "NAME": "召唤伊芙利特",
+    "FLAVOR": "索拉诺：来吧，回应我的声音 ，炎之召唤兽伊芙利特!",
+    "DESCRIPTIONS": [
+      "每场战斗开始时对所有敌人施加 #b6  层 #y灼伤 。"
+    ]
+  },
+  "aigisMod:UndeadWorld": {
+    "NAME": "不死世界",
+    "FLAVOR": "梅托斯：人类的身体好不方便。这就是活着的感觉吗？",
+    "DESCRIPTIONS": [
+      "每场战斗开始时将 #b3 张骷髅和 #b1 张梅托斯加入消耗牌堆。",
+      "每场战斗一次，如果你的生命低于 #b30% ，你可以 #y右击 此遗物,将 #b1 张消耗牌堆中的不死族牌加入手牌。"
+    ]
+  },
+  "aigisMod:Daywalker": {
+    "NAME": "日行者",
+    "FLAVOR": "伊甸：成为吸血鬼之前的记忆？，我不记得了……",
+    "DESCRIPTIONS": [
+      "#y吸血鬼噬咬 伤害减少 #b3  点。 ",
+      "对拥有 #y吸血鬼噬咬 的敌人攻击时，获得 #b1 点 #y临时生命 。"
+    ]
+  },
+  "aigisMod:BastetGem": {
+    "NAME": "芭丝特的宝石",
+    "FLAVOR": "莎瓦：『被诅咒的宝石』以持续吞噬着使用者的灵魂为代价，给予他们巨大的力量。",
+    "DESCRIPTIONS": [
+      "当你 #y消耗 #y诅咒 时，获得 #b1 点 #y力量 。每场战斗限 #b3 次。"
+    ]
+  },
+
+
+
+
+
+  "aigisMod:ArmoredDecius": {
+    "NAME": "强化铠甲德西乌斯",
+    "FLAVOR": "米蒂尔： 德西乌斯是为了胜利不择手段的卑劣的男人!",
+    "DESCRIPTIONS": [
+      "在前 #b4 回合结束时， 获得 #b5 点 #y格挡 。",
+      " 每幕限一次，当你在战斗中 生命 为 #b0 时，回复 #b25 点生命。"
+    ]
+  },
+  "aigisMod:MaouDecius": {
+    "NAME": "魔王军铠甲德西乌斯",
+    "FLAVOR": "德西乌斯： 呜呼，总算能听到星星的声音了。是何等美丽的音调啊...",
+    "DESCRIPTIONS": [
+      "替换 #r强化铠甲德西乌斯 。 将一张魔王军铠甲模式加入到牌组中。",
+      " 每幕限一次，当你在战斗中 生命 为 #b0 时，回复 #b35 点生命。"
+    ]
+  },
+  "aigisMod:MeteorSword": {
+    "NAME": "奥义 天招流星剑",
+    "FLAVOR": "德西乌斯：这就是奥义吗...!? 竟然让流星坠落下来，太卑鄙了....",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，生成 #b1 颗造成 #b6 点伤害的 #y流星 。",
+      " 当一张卡 #y生成流星 时，它额外造成 #b1 点伤害。"
+    ]
+  },
+  "aigisMod:KnightProtection": {
+    "NAME": "圣骑士的守护",
+    "FLAVOR": "柯奈莉雅：即使这份力量是魔之力，我该做的事情也没有任何变化。",
+    "DESCRIPTIONS": [
+      "每回合第一次打出攻击牌时， 获得 #b3 点 #y格挡 。",
+      " 每场战斗第一次打出 #y暗黑斗士 牌时，获得 #b1 层 #y缓冲 。"
+    ]
+  },
+  "aigisMod:ShieldBless": {
+    "NAME": "盾之祝福",
+    "FLAVOR": "海欧斯：即使是堕入黑暗的剑，也依旧能守护光明。",
+    "DESCRIPTIONS": [
+      "当你打出一张 #y暗黑斗士 牌时，获得 #b1 层 #y荆棘 。",
+      " 当你的 #y生命 低于 #b50% 时, 获得 #b2 点 #y敏捷 。"
+    ]
+  },
+  "aigisMod:SuperMeteor": {
+    "NAME": "超天落岩之计",
+    "FLAVOR": "爱莎：我不像军师吗？",
+    "DESCRIPTIONS": [
+      "一回合一次，当你打出 #y流星 牌时获得 [E] 。"
+    ]
+  },
+  "aigisMod:BlastingEnhancement": {
+    "NAME": "爆裂强化的秘术",
+    "FLAVOR": "伽兰雅：掌握魔力的精髓，这就是我的使命。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，如果敌人数量多于 #b1 名， #y生成 #b1  颗 #y流星 。",
+      " 当敌人在战斗中出现时， #y生成 #b1  颗 #y流星 。"
+    ]
+  },
+  "aigisMod:BlastingBall": {
+    "NAME": "怪力爆裂铁球",
+    "FLAVOR": "狄娜：肌肉很疲劳...不知道是不是我的铠甲导致的。",
+    "DESCRIPTIONS": [
+      "回合结束时，如果你的 #y格挡 值大于等于 #b16 ，对所有敌人造成 #b10 伤害。"
+    ]
+  },
+  "aigisMod:SealRelease": {
+    "NAME": "神魔封印解除",
+    "FLAVOR": "克洛伊： 堕天使也有想守护的东西。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时获得 #b2 层 #y残影 。"
+    ]
+  },
+  "aigisMod:IndomitableTraitor": {
+    "NAME": "不屈的叛逆者",
+    "FLAVOR": "夏提雅： 看来千年也不足以改变人类的愚蠢和温柔呢。",
+    "DESCRIPTIONS": [
+      "在第五 #b5 回合结束时， 如果你没有受到过 #y生命 伤害, 对所有敌人造成 #b50 点伤害。"
+    ]
+  },
+  "aigisMod:HolyAura": {
+    "NAME": "神圣波动",
+    "FLAVOR": "尤莉娜： 没想到我还留有人类的感情...",
+    "DESCRIPTIONS": [
+      "#y暗黑斗士 获得 保留 。",
+      " 在你的第 #b4 回合结束时，获得 #b10 点 #y格挡 。"
+    ]
+  },
+  "aigisMod:HotSands": {
+    "NAME": "热砂连携战术",
+    "FLAVOR": "娜芙蒂： 沙漠里带路就交给我吧。 来吧，让我们与风一同前行。",
+    "DESCRIPTIONS": [
+      "当你攻击一名 #y精英 或 #yBoss 敌人，获得 #b2 点格挡。"
+    ]
+  },
+
+
+
+
+  "aigisMod:Endurance": {
+    "NAME": "体力提升",
+    "FLAVOR": "丹: 总有下一个要超越的目标，这就是我活着的意义!",
+    "DESCRIPTIONS": [
+      "当你打出战斗中生成的牌时，获得 #b2 点 #y临时生命 。",
+      "每回合最多可以触发 #b5 次。"
+    ]
+  },
+  "aigisMod:Miracle": {
+    "NAME": "奇迹之男",
+    "FLAVOR": "女神埃癸斯：不要放弃啊，人之子。现在女神埃癸斯将助你们一臂之力。",
+    "DESCRIPTIONS": [
+      "当你打出战斗中生成的牌时，获得 #b3 点 #y临时生命 。",
+      "每回合最多可以触发 #b5 次。"
+    ]
+  },
+  "aigisMod:DepthTorpedo": {
+    "NAME": "深水鱼雷",
+    "FLAVOR": "维亚贝尔：要是能潜入人心深处，解决一切就好了啊。",
+    "DESCRIPTIONS": [
+      "本场战斗中你拥有 #y水压 的情况下第一次受伤时， 所有敌人失去 #b2 点 #y力量 。"
+    ]
+  },
+  "aigisMod:SharkTide": {
+    "NAME": "鲨鱼浪潮",
+    "FLAVOR": "芬努： 我从海底都市而来。 和努力在干燥的路上学习的!",
+    "DESCRIPTIONS": [
+      "回合开始时，如果你拥有 #b2 层或以上的 #y水压 。获得 [E] 。"
+    ]
+  },
+  "aigisMod:AerialFight": {
+    "NAME": "猛冲·起飞",
+    "FLAVOR": "克莱尔：我是警备部队飞行队长克莱尔。呃，我可以走了吗？",
+    "DESCRIPTIONS": [
+      "当你抽到一张 #y空中标记 时 抽 #b1 张牌。 你的 #y抽牌堆 有牌时可以触发，每回合最多可以触发e #y2 次。"
+    ]
+  },
+  "aigisMod:CaitSith": {
+    "NAME": "猫妖精",
+    "FLAVOR": "法尔妮：我正在看书。 ...别打扰我。",
+    "DESCRIPTIONS": [
+      "在一场战斗中 #y生成 第 #b10 张 #y牌 时(消耗牌堆除外)，将 #b1 张 #y猫妖精 加入你的 #y手牌 。"
+    ]
+  },
+  "aigisMod:PumpUp": {
+    "NAME": "肌肉活化",
+    "FLAVOR": "吉娜：男人真是有够单纯欸~?",
+    "DESCRIPTIONS": [
+      "在你的第 #b3 回合开始时，获得 #b3 层 #y活力 ， #b3 点 #y临时生命 并且 #y回复 #b3 点 #yHP 。"
+    ]
+  },
+  "aigisMod:AutoHeal": {
+    "NAME": "自动回复",
+    "FLAVOR": "乌尔：我的爪子是可以打倒魔物的!",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，对所有 #y敌人 造成 #b1 点 #y伤害 。 ",
+      "你的回合结束时，获得 #b1 点 #y临时生命 。"
+    ]
+  },
+  "aigisMod:PearlGrace": {
+    "NAME": "珍珠的光辉",
+    "FLAVOR": "利托瓦： 深海的战士中强者很多，我也要像他们学习...!",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，对所有 #y敌人 施加 #b1 层 #y水压 。",
+      "无论何时你打出 #y深海 牌时，对一名 #y随机敌人 造成 #y3 点 #y伤害 。"
+    ]
+  },
+  "aigisMod:FiringCommand": {
+    "NAME": "射击指挥",
+    "FLAVOR": "琳贝尔：只要有我在，任何的劣势都能变成优势。",
+    "DESCRIPTIONS": [
+      "即使 #y水压 层数不足以减少， #y水兵 牌也能发挥出全部效果。"
+    ]
+  },
+  "aigisMod:VitalityMedicine": {
+    "NAME": "停滞的迷药",
+    "FLAVOR": "妮柯尔： 先把这里改造成工房吧。助手，能帮我把行李拿过来吗？",
+    "DESCRIPTIONS": [
+      "每场战斗的前 #b2 回合，#y免疫 任何来自自身的 #y伤害 。",
+      "获得 #b1 个 #y药水栏位 。"
+    ]
+  },
+  "aigisMod:AigisStatue": {
+    "NAME": "埃癸斯像",
+    "FLAVOR": "安娜： 但是你可以借用她的召唤能力。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时生成一定数量的 #y埃癸斯像 。 每场战斗结束时生成数量提升 #b2 。"
+    ]
+  },
+
+
+
+  "aigisMod:AigisShrine": {
+    "NAME": "埃癸斯神殿",
+    "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
+    "DESCRIPTIONS": [
+      "普通和精英战斗后额外获得一组其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。"
+    ]
+  },
+  "aigisMod:AigisShrineEmperor": {
+    "NAME": "埃癸斯神殿",
+    "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
+    "DESCRIPTIONS": [
+      "普通和精英战斗后额外获得一组含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。"
+    ]
+  },
+  "aigisMod:AigisShrineAvenger": {
+    "NAME": "埃癸斯神殿",
+    "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
+    "DESCRIPTIONS": [
+      "普通和精英战斗后额外获得一组含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。."
+    ]
+  },
+  "aigisMod:AigisShrineKnight": {
+    "NAME": "埃癸斯神殿",
+    "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
+    "DESCRIPTIONS": [
+      "普通和精英战斗后额外获得一组含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。"
+    ]
+  },
+
+  "aigisMod:AigisShrineMiracle": {
+    "NAME": "埃癸斯神殿",
+    "FLAVOR": "人们为了他们的英雄建造了一座巨大而又隐蔽的神殿，一座用来供奉女神埃癸斯的神殿。",
+    "DESCRIPTIONS": [
+      "普通和精英战斗后额外获得一组含有其他 #yAigis 角色 #b3 张卡牌的额外 #y卡牌奖励 。"
+    ]
+  }
+}
