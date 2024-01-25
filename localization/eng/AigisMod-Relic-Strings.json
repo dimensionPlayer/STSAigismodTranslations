@@ -523,7 +523,7 @@
     "NAME": "Pearls' Grace",
     "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
     "DESCRIPTIONS": [
-      "At the start of the combat, apply #b1 #yWater #bPressure to ALL #yenemies.",
+      "At the start of the combat, apply #b1 #yWater #yPressure to ALL #yenemies.",
       "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
     ]
   },
@@ -531,7 +531,7 @@
     "NAME": "Firing Command",
     "FLAVOR": "Reanbell: As long as I am with you, any disadvantage turns into an advantage.",
     "DESCRIPTIONS": [
-      "#ySailor cards apply their full effects even if #yWater #bPressure is not reduced."
+      "#ySailor cards apply their full effects even if #yWater #yPressure is not reduced."
     ]
   },
   "aigisMod:VitalityMedicine": {

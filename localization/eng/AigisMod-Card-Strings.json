@@ -4468,7 +4468,7 @@
   "aigisMod:Wirbel": {
     "NAME": "Wirbel",
     "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! aigismod:true_damage. NL Enemy loses Strength equal to your aigismod:Water_pressure. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Enemy loses Strength equal to your aigismod:Water_pressure. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! aigismod:true_damage. NL Enemy loses Strength equal to your aigismod:Water_pressure. NL Exhaust",
     "EXTENDED_DESCRIPTION": [
       "Submarine Knight"
     ]
@@ -4612,8 +4612,8 @@
   },
   "aigisMod:Tabitha": {
     "NAME": "Tabitha",
-    "DESCRIPTION": "At the start of turn, add 1 Hellbeast, Water Pressure, or Air Signal at random to hand.",
-    "UPGRADE_DESCRIPTION": "At the start of turn, add 1 Hellbeast, Water Pressure, or Air Signal at random to hand.",
+    "DESCRIPTION": "At the start of turn, add 1 Hellbeast, Deep Sea, or Air Signal at random to hand.",
+    "UPGRADE_DESCRIPTION": "At the start of turn, add 1 Hellbeast, Deep Sea, or Air Signal at random to hand.",
     "EXTENDED_DESCRIPTION" : [
       "Inventor of Bizarre Ideas"
     ]
@@ -4916,8 +4916,8 @@
   },
   "aigisMod:LightElemental": {
     "NAME": "Light Elemental",
-    "DESCRIPTION": "Deal !D! aigismod:true_damage. Double the base damage of this card. HP. NL Exhaustive !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. Double the base damage of this card. HP. NL Exhaustive !stslib:ex!",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. Double the base damage of this card. NL Exhaustive !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage to ALL enemies. Double the base damage of this card. NL Exhaustive !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]

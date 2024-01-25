@@ -11,8 +11,8 @@
       "白の帝国", "このカードは、 #y帝国 を指名する効果の対象となる。",
       "呪術師", "プレイした時、表示された #y呪い がデッキに入っていない場合、追加する。",
       "デーモン", "あなたのターンの開始時にこのカードが廃棄山にある場合、そのターンの間 #y本来 のコストから #b-1 して手札に加える。",
-      "飛行隊", "プレイした時、 #yエアーシグナル を #b1 枚あなたの山札に加える。 #yエアーシグナル が廃棄されるごとにダメージが #b1 増加する。",
-      "ネクロマンサー", " #yアンデッド が #y廃棄 されるたび、ダメージが #b1 増加する。防御されずにダメージを与えた時、 #yスケルトン を手札に #b1 枚加える。"
+      "飛行隊", "プレイした時、 #yエアーシグナル を #b1 枚山札に加える。",
+      "ネクロマンサー", " #y廃棄 された #yアンデッド の数だけ ダメージが #b1 増加する。防御されずにダメージを与えた時、 #yスケルトン を手札に #b1 枚加える。"
     ]
   },
 
@@ -356,72 +356,72 @@
 
   "PheasantAction": {
     "TEXT": [
-      "return to bottom of Draw Pile."
+      "山札の底に戻すカードを選択する。"
     ]
   },
 
   "PotalAction": {
     "TEXT": [
-      "Choose up to ", " Aerial cards to send to Discard Pile.",
-      "Choose an Aerial card to send to Discard Pile.",
-      "I don't have Aerial cards in Draw Pile..."
+      "捨て札に送る飛行隊カードを ", " 枚まで選択する。",
+      "捨て札に送る飛行隊カードを選択する。",
+      "山札に飛行隊カードがない…"
     ]
   },
 
   "PuniruAction": {
     "TEXT": [
-      "Choose 1 card to add to your hand."
+      "手札に加えるカードを選択する。"
     ]
   },
 
   "AmelieAction": {
     "TEXT": [
-      "Select a Sailor Attack Card to add to hand.",
-      "I don't have a Sailor Attack Card in Draw Pile..."
+      "手札に加える水兵アタックカードを選択する。",
+      "山札に水兵アタックカードがない…"
     ]
   },
 
   "RenataAction": {
     "TEXT": [
-      "Choose up to ", " cards to send to Discard Pile."
+      "捨て札に送るカードを ", " 枚まで選択する。"
     ]
   },
 
   "ThrudAction": {
     "TEXT": [
-      "Choose 1 Aerial card to send to Discard Pile."
+      "捨て札に送るカードを選択する。"
     ]
   },
 
   "JacquelineAction": {
     "TEXT": [
-      "Select a Sailor or Deep Sea card to add to hand.",
-      "I don't have a Sailor or Deep Sea card in Discard Pile..."
+      "手札に加える水兵または深海兵カードを選択する。",
+      "捨て札に水兵と深海兵カードがない…"
     ]
   },
 
   "NoelAction": {
     "TEXT": [
-      "duplicate."
+      "複製するカードを選択する。"
     ]
   },
 
   "ShirleyAction": {
     "TEXT": [
-      "Choose a Spirit User, Elemental, Summoner or Summon card to add to hand from Draw Pile or Discard Pile.",
-      "Choose up to 2 Spirit User, Elemental, Summoner or Summon cards to add to hand from Draw Pile or Discard Pile."
+      "山札か捨て札から手札に加える精霊使い 、 精霊 、 召喚士 、 召喚獣 カードを選択する。",
+      "山札か捨て札から手札に加える精霊使い 、 精霊 、 召喚士 、 召喚獣 カードを2枚まで選択する。."
     ]
   },
 
   "RefletAction": {
     "TEXT": [
-      "Choose a Light Elemental to add to hand from Draw Pile or Discard Pile."
+      "山札か捨て札から手札に加える光霊を選択する。"
     ]
   },
 
   "LatourAction": {
     "TEXT": [
-      "keep."
+      "保留するカードを選択する。"
     ]
   }
 }

@@ -48,7 +48,7 @@
       "Bloom_petal",
       "bloom_petal"
     ],
-    "DESCRIPTION": "パワーを得た2ターン後に全ての敵にダメージと #b2 #y脱力 と #b2 #y弱体 を与え、その後このパワーは取り除かれる。"
+    "DESCRIPTION": "パワーを得た2ターン後に敵全体にダメージと #b2 #y脱力 と #b2 #y弱体 を与え、その後このパワーは取り除かれる。"
   },
   {
     "PROPER_NAME": "呪われた儀式",
@@ -164,7 +164,7 @@
       "splash",
       "splash."
     ],
-    "DESCRIPTION": "ターゲット以外の全ての敵に半分（切り捨て）のダメージを与える"
+    "DESCRIPTION": "ターゲット以外の敵全体に半分（切り捨て）のダメージを与える"
   },
   {
     "PROPER_NAME": "クールタイム",
@@ -192,7 +192,7 @@
       "Archer",
       "archer"
     ],
-    "DESCRIPTION": "このカードの攻撃は #yトゲ 、 #y憤怒 、 #yシャープハイド , #yまるくなる を #b無視 する"
+    "DESCRIPTION": "このカードの攻撃は #yトゲ 、 #y憤怒 、 #yシャープハイド 、 #yまるくなる を #b無視 する"
   },
   {
     "PROPER_NAME": "忍術",
@@ -305,7 +305,7 @@
       "魔導生命体",
       "魔導生命体。"
     ],
-    "DESCRIPTION": "戦闘開始時、 #b2 種類の #yラーワル カードをデッキに加える。 これらは、このカードと同じ量のアップグレードを持ちます。"
+    "DESCRIPTION": "戦闘開始時、 #b2 種類の #yラーワル カードを山札に加える。 これらは、このカードと同じ量のアップグレードを持ちます。"
   },
   {
     "NAMES": [
@@ -373,53 +373,58 @@
 
 
   {
-    "PROPER_NAME": "Deep Sea",
+    "PROPER_NAME": "深海兵",
     "NAMES": [
+      "深海兵",
       "Deep Sea",
       "Deep_sea.",
       "Deep_sea",
       "deep_sea"
     ],
-    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
+    "DESCRIPTION": "このカードを引いた時、 #y深海 を #b1 枚手札に加える。"
   },
   {
-    "PROPER_NAME": "Water Pressure",
+    "PROPER_NAME": "水圧",
     "NAMES": [
+      "水圧",
       "Water Pressure",
       "Water_pressure.",
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
+    "DESCRIPTION": "ターン開始時に #gHP を失う。スタックが #b7 つ以上の場合、 全ての #gHP を失う(ボスは除く)。"
   },
   {
-    "PROPER_NAME": "Sailor",
+    "PROPER_NAME": "水兵",
     "NAMES": [
+      "水兵",
       "Sailor",
       "sailor",
       "Sailor.",
       "Sailor:"
     ],
-    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+    "DESCRIPTION": "#y水圧 を消費して、以下の効果を追加で発動する。"
   },
   {
-    "PROPER_NAME": "Beast Tamer",
+    "PROPER_NAME": "魔物使い",
     "NAMES": [
+      "魔物使い",
       "Beast Tamer",
       "Beast_tamer.",
       "Beast_tamer",
       "beast_tamer"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+    "DESCRIPTION": "#yエセリアル と #y廃棄 の効果を持つ。 #y廃棄 された時、 #y魔獣 を #b1 枚手札に 加える。"
   },
   {
-    "PROPER_NAME": "Cursed Shadows",
+    "PROPER_NAME": "呪影",
     "NAMES": [
+      "呪影",
       "Cursed Shadows",
       "Cursed_shadows.",
       "Cursed_shadows",
       "cursed_shadows"
     ],
-    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+    "DESCRIPTION": "ターン終了時、 #yブロック を得る。 #yアタック カード から 受けるダメージが増加する。"
   }
 ]

@@ -492,7 +492,7 @@
         },
         "aigisMod:Eureka": {
                 "NAME": "Eureka!",
-                "DESCRIPTIONS": ["At the start of turn, add #b", " #yHellbeast, #yWater #yPressure, or #yAir #ySignal at random to hand."]
+                "DESCRIPTIONS": ["At the start of turn, add #b", " #yHellbeast, #yDeep #ySea, or #yAir #ySignal at random to hand."]
         },
         "aigisMod:DevouringGreatwolf": {
                 "NAME": "Devouring Greatwolf",
