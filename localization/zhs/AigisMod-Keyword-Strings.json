@@ -387,7 +387,62 @@
 
     ],
     "DESCRIPTION": "当你格挡值为0或有 #y残影 时，触发效果。"
+  },
+
+
+  {
+    "PROPER_NAME": "深海",
+    "NAMES": [
+      "深海",
+      "Deep_sea",
+      "Deep_sea.",
+      "Deep_sea",
+      "deep_sea"
+    ],
+    "DESCRIPTION": "每当抽到这张牌，将 #b1 张 #y深海 加入手牌。"
+  },
+  {
+    "PROPER_NAME": "水压",
+    "NAMES": [
+      "水压",
+      "Water Pressure",
+      "Water_pressure.",
+      "Water_pressure",
+      "water_pressure"
+    ],
+    "DESCRIPTION": "回合开始时，失去对应层数 #y生命值 。如果超过 #b7 层，则立即死亡。"
+  },
+  {
+    "PROPER_NAME": "水手",
+    "NAMES": [
+      "水手",
+      "Sailor",
+      "sailor",
+      "Sailor.",
+      "Sailor:"
+    ],
+    "DESCRIPTION": "减少对应数值的 水压 ，并触发效果。"
+  },
+  {
+    "PROPER_NAME": "驯兽师",
+    "NAMES": [
+      "驯兽师",
+      "Beast Tamer",
+      "Beast_tamer.",
+      "Beast_tamer",
+      "beast_tamer"
+    ],
+    "DESCRIPTION": "自带 #y虚无 和 #y消耗 。 消耗 时，将 #b1 张 #y地狱猛兽 加入手牌。"
+  },
+  {
+    "PROPER_NAME": "咒影",
+    "NAMES": [
+      "咒影",
+      "Cursed Shadows",
+      "Cursed_shadows.",
+      "Cursed_shadows",
+      "cursed_shadows"
+    ],
+    "DESCRIPTION": "回合结束时获得 #y格挡 。受到的 #y攻击伤害 提高。"
   }
-
-
 ]
