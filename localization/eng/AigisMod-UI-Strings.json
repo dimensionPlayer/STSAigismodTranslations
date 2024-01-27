@@ -3,7 +3,7 @@
     "TEXT": [
       "Witch", "Enemies attacked by this card receives temporary #ySlow.",
       "Archer", "This card #bignores enemy powers that activate when they are #yattacked, like Thorns.",
-      "Princess", "Gain #b1 #yMax #yHP when you add a #yPrincess card to your Deck.",
+      "Princess", "Gain #b2 #yMax #yHP when you add a #yPrincess card to your Deck.",
       "Undead", "This class activates #badditional effects when #yexhausted.",
       "Black Rarity", "This type of character have #ybranching paths when #yupgrading. Only Rare cards may have this property.",
       "Eastern Country", "This card applies for other effects listing #yEastern #yCountry cards.",
@@ -11,7 +11,7 @@
       "White Empire", "This card has synergies with effects listing Imperial cards, only in the card pool of #yThe #yEmperor.",
       "Curse User", "When played, add the #yCurse this card previews to your Master Deck if you don't have it.",
       "Demon", "If this card is in Exhaust Pile at the start of your turn: add this to your hand with -1 of its #yOriginal cost for that turn.",
-      "Aerial", "When played, shuffle #b1 #yAir #ySignal to your Draw Pile. Increase damage by #b1 for each #yAir #ySignal Exhausted.",
+      "Aerial", "When played, shuffle #b1 #yAir #ySignal to your Draw Pile.",
       "Necromancer", "Increase damage by #b1 for each #yUndead #yExhausted. When this deals unblocked damage, add #b1 #ySkeleton #yUnit to your hand."
     ]
   },
@@ -127,10 +127,30 @@
     ]
   },
 
+  "SanmotoAction": {
+    "TEXT": [
+      "play."
+    ]
+  },
+
   "AirshipAction": {
     "TEXT": [
       "Select an Imperial card to add to your hand.",
-      "I don't have an Imperial Card in deck..."
+      "I don't have an Imperial Card in Draw Pile..."
+    ]
+  },
+
+  "RuteKnightAction": {
+    "TEXT": [
+      "Select an Imperial Knight card to add to your hand.",
+      "I don't have an Imperial Knight Card in Draw Pile..."
+    ]
+  },
+
+  "RuteStrikeAction": {
+    "TEXT": [
+      "Select an Strike card to add to your hand.",
+      "I don't have an Strike card in discard pile..."
     ]
   },
 
@@ -157,7 +177,7 @@
   "MephistoAction": {
     "TEXT": [
       "Select an Imperial or Demon card to exhaust. (Optional)",
-      "I don't have an Imperial or Demon Card in deck..."
+      "I don't have an Imperial or Demon Card in Draw Pile..."
     ]
   },
   "AuroraAction": {
@@ -200,7 +220,11 @@
       "Vulnerable.",
       "Poison.",
       " NL Apply ", " Vulnerable.",
-      " NL Apply ", " Poison."
+      " NL Apply ", " Poison.",
+      "Sluggish.",
+      " NL Apply ", " aigismod:Sluggish. ",
+      "Energy.",
+      " NL Gain ", " Energy."
     ]
   },
   "BelpheAction": {
@@ -314,6 +338,89 @@
       "Choose a card to add to your hand.",
       "Choose cards to add to your hand.",
       "I don't have a Release card in my draw pile..."
+    ]
+  },
+
+  "ShinatoAction": {
+    "TEXT": [
+      "Choose 1 card to shuffle back to Draw Pile."
+    ]
+  },
+
+  "ShukaAction": {
+    "TEXT": [
+      "You can choose up to ", " Eastern Country cards."
+    ]
+  },
+
+  "PheasantAction": {
+    "TEXT": [
+      "return to bottom of Draw Pile."
+    ]
+  },
+
+  "PotalAction": {
+    "TEXT": [
+      "Choose up to ", " Aerial cards to send to Discard Pile.",
+      "Choose an Aerial card to send to Discard Pile.",
+      "I don't have Aerial cards in Draw Pile..."
+    ]
+  },
+
+  "PuniruAction": {
+    "TEXT": [
+      "Choose 1 card to add to hand."
+    ]
+  },
+
+  "AmelieAction": {
+    "TEXT": [
+      "Select a Sailor Attack Card to add to hand.",
+      "I don't have a Sailor Attack Card in Draw Pile..."
+    ]
+  },
+
+  "RenataAction": {
+    "TEXT": [
+      "Choose up to ", " cards to send to Discard Pile."
+    ]
+  },
+
+  "ThrudAction": {
+    "TEXT": [
+      "Choose 1 Aerial card to send to Discard Pile."
+    ]
+  },
+
+  "JacquelineAction": {
+    "TEXT": [
+      "Select a Sailor or Deep Sea card to add to hand.",
+      "I don't have a Sailor or Deep Sea card in Discard Pile..."
+    ]
+  },
+
+  "NoelAction": {
+    "TEXT": [
+      "duplicate."
+    ]
+  },
+
+  "ShirleyAction": {
+    "TEXT": [
+      "Choose a Spirit User, Elemental, Summoner or Summon card to add to hand from Draw Pile or Discard Pile.",
+      "Choose up to 2 Spirit User, Elemental, Summoner or Summon cards to add to hand from Draw Pile or Discard Pile."
+    ]
+  },
+
+  "RefletAction": {
+    "TEXT": [
+      "Choose a Light Elemental to add to hand from Draw Pile or Discard Pile."
+    ]
+  },
+
+  "LatourAction": {
+    "TEXT": [
+      "keep."
     ]
   }
 }

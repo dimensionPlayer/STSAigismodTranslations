@@ -1,0 +1,486 @@
+[
+  {
+    "PROPER_NAME": "스킬챠지",
+    "NAMES": [
+      "스킬챠지",
+      "Skill Charge",
+      "Skill_charge",
+      "skill_charge"
+    ],
+    "DESCRIPTION": "#y보존. 보존시 카드의 효과가 강화됩니다."
+  },
+  {
+    "PROPER_NAME": "제국기사",
+    "NAMES": [
+      "제국기사",
+      "제국기사를",
+      "Imperial Knight",
+      "Imperial_knight",
+      "imperial_knight"
+    ],
+    "DESCRIPTION": "#y한 #y턴에 #y한 #y번씩, 이 카드가 손에 있는 상태에서 #y제국 카드를 사용할 때 효과를 발동합니다."
+  },
+  {
+    "PROPER_NAME": "데미지 아우라",
+    "NAMES": [
+      "데미지아우라",
+      "데미지아우라를",
+      "데미지 아우라",
+      "데미지 아우라를",
+      "데미지_아우라",
+      "데미지_아우라를",
+      "데미지_아우라와",
+      "Damage Aura",
+      "Damage_aura",
+      "damage_aura"
+    ],
+    "DESCRIPTION": "턴 종료시, 모든 적에게 #y데미지를 가합니다."
+  },
+  {
+    "PROPER_NAME": "관통",
+    "NAMES": [
+      "관통",
+      "True Damage",
+      "True_damage",
+      "true_damage"
+    ],
+    "DESCRIPTION": "이 카드의 공격은 #y방어도와 #y가시, #y분노, #y날카로운 #y껍질, 그리고 #y몸 #y말기를 #b무시합니다."
+  },
+  {
+    "PROPER_NAME": "블룸 페탈",
+    "NAMES": [
+      "블룸페탈",
+      "블룸페탈을",
+      "블룸_페탈",
+      "블룸_페탈을",
+      "Bloom Petal",
+      "Bloom_petal",
+      "bloom_petal"
+    ],
+    "DESCRIPTION": "이 파워를 얻고 2 턴 뒤에 모든 적에게 데미지와 #b2 #y약화와 #b2 #y취약을 부여합니다. 그 후 이 파워는 사라집니다."
+  },
+  {
+    "PROPER_NAME": "저주받은 의식",
+    "NAMES": [
+      "저주받은 의식",
+      "저주받은 의식을",
+      "저주받은_의식",
+      "저주받은_의식을",
+      "Cursed Rite",
+      "Cursed_rite.",
+      "Cursed_rite",
+      "cursed_rite"
+    ],
+    "DESCRIPTION": "회복불가 상태가 됩니다."
+  },
+  {
+    "PROPER_NAME": "커스보이스",
+    "NAMES": [
+      "커스보이스",
+      "커스_보이스",
+      "커스보이스를",
+      "커스_보이스를",
+      "Cursed Voice",
+      "Cursed_voice.",
+      "Cursed_voice",
+      "cursed_voice"
+    ],
+    "DESCRIPTION": "다음에 적이 얻을 #b버프를 무효화합니다."
+  },
+  {
+    "PROPER_NAME": "에어 엘레멘탈",
+    "NAMES": [
+      "에어 엘레멘탈",
+      "에어 엘레멘탈을",
+      "에어엘레멘탈",
+      "에어엘레멘탈을",
+      "에어_엘레멘탈",
+      "에어_엘레멘탈을",
+      "Air Elemental",
+      "Air_elemental.",
+      "Air_elemental",
+      "air_elemental"
+    ],
+    "DESCRIPTION": "#y스킬 카드를 사용할시, 적들은 스택과 동일한 양의 #y체력을 #y잃습니다. 적이 공격했다면 턴 종료시 스택을 #b1 감소시킵니다."
+  },
+  {
+    "PROPER_NAME": "트랩",
+    "NAMES": [
+      "트랩",
+      "트랩을",
+      "트랩이",
+      "Ranger Trap",
+      "Ranger_trap.",
+      "Ranger_trap",
+      "ranger_trap"
+    ],
+    "DESCRIPTION": "다음 차례에 #y방어되지 #y않은 데미지를 입은 경우, 해당 적에게 #y입은 #y데미지와 같은 양의 데미지를 준 뒤 이 파워를 제거합니다."
+  },
+  {
+    "PROPER_NAME": "퇴마의 부적",
+    "NAMES": [
+      "퇴마의 부적",
+      "퇴마의 부적을",
+      "퇴마의부적",
+      "퇴마의부적을",
+      "퇴마의_부적",
+      "퇴마의_부적을",
+      "Seal Talisman",
+      "Seal_talisman.",
+      "Seal_talisman",
+      "seal_talisman"
+    ],
+    "DESCRIPTION": "적이 #y공격할 때마다 #b1 #y힘을 잃습니다. #y퇴마의 #y부적은 턴 시작시마다 #b1 감소합니다."
+  },
+  {
+    "PROPER_NAME": "조시인",
+    "NAMES": [
+      "조시인",
+      "조시인을",
+      "Corpse Marionette",
+      "Corpse_marionette.",
+      "Corpse_marionette",
+      "corpse_marionette"
+    ],
+    "DESCRIPTION": "#y방어되지 #y않은 데미지를 입었을 때, 그 수치와 동일한 양의 #y스택을 감소시킵니다. 턴 시작시, 이 수치가 #b0일 경우, 모든 적을 스턴시키고 이 파워를 제거합니다."
+  },
+  {
+    "PROPER_NAME": "매복한 캐러밴",
+    "NAMES": [
+      "매복한_캐러밴",
+      "매복한_캐러밴을",
+      "매복한캐러밴",
+      "매복한캐러밴을",
+      "Ambushed Caravan",
+      "Ambushed_caravan.",
+      "Ambushed_caravan",
+      "ambushed_caravan"
+    ],
+    "DESCRIPTION": "#y저주. 사용불가, 보존, 선천성, 덱에서 제거불가. #y방어되지 #y않은 #y데미지를 입은 경우 #b8 #y골드를 잃습니다."
+  },
+
+  {
+    "PROPER_NAME": "암살",
+    "NAMES": [
+      "암살",
+      "암살시",
+      "암살을",
+      "Assassination",
+      "assassination"
+    ],
+    "DESCRIPTION": "만약 적을 #y쓰러뜨렸을 경우, 이 카드의 코스트가 #b0 이 된 상태로 #y손패에 돌아옵니다."
+  },
+  {
+    "PROPER_NAME": "둔족",
+    "NAMES": [
+      "둔족",
+      "둔족을",
+      "둔족과",
+      "Sluggish",
+      "sluggish",
+      "sluggish."
+    ],
+    "DESCRIPTION": "적들에게 #y둔화를 부여합니다. 만약 #y둔족 수치가 #b0 에 도달하면, #y둔화는 제거됩니다."
+  },
+  {
+  "PROPER_NAME": "카운터",
+  "NAMES": [
+    "카운터",
+    "카운터를",
+    "Counter",
+    "counter",
+    "Counter.",
+    "counter."
+  ],
+  "DESCRIPTION": "#y피격시 카운터의 개수만큼 적에게 반사 데미지를 입힙니다. 카운터는 다음 턴의 시작시 제거됩니다."
+  },
+  {
+    "PROPER_NAME": "스플래시",
+    "NAMES": [
+      "스플래시",
+      "Splash",
+      "splash",
+      "splash."
+    ],
+    "DESCRIPTION": "타겟 이외의 모든 적에게 절반(소숫점 이하 버림)의 데미지를 가합니다."
+  },
+  {
+    "PROPER_NAME": "재동",
+    "NAMES": [
+      "재동",
+      "Cooldown",
+      "cooldown"
+    ],
+    "DESCRIPTION": "이 카드를 사용할 때마다 수치가 #b1 감소합니다. 만약 수치가 #b0 에 도달하면 추가 효과가 발동됩니다."
+  },
+  {
+    "PROPER_NAME": "페어",
+    "NAMES": [
+      "페어",
+      "페어:",
+      "Pair",
+      "pair"
+    ],
+    "DESCRIPTION": "해당 이름을 가진 카드 #b1 장을 #y뽑을 #y카드 #y더미에서 #y손패로 가져옵니다."
+  },
+  {
+    "PROPER_NAME": "아쳐",
+    "NAMES": [
+      "아쳐",
+      "Archer",
+      "archer"
+    ],
+    "DESCRIPTION": "이 카드는 #y가시, #y분노, #y날카로운 #y껍질과 #y몸 #y말기를 #b무시합니다."
+  },
+  {
+    "PROPER_NAME": "인술",
+    "NAMES": [
+      "인술",
+      "인술을",
+      "Ninjutsu",
+      "ninjutsu"
+    ],
+    "DESCRIPTION": "턴 시작시 #b1 개의 #y수리검을 획득합니다. #y인술이 추가적으로 상승될 때마다 #y수리검의 타격 횟수가 #b1 씩 증가합니다."
+  },
+  {
+    "PROPER_NAME": "구속",
+    "NAMES": [
+      "구속",
+      "구속을",
+      "Entangled",
+      "entangled"
+    ],
+    "DESCRIPTION": "#y공격 카드를 사용할 수 없습니다. 턴 시작시 스택을 #b1 감소시킵니다."
+  },
+
+  {
+    "PROPER_NAME": "언데드",
+    "NAMES": [
+      "언데드",
+      "Undead",
+      "undead",
+      "Undead:",
+      "undead:"
+    ],
+    "DESCRIPTION": "이 카드가 #y소멸 되었을 때 효과가 발동됩니다."
+  },
+  {
+    "PROPER_NAME": "마비",
+    "NAMES": [
+      "마비",
+      "마비를",
+      "Vampire",
+      "vampire"
+    ],
+    "DESCRIPTION": "공격한 적에게 #y실제로 #y타격한 데미지만큼 #y마비독을 부여합니다. 만일 #y마비독이 #b60 에 도달하면, 해당 적을 #y스턴시키고, 해당 적은 #y스턴 #y내성을 #b1 획득합니다."
+  },
+  {
+    "PROPER_NAME": "주술",
+    "NAMES": [
+      "주술",
+      "주술을",
+      "Cursed",
+      "cursed",
+      "Cursed:",
+      "cursed:"
+    ],
+    "DESCRIPTION": "#y카드 #y더미에 있는 #b저주 #b카드의 수만큼, 이 효과가 발동됩니다."
+  },
+  {
+    "PROPER_NAME": "화상",
+    "NAMES": [
+      "화상",
+      "화상을",
+      "Burn",
+      "burn",
+      "Burn:",
+      "burn:"
+    ],
+    "DESCRIPTION": "턴 종료시 만약 적이 #y공격할 #y의도가 있다면, 그 적에게 #y데미지를 #y가합니다. 화상은 턴 시작시 제거됩니다."
+  },
+  {
+    "PROPER_NAME": "잔여횟수",
+    "NAMES": [
+      "잔여횟수",
+      "잔여 횟수",
+      "잔여횟수:"
+    ],
+    "DESCRIPTION": "일정 횟수 사용시 #y소멸합니다."
+  },
+  {
+    "PROPER_NAME": "마도생명체",
+    "NAMES": [
+      "마도생명체",
+      "Magical Ignition",
+      "Magical_ignition.",
+      "Magical_ignition",
+      "magical_ignition"
+    ],
+    "DESCRIPTION": "전투 시작시, #y라왈의 #y방패와 #y라왈의 #y창을 뽑을 카드 더미에 추가합니다. 해당 카드들은 이 카드의 강화 횟수를 공유합니다."
+  },
+  {
+    "PROPER_NAME": "메테오",
+    "NAMES": [
+      "메테오",
+      "메테오를",
+      "메테오가",
+      "메테오로",
+      "Meteor",
+      "Meteor.",
+      "meteor",
+      "meteor."
+    ],
+    "DESCRIPTION": "오브 : 무작위의 적에게 데미지를 가합니다. 메테오 카드를 사용할수록 데미지가 증가합니다."
+  },
+  {
+    "PROPER_NAME": "다크파이터",
+    "NAMES": [
+      "다크파이터",
+      "Dark Fighter",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "이 카드가 #y손패에 있는 상태에서 #y방어도를 얻으면, 이번 턴 이 카드의 코스트를 #b1 감소시킵니다."
+  },
+  {
+    "PROPER_NAME": "라이프링크",
+    "NAMES": [
+      "라이프링크",
+      "라이프_링크",
+      "라이프링크를",
+      "라이프_링크를",
+      "Lifelink",
+      "Lifelink.",
+      "lifelink",
+      "lifelink."
+    ],
+    "DESCRIPTION": "완벽하게 방어한 데미지만큼 적의 체력을 감소시킵니다. 코스트가 #b1 이상인 공격 카드를 사용할시 #b1 씩 감소합니다."
+  },
+  {
+    "PROPER_NAME": "견고",
+    "NAMES": [
+      "견고",
+      "견고를",
+      "견고:",
+      "Fortress",
+      "Fortress:",
+      "fortress",
+      "fortress:"
+    ],
+    "DESCRIPTION": "방어도가 해당 수치 이상일때 이 효과를 얻습니다."
+  },
+  {
+    "PROPER_NAME": "강직",
+    "NAMES": [
+      "강직",
+      "강직을",
+      "강직:",
+      "Armor",
+      "Armor:",
+      "armor",
+      "armor:"
+    ],
+    "DESCRIPTION": "방어도가 해당 수치 이상일때 사용가능합니다."
+  },
+  {
+    "PROPER_NAME": "봉인 해제",
+    "NAMES": [
+      "봉인해제",
+      "봉인 해제",
+      "봉인_해제",
+      "봉인해제:",
+      "Release",
+      "Release:",
+      "release",
+      "release:"
+    ],
+    "DESCRIPTION": "방어가 0 인 경우나, 흐릿함 상태인 경우 이 효과를 발동합니다."
+  },
+
+  {
+    "PROPER_NAME": "심해",
+    "NAMES": [
+      "심해",
+      "Deep Sea",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
+  },
+  {
+    "PROPER_NAME": "수압",
+    "NAMES": [
+      "수압",
+      "수압을",
+      "Water Pressure",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
+  },
+  {
+    "PROPER_NAME": "마물술사",
+    "NAMES": [
+      "마물술사",
+      "Beast Tamer",
+      "Dark_fighter.",
+      "Dark_fighter",
+      "dark_fighter"
+    ],
+    "DESCRIPTION": "#y휘발성, #y소멸. 소멸되었을때 #b1 #y마물을 추가합니다."
+  },
+  {
+    "PROPER_NAME": "임시체력",
+    "NAMES": [
+      "임시체력",
+      "임시체력을"
+    ],
+    "DESCRIPTION": "전투 종료시 임시체력은 소멸됩니다."
+  },
+  {
+    "PROPER_NAME": "자동발동",
+    "NAMES": [
+      "자동발동"
+    ],
+    "DESCRIPTION": "이 카드를 뽑는 순간 자동적으로 효과가 발동됩니다."
+  },
+
+
+
+
+
+
+  {
+    "PROPER_NAME": "Sailor",
+    "NAMES": [
+      "Sailor",
+      "sailor",
+      "Sailor.",
+      "Sailor:"
+    ],
+    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+  },
+  {
+    "PROPER_NAME": "Beast Tamer",
+    "NAMES": [
+      "Beast Tamer",
+      "Beast_tamer.",
+      "Beast_tamer",
+      "beast_tamer"
+    ],
+    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+  },
+  {
+    "PROPER_NAME": "Cursed Shadows",
+    "NAMES": [
+      "Cursed Shadows",
+      "Cursed_shadows.",
+      "Cursed_shadows",
+      "cursed_shadows"
+    ],
+    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+  }
+]

@@ -5282,8 +5282,8 @@
   },
   "aigisMod:Heidemarie": {
     "NAME": "Heidemarie",
-    "DESCRIPTION": "Deal !D! 13 splash damage. NL Strike cards gain !M! 1 more damage when you play a Defend (Killzone Make). NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "Deal !D! 15 splash damage. NL Strike cards gain !M! 2 more damage when you play a Defend. NL 消耗 。",
+    "DESCRIPTION": "Deal !D! 13 splash damage. NL Strike cards gain !M! 1 more damage when you play a Defend (Killzone Make). NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Deal !D! 15 splash damage. NL Strike cards gain !M! 2 more damage when you play a Defend. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Artillery Soldier"
     ]
@@ -5306,8 +5306,8 @@
   },
   "aigisMod:AirElemental": {
     "NAME": "Air Elemental",
-    "DESCRIPTION": "造成 !D! 点伤害。to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL 消耗 。",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies twice. NL Scry !M! NL Draw 1 card. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -5345,27 +5345,27 @@
     ]
   },
   "aigisMod:Heleus": {
-    "NAME": "赫琉斯",
+    "NAME": "Heleus",
     "DESCRIPTION": "Exhaust 1 Character card from draw pile to add 1 Ghost of Icy Death to hand.",
     "UPGRADE_DESCRIPTION": "Innate. Exhaust 1 Character card from draw pile to add 1 Ghost of Icy Death to hand.",
     "EXTENDED_DESCRIPTION" : [
-      "死冰的亚神"
+      "Demigod of Icy Death"
     ]
   },
   "aigisMod:IcyDeath": {
-    "NAME": "死冰的亡魂",
-    "DESCRIPTION": "Ethereal NL Gain !M! 2 aigismod:damage_aura. NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "Ethereal NL Gain !M! 4 aigismod:damage_aura. NL 消耗 。",
+    "NAME": "Ghost of Icy Death",
+    "DESCRIPTION": "Ethereal NL Gain !M! 2 aigismod:damage_aura. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Ethereal NL Gain !M! 4 aigismod:damage_aura. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Muret": {
-    "NAME": "米雷",
+    "NAME": "Muret",
     "DESCRIPTION": "Enemy loses 12 HP. NL Scry 3 !M!. NL Draw 1 card.",
     "UPGRADE_DESCRIPTION": "Enemy loses 12 HP. NL Scry 5 !M!. NL Draw 1 card.",
     "EXTENDED_DESCRIPTION" : [
-      "帝国采掘教官",
+      "Imperial Excavation Instructor",
       "Enemy loses 12 HP. NL Scry 3 !M!. NL Draw 2 cards."
     ]
   },
