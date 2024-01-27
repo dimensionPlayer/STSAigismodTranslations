@@ -442,104 +442,104 @@
 
 
         "aigisMod:WaterPressure": {
-                "NAME": "Water Pressure",
-                "DESCRIPTIONS": ["At the end of turn, lose #b", " #yHP, or all #yHP if this has #b7 stacks, except bosses."]
+                "NAME": "水压",
+                "DESCRIPTIONS": ["回合结束时，失去 #b", " #y生命 。如果高于 #b7 层则立即死亡，BOSS除外。"]
         },
         "aigisMod:DrownedEnemy": {
-                "NAME": "Drown",
-                "DESCRIPTIONS": ["At the start of turn, lose #b", " #yHP."]
+                "NAME": "溺水",
+                "DESCRIPTIONS": ["回合开始时，失去 #b", " #y生命 。"]
         },
         "aigisMod:HellbeastTraining": {
-                "NAME": "Hellbeast Training",
-                "DESCRIPTIONS": ["#yHellbeast become cost #b0 and gain #b", " damage."]
+                "NAME": "猛兽训练",
+                "DESCRIPTIONS": [" #y地狱猛兽 耗能变为 #b0 ，并且伤害提高 #b", " 点。"]
         },
         "aigisMod:BoostBeast": {
-                "NAME": "Boost Beast",
-                "DESCRIPTIONS": ["When you play a #yHellbeast, gain #b", " #yStrength."]
+                "NAME": "猛兽增强",
+                "DESCRIPTIONS": ["每当打出 #y地狱猛兽 ，获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:FullPowerYell": {
-                "NAME": "Full Power Yell!",
-                "DESCRIPTIONS": ["When you play a #yHellbeast, gain #b", " #yBlock."]
+                "NAME": "全力吼叫！",
+                "DESCRIPTIONS": ["每当打出 #y地狱猛兽 ，获得 #b", " 点 #y格挡 。"]
         },
         "aigisMod:GreatWhirlpool": {
-                "NAME": "Great Whirlpool",
-                "DESCRIPTIONS": ["At the end of your turn, gain #b", " #yBlock for each of your #yWater #yPressure."]
+                "NAME": "巨型漩涡",
+                "DESCRIPTIONS": ["回合结束时，每有一层 #y水压 ，获得 #b", " 点 #y格挡 。"]
         },
         "aigisMod:SpinningSlash": {
-                "NAME": "Spinning Slash",
-                "DESCRIPTIONS": ["Whenever you #yExhaust a card, this enemy takes #b", " #ydamage."]
+                "NAME": "旋风劈砍",
+                "DESCRIPTIONS": ["每 #y消耗 一张牌，受到 #b", " 点 #y伤害 。"]
         },
         "aigisMod:FierceSeas": {
-                "NAME": "Fierce Seas",
-                "DESCRIPTIONS": ["Whenever you gain #yWater #yPressure, gain #b", " #yStrength."]
+                "NAME": "凶险之海",
+                "DESCRIPTIONS": ["每当获得 #y水压，获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:DragonPalaceDance": {
-                "NAME": "Dragon Palace Dance",
-                "DESCRIPTIONS": ["You take no damage from #yWater #yPressure. Whenever you gain #yWater #yPressure, apply #b", " #yWeak to all enemies."]
+                "NAME": "龙宫之舞",
+                "DESCRIPTIONS": ["无视来自 #y水压 的伤害。每当获得 #y水压 ，对所有敌人施加 #b", " 层 #y虚弱 。"]
         },
         "aigisMod:AerialSupremacy": {
-                "NAME": "Aerial Supremacy",
-                "DESCRIPTIONS": ["Negate the next #ydamage coming from yourself this turn. ", "Negate the next #b", " #ydamages coming from yourself this turn."]
+                "NAME": "空中霸主",
+                "DESCRIPTIONS": ["本回合内无视下一次 #y伤害 。", "本回合内无视下 #b", " 次 #y伤害 。"]
         },
         "aigisMod:StormArrow": {
-                "NAME": "Storm Arrow",
-                "DESCRIPTIONS": ["Whenever you play #yAir #ySignal, deal #b", " #ydamage to ALL enemies."]
+                "NAME": "暴风箭矢",
+                "DESCRIPTIONS": ["每当打出 #y空域信标 ，对所有敌人造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:Aerobatics": {
-                "NAME": "Aerobatics",
-                "DESCRIPTIONS": ["Negate the next damage of #b", " or lower."]
+                "NAME": "空中杂技",
+                "DESCRIPTIONS": ["无视下一次低于 #b", " 点的伤害。"]
         },
         "aigisMod:WarshipArtillery": {
-                "NAME": "Warship Artillery",
-                "DESCRIPTIONS": ["When you play a #ySailor or #yDeep #ySea car, deal #b", " #ydamage to ALL enemies."]
+                "NAME": "舰炮开火",
+                "DESCRIPTIONS": ["每当打出 #y水手 或 #y深海 牌，对所有敌人造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:TailwindPrayer": {
-                "NAME": "Tailwind's Prayer",
-                "DESCRIPTIONS": ["When you play an #yAir #ySignal, gain #b", " #yTemporal #yHP."]
+                "NAME": "祈愿东风",
+                "DESCRIPTIONS": ["每当打出 #y空域信标 ，获得 #b", " 点 #y临时生命 。"]
         },
         "aigisMod:HeavenlyAirspace": {
-                "NAME": "Heavenly Airspace",
-                "DESCRIPTIONS": ["When you play an #yAir #ySignal apply #b", " #yVulnerable to a random enemy and remove your #yWeak and #yVulnerable."]
+                "NAME": "天堂空域",
+                "DESCRIPTIONS": ["每当打出 #y空域信标 ，对随机敌人施加 #b", " 层 #y易伤 ，并移除自身 #y虚弱 和 #y易伤 。"]
         },
         "aigisMod:Eureka": {
-                "NAME": "Eureka!",
-                "DESCRIPTIONS": ["At the start of turn, add #b", " #yHellbeast, #yWater #yPressure, or #yAir #ySignal at random to hand."]
+                "NAME": "我找到了！",
+                "DESCRIPTIONS": ["回合开始时，随机将 #b", " 张 #y地狱猛兽 、 #y水压 或 #y空域信标 加入手牌。"]
         },
         "aigisMod:DevouringGreatwolf": {
-                "NAME": "Devouring Greatwolf",
-                "DESCRIPTIONS": ["#yHellbeast deal #b", " more damage. Increase this damage by #b", " at the start of turn."]
+                "NAME": "吞噬巨狼",
+                "DESCRIPTIONS": [" #y地狱猛兽 额外造成 #b", " 点伤害。回合开始时额外提高 #b", " 点。"]
         },
         "aigisMod:SuppressiveRounds": {
-                "NAME": "Suppressive Rounds",
-                "DESCRIPTIONS": ["At the start of turn, gain #b", " #yVigor."]
+                "NAME": "镇压指环",
+                "DESCRIPTIONS": ["回合开始时，获得 #b", " 层 #y活力 。"]
         },
         "aigisMod:ChaosDominance": {
-                "NAME": "Chaos Dominance",
-                "DESCRIPTIONS": ["At the start of turn, add #b", " #yChaos #yElemental to hand."]
+                "NAME": "混沌支配",
+                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y混沌元素 加入手牌。"]
         },
         "aigisMod:MiracleDiet": {
-                "NAME": "Miracle Diet",
-                "DESCRIPTIONS": ["At the end of this turn, lose #b", " #yHP."]
+                "NAME": "奇迹节食",
+                "DESCRIPTIONS": ["回合结束时，失去 #b", " 点 #y生命 。"]
         },
         "aigisMod:AcidBomb": {
-                "NAME": "Acid Bomb",
-                "DESCRIPTIONS": ["When you use a #ypotion, deal #b", " #ydamage to #yeveryone."]
+                "NAME": "酸性炸弹",
+                "DESCRIPTIONS": ["每当使用 #y药水 ，对 #y所有人 造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:ElixirSpray": {
-                "NAME": "Elixir Spray",
-                "DESCRIPTIONS": ["On victory, receive a random #ypotion. One per combat."]
+                "NAME": "灵药喷洒",
+                "DESCRIPTIONS": ["胜利后，获得一瓶随机 #y药水 ，不叠加。"]
         },
         "aigisMod:PreciousMetals": {
-                "NAME": "Precious Metals",
-                "DESCRIPTIONS": ["At the start of turn, take #b", " damage. On victory, gain #b", " #yGold."]
+                "NAME": "贵重金属",
+                "DESCRIPTIONS": ["回合开始时，受到 #b", " 点伤害。胜利后，获得 #b", " #y金币 。"]
         },
         "aigisMod:InmortalFeast": {
-                "NAME": "Immortal Feast",
-                "DESCRIPTIONS": ["Whenever you exhaust an #yUndead or #yCurse, gain #b", " #yStrength."]
+                "NAME": "不朽盛宴",
+                "DESCRIPTIONS": ["每当消耗 #y不死 或 #y诅咒 牌，获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:CursedShadows": {
-                "NAME": "Cursed Shadows",
-                "DESCRIPTIONS": ["Take #b", " more damage from #yattack #ycards. Gain #b", " #yBlock at the end of turn."]
+                "NAME": "咒影",
+                "DESCRIPTIONS": ["受到来自 #y攻击牌 的伤害额外提高 #b", " 点。回合结束时，获得 #b", " 点 #y格挡 。"]
         },
 
 

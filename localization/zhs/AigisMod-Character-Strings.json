@@ -46,13 +46,13 @@
 
   "aigisMod:TheMiracleManCharacter": {
     "NAMES": [
-      "The Miracle Man",
-      "the Miracle Man"
+      "奇迹之男",
+      "奇迹之男"
     ],
     "TEXT": [
-      "Dan, a martial artist, is always pursuing power. Looking for enemies stronger than himself, this monk will ascend the Spire.",
-      "You fire up, knowing you are gonna get a tough opponent to fight",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~monk,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "武术家丹，总是在追求力量的道路上。为了寻求比自己强大的敌人而前来攀爬这座高塔。",
+      "你知道即将面对一名强大的敌人，战意高涨...",
+      "在一条昏暗的街上，你遇见几个戴着兜帽的人在进行某种黑暗的仪式。当你靠近时，他们全都同时转身面对你，让你觉得十分诡异。 其中个子最高的一个微微一笑，露出了长长的尖牙，向你伸出了一只苍白而瘦长的手： NL ~\"加入~ ~我们~ ~道士。~ ~一起~ ~感受~ ~高塔~ ~的~ ~温暖~ ~吧。\"~"
     ]
   }
 }

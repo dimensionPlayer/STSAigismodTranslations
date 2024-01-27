@@ -121,19 +121,19 @@
 
 
   "aigisMod:AigisMiracle": {
-    "NAME": "Aigis Miracle",
+    "NAME": "埃癸斯奇迹",
     "DESCRIPTIONS": [
-      "You hear the voice of the Goddess Aigis. NL She asks you for what you need.",
-      "You feel an immense strength, but wonder how long your body will last.",
-      "An ally got summoned to help you.",
-      "You feel refreshed and motivated."
+      "你听见了女神埃癸斯的呼唤。 NL 她询问你有什么需求。",
+      "你感受到一股不可思议的力量，但不知道你的身体能坚持多久。",
+      "一名同伴响应你的召唤而来。",
+      "你感到精神倍增，身体充满了活力。"
     ],
     "OPTIONS": [
-      "[Power] #gTransform #gALL #gStrikes into #gMiracle #gStrikes. Gain the Aigis Statue.",
-      "[Support] #gAdd #ga #gCard to your deck.",
-      "[Endurance] #gMax #gHP #b+8",
-      "[LOCKED] You don't have Strikes.",
-      "[Leave]"
+      "[力量] #g将所有打击转化为奇迹打击。 获得埃癸斯雕像。",
+      "[支援] #g选择一张牌加入牌组。 ",
+      "[耐性] #g最大生命值 #b+8 #g。 ",
+      "[锁定] 你没有打击。",
+      "[离开]"
     ]
   }
 }

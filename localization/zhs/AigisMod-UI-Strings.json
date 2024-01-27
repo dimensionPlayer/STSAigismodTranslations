@@ -355,72 +355,72 @@
 
   "PheasantAction": {
     "TEXT": [
-      "return to bottom of Draw Pile."
+      "回到抽牌堆底部。"
     ]
   },
 
   "PotalAction": {
     "TEXT": [
-      "Choose up to ", " Aerial cards to send to Discard Pile.",
-      "Choose an Aerial card to send to Discard Pile.",
-      "I don't have Aerial cards in Draw Pile..."
+      "选择最多 ", " 张牌放入弃牌堆。",
+      "选择1张空域牌放入弃牌堆。",
+      "我的抽牌堆没有空域牌..."
     ]
   },
 
   "PuniruAction": {
     "TEXT": [
-      "Choose 1 card to add to your hand."
+      "选择1张牌加入手牌。"
     ]
   },
 
   "AmelieAction": {
     "TEXT": [
-      "Select a Sailor Attack Card to add to hand.",
-      "I don't have a Sailor Attack Card in Draw Pile..."
+      "选择1张水手攻击牌加入手牌。",
+      "我的抽牌堆没有水手攻击牌..."
     ]
   },
 
   "RenataAction": {
     "TEXT": [
-      "Choose up to ", " cards to send to Discard Pile."
+      "选择最多 ", " 张牌放入弃牌堆。"
     ]
   },
 
   "ThrudAction": {
     "TEXT": [
-      "Choose 1 Aerial card to send to Discard Pile."
+      "选择1张空域牌放入弃牌堆。"
     ]
   },
 
   "JacquelineAction": {
     "TEXT": [
-      "Select a Sailor or Deep Sea card to add to hand.",
-      "I don't have a Sailor or Deep Sea card in Discard Pile..."
+      "选择1张水手或深海牌加入手牌",
+      "我的弃牌堆没有水手或深海牌..."
     ]
   },
 
   "NoelAction": {
     "TEXT": [
-      "duplicate."
+      "选择要复制的牌。"
     ]
   },
 
   "ShirleyAction": {
     "TEXT": [
-      "Choose a Spirit User, Elemental, Summoner or Summon card to add to hand from Draw Pile or Discard Pile.",
-      "Choose up to 2 Spirit User, Elemental, Summoner or Summon cards to add to hand from Draw Pile or Discard Pile."
+      "选择1张精灵使、元素使、召唤师或召唤物从抽牌堆或弃牌堆加入手牌。",
+      "选择最多2张精灵使、元素使、召唤师或召唤物从抽牌堆或弃牌堆加入手牌。"
     ]
   },
 
   "RefletAction": {
     "TEXT": [
-      "Choose a Light Elemental to add to hand from Draw Pile or Discard Pile."
+      "选择1张光元素从抽牌堆或弃牌堆加入手牌。"
     ]
   },
 
   "LatourAction": {
     "TEXT": [
-      "keep."
+      "选择要保留的牌。"
     ]
   }
 }

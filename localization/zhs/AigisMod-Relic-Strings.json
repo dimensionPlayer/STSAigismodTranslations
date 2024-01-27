@@ -459,92 +459,92 @@
 
 
   "aigisMod:Endurance": {
-    "NAME": "Endurance Up",
-    "FLAVOR": "Dan: Reaching beyond my limits is my reason for living!",
+    "NAME": "坚韧不拔",
+    "FLAVOR": "丹：我的存在意义就是超越极限！",
     "DESCRIPTIONS": [
-      "Gain #b2 #yTemporal #yHP when you play a card that was created in combat.",
-      "Usable up to #b5 times per turn."
+      "打出战斗中生成的牌时，获得 #b2 点 #y临时生命 。",
+      "每回合最多触发 #b5 次。"
     ]
   },
   "aigisMod:Miracle": {
-    "NAME": "Miracle Man",
-    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+    "NAME": "奇迹之男",
+    "FLAVOR": "女神埃癸斯：不要放弃，人类。现在，我女神埃癸斯，将赐予你我的力量。",
     "DESCRIPTIONS": [
-      "Gain #b3 #yTemporal #yHP when you play a card that was created in combat.",
-      "Usable up to #b5 times per turn."
+      "打出战斗中生成的牌时，获得 #b3 点 #y临时生命 。",
+      "每回合最多触发 #b5 次。"
     ]
   },
   "aigisMod:DepthTorpedo": {
-    "NAME": "Depth Torpedo",
-    "FLAVOR": "Wirbel: I wish I could dive into people's minds and solve everything.",
+    "NAME": "深海鱼雷",
+    "FLAVOR": "维贝尔：要是能潜入人们的心里，解决问题就方便多了。",
     "DESCRIPTIONS": [
-      "The first time in a combat you lose HP while you have #yWater #yPressure, all enemies lose #b2 #yStrength."
+      "在 #y水压 状态下首次失去生命时，所有敌人失去 #b2 点 #y力量 。"
     ]
   },
   "aigisMod:SharkTide": {
-    "NAME": "Shark Tide",
-    "FLAVOR": "Fine: I came from an underwater city. I'll do my best to study the dry land!",
+    "NAME": "鲨鱼潮汐",
+    "FLAVOR": "芬恩：我来自水下城市，我会尽我所能学习旱地的文化！",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of turn if you have #b2 or more #yWater #yPressure."
+      "当你有 #b2 层或以上 #y水压 状态时，每回合开始时获得 [E] 。"
     ]
   },
   "aigisMod:AerialFight": {
-    "NAME": "Rampage Takeoff",
-    "FLAVOR": "Krehl: I'm Krehl, the Security Forces Flight Commander. Um, can I go now?",
+    "NAME": "暴走飞跃",
+    "FLAVOR": "克雷尔：我是克雷尔，警备部飞行队长。请问，我可以走了吗？",
     "DESCRIPTIONS": [
-      "Draw #b1 card when you draw an #yAir #ySignal. Usable #yTwice per turn and while you have cards in your #ydraw #ypile."
+      "每当抽到 #y空域信标 时抽 #b1 张牌。每回合最多触发 #y2 次，且仅在 #y抽牌堆 有牌时生效。"
     ]
   },
   "aigisMod:CaitSith": {
-    "NAME": "Cait Sith",
-    "FLAVOR": "Farne: I'm reading right now. ...Don't interrupt me.",
+    "NAME": "凯西猫",
+    "FLAVOR": "法尔内：我正在看书...别打扰我。",
     "DESCRIPTIONS": [
-      "Every #b10th #ycard #ycreated in a single combat (except in exhaust pile), add #b1 #yCait #ySith to your #yhand."
+      "每在战斗中 #y生成 #b10 #y张牌 ，将 #b1 张 #y凯西猫 加入手牌。"
     ]
   },
   "aigisMod:PumpUp": {
-    "NAME": "Pump Up",
-    "FLAVOR": "Gina: Men are so one-dimensional, eh?",
+    "NAME": "鼓气拳套",
+    "FLAVOR": "吉娜：男人都是很单纯的，对吧？",
     "DESCRIPTIONS": [
-      "At the start of your #b3rd turn, gain #b3 #yVigor, #b3 #yTemporal #yHP and #yHeal #b3 #yHP."
+      "每场战斗第 #b3 回合开始时，获得 #b3 层 #y活力 ， #b3 点 #y临时生命 ，并 #y回复 #b3 点 #y生命 。"
     ]
   },
   "aigisMod:AutoHeal": {
-    "NAME": "Auto Heal",
-    "FLAVOR": "Ur: With these claws, I can even defeat demons!",
+    "NAME": "自愈利爪",
+    "FLAVOR": "乌鲁：有了这幅爪子，连恶魔都不是我的对手！",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b1 #ydamage to ALL #yenemies. ",
-      "At the end of your turn, gain #b1 #yTemporal #yHP."
+      "回合开始时，对 #y所有敌人 造成 #b1 点伤害。",
+      "回合结束时，获得 #b1 点 #y临时生命 。"
     ]
   },
   "aigisMod:PearlGrace": {
-    "NAME": "Pearls' Grace",
-    "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
+    "NAME": "珍珠雅饰",
+    "FLAVOR": "利特瓦：深海中有很多强大的战士，我要向他们学习...!",
     "DESCRIPTIONS": [
-      "At the start of the combat, apply #b1 #yWater #bPressure to ALL #yenemies.",
-      "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
+      "战斗开始时，对 #y所有敌人 施加 #b1 层 #y深海 。",
+      "每当打出 #y深海 牌，对 #y随机敌人 造成 #y3 点伤害。"
     ]
   },
   "aigisMod:FiringCommand": {
-    "NAME": "Firing Command",
-    "FLAVOR": "Reanbell: As long as I am with you, any disadvantage turns into an advantage.",
+    "NAME": "开火指令",
+    "FLAVOR": "琳贝露：只要有我在，就能化险为夷。",
     "DESCRIPTIONS": [
-      "#ySailor cards apply their full effects even if #yWater #bPressure is not reduced."
+      " #y水手牌 可以无视 #y水压 需求触发效果。"
     ]
   },
   "aigisMod:VitalityMedicine": {
-    "NAME": "Secret Medicine of Vitality",
-    "FLAVOR": "Nicole: First of all, let's convert this place into an atelier. Assistant, can you bring my luggage?",
+    "NAME": "生命秘药",
+    "FLAVOR": "尼科尔：先把这里改造成工坊吧。助手，可以帮我拿下行李吗？",
     "DESCRIPTIONS": [
-      "#yCancel any #yDamage coming from yourself during the #yfirst #b2 #yturns of each combat. ",
-      "Gain #y1 #yPotion #ySlot."
+      "每场战斗的前 #b2 个回合，在自身回合 #y免疫所有伤害 。",
+      "获得 #y1 个 #y药水栏位 。"
     ]
   },
   "aigisMod:AigisStatue": {
-    "NAME": "Aigis Statue",
-    "FLAVOR": "Anna: But you can draw out her summon ability.",
+    "NAME": "埃癸斯雕像",
+    "FLAVOR": "安娜：你可以吸取她的召唤之力。",
     "DESCRIPTIONS": [
-      "Create a number of #yAigis #yStatue at the start of combat. Increase this amount by #b2 at the end of combat."
+      "战斗开始时，将相应数量的 #y埃癸斯雕像 加入抽牌堆。每场战斗结束时数量加 #b2 。"
     ]
   },
 
