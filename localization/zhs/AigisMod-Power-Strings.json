@@ -443,103 +443,103 @@
 
         "aigisMod:WaterPressure": {
                 "NAME": "水压",
-                "DESCRIPTIONS": ["回合结束时，失去 #b", " #y生命 。如果高于 #b7 层则立即死亡，BOSS除外。"]
+                "DESCRIPTIONS": ["回合结束时失去 #b", " 点 #y生命， 或者所有 #y生命，如果拥有 #b7 层以上，boss除外。"]
         },
         "aigisMod:DrownedEnemy": {
-                "NAME": "溺水",
-                "DESCRIPTIONS": ["回合开始时，失去 #b", " #y生命 。"]
+                "NAME": "淹没",
+                "DESCRIPTIONS": ["回合开始时，失去 #b", " 点 #y生命 。"]
         },
         "aigisMod:HellbeastTraining": {
-                "NAME": "猛兽训练",
-                "DESCRIPTIONS": [" #y地狱猛兽 耗能变为 #b0 ，并且伤害提高 #b", " 点。"]
+                "NAME": "魔兽调教",
+                "DESCRIPTIONS": ["#y魔兽刻耳柏洛斯耗能变为 #b0 并且增加 #b", " 点伤害。"]
         },
         "aigisMod:BoostBeast": {
-                "NAME": "猛兽增强",
-                "DESCRIPTIONS": ["每当打出 #y地狱猛兽 ，获得 #b", " 点 #y力量 。"]
+                "NAME": "野兽增速",
+                "DESCRIPTIONS": ["当你打出 #y魔兽刻耳柏洛斯 时，获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:FullPowerYell": {
-                "NAME": "全力吼叫！",
-                "DESCRIPTIONS": ["每当打出 #y地狱猛兽 ，获得 #b", " 点 #y格挡 。"]
+                "NAME": "全力应援!",
+                "DESCRIPTIONS": ["当你打出 #y魔兽刻耳柏洛斯 时，获得 #b", " 点 #y格挡 。"]
         },
         "aigisMod:GreatWhirlpool": {
-                "NAME": "巨型漩涡",
-                "DESCRIPTIONS": ["回合结束时，每有一层 #y水压 ，获得 #b", " 点 #y格挡 。"]
+                "NAME": "大涡的波动",
+                "DESCRIPTIONS": ["回合结束时，你每有一层 #y水压 ，获得 #b", " 点 #y格挡 。"]
         },
         "aigisMod:SpinningSlash": {
-                "NAME": "旋风劈砍",
-                "DESCRIPTIONS": ["每 #y消耗 一张牌，受到 #b", " 点 #y伤害 。"]
+                "NAME": "回旋斩",
+                "DESCRIPTIONS": ["当你 #y消耗 牌时，这个敌人受到 #b", " 点 #y伤害 。"]
         },
         "aigisMod:FierceSeas": {
-                "NAME": "凶险之海",
-                "DESCRIPTIONS": ["每当获得 #y水压，获得 #b", " 点 #y力量 。"]
+                "NAME": "波涛汹涌之海的象征",
+                "DESCRIPTIONS": ["当你获得 #y水压 时， 获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:DragonPalaceDance": {
                 "NAME": "龙宫之舞",
-                "DESCRIPTIONS": ["无视来自 #y水压 的伤害。每当获得 #y水压 ，对所有敌人施加 #b", " 层 #y虚弱 。"]
+                "DESCRIPTIONS": ["你不会受到来自 #y水压 的伤害。 当你获得 #y水压 时, 对所有敌人施加 #b", " 层 #y虚弱 。"]
         },
         "aigisMod:AerialSupremacy": {
-                "NAME": "空中霸主",
-                "DESCRIPTIONS": ["本回合内无视下一次 #y伤害 。", "本回合内无视下 #b", " 次 #y伤害 。"]
+                "NAME": "霸空的机关少女",
+                "DESCRIPTIONS": ["本回合阻止下1次受到的来自你自己的伤害。 ", "本回合阻止下 #b", " 次受到的来自你自己的 #y伤害 。"]
         },
         "aigisMod:StormArrow": {
-                "NAME": "暴风箭矢",
-                "DESCRIPTIONS": ["每当打出 #y空域信标 ，对所有敌人造成 #b", " 点 #y伤害 。"]
+                "NAME": "风暴之矢",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，对所有敌人造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:Aerobatics": {
-                "NAME": "空中杂技",
-                "DESCRIPTIONS": ["无视下一次低于 #b", " 点的伤害。"]
+                "NAME": "曲技飞行",
+                "DESCRIPTIONS": ["阻止下1次受到的 #b", " 或以下的伤害。"]
         },
         "aigisMod:WarshipArtillery": {
-                "NAME": "舰炮开火",
-                "DESCRIPTIONS": ["每当打出 #y水手 或 #y深海 牌，对所有敌人造成 #b", " 点 #y伤害 。"]
+                "NAME": "大舰巨炮",
+                "DESCRIPTIONS": ["当你打出 #y水兵 或 #y深海 牌时，对所有敌人造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:TailwindPrayer": {
-                "NAME": "祈愿东风",
-                "DESCRIPTIONS": ["每当打出 #y空域信标 ，获得 #b", " 点 #y临时生命 。"]
+                "NAME": "顺风的祈祷",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，获得 #b", " 点 #y临时生命 。"]
         },
         "aigisMod:HeavenlyAirspace": {
-                "NAME": "天堂空域",
-                "DESCRIPTIONS": ["每当打出 #y空域信标 ，对随机敌人施加 #b", " 层 #y易伤 ，并移除自身 #y虚弱 和 #y易伤 。"]
+                "NAME": "天惠空域",
+                "DESCRIPTIONS": ["当你打出 #y空中标记 时，对随机敌人施加 #b", " 层 #y易伤，并且移除你的所有 #y虚弱 和 #y易伤 。"]
         },
         "aigisMod:Eureka": {
-                "NAME": "我找到了！",
-                "DESCRIPTIONS": ["回合开始时，随机将 #b", " 张 #y地狱猛兽 、 #y水压 或 #y空域信标 加入手牌。"]
+                "NAME": "尤里卡!",
+                "DESCRIPTIONS": ["在回合开始时，随机将 #b", " #y魔兽刻耳柏洛斯 、 #y水压 或 #y空中标记 加入手牌。"]
         },
         "aigisMod:DevouringGreatwolf": {
-                "NAME": "吞噬巨狼",
-                "DESCRIPTIONS": [" #y地狱猛兽 额外造成 #b", " 点伤害。回合开始时额外提高 #b", " 点。"]
+                "NAME": "噬天的大狼",
+                "DESCRIPTIONS": ["#y魔兽刻耳柏洛斯 额外造成 #b", " 点伤害。 回合开始时，此伤害提升 #b", " 点。"]
         },
         "aigisMod:SuppressiveRounds": {
-                "NAME": "镇压指环",
-                "DESCRIPTIONS": ["回合开始时，获得 #b", " 层 #y活力 。"]
+                "NAME": "镇压用散弹",
+                "DESCRIPTIONS": ["在回合开始时，获得 #b", " 层 #y活力 。"]
         },
         "aigisMod:ChaosDominance": {
                 "NAME": "混沌支配",
-                "DESCRIPTIONS": ["回合开始时，将 #b", " 张 #y混沌元素 加入手牌。"]
+                "DESCRIPTIONS": ["在回合开始时，将 #b", " 张 #y混沌元素 加入手牌。"]
         },
         "aigisMod:MiracleDiet": {
                 "NAME": "奇迹节食",
-                "DESCRIPTIONS": ["回合结束时，失去 #b", " 点 #y生命 。"]
+                "DESCRIPTIONS": ["在回合结束时，失去 #b", " 点 #y生命 。"]
         },
         "aigisMod:AcidBomb": {
-                "NAME": "酸性炸弹",
-                "DESCRIPTIONS": ["每当使用 #y药水 ，对 #y所有人 造成 #b", " 点 #y伤害 。"]
+                "NAME": "强酸炸弹",
+                "DESCRIPTIONS": ["当你使用1瓶 #y药水时， 对 #y所有人 造成 #b", " 点 #y伤害 。"]
         },
         "aigisMod:ElixirSpray": {
-                "NAME": "灵药喷洒",
-                "DESCRIPTIONS": ["胜利后，获得一瓶随机 #y药水 ，不叠加。"]
+                "NAME": "长生不老药散布",
+                "DESCRIPTIONS": ["胜利时，获得随机 #y药水 。 每场战斗一次。"]
         },
         "aigisMod:PreciousMetals": {
-                "NAME": "贵重金属",
-                "DESCRIPTIONS": ["回合开始时，受到 #b", " 点伤害。胜利后，获得 #b", " #y金币 。"]
+                "NAME": "贵金属炼成",
+                "DESCRIPTIONS": ["在回合开始时， 收到 #b", " 点伤害。胜利时，获得 #b", " 枚 #y金币 。"]
         },
         "aigisMod:InmortalFeast": {
-                "NAME": "不朽盛宴",
-                "DESCRIPTIONS": ["每当消耗 #y不死 或 #y诅咒 牌，获得 #b", " 点 #y力量 。"]
+                "NAME": "不死者的飨宴",
+                "DESCRIPTIONS": ["每当你消耗 #y不死族 或 #y诅咒 时，获得 #b", " 点 #y力量 。"]
         },
         "aigisMod:CursedShadows": {
-                "NAME": "咒影",
-                "DESCRIPTIONS": ["受到来自 #y攻击牌 的伤害额外提高 #b", " 点。回合结束时，获得 #b", " 点 #y格挡 。"]
+                "NAME": "咒影的大结界",
+                "DESCRIPTIONS": ["额外受到 #b", " 点来自 #y攻击牌 的伤害。 在回合结束时，获得 #b", " 点 #y格挡 。"]
         },
 
 

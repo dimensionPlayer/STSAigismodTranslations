@@ -394,55 +394,50 @@
     "PROPER_NAME": "深海",
     "NAMES": [
       "深海",
-      "Deep_sea",
-      "Deep_sea.",
+      "深海。",
       "Deep_sea",
       "deep_sea"
     ],
-    "DESCRIPTION": "每当抽到这张牌，将 #b1 张 #y深海 加入手牌。"
+    "DESCRIPTION": "当你抽到此卡时+, 将 #b1 张 #y深海 加入手牌。"
   },
   {
     "PROPER_NAME": "水压",
     "NAMES": [
       "水压",
-      "Water Pressure",
-      "Water_pressure.",
+      "水压。",
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "回合开始时，失去对应层数 #y生命值 。如果超过 #b7 层，则立即死亡。"
+    "DESCRIPTION": "在角色回合开始时，失去 #yHP 。 如果到达 #b7 层, 则改为失去所有 #yHP 。"
   },
   {
-    "PROPER_NAME": "水手",
+    "PROPER_NAME": "水兵",
     "NAMES": [
-      "水手",
-      "Sailor",
-      "sailor",
+      "水兵",
+      "水兵",
       "Sailor.",
       "Sailor:"
     ],
-    "DESCRIPTION": "减少对应数值的 水压 ，并触发效果。"
+    "DESCRIPTION": "根据其数值减少你的水压层数并获得额外效果。"
   },
   {
-    "PROPER_NAME": "驯兽师",
+    "PROPER_NAME": "魔物使",
     "NAMES": [
-      "驯兽师",
-      "Beast Tamer",
-      "Beast_tamer.",
+      "魔物使",
+      "魔物使。",
       "Beast_tamer",
       "beast_tamer"
     ],
-    "DESCRIPTION": "自带 #y虚无 和 #y消耗 。 消耗 时，将 #b1 张 #y地狱猛兽 加入手牌。"
+    "DESCRIPTION": "这张卡拥有 #y虚无 和 #y消耗 。当被消耗时，将 #b1 张 #y魔兽刻耳柏洛斯 加入手牌。"
   },
   {
     "PROPER_NAME": "咒影",
     "NAMES": [
       "咒影",
-      "Cursed Shadows",
-      "Cursed_shadows.",
+      "咒影。",
       "Cursed_shadows",
       "cursed_shadows"
     ],
-    "DESCRIPTION": "回合结束时获得 #y格挡 。受到的 #y攻击伤害 提高。"
+    "DESCRIPTION": "回合结束时，获得 #y格挡 。 受到来自 #y攻击牌 的 #y伤害 提升。"
   }
 ]
