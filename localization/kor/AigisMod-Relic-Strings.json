@@ -1,0 +1,606 @@
+{
+  "aigisMod:PosterInvitation": {
+    "NAME": "간판소녀의 권유",
+    "FLAVOR": "쥬논 : 제 가게는 꽤 유명하다구요?",
+    "DESCRIPTIONS": [
+      "업그레이드된 #y쥬논 #b1 장을 덱에 추가합니다. 일반 전투와 엘리트 전투에서 얻는 #y카드 #y보상이 증가하지만, 일반 등급 카드만 증가합니다."
+    ]
+  },
+  "aigisMod:HappyWishes": {
+    "NAME": "근하의 미소",
+    "FLAVOR": "로젯트 : 망국을 위해 저는 이 검을 휘두릅니다.",
+    "DESCRIPTIONS": [
+      "업그레이드된 #y로젯트 #b1 장을 덱에 추가하거나 덱의 #y로젯트를 #b1 장 업그레이드합니다. 일반 등급 카드를 덱에 추가했을때, #y업그레이드합니다."
+    ]
+  },
+  "aigisMod:Ate": {
+    "NAME": "아테",
+    "FLAVOR": "귀인희 : 오니를 화나게 만들면 무서운 모습을 보게 될 거에요.",
+    "DESCRIPTIONS": [
+      "본래 코스트가 #b4 인 카드를 뽑으면 [E] 를 얻습니다."
+    ]
+  },
+  "aigisMod:DarkGuild": {
+    "NAME": "어둠 길드의 하인",
+    "FLAVOR": "아이린 : 신변보장부터 암살, 첩보까지, 뭐든 맡겨주세요.",
+    "DESCRIPTIONS": [
+      "#y암살이 발동되면, 카드를 #b1 장 뽑고 #y8 골드를 얻습니다 (골드는 전투당 1 번만 가능)"
+    ]
+  },
+  "aigisMod:MagicAcceleration": {
+    "NAME": "마도가속",
+    "FLAVOR": "토와 : 시간의 지배자가 가진 힘을 보여드리죠.",
+    "DESCRIPTIONS": [
+      "#y둔족이 #y둔화를 제거하지 않게 됩니다.",
+      " #y윗치 카드를 사용하면, 1 장 뽑습니다."
+    ]
+  },
+  "aigisMod:WhiteWitch": {
+    "NAME": "백마녀의 지혜",
+    "FLAVOR": "벨린다 : 엄마는 늘 참견하세요, 저 혼자서 할 수 있는데도...",
+    "DESCRIPTIONS": [
+      "전투 시작시 모든 적들에 #b1 #y둔족 (일시적 #y둔화) 을 부여합니다.",
+      " 한 턴에 #b2 장의 #y윗치 카드를 사용하면, 모든 적에게 #b3 데미지를 가합니다."
+    ]
+  },
+  "aigisMod:HealingTreasure": {
+    "NAME": "치유의 지보",
+    "FLAVOR": "리아나 : 상처뿐만이 아니라 마음도 치유하고 싶어요.",
+    "DESCRIPTIONS": [
+      "#g체력을 회복했을때, 덱에서 무작위 #y상태이상 카드 #b1 장을 소멸시킵니다."
+    ]
+  },
+  "aigisMod:DarknessAura": {
+    "NAME": "절: 암흑오라",
+    "FLAVOR": "암흑기사 : 이미 버린 목숨이다. 장기말로라도 써라.",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b1 #y암흑 #y기사 카드를 손패에 넣습니다.",
+      " 한 턴에 #y공격 카드를 사용하지 않았을 경우 모든 적에게 #b1 #y약화를 부여하고 #b8 #y방어도를 얻습니다."
+    ]
+  },
+  "aigisMod:AegisTreasure": {
+    "NAME": "신기의 계승자",
+    "FLAVOR": "안나 : 아이기스님의 무구인 신기는 본래 신이 사용하던 것입니다.",
+    "DESCRIPTIONS": [
+      "전투 시작시마다 #b1 #y민첩을 얻습니다. #y아이기스의 #y신기 카드를 #b1 장 덱에 넣습니다.",
+      " #y스킬 카드를 사용할 때마다 #b1 카운터를 얻습니다."
+    ]
+  },
+  "aigisMod:GodSlaying": {
+    "NAME": "신살의 영웅",
+    "FLAVOR": "빙의된 소녀 : 케라우노스에게 승리한 당신에게, 그 여신이 갖고 있던 신기를 드리겠습니다.",
+    "DESCRIPTIONS": [
+      "#y케라우노스의 #y신기 카드를 #b1 장 덱에 넣습니다.",
+      " 턴 종료시 [E] 가 없다면 모든 적에게 #b5 데미지를 가합니다."
+    ]
+  },
+  "aigisMod:HeroKing": {
+    "NAME": "영웅왕을 잇는 자",
+    "FLAVOR": "시빌라 : 모두가 왕자의 말을 기다리고 있어. 새로운 영웅왕의 말을.",
+    "DESCRIPTIONS": [
+      "#y구세의 #y검 카드를 #b1 장 덱에 넣습니다.",
+      " 턴 종료시 손패가 없다면 #b1 #y힘과 #b1 #y민첩을 얻습니다."
+    ]
+  },
+  "aigisMod:Fortress": {
+    "NAME": "난공불락의 요새",
+    "FLAVOR": "루이즈 : 나라는 없어졌어도 남은 백성들을 위해 싸우겠습니다.",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b2 #y민첩을 얻습니다. 턴 시작시마다 손패의 무작위 카드 #b1 장의 코스트를 #b1 증가시킵니다."
+    ]
+  },
+  "aigisMod:RoyalHighness": {
+    "NAME": "로얄 하이네스",
+    "FLAVOR": "시빌라 : 나와 왕자가 왕국을 만든다면... 분명 멋질거라 생각하지 않아?",
+    "DESCRIPTIONS": [
+      "한 턴에 한 번, #y프린세스 카드를 뽑거나 사용할 경우 이번 턴 #b1 #y힘과 #b1 #y민첩을 얻습니다."
+    ]
+  },
+  "aigisMod:FidelityHarmony": {
+    "NAME": "반달의 각성",
+    "FLAVOR": "카구야 : 정략결혼이었지만... 난 네가 남편이라서 다행이라 생각해.",
+    "DESCRIPTIONS": [
+      "덱에 #b1 #y카구야나 #y히카게 (이미 카구야가 있는 경우) 를 추가합니다. #y동쪽 #y나라 카드나 #y수리검을 #b5 장 사용할 때마다 [E] 를 얻습니다. 전투 종료시 카운터가 초기화됩니다."
+    ]
+  },
+  "aigisMod:HardFlame": {
+    "NAME": "마신의 환약: 강염",
+    "FLAVOR": "세츠나 : 귀인중 세츠나 등장!! 어때? 멋졌어!?",
+    "DESCRIPTIONS": [
+      "#y수리검 데미지가 #b3 증가합니다. 이 유물을 #y오른클릭하면 체력을 #b10 잃고 (불가침으로 면역 불가) 손패에 #b1 #y세츠나 카드를 얻습니다. 전투당 한 번 사용 가능합니다."
+    ]
+  },
+  "aigisMod:HeroCrystal": {
+    "NAME": "영걸결정",
+    "FLAVOR": "솔라스 : (첨)탑 계층을 정복한 보상으로 영걸결정을 드립니다.",
+    "DESCRIPTIONS": [
+      "전투에서 이길 때마다 #b1 포인트를 얻습니다. ",
+      "맵 화면에서 (전투 / 이벤트 / 휴식장소 제외), #b200 #y골드와 #b5 포인트가 있을시, 이 유물을 #y오른클릭하면 #y특별 등급의 #y영걸 카드를 얻을 수 있습니다. 이미 소지하고 있는 동명의 카드(희귀 포함)를 선택하면 대신 업그레이드됩니다.",
+      "지금은 사용할 수 없어...",
+      "200 골드와 5 포인트를 소비해 덱에 추가할 영걸 카드를 선택합니다."
+    ]
+  },
+  "aigisMod:DescendantHero": {
+    "NAME": "영웅의 후예",
+    "FLAVOR": "왕자 : ...",
+    "DESCRIPTIONS": [
+      "전투 시작시 카드를 #b1 장 추가로 뽑습니다. NL 전투를 #b4 번 이길 때마다, 최대 #b4 개의 영구적 효과를 얻습니다.",
+      " NL #y1. 2 턴 이후에도 카드를 1 장 추가로 뽑습니다.",
+      " NL #y2. 전투 시작시 [E] 를 얻습니다.",
+      " NL #y3. (1) 의 효과가 2 배가 됩니다.",
+      " NL #y4. 2 번째 턴 시작시 [E] 를 얻습니다."
+    ]
+  },
+
+
+  "aigisMod:EmpireHero": {
+    "NAME": "제국의 용사",
+    "FLAVOR": "제국에서 가장 강한 자에게 주어지는 칭호.",
+    "DESCRIPTIONS": [
+      "#y타격 카드가 #y관통 #y데미지를 가합니다. 전투를 #b5 번 이길 때마다, 최대 #b3 개의 영구적 효과를 얻습니다.",
+      " NL #y1. #y타격과 #y수비의 효과가 #b2 씩 증가합니다.",
+      " NL #y2. 공격 카드 사용시 #y약화 디버프를 제거합니다.",
+      " NL #y3. 스킬 카드 사용시 #y취약 디버프를 제거합니다."
+    ]
+  },
+
+  "aigisMod:ImperialTactics": {
+    "NAME": "제국전술",
+    "FLAVOR": "무패의 영걸로 불리는 백의 제국의 제 1 전략가.",
+    "DESCRIPTIONS": [
+      "#y레오나 또는 #y레오라를 사용할시 [E] 를 얻습니다.",
+      " NL #y수비 카드 사용시 #b3 #y카운터를 얻습니다."
+    ]
+  },
+  "aigisMod:ImperialKnight": {
+    "NAME": "제국 기사의 맹세",
+    "FLAVOR": "나의 이름은 루크스. 백의 제국의 명예로운 기사다.",
+    "DESCRIPTIONS": [
+      "전투 시작시 #y제국 #y기사 #y루크스 #b1 장을 손패에 추가합니다.",
+      " NL #y제국 #y기사 카드를 뽑았을시 이번 턴 #b1 #y힘을 얻습니다."
+    ]
+  },
+  "aigisMod:DemonicTerritory": {
+    "NAME": "데모닉 테리토리",
+    "FLAVOR": "라피스 : 힘을 빌려주지... 감사하게 생각하도록.",
+    "DESCRIPTIONS": [
+      "첫 #b5 턴간, #b1 데미지 아우라를 얻습니다.",
+      " NL #y데몬 파워 카드를 사용한 경우, 턴 종료시 데미지 아우라 수치와 동일한 방어도를 얻습니다."
+    ]
+  },
+  "aigisMod:ImperialAgent": {
+    "NAME": "제국암부",
+    "FLAVOR": "빅터 : 나는 제국을 떨게 만들었던 악명 높은 대죄인이다.",
+    "DESCRIPTIONS": [
+      "적을 #y쓰러뜨렸을 때, 모든 적에게 #b2 #y약화와 #b2 #y취약을 부여합니다."
+    ]
+  },
+  "aigisMod:WhiteDragon": {
+    "NAME": "백룡의 대비",
+    "FLAVOR": "서베인 : 이제 종족도 나라도 상관없다.",
+    "DESCRIPTIONS": [
+      "전투당 #b3 차례, #y제국 카드와 #y데몬 카드를 같은 턴에 사용한 경우 [E] 를 얻습니다."
+    ]
+  },
+  "aigisMod:ImperialSniper": {
+    "NAME": "제국 저격병",
+    "FLAVOR": "랄프는 특기인 빠른 사격을 통해 저격부대의 리더가 되었다.",
+    "DESCRIPTIONS": [
+      "보스 또는 엘리트 전투에서, 적을 쓰러뜨린 경우 #b2 #y힘과 [E] 를 얻습니다."
+    ]
+  },
+  "aigisMod:ImperialDeploy": {
+    "NAME": "제국 즉응전개",
+    "FLAVOR": "백의 황제 : 얼마나 많은 승리를 거둘 수 있을까...",
+    "DESCRIPTIONS": [
+      "이번 턴 #y제국 카드만 사용한 경우, 다음 턴 [E] 를 얻습니다.",
+      " NL 매 전투 시작시 #y제국 #y비공정 카드를 손패에 추가합니다."
+    ]
+  },
+  "aigisMod:ImperialInfantry": {
+    "NAME": "제국 중장보병",
+    "FLAVOR": "드와이트 : 나의 충성심은 변함이 없기에 이 갑옷을 벗지 않을 것입니다.",
+    "DESCRIPTIONS": [
+      "#y수비로 방어도를 #b1 더 얻습니다.",
+      " NL #b8 #y제국 카드를 사용할 때마다 #b4 방어도를 얻습니다."
+    ]
+  },
+  "aigisMod:DemonCommand": {
+    "NAME": "마신단장의 구령",
+    "FLAVOR": "메피스토 : 만사를 힘으로만 임하는 것은 오랑캐의 사고다. 네 지성을 시험해보지.",
+    "DESCRIPTIONS": [
+      "전투당 한 번 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 #y소멸시킬 수 있습니다.",
+      " NL 만약 이 유물로 #y데몬 카드를 소멸시켰을 경우 #b1 #y힘을 얻습니다."
+    ]
+  },
+  "aigisMod:AdamasChosen": {
+    "NAME": "아다마스에게 선택된 자",
+    "FLAVOR": "백의 황제 : ... 패배하면 모든 것을 잃게 된다. 명예나 지위뿐만 아니라 소중한 자들도.",
+    "DESCRIPTIONS": [
+      "#y타격과 #y수비 카드의 코스트가 #b0 이 됩니다."
+    ]
+  },
+  "aigisMod:AerialFight00": {
+    "NAME": "공중전",
+    "FLAVOR": "케이트릿지 : 하늘보다 높게, 바람보다 빠르게! 하늘을 나는 나는 멋져!",
+    "DESCRIPTIONS": [
+      "턴당 #b2 회, #y뽑을 #y카드 더미에 카드가 남아있을 때 #y에어 #y시그널을 뽑는다면 카드를 #b1 장 뽑습니다."
+    ]
+  },
+  "aigisMod:MagnumOpus": {
+    "NAME": "매그넘 오푸스",
+    "FLAVOR": "헤르미네 : 이렇게 보여도 백의 제국 공인의 연금술사라구?",
+    "DESCRIPTIONS": [
+      "포션 슬롯을 #b1 얻습니다. #y포션 사용시, 이번 전투 동안 손패의 모든 #y일반과 #y특별 카드를 업그레이드합니다."
+    ]
+  },
+  "aigisMod:EmperorAwakening": {
+    "NAME": "황제각성",
+    "FLAVOR": "백의 황제 : ...아니, 제국에서 산다는 것은 언제나 승리하는 것을 의미한다.",
+    "DESCRIPTIONS": [
+      "엘리트와 보스 전투에서 #b3 #y힘과 #b3 #y민첩을 얻은채 시작합니다."
+    ]
+  },
+  "aigisMod:DemonicRelease": {
+    "NAME": "마의 해방",
+    "FLAVOR": "릴리 : 마물이 된 릴리를 도와주셔서 감사합니다.",
+    "DESCRIPTIONS": [
+      "매 턴 첫 번째로 사용하는 #y타격 카드의 데미지가 #b2 배가 됩니다. ",
+      "한 턴에 한 번, #y타격 또는 #y수비 카드를 사용했을시 #y뽑을 #y카드 더미에서 #b1 #y데몬 카드를 소멸시킬 수 있습니다."
+    ]
+  },
+
+
+
+
+  "aigisMod:CallHelp": {
+    "NAME": "도움요청",
+    "FLAVOR": "토토노 : 하아... 돈이 여전히 부족해요.",
+    "DESCRIPTIONS": [
+      "매 전투 시작시 [E] 를 얻습니다. 덱에 매복한 캐러밴 #b1 장을 추가합니다."
+    ]
+  },
+  "aigisMod:CursedBoundary": {
+    "NAME": "주계",
+    "FLAVOR": "카타라 : 내가 가지고 있는 파멸의 힘은 우리 가문에 전해지는 것들 중 하나에 불과해.",
+    "DESCRIPTIONS": [
+      "이 유물을 얻었을 때 덱에 #y저주 카드가 있을시, #y업그레이드된 #y카타라 카드 #b1 장을 얻습니다. ",
+      " 한 턴당 한 번, 이 유물을 #y오른클릭하여 손패의 #y저주 카드 #b1 장을 버리고 모든 적들에게 #b5 데미지를 가할 수 있습니다.",
+      "손패에 저주 카드가 없어..."
+    ]
+  },
+  "aigisMod:OldClergyman": {
+    "NAME": "전 순회목사",
+    "FLAVOR": "빈센트 : 어느날 일을 마치고 집에 돌아와보니, 아내와 딸은 뱀파이어에 습격당한 뒤였어.",
+    "DESCRIPTIONS": [
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y언데드 캐릭터인 경우 그 코스트와 동일한 양의 [E] 를 얻습니다."
+    ]
+  },
+  "aigisMod:DeathCurse": {
+    "NAME": "죽음의 저주",
+    "FLAVOR": "미트라 : 저주의 능력을 잘못 사용하면 스스로의 목숨을 깎을 수 있다.",
+    "DESCRIPTIONS": [
+      "덱에 #b3 장 이상의 #y저주 카드가 있을때, 턴 종료시 #y약화 디버프를 가진 적들 중 현재 체력이 최대 체력의 #b10% 이하인 적을 즉사시킵니다."
+    ]
+  },
+  "aigisMod:TenguBlaze": {
+    "NAME": "텐구의 화염",
+    "FLAVOR": "구렌 : 이상의 끝을 보여줘. 그때까지 도와줄테니.",
+    "DESCRIPTIONS": [
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y저주 또는 #y상태이상 카드일 경우 카드를 #b1 장 뽑고 모든 적들에게 #b3 화상을 부여합니다."
+    ]
+  },
+  "aigisMod:CatDisturbance": {
+    "NAME": "고양이 소동",
+    "FLAVOR": "코하루 : 사람들에게 공포를 주는 건 풍류가 없는 짓이지. 나는 오직 감동만을 준다네.",
+    "DESCRIPTIONS": [
+      "모든 적들의 #y힘이 #b1 감소된 채 전투를 시작합니다. #b6 번째 턴에서 모든 적이 #y힘을 #b1 잃습니다."
+    ]
+  },
+  "aigisMod:ScrambleGolem": {
+    "NAME": "스크램블 골렘",
+    "FLAVOR": "릴케 : 뭐라고? 네 운명을 점쳐달라고?",
+    "DESCRIPTIONS": [
+      "전투당 한 번, 이 유물을 #y오른클릭하여 손패의 카드 #b1 장을 소멸시킬 수 있습니다. 그 카드가 #y골렘의 #y부품일 경우 #b3 금속화를 얻습니다."
+    ]
+  },
+  "aigisMod:GolemBoost": {
+    "NAME": "골렘 부스트",
+    "FLAVOR": "앙리 : 나는 생명이 없는 물체에 힘을 부여해. 부여 마술의 진수가 도움이 되길 바랄게.",
+    "DESCRIPTIONS": [
+      "전투 시작시 손패에 #y골렘의 #y부품+ #b1 장을 추가합니다. 골렘의 부품이 생성되었을 때, #y업그레이드합니다."
+    ]
+  },
+  "aigisMod:WorldTree": {
+    "NAME": "신수의 영험",
+    "FLAVOR": "로비니아 : 잘 지내? 잠은 잘 자고?",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b8 트랩을 얻습니다. #y트랩을 가지고 있을시 #y아쳐 카드가 #b1 추가 데미지를 가합니다."
+    ]
+  },
+  "aigisMod:WoundReturning": {
+    "NAME": "반상의 주문",
+    "FLAVOR": "미코토 : 내게 당신의 액을 쫓게 해줄래요?",
+    "DESCRIPTIONS": [
+      "전투 시작시 손패에 #y식귀 #b1 장을 추가합니다. #y식귀는 추가로 #b3 방어도를 얻습니다."
+    ]
+  },
+  "aigisMod:SerpentPoison": {
+    "NAME": "사령의 주독",
+    "FLAVOR": "오로치히메 : 이건 독이 되기도 약이 되기도 해. 후후후, 이건 어느 쪽일까?",
+    "DESCRIPTIONS": [
+      "전투 시작시 모든 적들에게 #b2 #y커스보이스를 부여합니다. 적들이 공격할때, #b1 중독을 부여합니다."
+    ]
+  },
+  "aigisMod:Ifrit": {
+    "NAME": "이프리트",
+    "FLAVOR": "솔라노 : 와라, 불꽃의 소환수 이프리트!",
+    "DESCRIPTIONS": [
+      "전투 시작시 모든 적들에게 #b6 #y화상을 부여합니다."
+    ]
+  },
+  "aigisMod:UndeadWorld": {
+    "NAME": "라스트 데스 에너지",
+    "FLAVOR": "메투스 : 인간의 몸은 불편하구나. 이게 산다는 것일까.",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b3 스켈레톤과 #b1 메투스 카드를 소멸 카드 더미에 추가합니다. ",
+      "전투당 한 번, 체력이 #b30 % 이하일때, 이 유물을 #y오른클릭하여 소멸 카드 더미에서 언데드 카드를 #b1 장 손패로 불러올 수 있습니다."
+    ]
+  },
+  "aigisMod:Daywalker": {
+    "NAME": "데이워커",
+    "FLAVOR": "에덴 : 흡혈귀가 되기 전의 기억? 떠오르지 않아...",
+    "DESCRIPTIONS": [
+      "#y마비독의 턴당 감소량이 #b3 이 됩니다. ",
+      "#y마비독을 가진 적을 공격할때, #b1 #y임시체력을 얻습니다."
+    ]
+  },
+  "aigisMod:BastetGem": {
+    "NAME": "바스테트의 보석",
+    "FLAVOR": "서벌 : 저주받은 보석은 사용자에게 절대적인 힘을 주는 대가로 그 영혼을 계속 잡아먹어.",
+    "DESCRIPTIONS": [
+      "전투당 #b3 번, #y저주를 #y소멸시키면, #b1 #y힘을 얻습니다."
+    ]
+  },
+
+
+
+
+
+
+
+
+  "aigisMod:ArmoredDecius": {
+    "NAME": "무장한 데시우스",
+    "FLAVOR": "미티아 : 데시우스는 이기기 위해서는 수단을 가리지 않는 비열한 남자에요!",
+    "DESCRIPTIONS": [
+      "첫 #b4 턴은 턴 종료시마다, #b5 #y방어도를 얻습니다.",
+      " 한 맵에 한 번, 전투에서 체력이 #b0 이 되면 #b25 체력을 회복합니다."
+    ]
+  },
+  "aigisMod:MaouDecius": {
+    "NAME": "대조 데시우스",
+    "FLAVOR": "데시우스 : 오호라, 별들의 소리가 들려. 이 얼마나 아름다운 음색인가...",
+    "DESCRIPTIONS": [
+      "무장한 데시우스를 교체합니다. 덱에 대조형태를 #b1 장 추가합니다.",
+      " 한 맵에 한 번, 전투에서 체력이 #b0 이 되면 #b35 체력을 회복합니다. "
+    ]
+  },
+  "aigisMod:MeteorSword": {
+    "NAME": "오의 천초유성검",
+    "FLAVOR": "데시우스 : 이것이 오의인가...!? 메테오를 내릴 수 있게 하다니, 대단하군....",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b6 데미지의 #y메테오 #b1 장을 생성합니다.",
+      " 카드로 생성되는 #y메테오는 데미지가 #b1 증가합니다."
+    ]
+  },
+  "aigisMod:KnightProtection": {
+    "NAME": "성기사의 수호",
+    "FLAVOR": "코넬리아 : 이 힘이 마의 힘이라도, 내가 해야 할 일은 변하지 않아.",
+    "DESCRIPTIONS": [
+      "각 턴 처음으로 공격 카드를 사용했을시 #b3 #y방어도를 얻습니다.",
+      " 전투에서 처음으로 #y다크파이터를 사용한 경우 #b1 #y버퍼를 얻습니다."
+    ]
+  },
+  "aigisMod:ShieldBless": {
+    "NAME": "쉴드 블레스",
+    "FLAVOR": "헤이오스 : 어둠에 빠진 검이라도 빛을 수호할 수 있어.",
+    "DESCRIPTIONS": [
+      "#y다크파이터를 사용한 경우 #b1 #y가시를 얻습니다.",
+      " #y체력이 #b50 % 이하일때, #b2 #y민첩을 얻습니다."
+    ]
+  },
+  "aigisMod:SuperMeteor": {
+    "NAME": "초 천락암의 계",
+    "FLAVOR": "아이샤 : 나, 군사처럼 보이지 않아?",
+    "DESCRIPTIONS": [
+      "한 턴에 한 번, #y메테오 카드 사용시 [E] 를 얻습니다."
+    ]
+  },
+  "aigisMod:BlastingEnhancement": {
+    "NAME": "폭쇄강화의 비술",
+    "FLAVOR": "가라니아 : 마력의 정수를 다하는 것이 저의 사명입니다.",
+    "DESCRIPTIONS": [
+      "전투 시작시 적이 #b2 이상일때 #y메테오를 #b1 개 생성합니다.",
+      " 전투 중 적이 추가되었을 때, #y메테오를 #b1 개 생성합니다."
+    ]
+  },
+  "aigisMod:BlastingBall": {
+    "NAME": "괴력퐁쇄철구",
+    "FLAVOR": "디나 : 갑옷 때문이려나... 근육이 피곤해.",
+    "DESCRIPTIONS": [
+      "턴 종료시 #b16 이상의 #y방어도를 가진 경우 모든 적에게 #b10 데미지를 가합니다."
+    ]
+  },
+  "aigisMod:SealRelease": {
+    "NAME": "신마봉인해제",
+    "FLAVOR": "클로에 : 타천사라도 지키고 싶은 것은 있어.",
+    "DESCRIPTIONS": [
+      "전투 시작시 #b2 #y흐릿함을 얻습니다."
+    ]
+  },
+  "aigisMod:IndomitableTraitor": {
+    "NAME": "불굴의 반역자",
+    "FLAVOR": "샤디아 : 천 년이 지났음에도, 너희들 인간의 어리석음도 상냥함도 변하지 않는다는건가.",
+    "DESCRIPTIONS": [
+      "#b5 턴이 종료될 때까지, 데미지를 입지 않은 경우, 모든 적에게 #b50 데미지를 가합니다."
+    ]
+  },
+  "aigisMod:HolyAura": {
+    "NAME": "성스러운 아우라",
+    "FLAVOR": "유리나 : 사람의 감정이, 나에게도 아직 남아있었다니...",
+    "DESCRIPTIONS": [
+      "#y다크파이터 카드들이 보존됩니다.",
+      " #b4 턴 종료시, #b10 #y방어도를 얻습니다."
+    ]
+  },
+  "aigisMod:HotSands": {
+    "NAME": "사막의 연계전술",
+    "FLAVOR": "네프티 : 사막길 안내는 맡겨주세요. 자, 바람과 함께 떠납시다.",
+    "DESCRIPTIONS": [
+      "엘리트나 보스를 공격했을때, #b2 방어도를 얻습니다."
+    ]
+  },
+
+
+  "aigisMod:Miracle00": {
+    "NAME": "기적 ",
+    "FLAVOR": "여신 아이기스 : 인간이여, 포기하지 마십시오. 제가 당신에게 힘을 빌려드릴게요.",
+    "DESCRIPTIONS": [
+      "카드가 생성되면 #b2 #y임시체력을 얻습니다. ",
+      "데미지를 받을시 카드를 #b1 장 뽑습니다."
+    ]
+  },
+
+
+
+  "aigisMod:Endurance": {
+    "NAME": "Endurance Up",
+    "FLAVOR": "Dan: Reaching beyond my limits is my reason for living!",
+    "DESCRIPTIONS": [
+      "Gain #b2 #yTemporal #yHP when you play a card that was created in combat.",
+      "Usable up to #b5 times per turn."
+    ]
+  },
+  "aigisMod:Miracle": {
+    "NAME": "Miracle Man",
+    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+    "DESCRIPTIONS": [
+      "Gain #b3 #yTemporal #yHP when you play a card that was created in combat.",
+      "Usable up to #b5 times per turn."
+    ]
+  },
+  "aigisMod:DepthTorpedo": {
+    "NAME": "Depth Torpedo",
+    "FLAVOR": "Wirbel: I wish I could dive into people's minds and solve everything.",
+    "DESCRIPTIONS": [
+      "The first time in a combat you lose HP while you have #yWater #yPressure, all enemies lose #b2 #yStrength."
+    ]
+  },
+  "aigisMod:SharkTide": {
+    "NAME": "Shark Tide",
+    "FLAVOR": "Fine: I came from an underwater city. I'll do my best to study the dry land!",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of turn if you have #b2 or more #yWater #yPressure."
+    ]
+  },
+  "aigisMod:AerialFight": {
+    "NAME": "Rampage Takeoff",
+    "FLAVOR": "Krehl: I'm Krehl, the Security Forces Flight Commander. Um, can I go now?",
+    "DESCRIPTIONS": [
+      "Draw #b1 card when you draw an #yAir #ySignal. Usable #yTwice per turn and while you have cards in your #ydraw #ypile."
+    ]
+  },
+  "aigisMod:CaitSith": {
+    "NAME": "Cait Sith",
+    "FLAVOR": "Farne: I'm reading right now. ...Don't interrupt me.",
+    "DESCRIPTIONS": [
+      "Every #b10th #ycard #ycreated in a single combat (except in exhaust pile), add #b1 #yCait #ySith to your #yhand."
+    ]
+  },
+  "aigisMod:PumpUp": {
+    "NAME": "Pump Up",
+    "FLAVOR": "Gina: Men are so one-dimensional, eh?",
+    "DESCRIPTIONS": [
+      "At the start of your #b3rd turn, gain #b3 #yVigor, #b3 #yTemporal #yHP and #yHeal #b3 #yHP."
+    ]
+  },
+  "aigisMod:AutoHeal": {
+    "NAME": "Auto Heal",
+    "FLAVOR": "Ur: With these claws, I can even defeat demons!",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b1 #ydamage to ALL #yenemies. ",
+      "At the end of your turn, gain #b1 #yTemporal #yHP."
+    ]
+  },
+  "aigisMod:PearlGrace": {
+    "NAME": "Pearls' Grace",
+    "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
+    "DESCRIPTIONS": [
+      "At the start of the combat, apply #b1 #yWater #bPressure to ALL #yenemies.",
+      "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
+    ]
+  },
+  "aigisMod:FiringCommand": {
+    "NAME": "Firing Command",
+    "FLAVOR": "Reanbell: As long as I am with you, any disadvantage turns into an advantage.",
+    "DESCRIPTIONS": [
+      "#ySailor cards apply their full effects even if #yWater #bPressure is not reduced."
+    ]
+  },
+  "aigisMod:VitalityMedicine": {
+    "NAME": "Secret Medicine of Vitality",
+    "FLAVOR": "Nicole: First of all, let's convert this place into an atelier. Assistant, can you bring my luggage?",
+    "DESCRIPTIONS": [
+      "#yCancel any #yDamage coming from yourself during the #yfirst #b2 #yturns of each combat. ",
+      "Gain #y1 #yPotion #ySlot."
+    ]
+  },
+  "aigisMod:AigisStatue": {
+    "NAME": "Aigis Statue",
+    "FLAVOR": "Anna: But you can draw out her summon ability.",
+    "DESCRIPTIONS": [
+      "Create a number of #yAigis #yStatue at the start of combat. Increase this amount by #b2 at the end of combat."
+    ]
+  },
+
+
+
+  "aigisMod:AigisShrine": {
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
+    "DESCRIPTIONS": [
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
+    ]
+  },
+  "aigisMod:AigisShrineEmperor": {
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
+    "DESCRIPTIONS": [
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
+    ]
+  },
+  "aigisMod:AigisShrineAvenger": {
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
+    "DESCRIPTIONS": [
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
+    ]
+  },
+  "aigisMod:AigisShrineKnight": {
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
+    "DESCRIPTIONS": [
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
+    ]
+  },
+
+
+  "aigisMod:AigisShrineMiracle": {
+    "NAME": "아이기스 신전",
+    "FLAVOR": "영웅을 위해 사람들은 하나의 큰 신전을 세웠다. 바로 여신 아이기스를 모시는 신전이다.",
+    "DESCRIPTIONS": [
+      "일반 전투와 엘리트 전투에서 추가 #y카드 #y보상을 얻습니다. 여기에는 다른 아이기스 캐릭터의 카드가 최대 #b3 장 추가됩니다."
+    ]
+  }
+}

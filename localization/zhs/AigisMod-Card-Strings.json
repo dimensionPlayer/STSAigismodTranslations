@@ -1154,7 +1154,7 @@
   },
   "aigisMod:Marnie": {
     "NAME": "玛尼",
-    "DESCRIPTION": "保留 。 NL 本回合获得 !M! 点 力量 。",
+    "DESCRIPTION": " 保留 。 NL 本回合获得 !M! 点 力量 。",
     "UPGRADE_DESCRIPTION": "本回合获得 !M! 点 力量 。 NL aigismod:技能充能 : 本场战斗提升此牌1点数值(最大2)。",
     "EXTENDED_DESCRIPTION" : [
       "舞娘"
@@ -1351,17 +1351,17 @@
   "aigisMod:AigisTreasure": {
     "NAME": "埃癸斯的神器",
     "DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 aigismod:反击 。 NL 获得1层 虚弱 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 获得 !B! 点 格挡 。 NL 获得 !M! 层 aigismod:反击 。 NL 获得1层 虚弱 。"
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 获得 !M! 层 aigismod:反击 。 NL 获得1层 虚弱 。"
   },
   "aigisMod:KeraunosTreasure": {
     "NAME": "科俄斯的神器",
     "DESCRIPTION": "对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。"
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。"
   },
   "aigisMod:SwordSalvation": {
     "NAME": "救世之剑",
     "DESCRIPTION": "本回合手牌耗能变为0。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 本回合手牌耗能变为0。"
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 本回合手牌耗能变为0。"
   },
   "aigisMod:Early": {
     "NAME": "厄利",
@@ -1560,7 +1560,7 @@
   "aigisMod:AdamasTreasure": {
     "NAME": "阿达玛斯的神器",
     "DESCRIPTION": "造成等同于牌组中帝国 牌数量 aigismod:真实 伤害。 NL 消耗 。 NL (造成 !D! 点伤害)",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 造成等同于牌组中帝国牌数量的 aigismod:真实 伤害。 NL (造成 !D! 点伤害)",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 造成等同于牌组中帝国牌数量的 aigismod:真实 伤害。 NL (造成 !D! 点伤害)",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2526,8 +2526,8 @@
   },
   "aigisMod:Golem": {
     "NAME": "魔像部件",
-    "DESCRIPTION": "保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
+    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2652,7 +2652,7 @@
   "aigisMod:Tsugumi": {
     "NAME": "鸫",
     "DESCRIPTION": " 保留 。 NL 消耗 手牌中 1张诅咒 或 状态 牌,然后将1张 东国 牌从弃牌堆返回手牌中。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 消耗 手牌中 1张诅咒 或 状态 牌,然后将1张 东国 牌从弃牌堆返回手牌中。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 消耗 手牌中 1张诅咒 或 状态 牌,然后将1张 东国 牌从弃牌堆返回手牌中。",
     "EXTENDED_DESCRIPTION" : [
       "夜鸟"
     ]
@@ -2904,7 +2904,7 @@
   "aigisMod:Alice": {
     "NAME": "爱丽丝",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
     "EXTENDED_DESCRIPTION" : [
       "武王姬",
       "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。"
@@ -3404,8 +3404,8 @@
   },
   "aigisMod:TaoPao": {
     "NAME": "淘宝",
-    "DESCRIPTION": "保留 。 NL 消耗1 张手牌。 NL 消耗堆中每有一张诅咒就获得 1 点 力量 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 消耗1 张手牌。 NL 消耗堆中每有一张诅咒就获得 1 点 力量 。 NL 消耗 。",
+    "DESCRIPTION": " 保留 。 NL 消耗1 张手牌。 NL 消耗堆中每有一张诅咒就获得 1 点 力量 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 消耗1 张手牌。 NL 消耗堆中每有一张诅咒就获得 1 点 力量 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "炎之厨师"
     ]

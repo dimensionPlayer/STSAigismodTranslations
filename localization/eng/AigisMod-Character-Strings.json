@@ -38,9 +38,21 @@
       "the Dark Knight"
     ],
     "TEXT": [
-      "A warrior who became a living armor is guided by the voice of the stars. NL Through the Spire, he might make an important discovery.",
+      "A warrior who became a living armor is being guided by the voice of the stars. NL Through the Spire, he might make an important discovery.",
       "You are about to use the special technique against the heart.",
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~knight,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  },
+
+  "aigisMod:TheMiracleManCharacter": {
+    "NAMES": [
+      "The Miracle Man",
+      "the Miracle Man"
+    ],
+    "TEXT": [
+      "Dan, a martial artist, is always pursuing power. Looking for enemies stronger than himself, this monk will ascend the Spire.",
+      "You fire up, knowing you are gonna get a tough opponent to fight",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~monk,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ]
   }
 }

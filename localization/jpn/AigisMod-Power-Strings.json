@@ -16,12 +16,12 @@
 
         "aigisMod:Ninjutsu": {
                 "NAME": "忍術",
-                "DESCRIPTIONS": ["ターン開始時に、 #y手裏剣 1枚を手札に加える。 #y手裏剣 は #b", " の追加ダメージと #b", " 回追加攻撃する。"]
+                "DESCRIPTIONS": ["ターン開始時に、 #y手裏剣 を #b1 枚手札に加える。 #y手裏剣 は #b", " の追加ダメージと #b", " 回追加攻撃する。"]
         },
 
         "aigisMod:AzamiNinjutsuPower": {
                 "NAME": "アザミの忍術",
-                "DESCRIPTIONS": ["敵を倒した時に、 #b1 手裏剣 を手札に加える。"]
+                "DESCRIPTIONS": ["敵を倒した時に、 #y手裏剣 を #b1 枚手札に加える。"]
         },
 
         "aigisMod:CounterPower": {
@@ -71,13 +71,13 @@
 
         "aigisMod:OutlawMaid": {
                 "NAME": "無法者のメイド",
-                "DESCRIPTIONS": [" #y暗殺 カードを #b", " 枚プレイした時に、 #y筋力 #b", " を得る", " #y暗殺 カードを  #b", "  枚プレイした時に増加する #b"]
+                "DESCRIPTIONS": [" #y暗殺 カードを #b", " 枚プレイした時に、 #y筋力 #b", " を得る", " #y暗殺 カードを #b", " 枚プレイした時に増加する #b"]
         },
 
         "aigisMod:BloomPetal": {
                 "NAME": "ブルームペタル",
-                "DESCRIPTIONS": [" #b", " ターン後に、すべての敵に #b", " のダメージと #b2 #y脱力 と #b2 #y弱体 を与え、このパワーは取り除かれる。",
-                                 "ターン終了時に、すべての敵に #b", " のダメージと #b2 #y脱力 と #b2 #y弱体 を与え、このパワーは取り除かれる。"]
+                "DESCRIPTIONS": [" #b", " ターン後に、敵全体に #b", " のダメージと #b2 #y脱力 と #b2 #y弱体 を与え、このパワーは取り除かれる。",
+                                 "ターン終了時に、敵全体に #b", " のダメージと #b2 #y脱力 と #b2 #y弱体 を与え、このパワーは取り除かれる。"]
         },
         "aigisMod:CalamityAverting": {
                 "NAME": "避禍予見",
@@ -105,7 +105,7 @@
         },
         "aigisMod:PrincessMaid": {
                 "NAME": "姫のメイド",
-                "DESCRIPTIONS": ["ターン開始時に 山札から手札に プリンセス カードを #b", " 加える。", "手札に加えるカードを選べ", "デッキに プリンセス カードがない"]
+                "DESCRIPTIONS": ["ターン開始時に 山札の プリンセス カードを #b", " 枚手札に加える。", "手札に加えるカードを選ぶ", "デッキに プリンセス カードがない"]
         },
         "aigisMod:EasternMaid": {
                 "NAME": "東の国の侍女",
@@ -117,7 +117,7 @@
         },
         "aigisMod:EightTrigrams": {
                 "NAME": "八卦の陣",
-                "DESCRIPTIONS": [" 白の帝国 カードを #b", " 枚プレイした時、 #y敏捷性 #b", " と #b1 無形を得る", " 使用 白の帝国 カード #b"]
+                "DESCRIPTIONS": [" 白の帝国 カードを #b", " 枚プレイした時、 #y敏捷性 #b", " と 無形 #b1 を得る", " 使用 白の帝国 カード #b"]
         },
         "aigisMod:MarikaPower": {
                 "NAME": "居合斬り",
@@ -125,7 +125,7 @@
         },
         "aigisMod:DemonReturnPower": {
                 "NAME": "魔神転生",
-                "DESCRIPTIONS": ["このターン初めの %y帝国 カード , #b", " 枚のコストは #b0 になります。 この説明文は表示されないはず…"]
+                "DESCRIPTIONS": ["このターン初めの #y帝国 カード , #b", " 枚のコストは #b0 になります。 この説明文は表示されないはず…"]
         },
         "aigisMod:VictorySword": {
                 "NAME": "勝利の剣",
@@ -159,7 +159,7 @@
                 "NAME": "八咫烏",
                 "DESCRIPTIONS": ["1ターンに1回、 #y白の帝国 をプレイした時、 状態異常カードを #b", " 枚廃棄する", "すでに廃棄している"]
         },
-        "aigisMod:AerialSupremacy": {
+        "aigisMod:AerialSupremacy000": {
                 "NAME": "覇空の機関",
                 "DESCRIPTIONS": ["クレールの作成する #yエアーシグナル はアップグレードされている。"]
         },
@@ -183,13 +183,13 @@
                 "NAME": "エナジーアタノール",
                 "DESCRIPTIONS": [" #yポーション を使用時、 [E] が全回復し、 #b", " #yゴールド を得る。"]
         },
-        "aigisMod:AcidBomb": {
+        "aigisMod:AcidBomb000": {
                 "NAME": "アシッドボム",
-                "DESCRIPTIONS": [" #yポーション を使用時、 すべての敵に #b", " #yダメージ を与える。 戦闘終了時にポーションを1つ得る"]
+                "DESCRIPTIONS": [" #yポーション を使用時、 敵全体に #b", " #yダメージ を与える。 戦闘終了時にポーションを1つ得る"]
         },
         "aigisMod:Stealth": {
                 "NAME": "隠密",
-                "DESCRIPTIONS": ["スキルカードをプレイした時、 #b", "  #yブロック を得る。"]
+                "DESCRIPTIONS": ["スキルカードをプレイした時、 #b", " #yブロック を得る。"]
         },
         "aigisMod:Watchdog": {
                 "NAME": "ウォッチドッグ",
@@ -205,7 +205,7 @@
         },
         "aigisMod:MikoInspiration": {
                 "NAME": "巫女の激励",
-                "DESCRIPTIONS": ["呪いカードを #y廃棄 した時、 #b", "  #yブロック と #y筋力 #b", " を得る。"]
+                "DESCRIPTIONS": ["呪いカードを #y廃棄 した時、 #b", " #yブロック と #y筋力 #b", " を得る。"]
         },
         "aigisMod:Burn": {
                 "NAME": "バーン",
@@ -217,7 +217,7 @@
         },
         "aigisMod:GolemTactics": {
                 "NAME": "ゴーレム戦術",
-                "DESCRIPTIONS": ["次の #b"," ターン開始時、ゴーレムの部品 #b1 枚を手札に加える。", "次のターン開始時、ゴーレムの部品 #b1 枚を手札に加える。"]
+                "DESCRIPTIONS": ["次の #b"," ターン開始時、ゴーレムの部品を #b1 枚手札に加える。", "次のターン開始時、ゴーレムの部品を #b1 枚手札に加える。"]
         },
         "aigisMod:SealTalisman": {
                 "NAME": " 退魔の霊符",
@@ -261,11 +261,11 @@
         },
         "aigisMod:CorpseMarionette": {
                 "NAME": "操屍人",
-                "DESCRIPTIONS": [" #y防御できなかった ダメージ を受けた時、等しい #yスタック を減らす。ターン開始時に #b0 だった時、 すべての敵に #yスタン を与えてこのパワーを取り除く。"]
+                "DESCRIPTIONS": [" #y防御できなかった ダメージ を受けた時、等しい #yスタック を減らす。ターン開始時に #b0 だった時、 敵全体に #yスタン を与えてこのパワーを取り除く。"]
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "どっきりフェノメノン",
-                "DESCRIPTIONS": ["ターン終了時に、 手札のキャラクターを #b1 枚 #y廃棄 することができる。 これを行った時、すべての敵に #y脱力 #b1 を与えて #b1 減少する。", " スタックが #b0 となった時このパワーは取り除かれる。"]
+                "DESCRIPTIONS": ["ターン終了時に、 手札のキャラクターを #b1 枚 #y廃棄 することができる。 これを行った時、敵全体に #y脱力 #b1 を与えて #b1 減少する。", " スタックが #b0 となった時このパワーは取り除かれる。"]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明鏡止水",
@@ -353,7 +353,7 @@
 
         "aigisMod:TigerHide": {
                 "NAME": "狐借虎威",
-                "DESCRIPTIONS": ["#yブラー を得た時、 全ての敵に #b", " #yダメージ を与え、 カードを #b1 枚引く。"]
+                "DESCRIPTIONS": ["#yブラー を得た時、 敵全体に #b", " #yダメージ を与え、 カードを #b1 枚引く。"]
         },
 
         "aigisMod:FlameBurstPower": {
@@ -363,7 +363,7 @@
 
         "aigisMod:AngelMaid": {
                 "NAME": "天使メイド",
-                "DESCRIPTIONS": ["ターン開始時、山札の #y封印解除 カードを #b", " 枚加える。", "手札に加えるカードを選ぶ。", "山札に封印解除カードがない…"]
+                "DESCRIPTIONS": ["ターン開始時、山札の #y封印解除 カードを #b", " 枚手札に加える。", "手札に加えるカードを選ぶ。", "山札に封印解除カードがない…"]
         },
 
         "aigisMod:EndOfTurnHeal": {
@@ -373,7 +373,7 @@
 
         "aigisMod:DivineStaffDagda": {
                 "NAME": "ダグザの神杖",
-                "DESCRIPTIONS": ["HPを回復するか #y仮初のHP を得た時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
+                "DESCRIPTIONS": ["HPを回復する時、 #y筋力 #b", " と #b", " #yブロック を得る。"]
         },
 
         "aigisMod:ImperialSmith": {
@@ -413,7 +413,7 @@
         },
         "aigisMod:KibaninFrenzy": {
                 "NAME": "鬼刃大車輪",
-                "DESCRIPTIONS": ["このターン、 #yキャラクター カードをプレイした時、 #y手裏剣 #b", " 枚を手札に加える。"]
+                "DESCRIPTIONS": ["#b", " ターンの間、 #yキャラクター カードをプレイした時、 #y手裏剣 を #b1 枚手札に加える。"]
         },
         "aigisMod:SecretPill": {
                 "NAME": "秘伝の丸薬",
@@ -435,6 +435,113 @@
                 "NAME": "百鬼夜行",
                 "DESCRIPTIONS": ["このターン、 #y東の国 または #y手裏剣 カードをプレイした時、 全ての敵は #yHP #b", " を失う。"]
         },
+
+
+
+
+
+        "aigisMod:WaterPressure": {
+                "NAME": "水圧",
+                "DESCRIPTIONS": ["ターン終了時、 #gHP を #b", " 失う。 ボス以外が #b7 以上スタックしていた場合 全ての #gHP を失う。"]
+        },
+        "aigisMod:DrownedEnemy": {
+                "NAME": "溺れ",
+                "DESCRIPTIONS": ["ターン開始時、 #gHP を #b", " 失う。"]
+        },
+        "aigisMod:HellbeastTraining": {
+                "NAME": "魔獣調教",
+                "DESCRIPTIONS": ["#y魔獣 のコストが #b0 になり、ダメージが #b", " 増加する。"]
+        },
+        "aigisMod:BoostBeast": {
+                "NAME": "ブーストビースト",
+                "DESCRIPTIONS": ["#y魔獣 をプレイした時、 #y筋力 #b", " を得る。"]
+        },
+        "aigisMod:FullPowerYell": {
+                "NAME": "全力エール！",
+                "DESCRIPTIONS": ["#y魔獣 をプレイした時、 #b", " #yブロック を得る。"]
+        },
+        "aigisMod:GreatWhirlpool": {
+                "NAME": "大渦の波動",
+                "DESCRIPTIONS": ["ターン終了時、 あなたの #y水圧 スタックの数だけ #b", " #yブロック を得る。"]
+        },
+        "aigisMod:SpinningSlash": {
+                "NAME": "回転斬り",
+                "DESCRIPTIONS": ["カードを #y廃棄 した時、 #b", " #yダメージ を与える。"]
+        },
+        "aigisMod:FierceSeas": {
+                "NAME": "荒ぶる海の象徴",
+                "DESCRIPTIONS": ["あなたが #y水圧 を得た時、 #y筋力 #b", " を得る。"]
+        },
+        "aigisMod:DragonPalaceDance": {
+                "NAME": "龍宮ノ舞",
+                "DESCRIPTIONS": ["#y水圧 のダメージを受けない。 あなたが #y水圧 を得た時、敵全体に #y脱力 #b", " を与える。"]
+        },
+        "aigisMod:AerialSupremacy": {
+                "NAME": "覇空の機関乙女",
+                "DESCRIPTIONS": ["このターンの間、次に受ける 自傷 #yダメージ を無効化する。", "このターンの間、次に受ける 自傷 #yダメージ を #b", " 回無効化する。"]
+        },
+        "aigisMod:StormArrow": {
+                "NAME": "ストームアロー",
+                "DESCRIPTIONS": ["#yエアーシグナル をプレイした時、 敵全体に #b", " #yダメージ を与える。"]
+        },
+        "aigisMod:Aerobatics": {
+                "NAME": "エアロバティックス",
+                "DESCRIPTIONS": ["次の #b", " 以下の #yダメージ を無効化する。"]
+        },
+        "aigisMod:WarshipArtillery": {
+                "NAME": "大艦巨砲",
+                "DESCRIPTIONS": [" #y水兵 か #y深海兵 カードをプレイした時、 敵全体に #b", " #yダメージ を与える。"]
+        },
+        "aigisMod:TailwindPrayer": {
+                "NAME": "追い風の祈り",
+                "DESCRIPTIONS": ["#yエアーシグナル をプレイした時、 #y仮初のHP #b", " を得る。"]
+        },
+        "aigisMod:HeavenlyAirspace": {
+                "NAME": "天空の聖域",
+                "DESCRIPTIONS": ["#yエアーシグナル をプレイした時、 あなたの #y脱力 と #y弱体 を取り除くいてランダムな敵に #y弱体 #b", " を与える。"]
+        },
+        "aigisMod:Eureka": {
+                "NAME": "閃いた！",
+                "DESCRIPTIONS": ["ターン開始時、 #y魔獣 か #y深海 か #yエアーシグナル のいずれかを計 #b", " 枚手札に加える。"]
+        },
+        "aigisMod:DevouringGreatwolf": {
+                "NAME": "天喰らう大狼",
+                "DESCRIPTIONS": ["#y魔獣 カードが #b", " の追加ダメージ。 ターン開始時、追加量は #b", " 増加する。"]
+        },
+        "aigisMod:SuppressiveRounds": {
+                "NAME": "鎮圧用散弾",
+                "DESCRIPTIONS": ["ターン開始時、 #y気力 #b", " を得る。"]
+        },
+        "aigisMod:ChaosDominance": {
+                "NAME": "カオスドミナンス",
+                "DESCRIPTIONS": ["ターン開始時、 #y混沌霊 を #b", " 枚手札に加える。"]
+        },
+        "aigisMod:MiracleDiet": {
+                "NAME": "ミラクルダイエット",
+                "DESCRIPTIONS": ["ターン終了時、 #b", " #yHP を失う。"]
+        },
+        "aigisMod:AcidBomb": {
+                "NAME": "アシッドボム",
+                "DESCRIPTIONS": ["#yポーション を使用した時、 #y全員が #b", " #yダメージ を受ける。"]
+        },
+        "aigisMod:ElixirSpray": {
+                "NAME": "エリクサー散布",
+                "DESCRIPTIONS": ["戦闘勝利時、 ランダムな #yポーション #b1 つを入手する。"]
+        },
+        "aigisMod:PreciousMetals": {
+                "NAME": "貴金属錬成",
+                "DESCRIPTIONS": ["ターン開始時、 #b", " ダメージを受ける。 戦闘勝利時、 獲得 #yゴールドが #b", " 増加する。"]
+        },
+        "aigisMod:InmortalFeast": {
+                "NAME": "不死者の饗宴",
+                "DESCRIPTIONS": [" #yアンデッド か #y呪い を #y廃棄 した時、 #y筋力 #b", " を得る。"]
+        },
+        "aigisMod:CursedShadows": {
+                "NAME": "呪影",
+                "DESCRIPTIONS": ["#yアタック によるダメージを #b", " 増加する。 ターン終了時、 #b", " #yブロック を得る。"]
+        },
+
+
 
         "aigisMod:StrengthForTheTurnPower": {
                 "NAME": "一時的な筋力",

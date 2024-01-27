@@ -1,0 +1,171 @@
+{
+  "aigisMod:BattleTank": {
+    "NAME": "배틀 탱크",
+    "MOVES": [
+      "확산탄.",
+      "관통탄.",
+      "턴 종료시 무작위의 적에게 #b", " 의 스플래시 데미지를 입힙니다.",
+      "턴 종료시 무작위의 적에게 #b", " 의 관통 데미지를 입힙니다."
+    ]
+  },
+  "aigisMod:EnergyAthanor": {
+    "NAME": "에너지 아타노르",
+    "MOVES": [
+      "에너지 생산.",
+      "턴 시작시 #b", " 의 에너지를 얻습니다."
+    ]
+  },
+  "aigisMod:Solais": {
+    "NAME": "솔라스",
+    "MOVES": [
+      "성천소환의 의",
+      "이터널 스타"
+    ],
+    "DIALOG": [
+      "반짝이는 별들이 쏟아진다"
+    ]
+  },
+  "aigisMod:Sanara": {
+    "NAME": "사나라",
+    "MOVES": [
+      "지오 레이라인",
+      "메가리스",
+      "마스터 지오먼시"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Yuugen": {
+    "NAME": "유젠",
+    "MOVES": [
+      "브레이크샷",
+      "페인샷"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Alva": {
+    "NAME": "Alva",
+    "MOVES": [
+      "크루진 레플리카",
+      "세븐 포트리스",
+      "신검 게이클리드"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tuan": {
+    "NAME": "투안",
+    "MOVES": [
+      "신속유린의 포효",
+      "만용불락의 파쇄자"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Tram": {
+    "NAME": "트람",
+    "MOVES": [
+      "맥 아 루인",
+      "은빛 위광",
+      "",
+      "빛나는 검"
+    ],
+    "DIALOG": [
+      "은빛 섬광"
+    ]
+  },
+  "aigisMod:Ambrose": {
+    "NAME": "암브로즈",
+    "MOVES": [
+      "플라워링 매직",
+      "매직가든",
+      "아발가든"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Arge": {
+    "NAME": "아제",
+    "MOVES": [
+      "확산타격요새 세미아스",
+      "방위마동기",
+      "원격타격요새 에스라스"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:GoldenMimic": {
+    "NAME": "골든 미믹",
+    "MOVES": [
+      "물기",
+      "도주"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Prince": {
+    "NAME": "왕자",
+    "MOVES": [
+      "사기 진작",
+      "아이기스의 신기",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Anna": {
+    "NAME": "안나",
+    "MOVES": [
+      "포격 서포트",
+      "전력 서포트"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Riven": {
+    "NAME": "리븐",
+    "MOVES": [
+      "제1야:시작의 노래",
+      "제2야:환대의 연회",
+      "제3야:상야의 여왕",
+      "제4야:영원의 어둠",
+      "상야:반복되는 참극",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:RivenPhantom": {
+    "NAME": "변신의 환상",
+    "MOVES": [
+      "",
+      ""
+    ],
+    "DIALOG": [
+      ""
+    ]
+  },
+  "aigisMod:Lukifer": {
+    "NAME": "루키파",
+    "MOVES": [
+      "포효하는 유성",
+      "어스름의 샛별",
+      "명성강림",
+      "여명의 날개"
+    ],
+    "DIALOG": [
+      ""
+    ]
+  }
+}

@@ -220,13 +220,7 @@
       "#yStrikes and #yDefends become cost #b0."
     ]
   },
-  "aigisMod:AerialFight": {
-    "NAME": "Aerial Fight",
-    "FLAVOR": "Keitridge: Higher than the heavens, faster than the wind! I'm cool as I fly!.",
-    "DESCRIPTIONS": [
-      "#yTwice per turn, while you have cards in your #ydraw #ypile, when you draw an #yAir #ySignal draw #b1 card."
-    ]
-  },
+
   "aigisMod:MagnumOpus": {
     "NAME": "Magnum Opus",
     "FLAVOR": "Helmine: You see, I'm a certified alchemist of the White Empire.",
@@ -463,14 +457,99 @@
   },
 
 
-  "aigisMod:Miracle": {
-    "NAME": "Miracle ",
-    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+
+
+
+  "aigisMod:Endurance": {
+    "NAME": "Endurance Up",
+    "FLAVOR": "Dan: Reaching beyond my limits is my reason for living!",
     "DESCRIPTIONS": [
-      "When a card is created gain #b2 #yTemporal #yHP.",
-      "Draw #b1 card when you take damage."
+      "Gain #b2 #yTemporal #yHP when you play a card that was created in combat.",
+      "Usable up to #b5 times per turn."
     ]
   },
+  "aigisMod:Miracle": {
+    "NAME": "Miracle Man",
+    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+    "DESCRIPTIONS": [
+      "Gain #b3 #yTemporal #yHP when you play a card that was created in combat.",
+      "Usable up to #b5 times per turn."
+    ]
+  },
+  "aigisMod:DepthTorpedo": {
+    "NAME": "Depth Torpedo",
+    "FLAVOR": "Wirbel: I wish I could dive into people's minds and solve everything.",
+    "DESCRIPTIONS": [
+      "The first time in a combat you lose HP while you have #yWater #yPressure, all enemies lose #b2 #yStrength."
+    ]
+  },
+  "aigisMod:SharkTide": {
+    "NAME": "Shark Tide",
+    "FLAVOR": "Fine: I came from an underwater city. I'll do my best to study the dry land!",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of turn if you have #b2 or more #yWater #yPressure."
+    ]
+  },
+  "aigisMod:AerialFight": {
+    "NAME": "Rampage Takeoff",
+    "FLAVOR": "Krehl: I'm Krehl, the Security Forces Flight Commander. Um, can I go now?",
+    "DESCRIPTIONS": [
+      "Draw #b1 card when you draw an #yAir #ySignal. Usable #yTwice per turn and while you have cards in your #ydraw #ypile."
+    ]
+  },
+  "aigisMod:CaitSith": {
+    "NAME": "Cait Sith",
+    "FLAVOR": "Farne: I'm reading right now. ...Don't interrupt me.",
+    "DESCRIPTIONS": [
+      "Every #b10th #ycard #ycreated in a single combat (except in exhaust pile), add #b1 #yCait #ySith to your #yhand."
+    ]
+  },
+  "aigisMod:PumpUp": {
+    "NAME": "Pump Up",
+    "FLAVOR": "Gina: Men are so one-dimensional, eh?",
+    "DESCRIPTIONS": [
+      "At the start of your #b3rd turn, gain #b3 #yVigor, #b3 #yTemporal #yHP and #yHeal #b3 #yHP."
+    ]
+  },
+  "aigisMod:AutoHeal": {
+    "NAME": "Auto Heal",
+    "FLAVOR": "Ur: With these claws, I can even defeat demons!",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b1 #ydamage to ALL #yenemies. ",
+      "At the end of your turn, gain #b1 #yTemporal #yHP."
+    ]
+  },
+  "aigisMod:PearlGrace": {
+    "NAME": "Pearls' Grace",
+    "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
+    "DESCRIPTIONS": [
+      "At the start of the combat, apply #b1 #yWater #yPressure to ALL #yenemies.",
+      "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
+    ]
+  },
+  "aigisMod:FiringCommand": {
+    "NAME": "Firing Command",
+    "FLAVOR": "Reanbell: As long as I am with you, any disadvantage turns into an advantage.",
+    "DESCRIPTIONS": [
+      "#ySailor cards apply their full effects even if #yWater #yPressure is not reduced."
+    ]
+  },
+  "aigisMod:VitalityMedicine": {
+    "NAME": "Secret Medicine of Vitality",
+    "FLAVOR": "Nicole: First of all, let's convert this place into an atelier. Assistant, can you bring my luggage?",
+    "DESCRIPTIONS": [
+      "#yCancel any #yDamage coming from yourself during the #yfirst #b2 #yturns of each combat. ",
+      "Gain #y1 #yPotion #ySlot."
+    ]
+  },
+  "aigisMod:AigisStatue": {
+    "NAME": "Aigis Statue",
+    "FLAVOR": "Anna: But you can draw out her summon ability.",
+    "DESCRIPTIONS": [
+      "Create a number of #yAigis #yStatue at the start of combat. Increase this amount by #b2 at the end of combat."
+    ]
+  },
+
 
 
 
@@ -497,6 +576,15 @@
     ]
   },
   "aigisMod:AigisShrineKnight": {
+    "NAME": "Aigis Shrine",
+    "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
+    "DESCRIPTIONS": [
+      "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
+    ]
+  },
+
+
+  "aigisMod:AigisShrineMiracle": {
     "NAME": "Aigis Shrine",
     "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
     "DESCRIPTIONS": [
