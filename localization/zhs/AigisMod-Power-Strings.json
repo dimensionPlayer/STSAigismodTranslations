@@ -503,7 +503,7 @@
         },
         "aigisMod:Eureka": {
                 "NAME": "尤里卡!",
-                "DESCRIPTIONS": ["在回合开始时，随机将 #b", " #y魔兽刻耳柏洛斯 、 #y水压 或 #y空中标记 加入手牌。"]
+                "DESCRIPTIONS": ["在回合开始时，随机将 #b", " #y魔兽刻耳柏洛斯 、 #y深海 或 #y空中标记 加入手牌。"]
         },
         "aigisMod:DevouringGreatwolf": {
                 "NAME": "噬天的大狼",

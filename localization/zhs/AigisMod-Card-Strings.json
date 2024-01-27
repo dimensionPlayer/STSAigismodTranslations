@@ -265,7 +265,7 @@
   },
   "aigisMod:CursedFog": {
     "NAME": "法里亚斯的迷雾",
-    "DESCRIPTION": "消耗 。 NL 如果回合结束时此卡仍在你的手牌中，失去 1 点最大生命 。"
+    "DESCRIPTION": " 消耗 。 NL 如果回合结束时此卡仍在你的手牌中，失去 1 点最大生命 。"
   },
   "aigisMod:MildrithPlatinum": {
     "NAME": "米尔德里斯",
@@ -1356,12 +1356,12 @@
   "aigisMod:KeraunosTreasure": {
     "NAME": "科俄斯的神器",
     "DESCRIPTION": "对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。",
-    "UPGRADE_DESCRIPTION": " 保留 。 NL 对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。"
+    "UPGRADE_DESCRIPTION": "保留 。 NL 对随机敌人造成 !D! 点伤害 5 次。 NL 结束你的回合。 NL 获得1层 易伤 。"
   },
   "aigisMod:SwordSalvation": {
     "NAME": "救世之剑",
     "DESCRIPTION": "本回合手牌耗能变为0。",
-    "UPGRADE_DESCRIPTION": " 保留 。 NL 本回合手牌耗能变为0。"
+    "UPGRADE_DESCRIPTION": "保留 。 NL 本回合手牌耗能变为0。"
   },
   "aigisMod:Early": {
     "NAME": "厄利",
@@ -1604,7 +1604,7 @@
   },
   "aigisMod:Livre": {
     "NAME": "利弗尔",
-    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 ",
+    "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
     "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
     "EXTENDED_DESCRIPTION" : [
       "恶魔召唤士"
@@ -1638,7 +1638,7 @@
   "aigisMod:Isla": {
     "NAME": "艾拉",
     "DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 对所有敌人施加  2 层 虚弱 ",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 aigismod:伤害光环 。 NL 对所有敌人施加  2 层 虚弱 。",
     "EXTENDED_DESCRIPTION" : [
       "迷路的恶魔召唤士"
     ]
@@ -3905,7 +3905,7 @@
   "aigisMod:MaouMecha": {
     "NAME": "魔王军铠甲模式",
     "DESCRIPTION": "3 回合后： NL 获得 !M! 点 力量 ， 敏捷 和 残影 。",
-    "UPGRADE_DESCRIPTION": "固有 。 NL 3 回合后： NL 获得 !M! 点 力量 ， 敏捷 和 残影 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 3 回合后： NL 获得 !M! 点 力量 ， 敏捷 和 残影 。",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -4234,18 +4234,23 @@
 
   "aigisMod:StrikeRush": {
     "NAME": "打击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击加入弃牌堆 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击+加入弃牌堆 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击 加入弃牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击+ 加入弃牌堆。 NL 消耗 。"
   },
   "aigisMod:StrikeRush2": {
     "NAME": "打击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击加入弃牌堆 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击+加入弃牌堆 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击 加入弃牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击+ 加入弃牌堆。 NL 消耗 。"
   },
   "aigisMod:MiracleStrike": {
     "NAME": "奇迹打击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击加入弃牌堆 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张打击+加入弃牌堆 NL 消耗 。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击 加入弃牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击+ 加入弃牌堆。 NL 消耗 。"
+  },
+  "aigisMod:Strikenote000": {
+    "NAME": "奇迹打击",
+    "DESCRIPTION": "Use this translation for strikes depending on feedback.",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张 打击+ 加入弃牌堆（有1%的概率出现奇迹打击）。 NL 消耗 。"
   },
   "aigisMod:DefendRush": {
     "NAME": "防御",
@@ -4266,8 +4271,8 @@
   },
   "aigisMod:Genin": {
     "NAME": "下忍",
-    "DESCRIPTION": "将1张手里剑加入手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将1张手里剑+加入手牌。 NL 消耗 。",
+    "DESCRIPTION": "将1张 手里剑 加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将1张 手里剑+ 加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "援军"
     ]
@@ -4314,8 +4319,8 @@
   },
   "aigisMod:Russell": {
     "NAME": "罗素",
-    "DESCRIPTION": "保留 。 NL 获得 !B! 点 格挡 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。NL 获得 !B! 点 格挡 。 NL 消耗 。",
+    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。NL 获得 !B! 点 格挡 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "王国重步兵"
     ]
@@ -4351,151 +4356,151 @@
   },
   "aigisMod:Hellbeast": {
     "NAME": "魔兽刻耳柏洛斯",
-    "DESCRIPTION": "保留 NL 每消耗一张魔物使, 造成 !D! 点 aigismod:真实伤害 。",
+    "DESCRIPTION": " 保留 NL 每消耗一张魔物使, 造成 !D! 点 aigismod:真实伤害 。",
     "UPGRADE_DESCRIPTION": "保留 NL 每消耗一张魔物使, 造成 !D! 点 aigismod:真实伤害 。"
   },
   "aigisMod:Moltena": {
     "NAME": "莫妲纳",
-    "DESCRIPTION": "aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。 NL 将1张魔兽刻耳柏洛斯加入抽牌堆。",
+    "DESCRIPTION": " aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。",
+    "UPGRADE_DESCRIPTION": " aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。 NL 将1张魔兽刻耳柏洛斯加入抽牌堆。",
     "EXTENDED_DESCRIPTION": [
       "魔物使",
-      "aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。"
+      " aigismod:魔物使 。 NL 魔兽刻耳柏洛斯耗能变为0并且增加 !M! 点伤害 。"
     ]
   },
   "aigisMod:Suil": {
     "NAME": "丝伊尔",
-    "DESCRIPTION": "aigismod:魔物使 。 NL 抽2张牌。 NL 获得 !M! 层 活力 。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使 。 NL 抽2张牌。 NL 获得 !M! 层 活力 。",
+    "DESCRIPTION": " aigismod:魔物使 。 NL 抽2张牌。 NL 获得 !M! 层 活力 。",
+    "UPGRADE_DESCRIPTION": " aigismod:魔物使 。 NL 抽2张牌。 NL 获得 !M! 层 活力 。",
     "EXTENDED_DESCRIPTION": [
       "魔物使"
     ]
   },
   "aigisMod:Blanche": {
     "NAME": "布兰奇",
-    "DESCRIPTION": "aigismod:魔物使  NL 当你打出魔兽刻耳柏洛斯时，获得 1 点 力量 。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使  NL 当你打出魔兽刻耳柏洛斯时，获得 1 点 力量 。 NL 对所有敌人施加 1 层 虚弱 。",
+    "DESCRIPTION": " aigismod:魔物使 。 NL 当你打出魔兽刻耳柏洛斯时，获得 1 点 力量 。",
+    "UPGRADE_DESCRIPTION": " aigismod:魔物使 。 NL 当你打出魔兽刻耳柏洛斯时，获得 1 点 力量 。 NL 对所有敌人施加 1 层 虚弱 。",
     "EXTENDED_DESCRIPTION": [
       "魔物使"
     ]
   },
   "aigisMod:Shushu": {
     "NAME": "舒舒",
-    "DESCRIPTION": "aigismod:魔物使  NL 当你打出魔兽刻耳柏洛斯时，获得 !M! 点 格挡 。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使  NL 当你打出魔兽刻耳柏洛斯时，获得 !M! 点 格挡 。",
+    "DESCRIPTION": " aigismod:魔物使 。 NL 当你打出魔兽刻耳柏洛斯时，获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": " aigismod:魔物使 。 NL 当你打出魔兽刻耳柏洛斯时，获得 !M! 点 格挡 。",
     "EXTENDED_DESCRIPTION": [
       "兔耳魔物使"
     ]
   },
   "aigisMod:Fine": {
     "NAME": "芬努",
-    "DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 根据你的 aigismod:水压 层数获得 [E] 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 根据你的 aigismod:水压 层数获得 [E] 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 根据你的 aigismod:水压 层数获得 [E] 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 根据你的 aigismod:水压 层数获得 [E] 。",
     "EXTENDED_DESCRIPTION": [
       "翠玉的深海兵"
     ]
   },
   "aigisMod:Murua": {
     "NAME": "穆鲁啊",
-    "DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害3次。 NL 如果你拥有 !M! + aigismod:水压 , 本场战斗中手牌耗能减1。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害3次。 NL 如果你拥有 !M! + aigismod:水压 , 本场战斗中手牌耗能减1。",
+    "DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害3次。 NL 如果你拥有 !M! + aigismod:水压 , 本场战斗中手牌耗能减1。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害3次。 NL 如果你拥有 !M! + aigismod:水压 , 本场战斗中手牌耗能减1。",
     "EXTENDED_DESCRIPTION": [
       "朱珠的深海兵长"
     ]
   },
   "aigisMod:Ritva2": {
     "NAME": "莉特瓦",
-    "DESCRIPTION": "aigismod:深海 NL 下回合获得 [E] 。 NL 根据你的 aigismod:水压 层数抽牌。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 下回合获得 [E]  NL 根据你的 aigismod:水压 层数+1抽牌。",
+    "DESCRIPTION": " aigismod:深海 。 NL 下回合获得 [E] 。 NL 抽等同于 aigismod:水压 层数抽牌。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 下回合获得 [E]  NL 抽等同于 aigismod:水压 层数+1抽牌。",
     "EXTENDED_DESCRIPTION": [
       "淡红的深海兵"
     ]
   },
   "aigisMod:Havfrue": {
     "NAME": "哈尔芙",
-    "DESCRIPTION": "aigismod:深海 NL 你每有一层 aigismod:水压 敌人失去 !M! 点生命。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 你每有一层 aigismod:水压 所有敌人失去 !M! 点生命。",
+    "DESCRIPTION": " aigismod:深海 。 NL 你每有一层 aigismod:水压 敌人失去 !M! 点生命。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 你每有一层 aigismod:水压 所有敌人失去 !M! 点生命。",
     "EXTENDED_DESCRIPTION": [
       "紫鳞的海巫女",
-      "aigismod:深海 NL 你每有一层 aigismod:水压 敌人失去 !M! 点生命。"
+      " aigismod:深海 。 NL 你每有一层 aigismod:水压 敌人失去 !M! 点生命。"
     ]
   },
   "aigisMod:Liban": {
     "NAME": "利邦",
-    "DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 如果你有两层以上的 aigismod:水压 造成伤害两次。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 如果你有两层以上的 aigismod:水压 造成伤害两次。",
+    "DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 如果你有2层以上的 aigismod:水压 造成伤害两次。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 如果你有2层以上的 aigismod:水压 造成伤害两次。",
     "EXTENDED_DESCRIPTION": [
       "见习海巫女"
     ]
   },
   "aigisMod:Muiru": {
     "NAME": "穆尔",
-    "DESCRIPTION": "aigismod:深海 NL 抽 !M! 张牌。 NL 根据你的 aigismod:水压 层数施加 虚弱 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 抽 !M! 张牌。 NL 根据你的 aigismod:水压 层数施加 虚弱 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 抽 !M! 张牌。 NL 根据你的 aigismod:水压 层数施加 虚弱 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 抽 !M! 张牌。 NL 根据你的 aigismod:水压 层数施加 虚弱 。",
     "EXTENDED_DESCRIPTION": [
       "深虑的海巫女"
     ]
   },
   "aigisMod:Ionami": {
     "NAME": "五百波",
-    "DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 你每有一层 aigismod:水压 获得 !M! 点临时生命。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 造成 !D! 点伤害。 NL 你每有一层 aigismod:水压 获得 !M! 点临时生命。",
+    "DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 你每有一层 aigismod:水压 获得 !M! 点临时生命。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点伤害。 NL 你每有一层 aigismod:水压 获得 !M! 点临时生命。",
     "EXTENDED_DESCRIPTION": [
       "龙宫的海巫女"
     ]
   },
   "aigisMod:Scar": {
     "NAME": "斯卡",
-    "DESCRIPTION": "aigismod:深海 NL 你每有一层 aigismod:水压 对一名随机敌人造成 !D! 点伤害。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 你每有一层 aigismod:水压 对一名随机敌人造成 !D! 点伤害。",
+    "DESCRIPTION": " aigismod:深海 。 NL 你每有一层 aigismod:水压 对一名随机敌人造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 你每有一层 aigismod:水压 对一名随机敌人造成 !D! 点伤害。",
     "EXTENDED_DESCRIPTION": [
       "怒鲛战士"
     ]
   },
   "aigisMod:Wirbel": {
     "NAME": "薇娅贝尔",
-    "DESCRIPTION": "aigismod:深海 NL 造成 !D! 点 aigismod:真实 伤害。 NL 敌人根据你的 aigismod:水压 层数失去 力量 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 敌人根据你的 aigismod:水压 层数失去 力量 。 NL 消耗 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点 aigismod:真实 伤害。 NL 敌人根据你的 aigismod:水压 层数失去 力量 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 造成 !D! 点 aigismod:真实 伤害。 NL 敌人根据你的 aigismod:水压 层数失去 力量 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "潜航骑士"
     ]
   },
   "aigisMod:Cedyna": {
     "NAME": "塞迪娜",
-    "DESCRIPTION": "aigismod:深海 NL 在你的回合结束时， 你每有一层 aigismod:水压 获得2点 格挡 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 固有 NL 在你的回合结束时，你每有一层 aigismod:水压 获得2点 格挡 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 在你的回合结束时， 你每有一层 aigismod:水压 获得2点 格挡 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 固有 NL 在你的回合结束时，你每有一层 aigismod:水压 获得2点 格挡 。",
     "EXTENDED_DESCRIPTION": [
       "潜泳骑士"
     ]
   },
   "aigisMod:Marsi2": {
     "NAME": "玛尔希",
-    "DESCRIPTION": "aigismod:深海 NL 每当你 消耗 一张牌时，该敌人受到 !M! 点伤害。 NL 抽1张牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 每当你 消耗 一张牌时，该敌人受到 !M! 点伤害。 NL 抽1张牌。 NL 消耗 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 每当你 消耗 一张牌时，该敌人受到 !M! 点伤害。 NL 抽1张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 每当你 消耗 一张牌时，该敌人受到 !M! 点伤害。 NL 抽1张牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "潜水骑士"
     ]
   },
   "aigisMod:Kuste": {
     "NAME": "居斯泰",
-    "DESCRIPTION": "aigismod:深海 NL 根据你的 aigismod:水压 层数获得 力量 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 根据你的 aigismod:水压 层数+！获得 力量 。 NL 消耗 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 根据你的 aigismod:水压 层数获得 力量 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 根据你的 aigismod:水压 层数+1获得 力量 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "新人潜水骑士"
     ]
   },
   "aigisMod:Meshina": {
     "NAME": "梅西纳",
-    "DESCRIPTION": "aigismod:深海 NL 当你获得 aigismod:水压 时，获得1 力量 。",
-    "UPGRADE_DESCRIPTION": "固有 NL aigismod:深海 NL 当你获得 aigismod:水压 时，获得1 力量 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 当你获得 aigismod:水压 时，获得1 力量 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL aigismod:深海 。 NL 当你获得 aigismod:水压 时，获得1 力量 。",
     "EXTENDED_DESCRIPTION": [
       "涡潮的亚神"
     ]
   },
   "aigisMod:Otohime": {
     "NAME": "乙姬",
-    "DESCRIPTION": "aigismod:深海 NL 你不会受到来自 aigismod:水压 的伤害。 NL 当你获得 aigismod:水压 时，对所有敌人施加1层 虚弱 。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海 NL 固有. NL 你不会受到来自 aigismod:水压 的伤害。 NL 当你获得 aigismod:水压 时，对所有敌人施加1层 虚弱 。",
+    "DESCRIPTION": " aigismod:深海 。 NL 不再受到 aigismod:水压 的伤害。 NL 当你获得 aigismod:水压 时，对所有敌人施加1层 虚弱 。",
+    "UPGRADE_DESCRIPTION": " aigismod:深海 。 NL 固有. NL 不再受到 aigismod:水压 的伤害。 NL 当你获得 aigismod:水压 时，对所有敌人施加1层 虚弱 。",
     "EXTENDED_DESCRIPTION": [
       "大海神之女"
     ]
@@ -4509,9 +4514,9 @@
     ]
   },
   "aigisMod:AirSignal": {
-    "NAME": "空中标记 ",
-    "DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合此牌耗能减少 !M! 。NL 阻止下1次受到的来自你自己的伤害。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合此牌耗能减少 !M! 。 NL 阻止下 !M! 次受到的来自你自己的伤害。 NL 消耗 。",
+    "NAME": "空中标记",
+    "DESCRIPTION": " 保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合此牌耗能减少 !M! 。 NL 本回合内阻止下1次受到的来自你自己的伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 将1张空域牌从弃牌堆返回手牌，本回合此牌耗能减少 !M! 。 NL 本回合内阻止下 !M! 次受到的来自你自己的伤害。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -4527,7 +4532,15 @@
   "aigisMod:Oviely": {
     "NAME": "奥维莉",
     "DESCRIPTION": "对意图是攻击的敌人施加1层 虚弱 。 NL 每消耗1张 空中标记 ,获得 1 点 格挡 。",
-    "UPGRADE_DESCRIPTION": "对意图是攻击的敌人施加1层 虚弱 。 NL 每消耗1张 空中标记 ,获得 1 点 格挡 ，额外触发两次。",
+    "UPGRADE_DESCRIPTION": "对意图是攻击的敌人施加1层 虚弱 。 NL 每消耗1张 空中标记 ,获得 1 点 格挡 。 NL 获得2点 格挡 。",
+    "EXTENDED_DESCRIPTION" : [
+      "首席飞行士"
+    ]
+  },
+  "aigisMod:Oviely+000": {
+    "NAME": "奥维莉(ZHS translation note)",
+    "DESCRIPTION": "ver1: 对意图是攻击的敌人施加1层 虚弱 。 NL 每消耗1张 空中标记 ,获得 1 点 格挡 ，额外触发两次。",
+    "UPGRADE_DESCRIPTION": "ver2: 对意图是攻击的敌人施加1层 虚弱 。 根据你消耗的 空中标记 数量+2，获得1点 格挡 数次。",
     "EXTENDED_DESCRIPTION" : [
       "首席飞行士"
     ]
@@ -4574,49 +4587,49 @@
   },
   "aigisMod:Potal": {
     "NAME": "波塔尔",
-    "DESCRIPTION": "额外创造 1 张空中标记。 NL 你可以将 !M! 张空中标记从抽牌堆送乳弃牌堆。",
-    "UPGRADE_DESCRIPTION": "额外创造 1 张空中标记。 NL 你可以将 !M! 张空中标记从抽牌堆送乳弃牌堆。",
+    "DESCRIPTION": "额外创造 1 张 空中标记 。 NL 可以选择将 !M! 张 空域 牌从抽牌堆放入弃牌堆。",
+    "UPGRADE_DESCRIPTION": "额外创造 1 张 空中标记 。 NL 可以选择将 !M! 张 空域 牌从抽牌堆放入弃牌堆。",
     "EXTENDED_DESCRIPTION" : [
       "木兔翼的战士"
     ]
   },
   "aigisMod:Lela": {
     "NAME": "耶拉",
-    "DESCRIPTION": "每当你打出一张空中标记，获得 1 点临时生命。",
-    "UPGRADE_DESCRIPTION": "将1张空中标记加入手牌。 NL 每当你打出一张空中标记，获得 1 点临时生命。",
+    "DESCRIPTION": "每当你打出一张空中标记，获得 2 点临时生命。",
+    "UPGRADE_DESCRIPTION": "将1张 空中标记 加入手牌。 NL 每当你打出一张空中标记，获得 2 点临时生命。",
     "EXTENDED_DESCRIPTION" : [
       "蓑鸠翼的治愈士"
     ]
   },
   "aigisMod:Kania": {
     "NAME": "卡尼亚",
-    "DESCRIPTION": "每当你打出一张空中标记，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。",
-    "UPGRADE_DESCRIPTION": "每当你打出一张空中标记，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。",
+    "DESCRIPTION": "每当你打出一张 空中标记 ，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。",
+    "UPGRADE_DESCRIPTION": "每当你打出一张 空中标记 ，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。",
     "EXTENDED_DESCRIPTION" : [
       "鹰翼的治愈士",
-      "将1张空中标记加入手牌。 NL 每当你打出一张空中标记，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。"
+      "将1张 空中标记 加入手牌。 NL 每当你打出一张 空中标记 ，对1名随机敌人施加 易伤 并移除自身的 虚弱 和 易伤 。"
     ]
   },
   "aigisMod:Lefka": {
     "NAME": "蕾芙卡",
-    "DESCRIPTION": "获得 !M! 点临时生命 。 NL 将1张空中标记加入手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "获得 !M! 点临时生命 。 NL 将1张空中标记加入手牌。 NL 消耗 。",
+    "DESCRIPTION": "获得 !M! 点 临时生命。 NL 将1张 空中标记 加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 临时生命。 NL 将1张 空中标记 加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "鹗翼的治愈士"
     ]
   },
   "aigisMod:Tabitha": {
     "NAME": "塔巴萨",
-    "DESCRIPTION": "在回合开始时，随机将1张魔兽刻耳柏洛斯、水压或空中标记加入手牌。",
-    "UPGRADE_DESCRIPTION": "在回合开始时，随机将1张魔兽刻耳柏洛斯、水压或空中标记加入手牌。",
+    "DESCRIPTION": "在回合开始时，随机将1张 魔兽刻耳柏洛斯、深海 或空中标记 加入手牌。",
+    "UPGRADE_DESCRIPTION": "在回合开始时，随机将1张魔兽刻耳柏洛斯、深海或空中标记加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       "奇想的发明家"
     ]
   },
   "aigisMod:Puniru": {
     "NAME": "普尼尔",
-    "DESCRIPTION": "将1张被消耗的魔物使加入手牌。 NL 抽1张牌。 NL 获得 !M! 点临时生命 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将1张被消耗的魔物使加入手牌，它的耗能变为0。 NL 抽1张牌。 NL 获得 !M! 点临时生命 。 NL 消耗 。",
+    "DESCRIPTION": "将1张被消耗的魔物使加入手牌。 NL 抽1张牌。 NL 获得 !M! 点 临时生命 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将1张被消耗的魔物使加入手牌，它的耗能变为0。 NL 抽1张牌。 NL 获得 !M! 点 临时生命 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "魔狼巫女"
     ]
@@ -4632,28 +4645,28 @@
   },
   "aigisMod:Renata": {
     "NAME": "蕾娜塔",
-    "DESCRIPTION": "固有. NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张空中标记加入手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "固有. NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张空中标记加入手牌。 NL 消耗 。",
+    "DESCRIPTION": " 固有。 NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张 空中标记 加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 固有。 NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张 空中标记 加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "天眼的侦察者",
-      "固有. NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张空中标记加入手牌。"
+      " 固有。 NL 至多将 !M! 张牌从抽牌堆送入弃牌堆。 NL 将2张 空中标记 加入手牌。"
     ]
   },
   "aigisMod:Miriam": {
     "NAME": "米莉亚姆",
-    "DESCRIPTION": "保留. NL 将1张空中标记加入手牌。 NL 获得 !M! 层 活力 。",
-    "UPGRADE_DESCRIPTION": "保留. NL 将1张空中标记+加入手牌。 NL 获得 !M! 层 活力 。",
+    "DESCRIPTION": " 保留。 NL 将1张空中标记加入手牌。 NL 获得 !M! 层 活力 。",
+    "UPGRADE_DESCRIPTION": " 保留。 NL 将1张空中标记+加入手牌。 NL 获得 !M! 层 活力 。",
     "EXTENDED_DESCRIPTION" : [
       "鹰目的侦察兵"
     ]
   },
   "aigisMod:Duo2": {
     "NAME": "杜欧",
-    "DESCRIPTION": "造成 !D! 点伤害2次。 aigismod:水兵  !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害2次。 aigismod:水兵  !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗 。",
+    "DESCRIPTION": "造成 !D! 点伤害2次。 aigismod:水兵 !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害2次。 aigismod:水兵 !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "无双海贼",
-      "造成 !D! 点伤害2次 aigismod:水兵  !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗性 : !stslib:ex!"
+      "造成 !D! 点伤害2次 aigismod:水兵 !M! : 将一张双持加特林加入到弃牌堆。 NL 消耗性 : !stslib:ex!"
     ]
   },
   "aigisMod:DGDuo": {
@@ -4666,114 +4679,114 @@
   },
   "aigisMod:Beatrica": {
     "NAME": "碧翠卡",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗. NL aigismod:水兵 2: 将1张碧翠卡加入到抽牌堆顶部。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 消耗. NL aigismod:水兵 2: 将1张碧翠卡+加入到抽牌堆顶部。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗 。 NL aigismod:水兵 2: 将1张 碧翠卡 加入到抽牌堆顶部。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 消耗 。 NL aigismod:水兵 2: 将1张 碧翠卡+ 加入到抽牌堆顶部。",
     "EXTENDED_DESCRIPTION" : [
       "红之海贼"
     ]
   },
   "aigisMod:Karina": {
     "NAME": "卡丽娜",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:暗杀  NL aigismod:水兵  1: 此牌本场战斗增加 !M! 点伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:暗杀  NL aigismod:水兵  1: 此牌本场战斗增加 !M! 点伤害。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:暗杀 。 NL aigismod:水兵 1: 此牌本场战斗增加 !M! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:暗杀 。 NL aigismod:水兵 1: 此牌本场战斗增加 !M! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "可爱海贼"
     ]
   },
   "aigisMod:Maurette2": {
     "NAME": "莫莱特",
-    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 消耗 NL aigismod:水兵  1: 获得 !M! 枚金币",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 消耗 NL aigismod:水兵  1: 获得 !M! 枚金币",
+    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 消耗 。 NL aigismod:水兵 1: 获得 !M! 枚金币",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 消耗 。 NL aigismod:水兵 1: 获得 !M! 枚金币",
     "EXTENDED_DESCRIPTION" : [
       "爆裂海贼"
     ]
   },
   "aigisMod:Minerva": {
     "NAME": "密涅瓦",
-    "DESCRIPTION": "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵  !aigisMod:SecondMagic! : 造成 !D! 点伤害。",
-    "UPGRADE_DESCRIPTION": "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵  !aigisMod:SecondMagic! : 造成 !D! 点伤害。",
+    "DESCRIPTION": "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵 !aigisMod:SecondMagic! : 造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵 !aigisMod:SecondMagic! : 造成 !D! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "传说海贼",
-      "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵  !aigisMod:SecondMagic! : 造成 !D! 点伤害。"
+      "aigismod:技能充能 ： 提升此牌伤害 !M! 点 NL aigismod:水兵 !aigisMod:SecondMagic! : 造成 !D! 点伤害。"
     ]
   },
   "aigisMod:Monica2": {
     "NAME": "莫妮卡",
-    "DESCRIPTION": "造成 !D! 点伤害1次。 NL aigismod:水兵  2: 本次使用造成伤害次数增加 !M! 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害1次。 NL aigismod:水兵  2: 本次使用造成伤害次数增加 !M! 。",
+    "DESCRIPTION": "造成 !D! 点伤害1次。 NL aigismod:水兵 2: 本次使用造成伤害次数增加 !M! 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害1次。 NL aigismod:水兵 2: 本次使用造成伤害次数增加 !M! 。",
     "EXTENDED_DESCRIPTION" : [
       "新手海贼"
     ]
   },
   "aigisMod:Rachel2": {
     "NAME": "蕾切尔",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:水兵  1: 将此牌回到手牌。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:水兵  1: 将此牌回到手牌。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:水兵 1: 将此牌回到手牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:水兵 1: 将此牌回到手牌。",
     "EXTENDED_DESCRIPTION" : [
       "海贼"
     ]
   },
   "aigisMod:Sabrina": {
     "NAME": "萨布利娜",
-    "DESCRIPTION": "造成 !D! 点伤害3次。 NL 消耗 NL aigismod:水兵  1: 获得 [E]",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害3次。 NL aigismod:水兵  1: 获得 [E]",
+    "DESCRIPTION": "造成 !D! 点伤害3次。 NL 消耗 。 NL aigismod:水兵 1: 获得 [E]",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害3次。 NL aigismod:水兵 1: 获得 [E]",
     "EXTENDED_DESCRIPTION" : [
       "私掠船长"
     ]
   },
   "aigisMod:Verotte2": {
     "NAME": "薇洛特",
-    "DESCRIPTION": "施加1层 易伤 。 NL aigismod:水兵  1: 对所有敌人造成 !D! 点伤害。",
-    "UPGRADE_DESCRIPTION": "施加1层 易伤 。 NL aigismod:水兵  1: 对所有敌人造成 !D! 点伤害。",
+    "DESCRIPTION": "施加1层 易伤 。 NL aigismod:水兵 1: 对所有敌人造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "施加1层 易伤 。 NL aigismod:水兵 1: 对所有敌人造成 !D! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "海贼"
     ]
   },
   "aigisMod:Amelie": {
     "NAME": "艾梅莉",
-    "DESCRIPTION": "将1张士兵攻击牌从抽牌堆中加入手牌。 NL aigismod:水兵  1: 下回合抽1张牌。",
-    "UPGRADE_DESCRIPTION": "将1张士兵攻击牌从抽牌堆中加入手牌。 NL aigismod:水兵  1: 下回合抽1张牌。",
+    "DESCRIPTION": "将1张 水兵 攻击牌从抽牌堆中加入手牌。 NL aigismod:水兵 1: 下回合抽1张牌。",
+    "UPGRADE_DESCRIPTION": "将1张 水兵 攻击牌从抽牌堆中加入手牌。 NL aigismod:水兵 1: 下回合抽1张牌。",
     "EXTENDED_DESCRIPTION" : [
       "航海士"
     ]
   },
   "aigisMod:Ibuki": {
     "NAME": "伊吹",
-    "DESCRIPTION": "当你打出士兵或深海牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵  1: 获得1点 敏捷 。",
-    "UPGRADE_DESCRIPTION": "当你打出士兵或深海牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵  1: 获得1点 敏捷 。",
+    "DESCRIPTION": "当你打出 水兵 或 深海 牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵 1: 获得1点 敏捷 。",
+    "UPGRADE_DESCRIPTION": "当你打出 水兵 或 深海 牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵 1: 获得1点 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "海军元帅",
-      "固有 。 NL 当你打出士兵或深海牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵  1: 获得1点 敏捷 。"
+      "固有 。 NL 当你打出 水兵 或 深海 牌时，对所有敌人造成 !M! 点伤害。 NL aigismod:水兵 1: 获得1点 敏捷 。"
     ]
   },
   "aigisMod:Jacqueline": {
     "NAME": "迦奎琳",
-    "DESCRIPTION": "将1张士兵攻击或深海牌从弃牌堆中返回手牌。 NL aigismod:水兵  2: 本回合那张牌的耗能变为0。",
-    "UPGRADE_DESCRIPTION": "将1张士兵攻击或深海牌从弃牌堆中返回手牌。 NL aigismod:水兵  2: 本场战斗那张牌的耗能变为0。",
+    "DESCRIPTION": "将1张 水兵 攻击或 深海 牌从弃牌堆中返回手牌。 NL aigismod:水兵 2: 本回合那张牌的耗能变为0。",
+    "UPGRADE_DESCRIPTION": "将1张 水兵 攻击或 深海 牌从弃牌堆中返回手牌。 NL aigismod:水兵 2: 本场战斗那张牌的耗能变为0。",
     "EXTENDED_DESCRIPTION" : [
       "航海士"
     ]
   },
   "aigisMod:Marie2": {
     "NAME": "玛丽",
-    "DESCRIPTION": "获得2层 活力  NL aigismod:水兵  1: 获得 !M! 层 活力 。",
-    "UPGRADE_DESCRIPTION": "获得2层 活力  NL aigismod:水兵  1: 获得 !M! 层 活力 。",
+    "DESCRIPTION": "获得2层 活力 NL aigismod:水兵 1: 获得 !M! 层 活力 。",
+    "UPGRADE_DESCRIPTION": "获得2层 活力 NL aigismod:水兵 1: 获得 !M! 层 活力 。",
     "EXTENDED_DESCRIPTION" : [
       "见习水兵"
     ]
   },
   "aigisMod:Reanbell": {
     "NAME": "琳贝尔",
-    "DESCRIPTION": "保留 。  NL aigismod:水兵  2: 造成 !D! 点伤害6次。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "保留 。 NL aigismod:水兵  2: 造成 !D! 点伤害6次。 NL 消耗 。",
+    "DESCRIPTION": "保留 。 NL aigismod:水兵 2: 造成 !D! 点伤害6次。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL aigismod:水兵 2: 造成 !D! 点伤害6次。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "提督"
     ]
   },
   "aigisMod:Viera": {
     "NAME": "比埃拉",
-    "DESCRIPTION": "回合开始时，获得1层 活力 。 NL aigismod:水兵  1: 每回合额外获得 !M! 层 活力 。",
-    "UPGRADE_DESCRIPTION": "回合开始时，获得1层 活力 。 NL aigismod:水兵  1: 每回合额外获得 !M! 层 活力 。",
+    "DESCRIPTION": "回合开始时，获得1层 活力 。 NL aigismod:水兵 1: 每回合额外获得 !M! 层 活力 。",
+    "UPGRADE_DESCRIPTION": "回合开始时，获得1层 活力 。 NL aigismod:水兵 1: 每回合额外获得 !M! 层 活力 。",
     "EXTENDED_DESCRIPTION" : [
       "水兵"
     ]
@@ -4796,16 +4809,16 @@
   },
   "aigisMod:Patra": {
     "NAME": "帕特拉",
-    "DESCRIPTION": "从 !M! 张耗能为1的Aigis角色牌中选择1张加入手牌，它的耗能变为0。NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "从 !M! 张耗能为1的Aigis角色牌中选择1张加入手牌，它的耗能变为0。NL 消耗 。",
+    "DESCRIPTION": "从 !M! 张耗能为1的Aigis角色牌中选择1张加入手牌，它的耗能变为0。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从 !M! 张耗能为1的Aigis角色牌中选择1张加入手牌，它的耗能变为0。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "太阳神官"
     ]
   },
   "aigisMod:Paula": {
     "NAME": "宝拉",
-    "DESCRIPTION": "从 !M! 张魔物使、不死族或恶魔Aigis角色牌中选择1张 消耗 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "从 !M! 张魔物使、不死族或恶魔Aigis角色牌中选择1张 消耗 。 NL 消耗性 : !stslib:ex! 。",
+    "DESCRIPTION": "从 !M! 张 魔物使 、 不死族 或 恶魔 Aigis角色牌中选择1张 消耗 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "从 !M! 张 魔物使 、 不死族 或 恶魔 Aigis角色牌中选择1张 消耗 。 NL 消耗性 : !stslib:ex! 。",
     "EXTENDED_DESCRIPTION" : [
       "旅行司祭"
     ]
@@ -4877,7 +4890,7 @@
   "aigisMod:Neve": {
     "NAME": "尼芙",
     "DESCRIPTION": "每回合开始时，将1张混沌元素加入手牌。",
-    "UPGRADE_DESCRIPTION": "固有. NL 每回合开始时，将1张混沌元素加入手牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每回合开始时，将1张混沌元素加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       "混沌灵使",
       "每回合开始时，将1张混沌元素加入手牌。"
@@ -4943,7 +4956,7 @@
   "aigisMod:Zilva": {
     "NAME": "基尔瓦",
     "DESCRIPTION": "将1张雷元素加入手牌。 NL 对所有拥有 aigismod:水压 的敌人施加 虚弱 。",
-    "UPGRADE_DESCRIPTION": "固有. NL 将1张雷元素加入手牌。 NL 对所有拥有 aigismod:水压 的敌人施加 虚弱 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 将1张雷元素加入手牌。 NL 对所有拥有 aigismod:水压 的敌人施加 虚弱 。",
     "EXTENDED_DESCRIPTION" : [
       "雷灵使"
     ]
@@ -4986,7 +4999,7 @@
     "UPGRADE_DESCRIPTION": "将一张菲尼克斯加入手牌。 NL 获得 !M! 点临时生命 。 NL 回复 !M! 点生命。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "召唤士",
-      "固有. NL 将一张菲尼克斯加入手牌。 NL 获得 !M! 点临时生命 。 NL 回复 !M! 点生命。 NL 消耗 。"
+      " 固有 。 NL 将一张菲尼克斯加入手牌。 NL 获得 !M! 点临时生命 。 NL 回复 !M! 点生命。 NL 消耗 。"
     ]
   },
   "aigisMod:Phoenix": {
@@ -5064,23 +5077,23 @@
   "aigisMod:Lehren2": {
     "NAME": "莱伦",
     "DESCRIPTION": " 消耗 所有状态牌。 NL 将1张灵药底野迦加入弃牌堆。 NL 本回合结束时失去 !M! 点生命。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": " 消耗 所有状态牌。 NL 将1张灵药底野迦加入弃牌堆。 NL 本回合结束时失去 !M! 点生命。 NL 消耗",
+    "UPGRADE_DESCRIPTION": " 消耗 所有状态牌。 NL 将1张灵药底野迦加入弃牌堆。 NL 本回合结束时失去 !M! 点生命。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "炼金讲师"
     ]
   },
   "aigisMod:Theriac": {
     "NAME": "灵药底野迦",
-    "DESCRIPTION": "回复5点生命。 获得1瓶虚弱药水。 NL 获得 !M! 枚金币。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "回复5点生命。 获得1瓶虚弱药水。 NL 获得 !M! 枚金币.。 NL 消耗 。",
+    "DESCRIPTION": "回复5点 生命 。 获得1瓶虚弱药水。 NL 获得 !M! 枚金币。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "回复5点 生命 。 获得1瓶虚弱药水。 NL 获得 !M! 枚金币.。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Thelma": {
     "NAME": "泰尔玛",
-    "DESCRIPTION": "施加 1 层 易伤 。 NL 每有一瓶药水获得 !M! 枚金币。 NL 本回合结束时失去3点生命。  NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "施加 1 层 易伤 。 NL 每有一瓶药水获得 !M! 枚金币。 NL 本回合结束时失去3点生命。  NL 消耗 。",
+    "DESCRIPTION": "施加 1 层 易伤 。 NL 每有一瓶药水获得 !M! 枚金币。 NL 本回合结束时失去3点生命。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "施加 1 层 易伤 。 NL 每有一瓶药水获得 !M! 枚金币。 NL 本回合结束时失去3点生命。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "炼金术士"
     ]
@@ -5096,8 +5109,8 @@
   },
   "aigisMod:SteamTank": {
     "NAME": "蒸汽坦克",
-    "DESCRIPTION": "造成 !D! 点伤害。 回复 !M! 点生命。 NL 当你赢得本场战斗时获得1瓶随机药水。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 回复 !M! 点生命。 NL 当你赢得本场战斗时获得1瓶随机药水。 NL 消耗 。",
+    "DESCRIPTION": "造成 !D! 点伤害。 回复 !M! 点 生命 。 NL 当你赢得本场战斗时获得1瓶随机药水。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 回复 !M! 点 生命 。 NL 当你赢得本场战斗时获得1瓶随机药水。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -5153,8 +5166,8 @@
   },
   "aigisMod:AigisStatue": {
     "NAME": "埃癸斯像",
-    "DESCRIPTION": "将1张随机aigis角色牌加入手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将1张随机aigis角色牌加入手牌。 NL 消耗 。",
+    "DESCRIPTION": "将1张随机Aigis角色牌加入手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将1张随机Aigis角色牌加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -5195,8 +5208,8 @@
   },
   "aigisMod:Spica": {
     "NAME": "斯比卡",
-    "DESCRIPTION": "如果目标拥有debuff，弓箭手额外造成1点伤害。 NL 造成 !D! 点 aigismod:弓箭手 伤害。",
-    "UPGRADE_DESCRIPTION": "如果目标拥有debuff，弓箭手额外造成1点伤害。 NL 造成 !D! 点 aigismod:弓箭手 伤害。",
+    "DESCRIPTION": "如果敌人有负面状态，弓箭手的伤害提高1点。 NL 造成 !D! 点 aigismod:弓箭手 伤害。",
+    "UPGRADE_DESCRIPTION": "如果敌人有负面状态，弓箭手的伤害提高1点。 NL 造成 !D! 点 aigismod:弓箭手 伤害。",
     "EXTENDED_DESCRIPTION" : [
       "妖精乡的射手"
     ]
@@ -5204,7 +5217,7 @@
   "aigisMod:Ashlyn": {
     "NAME": "阿什琳",
     "DESCRIPTION": "当你消耗不死族或诅咒时，获得1点 力量 。 NL aigismod:不死族 ： 获得此能力。",
-    "UPGRADE_DESCRIPTION": "固有. NL 当你消耗不死族或诅咒时，获得1点 力量 。 NL aigismod:不死族 ： 获得此能力。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 当你消耗不死族或诅咒时，获得1点 力量 。 NL aigismod:不死族 ： 获得此能力。",
     "EXTENDED_DESCRIPTION" : [
       "常夜的料理人"
     ]
@@ -5297,17 +5310,17 @@
     ]
   },
   "aigisMod:Haruka2": {
-    "NAME": "Haruka",
-    "DESCRIPTION": "Scry !M! NL Add 1 Air Elemental to your draw pile.",
-    "UPGRADE_DESCRIPTION": "Scry !M! NL Add 1 Air Elemental to your draw pile.",
+    "NAME": "春香",
+    "DESCRIPTION": "预见 !M! 。 NL 将一张风元素加入到抽牌堆。",
+    "UPGRADE_DESCRIPTION": "预见 !M! 。 NL 将一张风元素加入到抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
-      "Imperial Wind Spirit User"
+      "帝国风灵使"
     ]
   },
   "aigisMod:AirElemental": {
-    "NAME": "Air Elemental",
-    "DESCRIPTION": "造成 !D! 点伤害2次。 enemies twice. NL Scry !M! NL 抽1张牌。 NL 消耗.",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害2次。 enemies twice. NL Scry !M! NL 抽1张牌。 NL 消耗.",
+    "NAME": "风元素",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害2次。 NL 预见 !M! 。 NL 抽1张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害2次。 NL 预见 !M! 。 NL 抽1张牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
