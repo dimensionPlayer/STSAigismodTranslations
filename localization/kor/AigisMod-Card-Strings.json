@@ -164,7 +164,7 @@
     "NAME": "호르테우스",
     "DESCRIPTION": "적의 체력이 !M! 감소합니다. NL 체력을 !M! 회복합니다. NL 1 스핑크스를 손에 얻습니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Rules the Sphinxes"
+      "사자녀의 패자"
     ]
   },
   "aigisMod:Sphinx": {
@@ -268,22 +268,22 @@
     "DESCRIPTION": "소멸. NL 만일 이 카드가 턴 종료시 패에 남아 있다면, 최대 HP가 1 감소합니다."
   },
   "aigisMod:MildrithPlatinum": {
-    "NAME": "Mildrith",
-    "DESCRIPTION": "At the start of combat add 1 Garuda to your draw pile. NL Deal !D! damage 2 times. NL Heal !M! HP. NL 소멸",
+    "NAME": "밀드리스",
+    "DESCRIPTION": "전투 시작시 뽑을 카드 더미에 1 가루다를 추가합니다. NL !D! 데미지를 2 회 가합니다. NL !M! HP를 회복합니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls the Beasts"
+      "짐승을 통솔하는 자"
     ]
   },
   "aigisMod:MildrithBlack": {
-    "NAME": "Mildrith",
-    "DESCRIPTION": "At the start of combat add 1 Garuda to your hand. NL Deal !D! damage 3 times. NL Heal !M! HP. NL 소멸",
+    "NAME": "밀드리스",
+    "DESCRIPTION": "전투 시작시 뽑을 카드 더미에 1 가루다를 추가합니다. NL !D! 데미지를 3 회 가합니다. NL !M! HP를 회복합니다. NL 소멸",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls the Beasts"
+      "짐승을 통솔하는 자"
     ]
   },
   "aigisMod:Garuda": {
-    "NAME": "Garuda",
-    "DESCRIPTION": "Deal !D! aigismod:True_damage 3 times. NL Draw 1 card.",
+    "NAME": "가루다",
+    "DESCRIPTION": "!D! aigismod:True_damage 3 times. NL Draw 1 card.",
     "EXTENDED_DESCRIPTION" : [
       "Divine Beast"
     ]
