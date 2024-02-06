@@ -253,19 +253,19 @@
     "NAME": "모르페사",
     "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls Calamities"
+      "재화를 이끄는 자"
     ]
   },
   "aigisMod:MorfessaBlack": {
     "NAME": "모르페사",
     "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Controls Calamities"
+      "재화를 이끄는 자"
     ]
   },
   "aigisMod:CursedFog": {
     "NAME": "Fog of Falias",
-    "DESCRIPTION": "소멸. NL If this card is in your hand at the end of your turn, lose 1 Max HP."
+    "DESCRIPTION": "소멸. NL 만일 이 카드가 턴 종료시 패에 남아 있다면, 최대 HP가 1 감소합니다."
   },
   "aigisMod:MildrithPlatinum": {
     "NAME": "Mildrith",
