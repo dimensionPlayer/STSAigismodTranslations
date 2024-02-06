@@ -4337,78 +4337,78 @@
     ]
   },
   "aigisMod:BirdmanArcher": {
-    "NAME": "Birdman Archer",
-    "DESCRIPTION": "Deal !D! aigismod:아쳐 데미지. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:아쳐 데미지. NL 소멸.",
+    "NAME": "조인 아쳐",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
-      "Falcon-Winged"
+      "준익의 조인"
     ]
   },
   "aigisMod:BirdmanSoldier": {
-    "NAME": "Birdman Soldier",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL 소멸",
+    "NAME": "조인 전사",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸",
     "EXTENDED_DESCRIPTION": [
-      "Hawk-Winged"
+      "연익의 조인"
     ]
   },
   "aigisMod:WaterField": {
     "NAME": "심해",
-    "DESCRIPTION": "Apply aigismod:수압 to everyone. NL Gain !B! Block. NL 소멸",
-    "UPGRADE_DESCRIPTION": "Apply aigismod:수압 to everyone. NL Gain !B! Block. NL 소멸"
+    "DESCRIPTION": "모두에게 aigismod:수압을 부여합니다. NL 방어도를 !B! 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "모두에게 aigismod:수압을 부여합니다. NL 방어도를 !B! 얻습니다. NL 소멸"
   },
   "aigisMod:Hellbeast": {
-    "NAME": "Hellbeast",
-    "DESCRIPTION": "보존 NL Deal !D! aigismod:관통 데미지 for each Beast tamer 소멸ed.",
-    "UPGRADE_DESCRIPTION": "보존 NL Deal !D! aigismod:관통 데미지 for each Beast tamer 소멸ed."
+    "NAME": "마수",
+    "DESCRIPTION": "보존 NL 소멸된 비스트 테이머의 수만큼 !D! aigismod:관통 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "보존 NL 소멸된 비스트 테이머의 수만큼 !D! aigismod:관통 데미지를 가합니다."
   },
   "aigisMod:Moltena": {
-    "NAME": "Moltena",
-    "DESCRIPTION": "aigismod:Beast_tamer NL Hellbeast become cost 0 and gain 2 damage.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer. NL Hellbeast become cost 0 and gain 2 damage. Add 1 Hellbeast to 뽑을 카드 더미.",
+    "NAME": "모르테나",
+    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다. 뽑을 카드 더미에 1 마수를 추가합니다.",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer",
-      "aigismod:Beast_tamer. NL Hellbeast become cost 0 and gain 5 damage."
+      "마수 조련사",
+      "aigismod:비스트 테이머. NL 마수의 코스트가 0 이 되며 5 데미지를 추가합니다."
     ]
   },
   "aigisMod:Suil": {
-    "NAME": "Suil",
-    "DESCRIPTION": "aigismod:Beast_tamer NL 카드를 2 장 뽑습니다. NL Gain !M! Vigor.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL 카드를 2 장 뽑습니다. NL Gain !M! Vigor.",
+    "NAME": "스이루",
+    "DESCRIPTION": "aigismod:비스트 테이머 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer"
+      "마수 조련사"
     ]
   },
   "aigisMod:Blanche": {
-    "NAME": "Blanche",
-    "DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast 힘을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast 힘을 1 얻습니다. NL Apply 1 Weak to ALL enemies.",
+    "NAME": "블랑슈",
+    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용할 때마다 힘을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용할 때마다 힘을 1 얻습니다. NL 모든 적에게 약화를 1 부여합니다.",
     "EXTENDED_DESCRIPTION": [
-      "Beast Tamer"
+      "마수 조련사"
     ]
   },
   "aigisMod:Shushu": {
-    "NAME": "Shushu",
-    "DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain !M! 방어도.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain !M! 방어도.",
+    "NAME": "슈슈",
+    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION": [
-      "Bunny-Eared Beast Tamer"
+      "토끼귀의 마수 조련사"
     ]
   },
   "aigisMod:Fine": {
-    "NAME": "Fine",
-    "DESCRIPTION": "aigismod:심해 NL Deal !D! Damage. [E] 를 얻습니다 equal to your aigismod:수압.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해 NL Deal !D! Damage. [E] 를 얻습니다 equal to your aigismod:수압.",
+    "NAME": "피느",
+    "DESCRIPTION": "aigismod:심해 NL !D! 데미지를 가합니다. 자신의 aigismod:수압 만큼 [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해 NL !D! 데미지를 가합니다. 자신의 aigismod:수압 만큼 [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
-      "Emerald Deep Sea Soldier"
+      "취옥의 심해병"
     ]
   },
   "aigisMod:Murua": {
-    "NAME": "Murua",
-    "DESCRIPTION": "aigismod:심해 NL Deal !D! damage 3 times. NL If you have !M! + aigismod:수압, reduce the cost of cards in hand by 1 for the combat.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해 NL Deal !D! damage 3 times. NL If you have !M! + aigismod:수압, reduce the cost of cards in hand by 1 for the combat.",
+    "NAME": "무루아",
+    "DESCRIPTION": "aigismod:심해 NL !D! 데미지를 3 회 가합니다. NL !M! + aigismod:수압을 갖고 있을시, 이번 전투동안 손패 카드의 코스트를 1 씩 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해 NL !D! 데미지를 3 회 가합니다. NL !M! + aigismod:수압을 갖고 있을시, 이번 전투동안 손패 카드의 코스트를 1 씩 감소시킵니다.",
     "EXTENDED_DESCRIPTION": [
-      "Scarlet Gem's Corporal"
+      "붉은 구슬의 심해병장"
     ]
   },
   "aigisMod:Ritva2": {
