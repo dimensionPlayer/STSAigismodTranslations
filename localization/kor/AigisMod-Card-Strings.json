@@ -4412,17 +4412,17 @@
     ]
   },
   "aigisMod:Ritva2": {
-    "NAME": "Ritva",
-    "DESCRIPTION": "aigismod:심해 NL Gain [E] next turn. NL Draw cards equal to your aigismod:수압.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해 NL Gain [E] next turn. NL Draw cards equal to your aigismod:수압 +1.",
+    "NAME": "리토바",
+    "DESCRIPTION": "aigismod:심해 NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압 만큼 카드를 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해 NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압 +1 만큼 카드를 뽑습니다.",
     "EXTENDED_DESCRIPTION": [
-      "Pink Deep Sea Soldier"
+      "담홍의 심해병"
     ]
   },
   "aigisMod:Havfrue": {
-    "NAME": "Havfrue",
-    "DESCRIPTION": "aigismod:심해 NL Enemy loses !M! HP for each of your aigismod:수압.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해 ALL enemies lose !M! HP for each of your aigismod:수압.",
+    "NAME": "하르푸",
+    "DESCRIPTION": "aigismod:심해 NL 자신의 aigismod:수압 x !M! 만큼 적의 HP를 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해 NL 자신의 aigismod:수압 x !M! 만큼 모든 적의 HP를 감소시킵니다.",
     "EXTENDED_DESCRIPTION": [
       "Purple-Scaled Sea Miko",
       "aigismod:심해 NL Enemy loses !M! HP for each of your aigismod:수압."
