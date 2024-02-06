@@ -4,7 +4,7 @@
       "魔女", "当敌人受到该牌攻击，获得临时 #y缓慢 .",
       "弓箭手", "此卡 #b无视 敌人的各种受到 #y攻击 是发动能力，比如荆棘。",
       "公主", "当你将 #y公主 牌加入卡组时，获得 #b2 点 #y最大生命 。",
-      "不死", "此类型卡牌被 #y消耗 时，获得 #b额外 效果 。",
+      "不死族", "此类型卡牌被 #y消耗 时，获得 #b额外 效果 。",
       "黑色稀有度", "此类型卡牌在 #y升级 时会有 #y分支 路线。只有稀有牌会有此特性。",
       "东国", " 此卡可以响应其他 #y东国 牌的效果",
       "英杰", "此卡牌可以无数次升级。 NL 只能从 #y英杰水晶 遗物和 #y英杰之塔 事件中获得。",
@@ -12,7 +12,7 @@
       "咒术师", "打出此卡时, 如果你的主卡组中没有此牌记述的 #y诅咒 牌，将其加入到你的主卡组。",
       "恶魔", "回合开始时，如果此卡牌在消耗堆：使其 #y耗能 变为原始 #y耗能 -1并加入到手牌.",
       "空域", "当打出此牌时，将1张 #y空中标记 洗入抽牌堆。每消耗一张 #y空中标记 伤害提升 #b1 点。",
-      "亡灵法师", "每 #y消耗 一张 #y不死 牌提升1点伤害。 伤害未被格挡时，将 #b1 张 #y骷髅 加入手牌。"
+      "亡灵法师", "每 #y消耗 一张 #y不死族 牌提升1点伤害。 伤害未被格挡时，将 #b1 张 #y骷髅 加入手牌。"
     ]
   },
 
@@ -270,7 +270,7 @@
   },
   "EstrieAction": {
     "TEXT": [
-      "你至多可以消耗  ", " 张不死牌。", "我的弃牌堆中没有不死牌..."
+      "你至多可以消耗  ", " 张不死族牌。", "我的弃牌堆中没有不死族牌..."
     ]
   },
   "SpookyPhenomenonAction": {
@@ -290,7 +290,7 @@
   },
   "UndeadWorldAction": {
     "TEXT": [
-      "选择一张不死牌加入到你的手牌.", "我的消耗牌堆中没有不死牌..."
+      "选择一张不死族牌加入到你的手牌.", "我的消耗牌堆中没有不死族牌..."
     ]
   },
 
@@ -355,72 +355,72 @@
 
   "PheasantAction": {
     "TEXT": [
-      "return to bottom of Draw Pile."
+      "返回到抽牌堆底部。"
     ]
   },
 
   "PotalAction": {
     "TEXT": [
-      "Choose up to ", " Aerial cards to send to Discard Pile.",
-      "Choose an Aerial card to send to Discard Pile.",
-      "I don't have Aerial cards in Draw Pile..."
+      "选择至多 ", " 张空域牌送入弃牌堆。",
+      "选择一张空域牌送入弃牌堆。",
+      "我的抽牌堆中没有空域牌..."
     ]
   },
 
   "PuniruAction": {
     "TEXT": [
-      "Choose 1 card to add to your hand."
+      "选择一张牌加入到你的手牌中。"
     ]
   },
 
   "AmelieAction": {
     "TEXT": [
-      "Select a Sailor Attack Card to add to hand.",
-      "I don't have a Sailor Attack Card in Draw Pile..."
+      "选择一张士兵攻击牌加入到你的手牌中。",
+      "我的抽牌堆中没有士兵攻击牌..."
     ]
   },
 
   "RenataAction": {
     "TEXT": [
-      "Choose up to ", " cards to send to Discard Pile."
+      "选择至多 ", " 张牌送入弃牌堆。"
     ]
   },
 
   "ThrudAction": {
     "TEXT": [
-      "Choose 1 Aerial card to send to Discard Pile."
+      "选择一张空域牌送入弃牌堆。"
     ]
   },
 
   "JacquelineAction": {
     "TEXT": [
-      "Select a Sailor or Deep Sea card to add to hand.",
-      "I don't have a Sailor or Deep Sea card in Discard Pile..."
+      "选择一张士兵或深海牌加入到你的手牌中",
+      "我的弃牌堆中没有士兵或深海牌..."
     ]
   },
 
   "NoelAction": {
     "TEXT": [
-      "duplicate."
+      "复制。"
     ]
   },
 
   "ShirleyAction": {
     "TEXT": [
-      "Choose a Spirit User, Elemental, Summoner or Summon card to add to hand from Draw Pile or Discard Pile.",
-      "Choose up to 2 Spirit User, Elemental, Summoner or Summon cards to add to hand from Draw Pile or Discard Pile."
+      "从抽牌堆或弃牌堆选择一张灵使、元素、召唤士、召唤兽牌加入到手牌中。",
+      "选择最多2张精灵使、元素使、召唤师或召唤物从抽牌堆或弃牌堆加入手牌。"
     ]
   },
 
   "RefletAction": {
     "TEXT": [
-      "Choose a Light Elemental to add to hand from Draw Pile or Discard Pile."
+      "从抽牌堆或弃牌堆选择一张光元素加入到手牌中。"
     ]
   },
 
   "LatourAction": {
     "TEXT": [
-      "keep."
+      "保留"
     ]
   }
 }

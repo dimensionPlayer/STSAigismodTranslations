@@ -254,10 +254,10 @@
 
   {
     "NAMES": [
-      "不死",
-      "不死",
-      "不死:",
-      "不死:",
+      "不死族",
+      "不死族",
+      "不死族:",
+      "不死族:",
       "Undead",
       "undead",
       "Undead:",
@@ -391,53 +391,53 @@
 
 
   {
-    "PROPER_NAME": "Deep Sea",
+    "PROPER_NAME": "深海",
     "NAMES": [
-      "Deep Sea",
-      "Deep_sea.",
+      "深海",
+      "深海。",
       "Deep_sea",
       "deep_sea"
     ],
-    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
+    "DESCRIPTION": "当你抽到此卡时+, 将 #b1 张 #y深海 加入手牌。"
   },
   {
-    "PROPER_NAME": "Water Pressure",
+    "PROPER_NAME": "水压",
     "NAMES": [
-      "Water Pressure",
-      "Water_pressure.",
+      "水压",
+      "水压。",
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
+    "DESCRIPTION": "在角色回合开始时，失去 #yHP 。 如果到达 #b7 层, 则改为失去所有 #yHP 。"
   },
   {
-    "PROPER_NAME": "Sailor",
+    "PROPER_NAME": "水兵",
     "NAMES": [
-      "Sailor",
-      "sailor",
+      "水兵",
+      "水兵",
       "Sailor.",
       "Sailor:"
     ],
-    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+    "DESCRIPTION": "根据其数值减少你的水压层数并获得额外效果。"
   },
   {
-    "PROPER_NAME": "Beast Tamer",
+    "PROPER_NAME": "魔物使",
     "NAMES": [
-      "Beast Tamer",
-      "Beast_tamer.",
+      "魔物使",
+      "魔物使。",
       "Beast_tamer",
       "beast_tamer"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted, add #b1 #yHellbeast to hand."
+    "DESCRIPTION": "这张卡拥有 #y虚无 和 #y消耗 。当被消耗时，将 #b1 张 #y魔兽刻耳柏洛斯 加入手牌。"
   },
   {
-    "PROPER_NAME": "Cursed Shadows",
+    "PROPER_NAME": "咒影",
     "NAMES": [
-      "Cursed Shadows",
-      "Cursed_shadows.",
+      "咒影",
+      "咒影。",
       "Cursed_shadows",
       "cursed_shadows"
     ],
-    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+    "DESCRIPTION": "回合结束时，获得 #y格挡 。 受到来自 #y攻击牌 的 #y伤害 提升。"
   }
 ]

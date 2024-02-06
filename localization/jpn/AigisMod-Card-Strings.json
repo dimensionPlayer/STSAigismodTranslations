@@ -1980,8 +1980,8 @@
 
   "aigisMod:AirSignal": {
     "NAME": "エアーシグナル",
-    "DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL 次に受ける自傷ダメージを無効化する。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL 次に受ける自傷ダメージを 2回 無効化する。 NL 廃棄",
+    "DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを無効化する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを 2回 無効化する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -4630,8 +4630,8 @@
   },
   "aigisMod:Lela": {
     "NAME": "イエラ",
-    "DESCRIPTION": "エアーシグナルをプレイした時に aigismod:仮初 のHP 1 を得る。",
-    "UPGRADE_DESCRIPTION": "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 1 を得る。",
+    "DESCRIPTION": "エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
+    "UPGRADE_DESCRIPTION": "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "蓑鳩翼の癒し手"
     ]

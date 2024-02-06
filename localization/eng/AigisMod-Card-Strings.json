@@ -1937,8 +1937,8 @@
 
   "aigisMod:AirSignal": {
     "NAME": "Air Signal",
-    "DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next damage coming from yourself. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next !M! damages coming from yourself. NL Exhaust.",
+    "DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next damage coming from yourself this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next !M! damages coming from yourself this turn. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -4587,8 +4587,8 @@
   },
   "aigisMod:Lela": {
     "NAME": "Lela",
-    "DESCRIPTION": "When you play an Air Signal, gain 1 Temporal HP.",
-    "UPGRADE_DESCRIPTION": "Add 1 Air Signal to hand. NL When you play an Air Signal, gain 1 Temporal HP.",
+    "DESCRIPTION": "When you play an Air Signal, gain 2 Temporal HP.",
+    "UPGRADE_DESCRIPTION": "Add 1 Air Signal to hand. NL When you play an Air Signal, gain 2 Temporal HP.",
     "EXTENDED_DESCRIPTION" : [
       "Pigeon-Winged Healer"
     ]
