@@ -283,23 +283,23 @@
   },
   "aigisMod:Garuda": {
     "NAME": "가루다",
-    "DESCRIPTION": "!D! aigismod:True_damage 3 times. NL Draw 1 card.",
+    "DESCRIPTION": "!D! aigismod:관통 데미지를 3 회 가합니다. NL 카드를 1 장 뽑습니다.",
     "EXTENDED_DESCRIPTION" : [
-      "Divine Beast"
+      "신수"
     ]
   },
   "aigisMod:TowerOfHeroes": {
-    "NAME": "Tower of Heroes",
-    "DESCRIPTION": "Choose 1 from 3 random Hero Cards to add to your hand. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Choose 1 from 3 random Hero Cards with !M! upgrades to add to your hand. NL 소멸.",
+    "NAME": "영걸의 탑",
+    "DESCRIPTION": "영걸 카드 3 장 중 1 장을 선택해 손패에 넣습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!M! 회 업그레이드 된 영걸 카드 3 장 중 1 장을 선택해 손패에 넣습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:TowerOfHeroesAw": {
-    "NAME": "Tower of Heroes",
-    "DESCRIPTION": "Innate. NL Choose 1 from 3 random Rare Hero Cards to add to your hand. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Choose 1 from 3 random Rare Hero Cards with !M! upgrades to add to your hand. NL 소멸.",
+    "NAME": "영걸의 탑",
+    "DESCRIPTION": "선천성. NL 레어 영걸 카드 3 장 중 1 장을 선택해 손패에 넣습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "선천성. NL !M! 회 업그레이드 된 레어 영걸 카드 3 장 중 1 장을 선택해 손패에 넣습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
