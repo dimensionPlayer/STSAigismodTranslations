@@ -4359,38 +4359,38 @@
   },
   "aigisMod:Hellbeast": {
     "NAME": "마수",
-    "DESCRIPTION": "보존. NL 소멸된 비스트 테이머의 수만큼 !D! aigismod:관통 데미지를 가합니다.",
-    "UPGRADE_DESCRIPTION": "보존. NL 소멸된 비스트 테이머의 수만큼 !D! aigismod:관통 데미지를 가합니다."
+    "DESCRIPTION": "보존. NL 소멸된 마물술사의 수만큼 !D! aigismod:관통 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "보존. NL 소멸된 마물술사의 수만큼 !D! aigismod:관통 데미지를 가합니다."
   },
   "aigisMod:Moltena": {
     "NAME": "모르테나",
-    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다. 뽑을 카드 더미에 1 마수를 추가합니다.",
+    "DESCRIPTION": "aigismod:마물술사 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:마물술사 NL 마수의 코스트가 0 이 되며 2 데미지를 추가합니다. 뽑을 카드 더미에 1 마수를 추가합니다.",
     "EXTENDED_DESCRIPTION": [
       "마수 조련사",
-      "aigismod:비스트 테이머. NL 마수의 코스트가 0 이 되며 5 데미지를 추가합니다."
+      "aigismod:마물술사. NL 마수의 코스트가 0 이 되며 5 데미지를 추가합니다."
     ]
   },
   "aigisMod:Suil": {
     "NAME": "스이루",
-    "DESCRIPTION": "aigismod:비스트 테이머 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
+    "DESCRIPTION": "aigismod:마물술사 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:마물술사 NL 카드를 2 장 뽑습니다. NL 활력을 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "마수 조련사"
     ]
   },
   "aigisMod:Blanche": {
     "NAME": "블랑슈",
-    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용할 때마다 힘을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용할 때마다 힘을 1 얻습니다. NL 모든 적에게 약화를 1 부여합니다.",
+    "DESCRIPTION": "aigismod:마물술사 NL 마수를 사용할 때마다 힘을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:마물술사 NL 마수를 사용할 때마다 힘을 1 얻습니다. NL 모든 적에게 약화를 1 부여합니다.",
     "EXTENDED_DESCRIPTION": [
       "마수 조련사"
     ]
   },
   "aigisMod:Shushu": {
     "NAME": "슈슈",
-    "DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:비스트 테이머 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
+    "DESCRIPTION": "aigismod:마물술사 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:마물술사 NL 마수를 사용하면 방어도를 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "토끼귀의 마수 조련사"
     ]
@@ -4615,8 +4615,8 @@
   },
   "aigisMod:Puniru": {
     "NAME": "푸니르",
-    "DESCRIPTION": "소멸된 비스트 테이머 1 장을 손패로 가져옵니다. NL 카드를 1 장 뽑습니다. NL 임시체력을 !M! 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "소멸된 비스트 테이머 1 장을 손패로 가져오고 코스트를 0 으로 만듭니다. NL 카드를 1 장 뽑습니다. NL 임시체력을 !M! 얻습니다. NL 소멸.",
+    "DESCRIPTION": "소멸된 마물술사 1 장을 손패로 가져옵니다. NL 카드를 1 장 뽑습니다. NL 임시체력을 !M! 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "소멸된 마물술사 1 장을 손패로 가져오고 코스트를 0 으로 만듭니다. NL 카드를 1 장 뽑습니다. NL 임시체력을 !M! 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "마랑무녀"
     ]
@@ -4804,8 +4804,8 @@
   },
   "aigisMod:Paula": {
     "NAME": "폴라",
-    "DESCRIPTION": "!M! 장의 비스트 테이머/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "!M! 장의 비스트 테이머/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
+    "DESCRIPTION": "!M! 장의 마물술사/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!M! 장의 마물술사/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "여행하는 사제"
     ]
