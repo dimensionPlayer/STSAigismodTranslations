@@ -4682,8 +4682,8 @@
   },
   "aigisMod:Maurette2": {
     "NAME": "모렛트",
-    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸 NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸 NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
     "EXTENDED_DESCRIPTION" : [
       "폭렬해적"
     ]
@@ -4715,7 +4715,7 @@
   },
   "aigisMod:Sabrina": {
     "NAME": "사브리나",
-    "DESCRIPTION": "!D! 데미지를 3회 가합니다. NL 소멸 NL aigismod:세일러 1 : [E] 를 얻습니다.",
+    "DESCRIPTION": "!D! 데미지를 3회 가합니다. NL 소멸. NL aigismod:세일러 1 : [E] 를 얻습니다.",
     "UPGRADE_DESCRIPTION": "!D! 데미지를 3회 가합니다. NL aigismod:세일러 1 : [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "사략선장"
@@ -4804,8 +4804,8 @@
   },
   "aigisMod:Paula": {
     "NAME": "폴라",
-    "DESCRIPTION": "!M! 장의 마물술사/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "!M! 장의 마물술사/언데드/데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
+    "DESCRIPTION": "!M! 장의 마물술사, 언데드, 데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!M! 장의 마물술사, 언데드, 데몬 아이기스 캐릭터 카드 중 1 장을 선택해 소멸시킵니다. NL aigismod:잔여횟수 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "여행하는 사제"
     ]
@@ -4820,8 +4820,8 @@
   },
   "aigisMod:Shirley": {
     "NAME": "샤리",
-    "DESCRIPTION": "뽑을 카드 더미나 버린 카드 더미에서 엘레멘탈러/엘레멘탈/소환사/소환수 중 1 장을 선택해 손패로 가져옵니다.",
-    "UPGRADE_DESCRIPTION": "뽑을 카드 더미나 버린 카드 더미에서 엘레멘탈러/엘레멘탈/소환사/소환수 중 1 장을 선택해 손패로 가져옵니다.",
+    "DESCRIPTION": "뽑을 카드 더미나 버린 카드 더미에서 엘레멘탈러, 엘레멘탈, 소환사, 소환수 중 1 장을 선택해 손패로 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "뽑을 카드 더미나 버린 카드 더미에서 엘레멘탈러, 엘레멘탈, 소환사, 소환수 중 1 장을 선택해 손패로 가져옵니다.",
     "EXTENDED_DESCRIPTION" : [
       "술사 궁녀"
     ]
