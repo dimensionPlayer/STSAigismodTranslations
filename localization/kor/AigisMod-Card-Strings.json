@@ -4682,8 +4682,8 @@
   },
   "aigisMod:Maurette2": {
     "NAME": "모렛트",
-    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다",
+    "DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:스플래시 데미지를 가합니다. NL 소멸. NL aigismod:세일러 1 : 골드를 !M! 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "폭렬해적"
     ]
