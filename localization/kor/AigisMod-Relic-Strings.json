@@ -475,92 +475,92 @@
 
 
   "aigisMod:Endurance": {
-    "NAME": "Endurance Up",
-    "FLAVOR": "Dan: Reaching beyond my limits is my reason for living!",
+    "NAME": "체력 상승",
+    "FLAVOR": "단 : 한계를 뛰어넘는 건 내가 살아가는 이유지!",
     "DESCRIPTIONS": [
-      "Gain #b2 #yTemporal #yHP when you play a card that was created in combat.",
-      "Usable up to #b5 times per turn."
+      "전투 중 생성된 카드를 사용할 때마다 #b2 #y임시체력을 얻습니다.",
+      "턴마다 최대 #b5 번 사용 가능합니다."
     ]
   },
   "aigisMod:Miracle": {
-    "NAME": "Miracle Man",
-    "FLAVOR": "Goddess Aigis: Don't give up, humans. For now, I, Goddess Aigis, will lend you my power.",
+    "NAME": "기적의 사내",
+    "FLAVOR": "여신 아이기스 : 인간이여, 포기하지 마십시오. 제가 당신에게 힘을 빌려드릴게요.",
     "DESCRIPTIONS": [
-      "Gain #b3 #yTemporal #yHP when you play a card that was created in combat.",
-      "Usable up to #b5 times per turn."
+      "전투 중 생성된 카드를 사용할 때마다 #b3 #y임시체력을 얻습니다.",
+      "턴마다 최대 #b5 번 사용 가능합니다."
     ]
   },
   "aigisMod:DepthTorpedo": {
-    "NAME": "Depth Torpedo",
-    "FLAVOR": "Wirbel: I wish I could dive into people's minds and solve everything.",
+    "NAME": "대잠어뢰",
+    "FLAVOR": "비아벨 : 사람의 마음 속으로도 잠수해 모든 걸 해결할 수 있었으면.",
     "DESCRIPTIONS": [
-      "The first time in a combat you lose HP while you have #yWater #yPressure, all enemies lose #b2 #yStrength."
+      "전투당 1회에 한해 #y수압을 가진 상태에서 체력을 잃을시, 모든 적의 #y힘을 #b2 감소시킵니다."
     ]
   },
   "aigisMod:SharkTide": {
-    "NAME": "Shark Tide",
-    "FLAVOR": "Fine: I came from an underwater city. I'll do my best to study the dry land!",
+    "NAME": "샤크 타이드",
+    "FLAVOR": "피네 : 해저도시로부터 왔습니다. 건조한 땅에 대해 열심히 공부할게요!",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of turn if you have #b2 or more #yWater #yPressure."
+      "#b2 이상의 #y수압을 가지고 있을시 턴 시작마다 [E] 를 얻습니다."
     ]
   },
   "aigisMod:AerialFight": {
-    "NAME": "Rampage Takeoff",
-    "FLAVOR": "Krehl: I'm Krehl, the Security Forces Flight Commander. Um, can I go now?",
+    "NAME": "공중전",
+    "FLAVOR": "클레르 : 경비부대 비행대장 클레르입니다. 저기, 이제 가봐도 괜찮나요?",
     "DESCRIPTIONS": [
-      "Draw #b1 card when you draw an #yAir #ySignal. Usable #yTwice per turn and while you have cards in your #ydraw #ypile."
+      "#y에어 #y시그널을 뽑을시 카드를 #b1 장 뽑습니다. 턴당 #y2회까지 가능하며, #y뽑을 #y카드 #y더미에 카드가 남아있어야 합니다."
     ]
   },
   "aigisMod:CaitSith": {
-    "NAME": "Cait Sith",
-    "FLAVOR": "Farne: I'm reading right now. ...Don't interrupt me.",
+    "NAME": "캣시",
+    "FLAVOR": "파르네 : 지금 책 읽고 있으니... 방해하지 말아줘.",
     "DESCRIPTIONS": [
-      "Every #b10th #ycard #ycreated in a single combat (except in exhaust pile), add #b1 #yCait #ySith to your #yhand."
+      "해당 전투에서 소멸된 카드 더미를 제외한 모든 곳에 #b10번째 #y카드가 #y생성되면, #y캣시를 #b1장 #y손패에 추가합니다."
     ]
   },
   "aigisMod:PumpUp": {
-    "NAME": "Pump Up",
-    "FLAVOR": "Gina: Men are so one-dimensional, eh?",
+    "NAME": "펌프업",
+    "FLAVOR": "지나 : 남자들은 참 단순하지~?",
     "DESCRIPTIONS": [
-      "At the start of your #b3rd turn, gain #b3 #yVigor, #b3 #yTemporal #yHP and #yHeal #b3 #yHP."
+      "#b3번째 턴 시작시, #b3 #y활력과 #b3 #y임시체력을 얻고 #b3만큼 #y체력을 회복합니다."
     ]
   },
   "aigisMod:AutoHeal": {
-    "NAME": "Auto Heal",
-    "FLAVOR": "Ur: With these claws, I can even defeat demons!",
+    "NAME": "오토힐",
+    "FLAVOR": "우르 : 이 손톱으로 마물들도 쓰러뜨릴 수 있어!",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b1 #ydamage to ALL #yenemies. ",
-      "At the end of your turn, gain #b1 #yTemporal #yHP."
+      "턴 시작시 모든 적에게 #b1 #y데미지를 가합니다. ",
+      "턴 종료시 #b1 #y임시체력을 얻습니다."
     ]
   },
   "aigisMod:PearlGrace": {
-    "NAME": "Pearls' Grace",
-    "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
+    "NAME": "펄즈 그레이스",
+    "FLAVOR": "리토바 : 심해에는 강한 전사들이 잔뜩 있어. 나도 그들에게서 배우지 않으면...!",
     "DESCRIPTIONS": [
-      "At the start of the combat, apply #b1 #yWater #bPressure to ALL #yenemies.",
-      "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
+      "턴 시작시 모든 적에게 #b1 #y수압을 가합니다.",
+      "#y심해 카드를 사용할시 무작위의 적에게 #b3 #y데미지를 가합니다."
     ]
   },
   "aigisMod:FiringCommand": {
-    "NAME": "Firing Command",
-    "FLAVOR": "Reanbell: As long as I am with you, any disadvantage turns into an advantage.",
+    "NAME": "사격지휘",
+    "FLAVOR": "린벨 : 내가 함께 있다면, 불리한 상황도 유리하게 바꿀 수 있어.",
     "DESCRIPTIONS": [
-      "#ySailor cards apply their full effects even if #yWater #bPressure is not reduced."
+      "#y세일러 카드가 #y수압이 충분치 않은 상황에서도 제 성능을 발휘할 수 있습니다."
     ]
   },
   "aigisMod:VitalityMedicine": {
-    "NAME": "Secret Medicine of Vitality",
-    "FLAVOR": "Nicole: First of all, let's convert this place into an atelier. Assistant, can you bring my luggage?",
+    "NAME": "활력의 비약",
+    "FLAVOR": "니콜 : 우선 이 장소를 아틀리에로 개조하자. 조수 쨩은 내 짐 좀 가져와줄래~?",
     "DESCRIPTIONS": [
-      "#yCancel any #yDamage coming from yourself during the #yfirst #b2 #yturns of each combat. ",
-      "Gain #y1 #yPotion #ySlot."
+      "#y첫 #b2턴 동안 본인으로부터 받는 모든 #y데미지를 #y무효화합니다.",
+      "#y포션 #y슬롯을 #b1 얻습니다."
     ]
   },
   "aigisMod:AigisStatue": {
-    "NAME": "Aigis Statue",
-    "FLAVOR": "Anna: But you can draw out her summon ability.",
+    "NAME": "아이기스상",
+    "FLAVOR": "안나 : 하지만 당신은 여신의 능력을 발동시키는 기적을 일으킬 수 있어요.",
     "DESCRIPTIONS": [
-      "Create a number of #yAigis #yStatue at the start of combat. Increase this amount by #b2 at the end of combat."
+      "전투 시작시 #y아이기스상을 뽑을 카드 더미에 추가합니다. 전투 종료시 그 양을 #b2만큼 증가시킵니다."
     ]
   },
 
