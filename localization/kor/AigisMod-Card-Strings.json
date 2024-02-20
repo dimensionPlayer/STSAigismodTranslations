@@ -4543,7 +4543,7 @@
   "aigisMod:Rhyno": {
     "NAME": "라이노",
     "DESCRIPTION": "!D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "Creates 1 more Air Signal. NL !D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "에어 시그널을 1 장 더 생성합니다. NL !D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "취익의 전사"
     ]
