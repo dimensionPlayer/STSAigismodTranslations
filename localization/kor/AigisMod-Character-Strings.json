@@ -46,13 +46,13 @@
 
   "aigisMod:TheMiracleManCharacter": {
     "NAMES": [
-      "The Miracle Man",
-      "the Miracle Man"
+      "기적의 사내",
+      "기적의 사내"
     ],
     "TEXT": [
-      "Dan, a martial artist, is always pursuing power. Looking for enemies stronger than himself, this monk will ascend the Spire.",
-      "You fire up, knowing you are gonna get a tough opponent to fight",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~monk,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+      "격투가 댄은 더 강해지기 위한 수련을 하고 있다. NL 보다 강한 적을 찾기 위해, 이 몽크는 첨탑을 등반한다.",
+      "당신은 강적과의 싸움을 예감하며 힘을 모으고...",
+      "불빛이 사라진 거리를 걷던 중, 당신은 어둠의 의식을 행하는 NL 다수의 두건 쓴 사람들을 목격한다. 당신이 접근하자, 그들은 일제히 당신을 돌아보았다. NL 무리 중 가장 장신인 이가 송곳니를 드러내며, 길고 창백한 손을 당신에게 뻗는다. NL '몽크여, 우리와 함께하여 첨탑의 온기를 느껴봅시다.' "
     ]
   }
 }
