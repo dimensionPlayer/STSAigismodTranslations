@@ -4330,8 +4330,8 @@
   },
   "aigisMod:SeaSoldier": {
     "NAME": "심해 전사",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 1 !M! aigismod:수압을 부여합니다. 임시체력을 !M! 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 1 !M! aigismod:수압을 부여합니다. 임시체력을 !M! 얻습니다. NL 소멸.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 1 aigismod:수압을 부여합니다. 임시체력을 !M! 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 1 aigismod:수압을 부여합니다. 임시체력을 !M! 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION": [
       "지원군"
     ]
