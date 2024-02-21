@@ -120,19 +120,19 @@
 
 
   "aigisMod:AigisMiracle": {
-    "NAME": "Aigis Miracle",
+    "NAME": "아이기스의 기적",
     "DESCRIPTIONS": [
-      "You hear the voice of the Goddess Aigis. NL She asks you for what you need.",
-      "You feel an immense strength, but wonder how long your body will last.",
-      "An ally got summoned to help you.",
-      "You feel refreshed and motivated."
+      "여신 아이기스의 목소리가 들립니다. NL 그녀는 원하는 것을 묻습니다.",
+      "당신은 엄청난 힘을 느끼지만, 육체가 이를 얼마나 버틸지 의문이 듭니다.",
+      "당신을 도와줄 동료가 소환되었습니다.",
+      "당신은 재충전되었음을 느낍니다."
     ],
     "OPTIONS": [
-      "[Power] #gTransform #gALL #gStrikes into #gMiracle #gStrikes. Gain the Aigis Statue.",
-      "[Support] #gAdd #ga #gCard to your deck.",
-      "[Endurance] #gMax #gHP #b+8",
-      "[LOCKED] You don't have Strikes.",
-      "[Leave]"
+      "[힘] #g모든 #g타격을 #g기적의 #g타격으로 #g전환합니다. 아이기스상을 획득합니다.",
+      "[지원] #g카드 #g1 #g장을 덱에 #g추가합니다.",
+      "[체력] #g최대 #g체력 #b+8",
+      "[잠김] 타격 카드가 없습니다.",
+      "[떠난다]"
     ]
   }
 }

@@ -176,6 +176,7 @@
       "둔족",
       "둔족을",
       "둔족과",
+      "둔족만큼",
       "Sluggish",
       "sluggish",
       "sluggish."
@@ -402,35 +403,22 @@
     "PROPER_NAME": "심해",
     "NAMES": [
       "심해",
-      "Deep Sea",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
+      "Deep Sea"
     ],
-    "DESCRIPTION": "When you draw this card, add #b1 #yDeep #ySea to hand."
+    "DESCRIPTION": "이 카드를 뽑았을시, 손패에 #y심해 #b1 장을 추가합니다."
   },
   {
     "PROPER_NAME": "수압",
     "NAMES": [
       "수압",
       "수압을",
-      "Water Pressure",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
+      "수압만큼",
+      "수압마다",
+      "수압으로부터",
+      "수압과",
+      "Water Pressure"
     ],
-    "DESCRIPTION": "At the beginning of its turn, this creature loses #yHP. If this reaches #b7, it loses all HP instead."
-  },
-  {
-    "PROPER_NAME": "마물술사",
-    "NAMES": [
-      "마물술사",
-      "Beast Tamer",
-      "Dark_fighter.",
-      "Dark_fighter",
-      "dark_fighter"
-    ],
-    "DESCRIPTION": "#y휘발성, #y소멸. 소멸되었을때 #b1 #y마물을 추가합니다."
+    "DESCRIPTION": "턴 시작시 #yHP를 잃습니다. 해당 스탯이 #b7에 다다르면 모든 HP를 잃습니다."
   },
   {
     "PROPER_NAME": "임시체력",
@@ -454,33 +442,38 @@
 
 
   {
-    "PROPER_NAME": "Sailor",
+    "PROPER_NAME": "세일러",
     "NAMES": [
+      "세일러",
       "Sailor",
       "sailor",
       "Sailor.",
       "Sailor:"
     ],
-    "DESCRIPTION": "Reduce your Water Pressure by this amount and gain the following effect."
+    "DESCRIPTION": "자신의 수압을 해당 수치만큼 감소시키고 다음의 효과를 발동합니다."
   },
   {
-    "PROPER_NAME": "Beast Tamer",
+    "PROPER_NAME": "마물술사",
     "NAMES": [
+      "마물술사",
+      "마물술사의",
       "Beast Tamer",
       "Beast_tamer.",
       "Beast_tamer",
       "beast_tamer"
     ],
-    "DESCRIPTION": "This card has #yEthereal and #yExhaust. When exhausted add #b1 #yHellbeast to hand."
+    "DESCRIPTION": "#y휘발성, #y소멸. 소멸되었을때 #y마수 #b1 장을 손패에 추가합니다."
   },
   {
-    "PROPER_NAME": "Cursed Shadows",
+    "PROPER_NAME": "저주의 그림자",
     "NAMES": [
+      "저주의 그림자",
+      "저주의 그림자를",
       "Cursed Shadows",
       "Cursed_shadows.",
       "Cursed_shadows",
       "cursed_shadows"
     ],
-    "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+    "DESCRIPTION": "턴 종료시 #y방어도를 얻습니다. #y공격 #y카드로부터 받는 #y데미지가 증가합니다."
   }
 ]

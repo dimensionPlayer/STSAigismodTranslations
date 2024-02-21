@@ -443,104 +443,104 @@
 
 
         "aigisMod:WaterPressure": {
-                "NAME": "Water Pressure",
-                "DESCRIPTIONS": ["At the end of turn, lose #b", " #yHP, or all #yHP if this has #b7 stacks, except bosses."]
+                "NAME": "수압",
+                "DESCRIPTIONS": ["턴 종료시 #b", " #yHP를 잃고, 보스 이외의 유닛이 스탯 #b7 에 다다르면 모든 #yHP를 잃습니다."]
         },
         "aigisMod:DrownedEnemy": {
-                "NAME": "Drown",
-                "DESCRIPTIONS": ["At the start of turn, lose #b", " #yHP."]
+                "NAME": "익사",
+                "DESCRIPTIONS": ["턴 시작시 #b", " #yHP를 잃습니다."]
         },
         "aigisMod:HellbeastTraining": {
-                "NAME": "Hellbeast Training",
-                "DESCRIPTIONS": ["#yHellbeast become cost #b0 and gain #b", " damage."]
+                "NAME": "마수조련",
+                "DESCRIPTIONS": ["#y마수의 코스트가 #b0이 되며, 데미지가 #b", " 증가합니다."]
         },
         "aigisMod:BoostBeast": {
-                "NAME": "Boost Beast",
-                "DESCRIPTIONS": ["When you play a #yHellbeast, gain #b", " #yStrength."]
+                "NAME": "부스트 비스트",
+                "DESCRIPTIONS": ["#y마수를 사용할시 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:FullPowerYell": {
-                "NAME": "Full Power Yell!",
-                "DESCRIPTIONS": ["When you play a #yHellbeast, gain #b", " #yBlock."]
+                "NAME": "전력의 외침!",
+                "DESCRIPTIONS": ["#y마수를 사용할시 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:GreatWhirlpool": {
-                "NAME": "Great Whirlpool",
-                "DESCRIPTIONS": ["At the end of your turn, gain #b", " #yBlock for each of your #yWater #yPressure."]
+                "NAME": "대와의 파동",
+                "DESCRIPTIONS": ["턴 종료시 자신의 #y수압만큼 #b", " #y방어도를 얻습니다."]
         },
         "aigisMod:SpinningSlash": {
-                "NAME": "Spinning Slash",
-                "DESCRIPTIONS": ["Whenever you #yExhaust a card, this enemy takes #b", " #ydamage."]
+                "NAME": "회전베기",
+                "DESCRIPTIONS": ["카드를 #y소멸할시 적에게 #b", " #y데미지를 가합니다."]
         },
         "aigisMod:FierceSeas": {
-                "NAME": "Fierce Seas",
-                "DESCRIPTIONS": ["Whenever you gain #yWater #yPressure, gain #b", " #yStrength."]
+                "NAME": "거친 바다의 상징",
+                "DESCRIPTIONS": ["#y수압을 얻을 때마다 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:DragonPalaceDance": {
-                "NAME": "Dragon Palace Dance",
-                "DESCRIPTIONS": ["You take no damage from #yWater #yPressure. Whenever you gain #yWater #yPressure, apply #b", " #yWeak to all enemies."]
+                "NAME": "용궁의 춤",
+                "DESCRIPTIONS": ["#y수압으로부터 데미지를 받지 않습니다. #y수압을 얻을 때마다 모든 적에게 #b", " #y약화를 부여합니다."]
         },
         "aigisMod:AerialSupremacy": {
-                "NAME": "Aerial Supremacy",
-                "DESCRIPTIONS": ["Negate the next #ydamage coming from yourself this turn. ", "Negate the next #b", " #ydamages coming from yourself this turn."]
+                "NAME": "패공의 기관소녀",
+                "DESCRIPTIONS": ["이번 턴, 본인으로부터 받는 #y데미지를 무효화합니다. ", "이번 턴 본인으로부터 받는 #b", " #y데미지를 무효화합니다."]
         },
         "aigisMod:StormArrow": {
-                "NAME": "Storm Arrow",
-                "DESCRIPTIONS": ["Whenever you play #yAir #ySignal, deal #b", " #ydamage to ALL enemies."]
+                "NAME": "스톰 애로우",
+                "DESCRIPTIONS": ["#y에어 #y시그널을 사용할 때마다 모든 적에게 #b", " #y데미지를 가합니다."]
         },
         "aigisMod:Aerobatics": {
-                "NAME": "Aerobatics",
-                "DESCRIPTIONS": ["Negate the next damage of #b", " or lower."]
+                "NAME": "곡예비행",
+                "DESCRIPTIONS": ["다음에 받는 #b", " 이하의 데미지를 무효화합니다."]
         },
         "aigisMod:WarshipArtillery": {
-                "NAME": "Warship Artillery",
-                "DESCRIPTIONS": ["When you play a #ySailor or #yDeep #ySea car, deal #b", " #ydamage to ALL enemies."]
+                "NAME": "대함거포",
+                "DESCRIPTIONS": ["#y세일러나 #y심해 카드를 사용할시 모든 적에게 #b", " #y데미지를 가합니다."]
         },
         "aigisMod:TailwindPrayer": {
-                "NAME": "Tailwind's Prayer",
-                "DESCRIPTIONS": ["When you play an #yAir #ySignal, gain #b", " #yTemporal #yHP."]
+                "NAME": "순풍의 기도",
+                "DESCRIPTIONS": ["#y에어 #y시그널을 사용할시 #b", " #y임시체력을 얻습니다."]
         },
         "aigisMod:HeavenlyAirspace": {
-                "NAME": "Heavenly Airspace",
-                "DESCRIPTIONS": ["When you play an #yAir #ySignal apply #b", " #yVulnerable to a random enemy and remove your #yWeak and #yVulnerable."]
+                "NAME": "천공의 성역",
+                "DESCRIPTIONS": ["#y에어 #y시그널을 사용할시 무작위의 적에게 #b", " #y취약을 부여하고 자신의 #y약화와 #y취약을 제거합니다."]
         },
         "aigisMod:Eureka": {
-                "NAME": "Eureka!",
-                "DESCRIPTIONS": ["At the start of turn, add #b", " #yHellbeast, #yWater #yPressure, or #yAir #ySignal at random to hand."]
+                "NAME": "유레카!",
+                "DESCRIPTIONS": ["턴 시작시 #y마수, #y수압, #y에어 #y시그널 중 무작위의 #b", " 장을 손패에 추가합니다."]
         },
         "aigisMod:DevouringGreatwolf": {
-                "NAME": "Devouring Greatwolf",
-                "DESCRIPTIONS": ["#yHellbeast deal #b", " more damage. Increase this damage by #b", " at the start of turn."]
+                "NAME": "큰 늑대",
+                "DESCRIPTIONS": ["#y마수의 데미지가 #b", " 만큼 증가합니다. 턴 시작시 효과량이 #b", " 만큼 더 증가합니다."]
         },
         "aigisMod:SuppressiveRounds": {
-                "NAME": "Suppressive Rounds",
-                "DESCRIPTIONS": ["At the start of turn, gain #b", " #yVigor."]
+                "NAME": "진압용 산탄",
+                "DESCRIPTIONS": ["턴 시작시 #b", " #y활력을 얻습니다."]
         },
         "aigisMod:ChaosDominance": {
-                "NAME": "Chaos Dominance",
-                "DESCRIPTIONS": ["At the start of turn, add #b", " #yChaos #yElemental to hand."]
+                "NAME": "카오스 도미넌스",
+                "DESCRIPTIONS": ["턴 시작시 #y혼돈속성 #엘레멘탈 #b", " 장을 손패에 추가합니다."]
         },
         "aigisMod:MiracleDiet": {
-                "NAME": "Miracle Diet",
-                "DESCRIPTIONS": ["At the end of this turn, lose #b", " #yHP."]
+                "NAME": "미라클 다이어트",
+                "DESCRIPTIONS": ["턴 종료시 #y체력을 #b", " 잃습니다."]
         },
         "aigisMod:AcidBomb": {
-                "NAME": "Acid Bomb",
-                "DESCRIPTIONS": ["When you use a #ypotion, deal #b", " #ydamage to #yeveryone."]
+                "NAME": "산성폭탄",
+                "DESCRIPTIONS": ["#y포션을 사용할시 #y모두에게 #b", " #y데미지를 가합니다."]
         },
         "aigisMod:ElixirSpray": {
-                "NAME": "Elixir Spray",
-                "DESCRIPTIONS": ["On victory, receive a random #ypotion. One per combat."]
+                "NAME": "엘릭서 살포",
+                "DESCRIPTIONS": ["전투 승리시 무작위의 #y포션 #b1 개를 얻습니다."]
         },
         "aigisMod:PreciousMetals": {
-                "NAME": "Precious Metals",
-                "DESCRIPTIONS": ["At the start of turn, take #b", " damage. On victory, gain #b", " #yGold."]
+                "NAME": "귀금속 연성",
+                "DESCRIPTIONS": ["턴 시작시 #b", " 데미지를 받습니다. 전투 승리시 #b", " #y골드를 얻습니다."]
         },
         "aigisMod:InmortalFeast": {
-                "NAME": "Immortal Feast",
-                "DESCRIPTIONS": ["Whenever you exhaust an #yUndead or #yCurse, gain #b", " #yStrength."]
+                "NAME": "불사신의 향연",
+                "DESCRIPTIONS": ["#y언데드 또는 #y저주 카드를 소멸할시 #b", " #y힘을 얻습니다."]
         },
         "aigisMod:CursedShadows": {
-                "NAME": "Cursed Shadows",
-                "DESCRIPTIONS": ["Take #b", " more damage from #yattack #ycards. Gain #b", " #yBlock at the end of turn."]
+                "NAME": "저주의 그림자",
+                "DESCRIPTIONS": ["#y공격 #카드로부터 #b", " 데미지를 더 받습니다. 턴 종료시 #b", " #y방어도를 얻습니다."]
         },
 
 
