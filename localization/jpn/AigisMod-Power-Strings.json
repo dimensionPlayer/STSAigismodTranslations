@@ -442,7 +442,7 @@
 
         "aigisMod:WaterPressure": {
                 "NAME": "水圧",
-                "DESCRIPTIONS": ["ターン終了時、 #gHP を #b", " 失う。 ボス以外が #b7 以上スタックしていた場合 全ての #gHP を失う。"]
+                "DESCRIPTIONS": ["ターン終了時、 #gHP を #b", " 失う。 エリートとボス以外が #b7 以上スタックしていた場合 全ての #gHP を失う。"]
         },
         "aigisMod:DrownedEnemy": {
                 "NAME": "溺れ",

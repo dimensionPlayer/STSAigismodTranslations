@@ -641,8 +641,8 @@
   },
   "aigisMod:Ignis": {
     "NAME": "伊格尼斯",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 活力 。 NL 施加  !M! 层 aigismod:灼伤 。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 活力 。 NL 施加  !M! 层 aigismod:灼伤 。",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 活力 。 NL 施加 !M! 层 aigismod:灼伤 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 活力 。 NL 施加 !M! 层 aigismod:灼伤 。",
     "EXTENDED_DESCRIPTION" : [
       "火龙"
     ]
@@ -5036,8 +5036,8 @@
   },
   "aigisMod:Ifrit": {
     "NAME": "伊芙利特",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗性 : !stslib:ex! 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 消耗性 : !stslib:ex! 。",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 aigismod:灼伤 。 NL 消耗性 : !stslib:ex! 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:真实 伤害。 NL 施加 !M! 层 aigismod:灼伤 。 NL 消耗性 : !stslib:ex! 。",
     "EXTENDED_DESCRIPTION" : [
       "召唤兽"
     ]

@@ -5071,8 +5071,8 @@
   },
   "aigisMod:Ifrit": {
     "NAME": "イフリート",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:残り回数 : !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:残り回数 : !stslib:ex!",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:バーン !M! を与える。 NL aigismod:残り回数 : !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL aigismod:バーン !M! を与える。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "召喚獣"
     ]

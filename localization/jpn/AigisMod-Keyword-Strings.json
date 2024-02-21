@@ -392,7 +392,7 @@
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "ターン開始時に #gHP を失う。スタックが #b7 つ以上の場合、 全ての #gHP を失う(ボスは除く)。"
+    "DESCRIPTION": "ターン開始時に #gHP を失う。スタックが #b7 つ以上の場合、 全ての #gHP を失う(エリートとボスは除く)。"
   },
   {
     "PROPER_NAME": "水兵",

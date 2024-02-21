@@ -2754,11 +2754,11 @@
   },
   "aigisMod:Hakunokami": {
     "NAME": "Hakunokami",
-    "DESCRIPTION": "At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks.",
-    "UPGRADE_DESCRIPTION": "Heal 8 HP. NL At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks.",
+    "DESCRIPTION": "At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks.",
+    "UPGRADE_DESCRIPTION": "Heal 8 HP. NL At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks.",
     "EXTENDED_DESCRIPTION" : [
       "Ancient Dragon",
-      "At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks."
+      "At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks."
     ]
   },
   "aigisMod:Echidna": {
@@ -4805,7 +4805,7 @@
     "DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
     "UPGRADE_DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
-      "Traveling Priestess"
+      "Temple Secretary"
     ]
   },
   "aigisMod:Patra": {
@@ -4911,7 +4911,7 @@
     "UPGRADE_DESCRIPTION": "Innate NL Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand.",
     "EXTENDED_DESCRIPTION" : [
       "Light Spirit User",
-      "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental or discard pile from draw pile to hand."
+      "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand."
     ]
   },
   "aigisMod:LightElemental": {
@@ -5030,15 +5030,15 @@
   "aigisMod:Solano2": {
     "NAME": "Solano",
     "DESCRIPTION": "Draw !M! card. NL Shuffle 1 Ifrit to draw pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 1 Ifrit in draw pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 1 Ifrit to draw pile. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
       "Summoner"
     ]
   },
   "aigisMod:Ifrit": {
     "NAME": "Ifrit",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Exhaustive: !stslib:ex!",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! aigismod:Burn. NL Exhaustive: !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Apply !M! aigismod:Burn. NL Exhaustive: !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "Summoned"
     ]

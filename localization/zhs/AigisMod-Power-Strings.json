@@ -443,7 +443,7 @@
 
         "aigisMod:WaterPressure": {
                 "NAME": "水压",
-                "DESCRIPTIONS": ["回合结束时失去 #b", " 点 #y生命， 或者所有 #y生命，如果拥有 #b7 层以上，boss除外。"]
+                "DESCRIPTIONS": ["回合结束时失去 #b", " 点 #y生命， 或者所有 #y生命，如果拥有 #b7 层以上，boss且精英除外。"]
         },
         "aigisMod:DrownedEnemy": {
                 "NAME": "淹没",

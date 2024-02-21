@@ -432,7 +432,7 @@
 
         "aigisMod:WaterPressure": {
                 "NAME": "Water Pressure",
-                "DESCRIPTIONS": ["At the end of turn, lose #b", " #yHP, or all #yHP if this has #b7 stacks, except bosses."]
+                "DESCRIPTIONS": ["At the end of turn, lose #b", " #yHP, or all #yHP if this has #b7 stacks, except elite and bosses."]
         },
         "aigisMod:DrownedEnemy": {
                 "NAME": "Drown",
@@ -480,7 +480,7 @@
         },
         "aigisMod:WarshipArtillery": {
                 "NAME": "Warship Artillery",
-                "DESCRIPTIONS": ["When you play a #ySailor or #yDeep #ySea car, deal #b", " #ydamage to ALL enemies."]
+                "DESCRIPTIONS": ["When you play a #ySailor or #yDeep #ySea card, deal #b", " #ydamage to ALL enemies."]
         },
         "aigisMod:TailwindPrayer": {
                 "NAME": "Tailwind's Prayer",
