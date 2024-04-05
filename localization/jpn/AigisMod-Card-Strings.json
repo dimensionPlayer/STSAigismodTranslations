@@ -251,14 +251,14 @@
   },
   "aigisMod:MorfessaPlatinum": {
     "NAME": "モルフェサ",
-    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 呪影の数 x !M! の HP を失わせる。",
+    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の バフデバフの 数 x !M! の HP を失わせる。",
     "EXTENDED_DESCRIPTION" : [
       "災禍を律す者"
     ]
   },
   "aigisMod:MorfessaBlack": {
     "NAME": "モルフェサ",
-    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 呪影の数 x !M! の HP を失わせる。",
+    "DESCRIPTION": "aigismod:呪影 !aigisMod:SecondMagic! を与える。 NL aigismod:呪術 : 対象の バフデバフの 数 x !M! の HP を失わせる。",
     "EXTENDED_DESCRIPTION" : [
       "災禍を律す者"
     ]
