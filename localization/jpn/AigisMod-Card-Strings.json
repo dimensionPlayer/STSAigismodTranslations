@@ -3583,8 +3583,8 @@
   },
   "aigisMod:Spica": {
     "NAME": "スピカ",
-    "DESCRIPTION": "敵がデバフを持つ場合, アーチャー カードは 追加 1 ダメージ。 NL !D! aigismod:弓 ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "敵がデバフを持つ場合, アーチャー カードは 追加 1 ダメージ。 NL !D! aigismod:弓 ダメージを与える。",
+    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 対象がデバフを持っている時、 アーチャー カード の ダメージ が 1 増加する。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える。 NL 対象がデバフを持っている時、 アーチャー カード の ダメージ が 1 増加する。",
     "EXTENDED_DESCRIPTION" : [
       "妖精郷の射手"
     ]
