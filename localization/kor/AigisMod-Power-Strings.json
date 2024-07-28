@@ -265,7 +265,7 @@
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "으스스한 현상",
-                "DESCRIPTIONS": ["턴 종료시 캐릭터 카드 #b1 장을 #y소멸시킬 수 있고, 이를 행할시 스택이 #b1 줄어들면서 모든 적들이 #b1 #y약화를 얻습니다.", " 스택이 #b0 이 되면 이 파워를 제거합니다."]
+                "DESCRIPTIONS": ["턴 종료시 카드 #b1 장을 #y소멸시킬 수 있고, 이를 행할시 스택이 #b1 줄어들면서 모든 적들이 #b1 #y약화를 얻습니다.", " 스택이 #b0 이 되면 이 파워를 제거합니다."]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "명경지수",
@@ -541,6 +541,10 @@
         "aigisMod:CursedShadows": {
                 "NAME": "저주의 그림자",
                 "DESCRIPTIONS": ["#y공격 #카드로부터 #b", " 데미지를 더 받습니다. 턴 종료시 #b", " #y방어도를 얻습니다."]
+        },
+        "aigisMod:KnightsOfTheRound": {
+                "NAME": "Knights of the Round",
+                "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
         },
 
 

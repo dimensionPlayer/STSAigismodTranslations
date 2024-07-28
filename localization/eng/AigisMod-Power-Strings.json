@@ -257,7 +257,7 @@
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "Spooky Phenomenon",
-                "DESCRIPTIONS": ["At end of turn, you can #yexhaust #b1 character in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
+                "DESCRIPTIONS": ["At end of turn, you can #yexhaust #b1 card in hand, if you do, all enemies gain #b1 #yWeak and this loses #b1 stack.", " Remove this power when this reaches #b0 stacks."]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "Clear and Serene",
@@ -530,7 +530,10 @@
                 "NAME": "Cursed Shadows",
                 "DESCRIPTIONS": ["Take #b", " more damage from #yattack #ycards. Gain #b", " #yBlock at the end of turn."]
         },
-
+        "aigisMod:KnightsOfTheRound": {
+                "NAME": "Knights of the Round",
+                "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
+        },
 
 
 

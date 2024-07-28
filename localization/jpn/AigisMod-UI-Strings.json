@@ -423,5 +423,11 @@
     "TEXT": [
       "保留するカードを選択する。"
     ]
+  },
+
+  "AtnatesAction": {
+    "TEXT": [
+      "Select a card to Exhaust. (Optional)"
+    ]
   }
 }

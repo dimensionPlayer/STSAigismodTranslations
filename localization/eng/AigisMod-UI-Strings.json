@@ -422,5 +422,11 @@
     "TEXT": [
       "keep."
     ]
+  },
+
+  "AtnatesAction": {
+    "TEXT": [
+      "Select a card to Exhaust. (Optional)"
+    ]
   }
 }

@@ -304,6 +304,126 @@
       ""
     ]
   },
+  "aigisMod:AtnatesPlatinum": {
+    "NAME": "Atnates",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL Gain [E] [E] NL You can Exhaust 1 card in draw pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Knows the Abyss"
+    ]
+  },
+  "aigisMod:AtnatesBlack": {
+    "NAME": "Atnates",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage 2 times. NL Gain [E] [E] NL You can Exhaust 1 card in draw pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Knows the Abyss"
+    ]
+  },
+  "aigisMod:LanchePlatinum": {
+    "NAME": "Lanche",
+    "DESCRIPTION": "Gain 1 Max HP for each enemy. NL Gain 1 Intangible. Target enemy loses !M! Strength. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Leads to Victory"
+    ]
+  },
+  "aigisMod:LancheBlack": {
+    "NAME": "Lanche",
+    "DESCRIPTION": "Gain 2 Max HP for each enemy. NL Gain 1 Intangible. Target enemy loses !M! Strength. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Leads to Victory"
+    ]
+  },
+  "aigisMod:VidyaPlatinum": {
+    "NAME": "Vidya",
+    "DESCRIPTION": "At the start of turn, reduce the cost of !M! card(s) in hand by 1 for the turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Quells the Ravages of War"
+    ]
+  },
+  "aigisMod:VidyaBlack": {
+    "NAME": "Vidya",
+    "DESCRIPTION": "Innate. NL At the start of turn, reduce the cost of !M! card(s) in hand by 1 for the turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Quells the Ravages of War"
+    ]
+  },
+  "aigisMod:XuhuaPlatinum": {
+    "NAME": "Xuhua",
+    "DESCRIPTION": "Gain X Thorns. NL Gain !M! aigismod:counter. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who is Mother to Dahua"
+    ]
+  },
+  "aigisMod:XuhuaBlack": {
+    "NAME": "Xuhua",
+    "DESCRIPTION": "Gain X+2 Thorns. NL Gain !M! aigismod:counter. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who is Mother to Dahua"
+    ]
+  },
+  "aigisMod:IvrilPlatinum": {
+    "NAME": "Ivril",
+    "DESCRIPTION": "Deep Sea NL Deal !D! Damage. NL Apply !M! Poison. NL aigismod:Sailor 1: Shuffle 1 Deadman to draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Conquers the Great Sea"
+    ]
+  },
+  "aigisMod:IvrilBlack": {
+    "NAME": "Ivril",
+    "DESCRIPTION": "Deep Sea NL Deal !D! Damage to ALL enemies. NL Apply 2 !M! Poison to ALL enemies. NL aigismod:Sailor 1:Shuffle 1 Deadman to draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Conquers the Great Sea"
+    ]
+  },
+  "aigisMod:Deadman": {
+    "NAME": "Deadman",
+    "DESCRIPTION": "Ethereal NL Gain 7 aigismod:Water_pressure. NL Draw 2 cards. NL Gain !M! Vigor. NL Exhaust."
+  },
+  "aigisMod:IldonaPlatinum": {
+    "NAME": "Ildona",
+    "DESCRIPTION": "Gain 1 Blur. NL Gain !B! Block. NL Gain !M! aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Leads the Light of Dawn"
+    ]
+  },
+  "aigisMod:IldonaBlack": {
+    "NAME": "Ildona",
+    "DESCRIPTION": "Gain 2 Blur. NL Gain !B! Block. NL Gain !M! aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Leads the Light of Dawn"
+    ]
+  },
+  "aigisMod:AlcouPlatinum": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 10% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:AlcouBlack": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 20% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:DreadSymbol": {
+    "NAME": "Symbol of Dread",
+    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 2 Max HP."
+  },
+  "aigisMod:OshenPlatinum": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
+    ]
+  },
+  "aigisMod:OshenBlack": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
+    ]
+  },
 
 
 
@@ -1083,8 +1203,8 @@
 
   "aigisMod:Prim": {
     "NAME": "프림",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:둔족을 부여합니다. NL aigismod:재동 : !M! : 이 카드의 코스트가 0 이 됩니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:둔족을 부여합니다. NL 첫 사용시 프리즘 미러 1 장을 덱에 섞어 넣고, 이 카드의 코스트가 0 이 됩니다.",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:둔족을 부여합니다. NL 첫 사용시 뽑을 카드 더미에 프리즘 미러 1 장을 섞어 넣습니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL aigismod:둔족을 부여합니다. NL 첫 사용시 뽑을 카드 더미에 프리즘 미러 1 장을 섞어 넣습니다, 이 카드의 코스트가 0 이 됩니다.",
     "EXTENDED_DESCRIPTION" : [
       "환영의 마녀"
     ]
@@ -1926,16 +2046,16 @@
   },
   "aigisMod:Keitridge": {
     "NAME": "케이트릿지",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 방어도가 없을 경우 !M! 데미지를 추가로 가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 방어도가 없을 경우 !M! 데미지를 추가로 가합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 방어도가 없을 경우 !M! 데미지를 추가로 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 방어도가 없을 경우 !M! 데미지를 추가로 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "제국 비행사"
     ]
   },
   "aigisMod:AirSignal": {
     "NAME": "에어 시그널",
-    "DESCRIPTION": "보존. NL 버린 카드 더미에서 비행대 1 장을 손패로 가져옵니다 (이번 턴에만 0 코스트) NL 다음에 본인으로부터 받는 데미지를 무효화. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "보존. NL 버린 카드 더미에서 비행대 1 장을 손패로 가져옵니다 (이번 턴에만 0 코스트) NL 다음에 본인으로부터 받는 데미지를 무효화. NL 소멸.",
+    "DESCRIPTION": "보존. NL 버린 카드 더미에서 비행대 1 장을 손패로 가져옵니다 (이번 턴에만 코스트를 !M! 감소시킵니다) NL 다음에 본인으로부터 받는 데미지를 무효화. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "보존. NL 버린 카드 더미에서 비행대 1 장을 손패로 가져옵니다 (이번 턴에만 코스트를 !M! 감소시킵니다) NL 다음에 본인으로부터 받는 데미지를 무효화. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2416,8 +2536,8 @@
   },
   "aigisMod:Keitridge2": {
     "NAME": "케이트릿지",
-    "DESCRIPTION": "방어도를 !B! 얻습니다. NL aigismod:재동 : !M! : 힘을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL aigismod:재동 : !M! : 힘을 1 얻습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL 방어도를 !B! 얻습니다. NL aigismod:재동 : !M! : 힘을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 방어도를 !B! 얻습니다. NL aigismod:재동 : !M! : 힘을 1 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "제국 비행사"
     ]
@@ -3431,6 +3551,56 @@
     "DESCRIPTION": "체력을 9 잃고 소멸시킬 수 있습니다. NL 턴 종료시, 모든 적들이 힘을 1 얻습니다. NL 소멸."
   },
 
+  "aigisMod:Calope": {
+    "NAME": "캬롯프",
+    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다. NL 부상 2 장을 버린 카드 더미에 추가합니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다. NL 부상 2 장을 버린 카드 더미에 추가합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "동물귀의 사수"
+    ]
+  },
+  "aigisMod:Spica": {
+    "NAME": "스피카",
+    "DESCRIPTION": "타겟이 디버프를 가지고 있을 경우 아쳐 카드가 데미지를 1 씩 더 가합니다. NL !D! aigismod:아쳐 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "타겟이 디버프를 가지고 있을 경우 아쳐 카드가 데미지를 1 씩 더 가합니다. NL !D! aigismod:아쳐 데미지를 가합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "요정향의 사수"
+    ]
+  },
+  "aigisMod:Ashlyn": {
+    "NAME": "아슈린",
+    "DESCRIPTION": "언데드나 저주를 소멸할시 힘을 1 얻습니다. NL aigismod:언데드 : 이 파워를 획득합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 언데드나 저주를 소멸할시 힘을 1 얻습니다. NL aigismod:언데드 : 이 파워를 획득합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "상야의 요리인"
+    ]
+  },
+  "aigisMod:Cruz": {
+    "NAME": "크루스",
+    "DESCRIPTION": "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패의 카드 1 장을 소멸시킬 수 있습니다.",
+    "UPGRADE_DESCRIPTION": "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패와 버린 카드 더미의 카드 1 장을 소멸시킬 수 있습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "고성의 탐색자",
+      "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패의 카드 1 장을 소멸시킬 수 있습니다."
+    ]
+  },
+  "aigisMod:Maglica": {
+    "NAME": "마글리카",
+    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드 1 장을 버립니다. 만약 저주나 상태이상 카드가 버려진 경우, !M! 방어도와 !M! 활력을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드 1 장을 버립니다. 만약 저주나 상태이상 카드가 버려진 경우, !M! 방어도와 !M! 활력을 얻습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "번화가의 요리인"
+    ]
+  },
+  "aigisMod:Tyr": {
+    "NAME": "티르",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸된 카드 더미에 !M! 골렘 부품을 추가합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸된 카드 더미에 !M! 골렘 부품을 추가합니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      "봉강의 검사"
+    ]
+  },
+
 
 
 
@@ -4382,7 +4552,7 @@
   "aigisMod:Blanche": {
     "NAME": "블랑슈",
     "DESCRIPTION": "aigismod:마물술사. NL 마수를 사용할 때마다 힘을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:마물술사. NL 마수를 사용할 때마다 힘을 1 얻습니다. NL 모든 적에게 약화를 1 부여합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:마물술사. NL 마수를 사용할 때마다 힘을 1 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "마수 조련사"
     ]
@@ -4397,8 +4567,8 @@
   },
   "aigisMod:Fine": {
     "NAME": "피느",
-    "DESCRIPTION": "aigismod:심해. NL !D! 데미지를 가합니다. 자신의 aigismod:수압만큼 [E] 를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해. NL !D! 데미지를 가합니다. 자신의 aigismod:수압만큼 [E] 를 얻습니다.",
+    "DESCRIPTION": "aigismod:심해. NL !D! 데미지를 가합니다. NL 만약 적을 쓰러뜨린 경우 자신의 aigismod:수압만큼 [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해. NL !D! 데미지를 가합니다. NL 만약 적을 쓰러뜨린 경우 자신의 aigismod:수압만큼 [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "취옥의 심해병"
     ]
@@ -4413,8 +4583,8 @@
   },
   "aigisMod:Ritva2": {
     "NAME": "리토바",
-    "DESCRIPTION": "aigismod:심해. NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압만큼 카드를 뽑습니다.",
-    "UPGRADE_DESCRIPTION": "aigismod:심해. NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압 +1 만큼 카드를 뽑습니다.",
+    "DESCRIPTION": "aigismod:심해. NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압 -1 만큼 카드를 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해. NL 다음 턴에 [E] 를 얻습니다. NL 자신의 aigismod:수압만큼 카드를 뽑습니다.",
     "EXTENDED_DESCRIPTION": [
       "담홍의 심해병"
     ]
@@ -4510,97 +4680,106 @@
   },
   "aigisMod:Lasithi": {
     "NAME": "라시티",
-    "DESCRIPTION": "aigismod:아쳐 데미지를 !D! 가합니다. NL 에어 시그널을 사용할 때마다 모든 적에게 !M! 데미지를 가합니다.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 aigismod:아쳐 데미지를 !D! 가합니다. NL 에어 시그널을 사용할 때마다 모든 적에게 !M! 데미지를 가합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL aigismod:아쳐 데미지를 !D! 가합니다. NL 에어 시그널을 사용할 때마다 모든 적에게 !M! 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 모든 적에게 aigismod:아쳐 데미지를 !D! 가합니다. NL 에어 시그널을 사용할 때마다 모든 적에게 !M! 데미지를 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "흑익의 정예사수"
     ]
   },
   "aigisMod:Krehl": {
     "NAME": "클레르",
-    "DESCRIPTION": "!M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "!M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
+    "DESCRIPTION": "aigismod:비행대 NL !M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "비행경비대장"
     ]
   },
+  "aigisMod:Krehl2": {
+    "NAME": "클레르",
+    "DESCRIPTION": "aigismod:비행대 NL !M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      "비행경비대장",
+      "aigismod:비행대 NL !M! 장의 카드를 버리고 1 불가침을 얻습니다. NL 소멸."
+    ]
+  },
   "aigisMod:Oviely": {
     "NAME": "오베리",
-    "DESCRIPTION": "공격 의도가 있는 적에게 1 약화를 부여합니다. NL 소멸된 에어 시그널의 수만큼 방어도를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "공격 의도가 있는 적에게 1 약화를 부여합니다. NL 소멸된 에어 시그널의 수 +2 만큼 방어도를 얻습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL 공격 의도가 있는 적에게 1 약화를 부여합니다. NL 소멸된 에어 시그널의 수만큼 방어도를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 공격 의도가 있는 적에게 1 약화를 부여합니다. NL 소멸된 에어 시그널의 수 +2 만큼 방어도를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "필두 비행사"
     ]
   },
   "aigisMod:Pallios": {
     "NAME": "파리오스",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "백익의 전사"
     ]
   },
   "aigisMod:Rhyno": {
     "NAME": "라이노",
-    "DESCRIPTION": "!D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "에어 시그널을 1 장 더 생성합니다. NL !D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 1 장 더 생성합니다. NL !D! 데미지를 가합니다. NL 흐릿함을 1 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "취익의 전사"
     ]
   },
   "aigisMod:Aero": {
     "NAME": "아에로",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 데미지를 3 차례 가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 데미지를 3 차례 가합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 데미지를 3 차례 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 가합니다. NL aigismod:재동 : !M! : 데미지를 3 차례 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "작익의 사수"
     ]
   },
   "aigisMod:Orku": {
     "NAME": "오큐",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 2 번 가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 2 번 가합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 2 번 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 2 번 가합니다.",
     "EXTENDED_DESCRIPTION" : [
       "각하새의 사수"
     ]
   },
   "aigisMod:Pheasant": {
     "NAME": "후잔트",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL 손패의 카드 1 장을 뽑을 카드 더미 가장 아래에 두고 카드를 1 장 뽑을 수 있습니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 가합니다. NL 손패의 카드 1 장을 뽑을 카드 더미 가장 아래에 두고 카드를 1 장 뽑을 수 있습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 가합니다. NL 손패의 카드 1 장을 뽑을 카드 더미 가장 아래에 두고 카드를 1 장 뽑을 수 있습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! aigismod:아쳐 데미지를 가합니다. NL 손패의 카드 1 장을 뽑을 카드 더미 가장 아래에 두고 카드를 1 장 뽑을 수 있습니다.",
     "EXTENDED_DESCRIPTION" : [
       "흑익의 사수"
     ]
   },
   "aigisMod:Potal": {
     "NAME": "포탈",
-    "DESCRIPTION": "에어 시그널을 1 장 더 생성합니다. NL 비행대 카드 !M! 장을 뽑을 카드 더미에서 버린 카드 더미로 보낼 수 있습니다.",
-    "UPGRADE_DESCRIPTION": "에어 시그널을 1 장 더 생성합니다. NL 비행대 카드 !M! 장까지를 뽑을 카드 더미에서 버린 카드 더미로 보낼 수 있습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 1 장 더 생성합니다. NL 비행대 카드 !M! 장을 뽑을 카드 더미에서 버린 카드 더미로 보낼 수 있습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 1 장 더 생성합니다. NL 비행대 카드 !M! 장까지를 뽑을 카드 더미에서 버린 카드 더미로 보낼 수 있습니다.",
     "EXTENDED_DESCRIPTION" : [
       "목토익의 전사"
     ]
   },
   "aigisMod:Lela": {
     "NAME": "이에라",
-    "DESCRIPTION": "에어 시그널을 사용하면 2 임시체력을 얻습니다.",
-    "UPGRADE_DESCRIPTION": "에어 시그널 1 장을 손패로 가져옵니다. NL 에어 시그널을 사용하면 2 임시체력을 얻습니다.",
+    "DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 사용하면 2 임시체력을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 에어 시그널 1 장을 손패로 가져옵니다. NL 에어 시그널을 사용하면 2 임시체력을 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "사구익의 힐러"
     ]
   },
   "aigisMod:Kania": {
     "NAME": "카니아",
-    "DESCRIPTION": "에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다.",
-    "UPGRADE_DESCRIPTION": "에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다.",
+    "DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다.",
     "EXTENDED_DESCRIPTION" : [
       "응익의 힐러",
-      "에어 시그널 1 장을 손패에 추가합니다. NL 에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다."
+      "aigismod:비행대 NL 에어 시그널 1 장을 손패에 추가합니다. NL 에어 시그널을 사용하면 무작위의 적에게 1 취약을 부여하고, 자신의 약화와 취약을 제거합니다."
     ]
   },
   "aigisMod:Lefka": {
     "NAME": "레프카",
-    "DESCRIPTION": "임시체력을 !M! 얻습니다. NL 에어 시그널 1 장을 손패에 추가합니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "임시체력을 !M! 얻습니다. NL 에어 시그널 1 장을 손패에 추가합니다. NL 소멸.",
+    "DESCRIPTION": "aigismod:비행대 NL 임시체력을 !M! 얻습니다. NL 에어 시그널 1 장을 손패에 추가합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL 임시체력을 !M! 얻습니다. NL 에어 시그널 1 장을 손패에 추가합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "악익의 힐러"
     ]
@@ -4715,8 +4894,8 @@
   },
   "aigisMod:Sabrina": {
     "NAME": "사브리나",
-    "DESCRIPTION": "!D! 데미지를 3회 가합니다. NL 소멸. NL aigismod:세일러 1 : [E] 를 얻습니다.",
-    "UPGRADE_DESCRIPTION": "!D! 데미지를 3회 가합니다. NL aigismod:세일러 1 : [E] 를 얻습니다.",
+    "DESCRIPTION": "!D! 데미지를 3회 가합니다. NL 소멸. NL aigismod:세일러 2 : [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!D! 데미지를 3회 가합니다. NL aigismod:세일러 2 : [E] 를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "사략선장"
     ]
@@ -5163,11 +5342,11 @@
 
 
   "aigisMod:Note": {
-    "NAME": "New Hero cards",
-    "DESCRIPTION": "implement these: MorfessaPlatinum, MoefessaBlack, CursedFog, MildrithPlatinum, MildrithBlack, Garuda, TowerOfHeroes, TowerOfHeroesAW",
-    "UPGRADE_DESCRIPTION": "They are on the top of the file.",
+    "NAME": "Remaining Hero cards, august update",
+    "DESCRIPTION": "implement these: Atnates, Lanche, Vidya, Xuhua, Ivril, Deadman, Ildona, Alcou, Symbol of Dread, Oshen",
+    "UPGRADE_DESCRIPTION": "They are on the top of the file",
     "EXTENDED_DESCRIPTION" : [
-      "Ferocious C"
+      ""
     ]
   },
 
@@ -5175,64 +5354,6 @@
 
 
 
-  "aigisMod:Note1": {
-    "NAME": "Vincent substitute cards",
-    "DESCRIPTION": "implement these 6 cards for ver5",
-    "EXTENDED_DESCRIPTION" : [
-      "Ferocious C"
-    ]
-  },
-
-
-  "aigisMod:Calope": {
-    "NAME": "캬롯프",
-    "DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다. NL 부상 2 장을 버린 카드 더미에 추가합니다.",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:아쳐 데미지를 !M! 회 가합니다. NL 부상 2 장을 버린 카드 더미에 추가합니다.",
-    "EXTENDED_DESCRIPTION" : [
-      "동물귀의 사수"
-    ]
-  },
-  "aigisMod:Spica": {
-    "NAME": "스피카",
-    "DESCRIPTION": "타겟이 디버프를 가지고 있을 경우 아쳐 카드가 데미지를 1 씩 더 가합니다. NL !D! aigismod:아쳐 데미지를 가합니다.",
-    "UPGRADE_DESCRIPTION": "타겟이 디버프를 가지고 있을 경우 아쳐 카드가 데미지를 1 씩 더 가합니다. NL !D! aigismod:아쳐 데미지를 가합니다.",
-    "EXTENDED_DESCRIPTION" : [
-      "요정향의 사수"
-    ]
-  },
-  "aigisMod:Ashlyn": {
-    "NAME": "아슈린",
-    "DESCRIPTION": "언데드나 저주를 소멸할시 힘을 1 얻습니다. NL aigismod:언데드 : 이 파워를 획득합니다.",
-    "UPGRADE_DESCRIPTION": "선천성. NL 언데드나 저주를 소멸할시 힘을 1 얻습니다. NL aigismod:언데드 : 이 파워를 획득합니다.",
-    "EXTENDED_DESCRIPTION" : [
-      "상야의 요리인"
-    ]
-  },
-  "aigisMod:Cruz": {
-    "NAME": "크루스",
-    "DESCRIPTION": "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패의 카드 1 장을 소멸시킬 수 있습니다.",
-    "UPGRADE_DESCRIPTION": "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패와 버린 카드 더미의 카드 1 장을 소멸시킬 수 있습니다.",
-    "EXTENDED_DESCRIPTION" : [
-      "고성의 탐색자",
-      "보유한 유물의 수만큼 방어도를 !B! 얻습니다. NL 손패의 카드 1 장을 소멸시킬 수 있습니다."
-    ]
-  },
-  "aigisMod:Maglica": {
-    "NAME": "마글리카",
-    "DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드 1 장을 버립니다. 만약 저주나 상태이상 카드가 버려진 경우, !M! 방어도와 !M! 활력을 얻습니다.",
-    "UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. NL 카드 1 장을 버립니다. 만약 저주나 상태이상 카드가 버려진 경우, !M! 방어도와 !M! 활력을 얻습니다.",
-    "EXTENDED_DESCRIPTION" : [
-      "번화가의 요리인"
-    ]
-  },
-  "aigisMod:Tyr": {
-    "NAME": "티르",
-    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸된 카드 더미에 !M! 골렘 부품을 추가합니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 소멸된 카드 더미에 !M! 골렘 부품을 추가합니다. NL 소멸.",
-    "EXTENDED_DESCRIPTION" : [
-      "봉강의 검사"
-    ]
-  },
 
 
 
@@ -5375,6 +5496,275 @@
     "UPGRADE_DESCRIPTION": "타격 카드 사용시 모든 적에게 !D! 12 데미지를 가합니다. NL aigismod:스킬챠지 : 이 카드의 효과량이 !M! 10 만큼 증가합니다.",
     "EXTENDED_DESCRIPTION" : [
       ""
+    ]
+  },
+  "aigisMod:TsukikoTuda": {
+    "NAME": "Tsukiko Tuda",
+    "DESCRIPTION": "Gain !M! 4 aigismod:damage_aura. NL Exhaust 1 card from draw pile to gain aigismod:damage_aura and Metallicize equal to its cost. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! 6 aigismod:damage_aura. NL Exhaust 1 card from draw pile to gain aigismod:damage_aura and Metallicize equal to its cost +1. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Songstresses"
+    ]
+  },
+  "aigisMod:EthEith": {
+    "NAME": "Eth Eith",
+    "DESCRIPTION": "Apply 1 Vulnerable to ALL enemies. NL Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Apply 1 Vulnerable to ALL enemies. NL Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "EXTENDED_DESCRIPTION" : [
+      "Makaidol"
+    ]
+  },
+  "aigisMod:Krippe": {
+    "NAME": "Krippe",
+    "DESCRIPTION": "Defend cards gain 3 Block. NL The next 3 times you play Strike or Defend, heal 2 HP.",
+    "UPGRADE_DESCRIPTION": "Defend cards gain 5 Block. NL The next 3 times you play Strike or Defend, heal 3 HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Holy Shield Knight",
+      "Defend cards gain 3 Block. NL The next 4 times you play Strike or Defend, heal 4 HP."
+    ]
+  },
+  "aigisMod:Orphie": {
+    "NAME": "Orphie",
+    "DESCRIPTION": "Exhaust 1 card in hand. NL Deal 10 damage. NL Apply 1 Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Exhaust 1 card in hand. NL Deal 15 damage. NL Apply 1 Vulnerable.",
+    "EXTENDED_DESCRIPTION" : [
+      "Underworld Miko",
+      "Exhaust 1 card in hand. NL Deal 11 damage. NL Apply 3 Vulnerable."
+    ]
+  },
+  "aigisMod:Labrys": {
+    "NAME": "Labrys",
+    "DESCRIPTION": "Gain 3 Thorns. NL Shuffle X Labrys Illusion to draw pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 5 Thorns. NL Shuffle X Labrys Illusion to draw pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Demigod of Order",
+      "Gain 3 Thorns. NL Shuffle X+1 Labrys Illusion to draw pile. NL Exhaust"
+    ]
+  },
+  "aigisMod:LabrysIllusion": {
+    "NAME": "Labrys",
+    "DESCRIPTION": "Retain NL Gain 10 Block. NL Gain 10 aigismod:counter.",
+    "UPGRADE_DESCRIPTION": "Retain NL Gain 14 Block. NL Gain 14 aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "Illusion"
+    ]
+  },
+  "aigisMod:Kindreich": {
+    "NAME": "Kindreich",
+    "DESCRIPTION": "Deal 5 !D! damage. NL You can exhaust 1 character card in draw pile. Exhaustive:2.",
+    "UPGRADE_DESCRIPTION": "Deal 5 !D! damage. NL You can exhaust 1 character card in draw pile. Exhaustive:3.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Hunting Dog"
+    ]
+  },
+  "aigisMod:Ritue": {
+    "NAME": "Ritue",
+    "DESCRIPTION": "Deal 10 !D! damage. NL You can exhaust 1 card in discard pile. NL Increase this card cost by 1.",
+    "UPGRADE_DESCRIPTION": "Deal 10 !D! damage. NL You can exhaust 1 card in discard pile. NL Increase this card cost by 1.",
+    "EXTENDED_DESCRIPTION" : [
+      "Underworld Patrolling Knight"
+    ]
+  },
+  "aigisMod:Judithe": {
+    "NAME": "Judithe",
+    "DESCRIPTION": "Heal 2 HP. NL You can add 1 Imperial card from discard pile to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Heal 2 HP. NL You can add 1 Imperial card from discard pile to your hand. NL Exhaustive:2.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Medical Officer"
+    ]
+  },
+
+
+  "aigisMod:Note3": {
+    "NAME": "alternative paths for rare cards, mar 2024",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "Nimue3 is rework",
+    "EXTENDED_DESCRIPTION" : [
+      "Ferocious C"
+    ]
+  },
+  "aigisMod:Yoyuki2": {
+    "NAME": "요유키",
+    "DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION": [
+      "야코씨의 현당주",
+      "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL 버린 카드 더미에 야코씨 2 장을 추가합니다. NL 소멸."
+    ]
+  },
+  "aigisMod:YagyouWarashiA": {
+    "NAME": "야코씨",
+    "DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL !B! 방어도를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL !B! 방어도를 얻습니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:YagyouWarashiB": {
+    "NAME": "야코씨",
+    "DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL !B! 방어도를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "원래 코스트가 4 인 카드를 다음에 사용할시 에너지를 충전합니다. NL !B! 방어도를 얻습니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:Ethnea2": {
+    "NAME": "에스네아",
+    "DESCRIPTION": "!D! aigismod:관통 데미지를 가합니다. 소멸된 경우 이 카드의 데미지를 !M! 상승시키고 힘을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:관통 데미지를 가합니다. 소멸된 경우 이 카드의 데미지를 !M! 상승시키고 힘을 1 얻습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "흑익의 마병",
+      "!D! aigismod:관통 데미지를 가합니다. 소멸된 경우 이 카드의 데미지를 !M! 상승시키고 힘을 1 얻습니다."
+    ]
+  },
+  "aigisMod:Harmonia2": {
+    "NAME": "하르모니아",
+    "DESCRIPTION": "!D! 데미지를 가합니다. NL 데몬 카드가 소멸된 카드 더미에 있을 경우 이 카드의 코스트를 1 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL 데몬 카드가 소멸된 카드 더미에 있을 경우 이 카드의 코스트를 1 감소시킵니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "조정의 마장",
+      "!D! 데미지를 가합니다. NL 데몬 카드가 소멸된 카드 더미에 있을 경우 이 카드의 코스트를 1 감소시킵니다."
+    ]
+  },
+  "aigisMod:Hecatie2": {
+    "NAME": "헤카티에",
+    "DESCRIPTION": "휘발성. NL 턴 시작시 버린 카드 더미에서 제국 캐릭터 카드 1 장을 손패에 넣습니다.",
+    "UPGRADE_DESCRIPTION": "휘발성. NL 턴 시작시 버린 카드 더미에서 제국 캐릭터 카드 1 장을 손패에 넣습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "명계의 마술사",
+      "보존. NL 턴 시작시 버린 카드 더미에서 제국 캐릭터 카드 1 장을 손패에 넣습니다."
+    ]
+  },
+  "aigisMod:Marleen2": {
+    "NAME": "마를렌",
+    "DESCRIPTION": "바리케이드 사용시 무작위의 적에게 !M! 데미지를 가합니다. NL 바리케이드 1 장을 손패에 얻습니다.",
+    "UPGRADE_DESCRIPTION": "바리케이드 사용시 무작위의 적에게 !M! 데미지를 가합니다. NL 바리케이드 1 장을 손패에 얻습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "제국 건기공병",
+      "바리케이드 사용시 무작위의 적에게 !M! 데미지를 가합니다. NL 바리케이드+ 1 장을 손패에 얻습니다."
+    ]
+  },
+  "aigisMod:ShengPu2": {
+    "NAME": "금광성보",
+    "DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:주술 : 뽑을 카드 더미에 금광성보 분신 1 장을 추가합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 데미지를 가합니다. NL aigismod:주술 : 뽑을 카드 더미에 금광성보 분신 1 장을 추가합니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      "",
+      "모든 적에게 !D! 데미지를 가합니다. NL aigismod:주술 : 뽑을 카드 더미에 금광성보 분신+ 1 장을 추가합니다. NL 소멸."
+    ]
+  },
+  "aigisMod:Nimue2": {
+    "NAME": "니뮤에",
+    "DESCRIPTION": "턴 종료시, 손패의 카드 1 장을 소멸시키고 모든 적에게 1 약화를 부여합니다. ( !M! 회까지) aigismod:언데드 : 이 파워를 획득합니다.",
+    "UPGRADE_DESCRIPTION": "턴 종료시, 손패의 카드 1 장을 소멸시키고 모든 적에게 1 약화를 부여합니다. ( !M! 회까지) aigismod:언데드 : 이 파워를 획득합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "고독한 미궁 수호자",
+      "턴 종료시, 손패의 카드 1 장을 소멸시키고 모든 적에게 1 약화를 부여합니다. ( !M! 회까지) aigismod:언데드 : 이 파워를 획득합니다."
+    ]
+  },
+  "aigisMod:Nimue3": {
+    "NAME": "니뮤에",
+    "DESCRIPTION": "At the start of your next 3 (M) turns, add 1 Ghost to hand. NL aigismod:언데드 : 이 파워를 획득합니다.",
+    "UPGRADE_DESCRIPTION": "cost0 At the start of your next 3 (M) turns, add 1 Ghost to hand. NL aigismod:언데드 : 이 파워를 획득합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "고독한 미궁 수호자",
+      "At the start of your next 3 (M) turns, add 1 Ghost to hand. aigismod:Undead: Gain this power."
+    ]
+  },
+  "aigisMod:Ghost": {
+    "NAME": "Ghost",
+    "DESCRIPTION": "You can exhaust 1 card in your hand. NL Exhaust NL aigismod:Undead: Apply 1 weak to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "You can exhaust up to 2 cards in your hand. NL Exhaust NL aigismod:Undead: Apply 1 weak to ALL enemies.",
+    "EXTENDED_DESCRIPTION" : [
+    ]
+  },
+  "aigisMod:Tsugumi2": {
+    "NAME": "츠구미",
+    "DESCRIPTION": "저주나 상태이상 카드를 1 장 소멸시키고, 이를 행했을시 버린 카드 더미에서 카드 1 장을 손패로 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "저주나 상태이상 카드를 1 장 소멸시키고, 이를 행했을시 버린 카드 더미에서 카드 1 장을 손패로 가져옵니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "야조",
+      "보존. NL 저주나 상태이상 카드를 1 장 소멸시키고, 이를 행했을시 버린 카드 더미에서 카드 1 장을 손패로 가져옵니다."
+    ]
+  },
+  "aigisMod:Alta2": {
+    "NAME": "알타",
+    "DESCRIPTION": "휘발성. NL 방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "휘발성. NL 방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION": [
+      "장미의 자동인형",
+      "방어도를 얻을 때마다 타겟에 !M! 데미지를 가합니다. NL 이 디버프를 영구적으로 !aigisMod:SecondMagic! 증가시킵니다. NL 소멸."
+    ]
+  },
+  "aigisMod:Meshina2": {
+    "NAME": "메시나",
+    "DESCRIPTION": "aigismod:심해. NL aigismod:수압을 얻을 때마다 힘을 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL aigismod:심해. NL aigismod:수압을 얻을 때마다 힘을 1 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "소용돌이치는 조수의 아신",
+      "aigismod:심해. NL aigismod:수압을 얻을 때마다 힘을 1 얻습니다."
+    ]
+  },
+  "aigisMod:Murua2": {
+    "NAME": "무루아",
+    "DESCRIPTION": "aigismod:심해. NL !D! 데미지를 3 회 가합니다. NL !M! 이상의 aigismod:수압을 갖고 있을시, 이번 전투동안 손패 카드의 코스트를 1 씩 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:심해. NL !D! 데미지를 3 회 가합니다. NL !M! 이상의 aigismod:수압을 갖고 있을시, 이번 전투동안 손패 카드의 코스트를 1 씩 감소시킵니다.",
+    "EXTENDED_DESCRIPTION": [
+      "붉은 구슬의 심해병장",
+      "aigismod:심해. NL !D! 데미지를 3 회 가합니다. NL !M! 이상의 aigismod:수압을 갖고 있을시, 이번 전투동안 손패 카드의 코스트를 1 씩 감소시킵니다."
+    ]
+  },
+  "aigisMod:Otohime2": {
+    "NAME": "오토히메",
+    "DESCRIPTION": "aigismod:심해. NL aigismod:수압으로부터 데미지를 받지 않게 됩니다. NL aigismod:수압을 얻을 때마다 모든 적에게 1 약화를 부여합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL aigismod:심해. NL aigismod:수압으로부터 데미지를 받지 않게 됩니다. NL aigismod:수압을 얻을 때마다 모든 적에게 1 약화를 부여합니다.",
+    "EXTENDED_DESCRIPTION": [
+      "G대해신의 딸",
+      "aigismod:심해. NL aigismod:수압으로부터 데미지를 받지 않게 됩니다. NL aigismod:수압을 얻을 때마다 모든 적에게 1 약화를 부여합니다."
+    ]
+  },
+  "aigisMod:Pallios2": {
+    "NAME": "파리오스",
+    "DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
+    "UPGRADE_DESCRIPTION": "aigismod:비행대 NL !D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "백익의 전사",
+      "aigismod:비행대 NL !D! 데미지를 가합니다. NL 보스와 엘리트를 상대로 !M! 데미지를 추가로 가합니다."
+    ]
+  },
+  "aigisMod:AigisShrine": {
+    "NAME": "Aigis Shrine",
+    "DESCRIPTION": "Add 1 Aigis Statue to hand. NL It becomes cost 0.",
+    "UPGRADE_DESCRIPTION": "Add 1 Aigis Statue to hand. NL All Aigis Statue in hand become cost 0.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:Arlette2": {
+    "NAME": "알렛트",
+    "DESCRIPTION": "전투 중 생성된 카드를 모두 업그레이드 합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 전투 중 생성된 카드를 모두 업그레이드 합니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "초고대 발명가",
+      "전투 중 생성된 카드를 모두 업그레이드 합니다."
+    ]
+  },
+  "aigisMod:Augusta2": {
+    "NAME": "오거스타",
+    "DESCRIPTION": "턴 시작시, !M! 힘과 1 민첩을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "턴 시작시, !M! 힘과 1 민첩을 얻습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "천계의 셰프",
+      "턴 시작시, !M! 힘과 1 민첩을 얻습니다."
+    ]
+  },
+  "aigisMod:Tatsumi2": {
+    "NAME": "타츠미",
+    "DESCRIPTION": "카드가 소멸되었을 때 1 흐릿함을 얻습니다. NL 흐릿함을 가지고 있으면 턴 종료시 무작위의 적에게 !M! 데미지를 가합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL 카드가 소멸되었을 때 1 흐릿함을 얻습니다. NL 흐릿함을 가지고 있으면 턴 종료시 무작위의 적에게 !M! 데미지를 가합니다.",
+    "EXTENDED_DESCRIPTION": [
+      "영염의 전무녀",
+      "카드가 소멸되었을 때 1 흐릿함을 얻습니다. NL 흐릿함을 가지고 있으면 턴 종료시 무작위의 적에게 !M! 데미지를 가합니다."
     ]
   }
 }

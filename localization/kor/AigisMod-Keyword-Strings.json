@@ -475,5 +475,15 @@
       "cursed_shadows"
     ],
     "DESCRIPTION": "턴 종료시 #y방어도를 얻습니다. #y공격 #y카드로부터 받는 #y데미지가 증가합니다."
+  },
+  {
+    "PROPER_NAME": "비행대",
+    "NAMES": [
+      "비행대",
+      "aerial",
+      "Aerial.",
+      "Aerial:"
+    ],
+    "DESCRIPTION": "이 카드를 사용했을 때, #b1 #y에어 #y시그널을 뽑을 카드 더미에 섞어 넣습니다."
   }
 ]

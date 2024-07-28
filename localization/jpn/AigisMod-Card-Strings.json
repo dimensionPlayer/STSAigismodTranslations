@@ -306,14 +306,14 @@
   },
   "aigisMod:AtnatesPlatinum": {
     "NAME": "アトナテス",
-    "DESCRIPTION": "!D! aigismod:貫通 ダメージ を !M! 回与える。 NL [E] を得る。 NL 廃棄",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージを与える。 NL [E] [E] を得る。 NL 山札のカードを 1 枚 廃棄 できる。",
     "EXTENDED_DESCRIPTION" : [
       "深淵を知る者"
     ]
   },
   "aigisMod:AtnatesBlack": {
     "NAME": "アトナテス",
-    "DESCRIPTION": "!D! aigismod:貫通 ダメージ を !M! 回与える。 NL [E] [E] を得る。 NL 廃棄",
+    "DESCRIPTION": "!D! aigismod:貫通 ダメージ を 2 回与える。 NL [E] [E] を得る。 NL 山札のカードを 1 枚 廃棄 できる。",
     "EXTENDED_DESCRIPTION" : [
       "深淵を知る者"
     ]
@@ -327,69 +327,101 @@
   },
   "aigisMod:LancheBlack": {
     "NAME": "ランシェ",
-    "DESCRIPTION": " 最大HP を 敵の数ｘ 2 だけ増加する。 NL 無形 1 を得る。 筋力 !M! を失わせる。 NL 廃棄",
+    "DESCRIPTION": "最大HP を 敵の数ｘ 2 だけ増加する。 NL 無形 1 を得る。 筋力 !M! を失わせる。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "勝利へ導く者"
     ]
   },
   "aigisMod:VidyaPlatinum": {
     "NAME": "ヴィディア",
-    "DESCRIPTION": "!B! ブロック を得る。 NL (ナイツオブラウンド)ターン開始時に手札のキャラカードのコストをこのターンの間 1 下げる。",
+    "DESCRIPTION": "ターン開始時に手札のカードのコスト !M! 枚をこのターンの間 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "戦禍を断つ者"
     ]
   },
   "aigisMod:VidyaBlack": {
     "NAME": "ヴィディア",
-    "DESCRIPTION": "天賦 NL !B! ブロック を得る。 NL ターン開始時に手札のキャラカードのコストをこのターンの間 1 下げる。",
+    "DESCRIPTION": "天賦 NL ターン開始時に手札のカードのコストをこのターンの間 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "戦禍を断つ者"
     ]
   },
   "aigisMod:XuhuaPlatinum": {
     "NAME": "徐華",
-    "DESCRIPTION": " トゲ !M! を得る。 NL aigismod:カウンター !aigisMod:SecondMagic! 5 を得る。 ",
+    "DESCRIPTION": " トゲ X を得る。 NL aigismod:カウンター !M! を得る。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "大華の母たる者"
     ]
   },
   "aigisMod:XuhuaBlack": {
     "NAME": "徐華",
-    "DESCRIPTION": "トゲ !M! を得る。 NL aigismod:カウンター !aigisMod:SecondMagic! 5 を得る。 NL !B! ブロック を得る。",
+    "DESCRIPTION": " トゲ X+2 を得る。 NL aigismod:カウンター !M! を得る。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "大華の母たる者"
     ]
   },
   "aigisMod:IvrilPlatinum": {
     "NAME": "イヴリール",
-    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL 毒 !M! を与える。 NL デッドマン号 1 枚 を山札に加える。",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL 毒 !M! を与える。 NL aigismod:水兵 1: デッドマン号 1 枚 を山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "大海を征く者"
     ]
   },
   "aigisMod:IvrilBlack": {
     "NAME": "イヴリール",
-    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL 毒 !M! を与える。 NL デッドマン号 1 枚 を山札に加える。",
+    "DESCRIPTION": "aigismod:深海兵 NL 敵全体に !D! ダメージを与える。 NL 毒 !M! を与える。 NL aigismod:水兵 1: デッドマン号 1 枚 を山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "大海を征く者"
     ]
   },
   "aigisMod:Deadman": {
     "NAME": "デッドマン号",
-    "DESCRIPTION": "保留 NL aigismod:深海兵 NL 一時的な 筋力 !M! 2 を得る。 NL 廃棄"
+    "DESCRIPTION": "エセリアル NL aigismod:水圧 7 を得る。 NL カードを 2 枚引く。 NL 気力 !M! を得る。 NL 廃棄"
   },
   "aigisMod:IldonaPlatinum": {
     "NAME": "イルドナ",
-    "DESCRIPTION": "ブラー !M! を得る。 NL !B! ブロック を得る。 NL aigismod:カウンター !M! を得る。",
+    "DESCRIPTION": "ブラー 1 を得る。 NL !B! ブロック を得る。 NL aigismod:カウンター !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "暁光を導く者"
     ]
   },
   "aigisMod:IldonaBlack": {
     "NAME": "イルドナ",
-    "DESCRIPTION": "ブラー !M! を得る。 NL !B! ブロック を得る。 NL aigismod:カウンター !M! を得る。",
+    "DESCRIPTION": "ブラー 2 を得る。 NL !B! ブロック を得る。 NL aigismod:カウンター !M! を得る。",
     "EXTENDED_DESCRIPTION" : [
       "暁光を導く者"
+    ]
+  },
+  "aigisMod:AlcouPlatinum": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 10% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:AlcouBlack": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 20% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:DreadSymbol": {
+    "NAME": "Symbol of Dread",
+    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 2 Max HP."
+  },
+  "aigisMod:OshenPlatinum": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
+    ]
+  },
+  "aigisMod:OshenBlack": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
     ]
   },
 
@@ -1172,7 +1204,7 @@
 
   "aigisMod:Prim": {
     "NAME": "プリム",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL aigismod:クールタイム : !M! : 次に使用するまでコストが 0 になる。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 1戦闘に1回、山札に プリズムミラー 1 枚を加える。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 1戦闘に1回、山札に プリズムミラー 1 枚を加え、このカードのコストを戦闘中 0 にする。",
     "EXTENDED_DESCRIPTION" : [
       "幻光の魔女"
@@ -2060,8 +2092,8 @@
   },
   "aigisMod:Keitridge": {
     "NAME": "ケイトリッジ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL あなたの ブロック がない時、ダメージが !M! 上昇する。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL あなたの ブロック がない時、ダメージが !M! 上昇する。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL あなたの ブロック がない時、ダメージが !M! 上昇する。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL あなたの ブロック がない時、ダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "帝国飛行士"
     ]
@@ -2078,56 +2110,56 @@
 
   "aigisMod:Krehl000": {
     "NAME": "クレール",
-    "DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL このカードが生成する エアーシグナル は アップグレード されている。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:拡散 ダメージを与える。 NL このカードが生成する エアーシグナル は アップグレード されている。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:拡散 ダメージを与える。 NL このカードが生成する エアーシグナル は アップグレード されている。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:拡散 ダメージを与える。 NL このカードが生成する エアーシグナル は アップグレード されている。",
     "EXTENDED_DESCRIPTION" : [
       "飛行警備隊長"
     ]
   },
   "aigisMod:Oviely000": {
     "NAME": "オヴェリー",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 された エアーシグナル の 枚数x !M! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL 廃棄 された エアーシグナル の 枚数x !M! ブロック を得る。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL 廃棄 された エアーシグナル の 枚数x !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL 廃棄 された エアーシグナル の 枚数x !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "筆頭飛行士"
     ]
   },
   "aigisMod:Pallios000": {
     "NAME": "パリオス",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では!M! の追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "白翼の戦士"
     ]
   },
   "aigisMod:Rhyno000": {
     "NAME": "ライノー",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : NL ダメージが !M! 上昇する。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:撃破 : NL ダメージが !M! 上昇する。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL aigismod:撃破 : NL ダメージが !M! 上昇する。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL aigismod:撃破 : NL ダメージが !M! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "鷲翼の戦士"
     ]
   },
   "aigisMod:Aero000": {
     "NAME": "アエロ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
     "EXTENDED_DESCRIPTION" : [
       "雀翼の射手"
     ]
   },
   "aigisMod:Orku000": {
     "NAME": "オーキュ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL この戦闘中、コストが 0 になる。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL この戦闘中、コストが 0 になる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL この戦闘中、コストが 0 になる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL この戦闘中、コストが 0 になる。",
     "EXTENDED_DESCRIPTION" : [
       "覚賀鳥の射手"
     ]
   },
   "aigisMod:Pheasant000": {
     "NAME": "フーザント",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : ダメージが !aigisMod:SecondMagic! 上昇する。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : ダメージが !aigisMod:SecondMagic! 上昇する。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : ダメージが !aigisMod:SecondMagic! 上昇する。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : ダメージが !aigisMod:SecondMagic! 上昇する。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の射手"
     ]
@@ -2606,8 +2638,8 @@
   },
   "aigisMod:Keitridge2": {
     "NAME": "ケイトリッジ",
-    "DESCRIPTION": "!B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !B! ブロック を得る。 NL aigismod:クールタイム : !M! : NL 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "帝国飛行士"
     ]
@@ -4572,7 +4604,7 @@
   "aigisMod:Blanche": {
     "NAME": "ブランシュ",
     "DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に 筋力 1 を得る。 NL 敵全体に 脱力 1 を与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL 魔獣をプレイした時に 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION": [
       "魔物使い"
     ]
@@ -4587,8 +4619,8 @@
   },
   "aigisMod:Fine": {
     "NAME": "フィーヌ",
-    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:水圧 の数に等しい [E] を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:水圧 の数に等しい [E] を得る。",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:撃破 : aigismod:水圧 の数に等しい [E] を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL aigismod:撃破 : aigismod:水圧 の数に等しい [E] を得る。",
     "EXTENDED_DESCRIPTION": [
       "翠玉の深海兵"
     ]
@@ -4603,8 +4635,8 @@
   },
   "aigisMod:Ritva2": {
     "NAME": "リトヴァ",
-    "DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数に等しいカードを引く。",
-    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数 +1 に等しいカードを引く。",
+    "DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数 -1 に等しいカードを引く。",
+    "UPGRADE_DESCRIPTION": "aigismod:深海兵 NL 次のターンに [E] を得る。 NL aigismod:水圧 の数に等しいカードを引く。",
     "EXTENDED_DESCRIPTION": [
       "淡紅の深海兵"
     ]
@@ -4700,97 +4732,106 @@
   },
   "aigisMod:Lasithi": {
     "NAME": "ラシティ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL エアーシグナル をプレイした時、 敵全体に !M! ダメージを与える。",
-    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:弓 ダメージを与える。 NL エアーシグナルをプレイした時、 敵全体に !M! ダメージを与える。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL エアーシグナル をプレイした時、 敵全体に !M! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL 敵全体に !D! aigismod:弓 ダメージを与える。 NL エアーシグナルをプレイした時、 敵全体に !M! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の精鋭射手"
     ]
   },
   "aigisMod:Krehl": {
     "NAME": "クレール",
-    "DESCRIPTION": "カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
+    "DESCRIPTION": "aigismod:飛行隊 NL カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "飛行警備隊長"
     ]
   },
+  "aigisMod:Krehl2": {
+    "NAME": "クレール",
+    "DESCRIPTION": "aigismod:飛行隊 NL カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      "飛行警備隊長",
+      "aigismod:飛行隊 NL カードを !M! 枚捨てることで 無形 1 を得る。 NL 廃棄"
+    ]
+  },
   "aigisMod:Oviely": {
     "NAME": "オヴェリー",
-    "DESCRIPTION": "攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数の ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数+2 の ブロック を得る。",
+    "DESCRIPTION": "aigismod:飛行隊 NL 攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数の ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL 攻撃を予定している敵に 脱力 1 を与える。 NL 廃棄 された エアーシグナル の 枚数+2 の ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "筆頭飛行士"
     ]
   },
   "aigisMod:Pallios": {
     "NAME": "パリオス",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "白翼の戦士"
     ]
   },
   "aigisMod:Rhyno": {
     "NAME": "ライノー",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ブラー 1 を得る。",
-    "UPGRADE_DESCRIPTION": "エアーシグナル 1枚 を 山札に生成する。 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL エアーシグナル 1枚 を 山札に生成する。 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "鷲翼の戦士"
     ]
   },
   "aigisMod:Aero": {
     "NAME": "アエロ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL aigismod:クールタイム : !M! : NL 攻撃が 3 回になる。",
     "EXTENDED_DESCRIPTION" : [
       "雀翼の射手"
     ]
   },
   "aigisMod:Orku": {
     "NAME": "オーキュ",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを 2 回 与える。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを 2 回 与える。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを 2 回 与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを 2 回 与える。",
     "EXTENDED_DESCRIPTION" : [
       "覚賀鳥の射手"
     ]
   },
   "aigisMod:Pheasant": {
     "NAME": "フーザント",
-    "DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL 手札を 1 枚 山札 の底に戻して カードを 1 枚引くことができる。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の射手"
     ]
   },
   "aigisMod:Potal": {
     "NAME": "ポタル",
-    "DESCRIPTION": "エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
-    "UPGRADE_DESCRIPTION": "エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL エアーシグナルを 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
     "EXTENDED_DESCRIPTION" : [
       "木兎翼の戦士"
     ]
   },
   "aigisMod:Lela": {
     "NAME": "イエラ",
-    "DESCRIPTION": "エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
-    "UPGRADE_DESCRIPTION": "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
+    "DESCRIPTION": "aigismod:飛行隊 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に aigismod:仮初 のHP 2 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "蓑鳩翼の癒し手"
     ]
   },
   "aigisMod:Kania": {
     "NAME": "カーニア",
-    "DESCRIPTION": "エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
-    "UPGRADE_DESCRIPTION": "エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
+    "DESCRIPTION": "aigismod:飛行隊 NL エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。",
     "EXTENDED_DESCRIPTION" : [
       "鷹翼の癒し手",
-      "エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。"
+      "aigismod:飛行隊 NL エアーシグナル を 1 枚 手札 に加える。 NL エアーシグナルをプレイした時に ランダムな敵に 弱体 1 を与えて あなたの 脱力 と 弱体 を取り除く。"
     ]
   },
   "aigisMod:Lefka": {
     "NAME": "レフカ",
-    "DESCRIPTION": "aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
+    "DESCRIPTION": "aigismod:飛行隊 NL aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL aigismod:仮初 のHP !M! を得る。 NL エアーシグナル を 1 枚 手札に 加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "鶚翼の癒し手"
     ]
@@ -4905,8 +4946,8 @@
   },
   "aigisMod:Sabrina": {
     "NAME": "サブリナ",
-    "DESCRIPTION": "!D! ダメージを 3 回与える。 NL 廃棄 NL aigismod:水兵 1: [E] を得る。 ",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを 3 回与える。 NL aigismod:水兵 1: [E] を得る。 ",
+    "DESCRIPTION": "!D! ダメージを 3 回与える。 NL 廃棄 NL aigismod:水兵 2: [E] を得る。 ",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを 3 回与える。 NL aigismod:水兵 2: [E] を得る。 ",
     "EXTENDED_DESCRIPTION" : [
       "私掠船長"
     ]
@@ -5352,8 +5393,8 @@
 
 
   "aigisMod:Note": {
-    "NAME": "Remaining Hero cards",
-    "DESCRIPTION": "implement these: Atnates, Lanche, Vidya, Xuhua, Ivril, Ildona",
+    "NAME": "Remaining Hero cards, august update",
+    "DESCRIPTION": "implement these: Atnates, Lanche, Vidya, Xuhua, Ivril, Deadman, Ildona, Alcou, Symbol of Dread, Oshen",
     "UPGRADE_DESCRIPTION": "They are on the top of the file",
     "EXTENDED_DESCRIPTION" : [
       ""
@@ -5519,8 +5560,8 @@
   },
   "aigisMod:EthEith": {
     "NAME": "エス★エフ",
-    "DESCRIPTION": "（means one enemy=(nothing) means all enemies＝敵全体に）弱体 1 を与える。 NL !D! aigismod:貫通 ダメージ を与える。 このカードが廃棄 された時、 ダメージが !M! 上昇して 筋力 1 を得る。",
-    "UPGRADE_DESCRIPTION": "弱体 1 を与える。 NL !D! aigismod:貫通 ダメージ を与える。 このカードが廃棄 された時、 ダメージが !M! 上昇して 筋力 1 を得る。",
+    "DESCRIPTION": "敵全体に 弱体 1 を与える。 NL !D! aigismod:貫通 ダメージ を与える。 このカードが廃棄 された時、 ダメージが !M! 上昇して 筋力 1 を得る。",
+    "UPGRADE_DESCRIPTION": "敵全体に 弱体 1 を与える。 NL !D! aigismod:貫通 ダメージ を与える。 このカードが廃棄 された時、 ダメージが !M! 上昇して 筋力 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "Makaidol"
     ]
@@ -5590,7 +5631,7 @@
 
   "aigisMod:Note3": {
     "NAME": "alternative paths for rare cards, mar 2024",
-    "DESCRIPTION": "",
+    "DESCRIPTION": "Already implemented",
     "UPGRADE_DESCRIPTION": "Nimue3 is rework",
     "EXTENDED_DESCRIPTION" : [
       "Ferocious C"
@@ -5740,11 +5781,11 @@
   },
   "aigisMod:Pallios2": {
     "NAME": "パリオス",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
-    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。",
     "EXTENDED_DESCRIPTION" : [
       "白翼の戦士",
-      "!D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。"
+      "aigismod:飛行隊 NL !D! ダメージを与える。 NL ボスとエリート戦では !M! の追加ダメージ。"
     ]
   },
   "aigisMod:AigisShrine": {
@@ -5753,6 +5794,33 @@
     "UPGRADE_DESCRIPTION": "アイギス像 1枚 を 手札に加える。 NL 手札全ての アイギス像 のコストを 0 にする。",
     "EXTENDED_DESCRIPTION" : [
       ""
+    ]
+  },
+  "aigisMod:Arlette2": {
+    "NAME": "アルレット",
+    "DESCRIPTION": "戦闘中に生成するカードを アップグレード する。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 戦闘中に生成するカードを アップグレード する。",
+    "EXTENDED_DESCRIPTION" : [
+      "超古代発明家",
+      "戦闘中に生成するカードを アップグレード する。"
+    ]
+  },
+  "aigisMod:Augusta2": {
+    "NAME": "オーガスタ",
+    "DESCRIPTION": "ターン開始時、 筋力 !M! と 敏捷性 1 を得る。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、 筋力 !M! と 敏捷性 1 を得る。",
+    "EXTENDED_DESCRIPTION" : [
+      "天界のシェフ",
+      "ターン開始時、 筋力 !M! と 敏捷性 1 を得る。"
+    ]
+  },
+  "aigisMod:Tatsumi2": {
+    "NAME": "タツミ",
+    "DESCRIPTION": "カードを廃棄した時、ブラー 1 を得る。 NL ブラーを持った状態でターン終了時、ランダムな敵に !M! ダメージ。",
+    "UPGRADE_DESCRIPTION": "天賦 NL カードを廃棄した時、ブラー 1 を得る。 NL ブラーを持った状態でターン終了時、ランダムな敵に !M! ダメージ。",
+    "EXTENDED_DESCRIPTION": [
+      "影炎の戦巫女",
+      "カードを廃棄した時、ブラー 1 を得る。 NL ブラーを持った状態でターン終了時、ランダムな敵に !M! ダメージ。"
     ]
   }
 }

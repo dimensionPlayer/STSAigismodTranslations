@@ -426,5 +426,15 @@
       "cursed_shadows"
     ],
     "DESCRIPTION": "ターン終了時、 #yブロック を得る。 #yアタック カード から 受けるダメージが増加する。"
+  },
+  {
+    "PROPER_NAME": "飛行隊",
+    "NAMES": [
+      "飛行隊",
+      "aerial",
+      "Aerial.",
+      "Aerial:"
+    ],
+    "DESCRIPTION": "プレイした時、 #yエアーシグナル を #b1 枚山札に加える。"
   }
 ]

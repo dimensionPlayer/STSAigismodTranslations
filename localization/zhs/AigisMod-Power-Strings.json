@@ -265,7 +265,7 @@
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "惊吓现象",
-                "DESCRIPTIONS": ["回合结束时，可以消耗 #b1 张角色牌，对所有敌人施加 #b1 层 #y虚弱 并减少此能力 #b1 层。", "层数为 #b0 时移除此能力。"]
+                "DESCRIPTIONS": ["回合结束时，可以消耗 #b1 张牌，对所有敌人施加 #b1 层 #y虚弱 并减少此能力 #b1 层。", "层数为 #b0 时移除此能力。"]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明镜止水",
@@ -540,6 +540,10 @@
         "aigisMod:CursedShadows": {
                 "NAME": "咒影的大结界",
                 "DESCRIPTIONS": ["额外受到 #b", " 点来自 #y攻击牌 的伤害。 在回合结束时，获得 #b", " 点 #y格挡 。"]
+        },
+        "aigisMod:KnightsOfTheRound": {
+                "NAME": "Knights of the Round",
+                "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
         },
 
 

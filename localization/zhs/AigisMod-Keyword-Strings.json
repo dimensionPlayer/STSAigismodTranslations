@@ -439,5 +439,16 @@
       "cursed_shadows"
     ],
     "DESCRIPTION": "回合结束时，获得 #y格挡 。 受到来自 #y攻击牌 的 #y伤害 提升。"
+  },
+  {
+    "PROPER_NAME": "空域",
+    "NAMES": [
+      "空域",
+      "空域。",
+      "Aerial.",
+      "Aerial:"
+    ],
+    "DESCRIPTION": "当打出此牌时，将1张 #y空中标记 洗入抽牌堆。"
   }
+
 ]
