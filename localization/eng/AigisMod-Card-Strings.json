@@ -362,14 +362,14 @@
   },
   "aigisMod:IvrilPlatinum": {
     "NAME": "Ivril",
-    "DESCRIPTION": "Deep Sea NL Deal !D! Damage. NL Apply !M! Poison. NL aigismod:Sailor 1: Shuffle 1 Deadman to draw Pile.",
+    "DESCRIPTION": "aigismod:Deep_Sea Sea NL Deal !D! Damage. NL Apply !M! Poison. NL aigismod:Sailor 1: Shuffle 1 Deadman to draw Pile.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Conquers the Great Sea"
     ]
   },
   "aigisMod:IvrilBlack": {
     "NAME": "Ivril",
-    "DESCRIPTION": "Deep Sea NL Deal !D! Damage to ALL enemies. NL Apply 2 !M! Poison to ALL enemies. NL aigismod:Sailor 1:Shuffle 1 Deadman to draw Pile.",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage to ALL enemies. NL Apply !M! Poison to ALL enemies. NL aigismod:Sailor 1:Shuffle 1 Deadman to draw Pile.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Conquers the Great Sea"
     ]
