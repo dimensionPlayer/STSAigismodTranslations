@@ -332,5 +332,15 @@
       "cursed_shadows"
     ],
     "DESCRIPTION": "At the end of turn, gain #yBlock. #yDamage #yReceived by #yAttack #ycards is increased."
+  },
+  {
+    "PROPER_NAME": "Aerial",
+    "NAMES": [
+      "Aerial",
+      "aerial",
+      "Aerial.",
+      "Aerial:"
+    ],
+    "DESCRIPTION": "When played, shuffle #b1 #yAir #ySignal to your Draw Pile."
   }
 ]

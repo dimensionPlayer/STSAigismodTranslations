@@ -265,7 +265,7 @@
         },
         "aigisMod:SpookyPhenomenon": {
                 "NAME": "どっきりフェノメノン",
-                "DESCRIPTIONS": ["ターン終了時に、 手札のキャラクターを #b1 枚 #y廃棄 することができる。 これを行った時、敵全体に #y脱力 #b1 を与えて #b1 減少する。", " スタックが #b0 となった時このパワーは取り除かれる。"]
+                "DESCRIPTIONS": ["ターン終了時に、 手札 #b1 枚 を #y廃棄 することができる。 これを行った時、敵全体に #y脱力 #b1 を与えて #b1 減少する。", " スタックが #b0 となった時このパワーは取り除かれる。"]
         },
         "aigisMod:ClearAndSerene": {
                 "NAME": "明鏡止水",
@@ -442,7 +442,7 @@
 
         "aigisMod:WaterPressure": {
                 "NAME": "水圧",
-                "DESCRIPTIONS": ["ターン終了時、 #gHP を #b", " 失う。 ボス以外が #b7 以上スタックしていた場合 全ての #gHP を失う。"]
+                "DESCRIPTIONS": ["ターン終了時、 #gHP を #b", " 失う。 エリートとボス以外が #b7 以上スタックしていた場合 全ての #gHP を失う。"]
         },
         "aigisMod:DrownedEnemy": {
                 "NAME": "溺れ",
@@ -539,6 +539,10 @@
         "aigisMod:CursedShadows": {
                 "NAME": "呪影",
                 "DESCRIPTIONS": ["#yアタック によるダメージを #b", " 増加する。 ターン終了時、 #b", " #yブロック を得る。"]
+        },
+        "aigisMod:KnightsOfTheRound": {
+                "NAME": "ナイツオブラウンド",
+                "DESCRIPTIONS": ["ターン開始時に、手札からカードを #b", " 枚選ぶ、 このターン中、コストを #b1 減少。"]
         },
 
 

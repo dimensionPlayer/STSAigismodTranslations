@@ -251,14 +251,14 @@
   },
   "aigisMod:MorfessaPlatinum": {
     "NAME": "Morfessa",
-    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
+    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_Shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Controls Calamities"
     ]
   },
   "aigisMod:MorfessaBlack": {
     "NAME": "Morfessa",
-    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
+    "DESCRIPTION": "Apply !aigisMod:SecondMagic! aigismod:Cursed_Shadows. NL aigismod:Cursed: Enemy loses !M! HP for each of its powers.",
     "EXTENDED_DESCRIPTION" : [
       "She Who Controls Calamities"
     ]
@@ -304,9 +304,126 @@
       ""
     ]
   },
-
-
-
+  "aigisMod:AtnatesPlatinum": {
+    "NAME": "Atnates",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL Gain [E] [E] NL You can Exhaust 1 card in draw pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Knows the Abyss"
+    ]
+  },
+  "aigisMod:AtnatesBlack": {
+    "NAME": "Atnates",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage 2 times. NL Gain [E] [E] NL You can Exhaust 1 card in draw pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Knows the Abyss"
+    ]
+  },
+  "aigisMod:LanchePlatinum": {
+    "NAME": "Lanche",
+    "DESCRIPTION": "Gain 1 Max HP for each enemy. NL Gain 1 Intangible. Target enemy loses !M! Strength. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Leads to Victory"
+    ]
+  },
+  "aigisMod:LancheBlack": {
+    "NAME": "Lanche",
+    "DESCRIPTION": "Gain 2 Max HP for each enemy. NL Gain 1 Intangible. Target enemy loses !M! Strength. NL Exhaustive: !stslib:ex!",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Leads to Victory"
+    ]
+  },
+  "aigisMod:VidyaPlatinum": {
+    "NAME": "Vidya",
+    "DESCRIPTION": "At the start of turn, reduce the cost of !M! card(s) in hand by 1 for the turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Quells the Ravages of War"
+    ]
+  },
+  "aigisMod:VidyaBlack": {
+    "NAME": "Vidya",
+    "DESCRIPTION": "Innate. NL At the start of turn, reduce the cost of !M! card(s) in hand by 1 for the turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Quells the Ravages of War"
+    ]
+  },
+  "aigisMod:XuhuaPlatinum": {
+    "NAME": "Xuhua",
+    "DESCRIPTION": "Gain X Thorns. NL Gain !M! aigismod:counter. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who is Mother to Dahua"
+    ]
+  },
+  "aigisMod:XuhuaBlack": {
+    "NAME": "Xuhua",
+    "DESCRIPTION": "Gain X+2 Thorns. NL Gain !M! aigismod:counter. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who is Mother to Dahua"
+    ]
+  },
+  "aigisMod:IvrilPlatinum": {
+    "NAME": "Ivril",
+    "DESCRIPTION": "aigismod:Deep_Sea Sea NL Deal !D! Damage. NL Apply !M! Poison. NL aigismod:Sailor 1: Shuffle 1 Deadman to draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Conquers the Great Sea"
+    ]
+  },
+  "aigisMod:IvrilBlack": {
+    "NAME": "Ivril",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage to ALL enemies. NL Apply !M! Poison to ALL enemies. NL aigismod:Sailor 1:Shuffle 1 Deadman to draw Pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Conquers the Great Sea"
+    ]
+  },
+  "aigisMod:Deadman": {
+    "NAME": "Deadman",
+    "DESCRIPTION": "Ethereal NL Gain 7 aigismod:Water_pressure. NL Draw 2 cards. NL Gain !M! Vigor. NL Exhaust."
+  },
+  "aigisMod:IldonaPlatinum": {
+    "NAME": "Ildona",
+    "DESCRIPTION": "Gain 1 Blur. NL Gain !B! Block. NL Gain !M! aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Leads the Light of Dawn"
+    ]
+  },
+  "aigisMod:IldonaBlack": {
+    "NAME": "Ildona",
+    "DESCRIPTION": "Gain 2 Blur. NL Gain !B! Block. NL Gain !M! aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "He Who Leads the Light of Dawn"
+    ]
+  },
+  "aigisMod:AlcouPlatinum": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 10% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:AlcouBlack": {
+    "NAME": "Alcou",
+    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 20% of its max HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Sits Upon the Summit"
+    ]
+  },
+  "aigisMod:DreadSymbol": {
+    "NAME": "Symbol of Dread",
+    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 2 Max HP."
+  },
+  "aigisMod:OshenPlatinum": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
+    ]
+  },
+  "aigisMod:OshenBlack": {
+    "NAME": "Oshen",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Inherits the Light"
+    ]
+  },
 
 
 
@@ -628,7 +745,7 @@
     "DESCRIPTION": "Lose 8 HP. NL Gain 1 Intangible. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "You and ALL enemies lose 8 HP. NL Gain 1 Intangible. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
-      "",
+      "Princess",
       "Lose 8 HP. NL Gain 1 Intangible. NL Exhaust."
     ]
   },
@@ -738,7 +855,7 @@
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak to ALL enemies. NL aigismod:Pair: Patel. aigismod:Assassination.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak to ALL enemies. NL aigismod:Pair: Patel and its cost 1 this turn. aigismod:Assassination.",
     "EXTENDED_DESCRIPTION" : [
-      "",
+      "Princess",
       "Deal !D! damage. NL Apply !M! Weak and Vulnerable to ALL enemies. NL aigismod:Pair: Patel and its cost 0 this turn. aigismod:Assassination."
     ]
   },
@@ -855,7 +972,7 @@
     "DESCRIPTION": "Deal !D! damage. NL Upgrade ALL other common character cards for this combat.",
     "UPGRADE_DESCRIPTION": "Innate. NL Deal !D! damage. NL Upgrade ALL other common character cards for this combat.",
     "EXTENDED_DESCRIPTION" : [
-      ""
+      "Princess"
     ]
   },
   "aigisMod:Leeanne": {
@@ -1001,7 +1118,7 @@
     "DESCRIPTION": "Gain 1 Dexterity. NL Gain !B! Block. NL ALL cards in hand duplicate their cost for the turn.",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Gain !B! Block. NL ALL cards in hand duplicate their cost for the turn.",
     "EXTENDED_DESCRIPTION" : [
-      ""
+      "Princess"
     ]
   },
   "aigisMod:Niel": {
@@ -1086,8 +1203,8 @@
 
   "aigisMod:Prim": {
     "NAME": "Prim",
-    "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL aigismod:Cooldown !M! During next use this card cost become 0.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL On first use: Shuffle 1 Prism Mirror in deck and reduce this card is cost 0.",
+    "DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL On first use: Shuffle 1 Prism Mirror in draw pile.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply aigismod:Sluggish. NL On first use: Shuffle 1 Prism Mirror in draw pile and this card's cost becomes 0.",
     "EXTENDED_DESCRIPTION" : [
       "Mirage Witch"
     ]
@@ -1166,7 +1283,7 @@
     "DESCRIPTION": "Draw !M! Eastern Country card from Draw pile and if you do gain [E].",
     "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! Eastern Country card from Draw pile and if you do gain [E].",
     "EXTENDED_DESCRIPTION" : [
-      "",
+      "Princess",
       "Draw up to !M! Eastern Country cards from Draw pile and if you draw at least 1, gain [E]."
     ]
   },
@@ -1183,7 +1300,7 @@
     "DESCRIPTION": "Deal !D! damage. aigismod:Cooldown: !M! :Deals triple damage",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. aigismod:Cooldown: !M! :Deals triple damage.",
     "EXTENDED_DESCRIPTION" : [
-      ""
+      "Princess"
     ]
   },
   "aigisMod:Melvina": {
@@ -1191,7 +1308,7 @@
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak and !M! Vulnerable. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak and !M! Vulnerable. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
-      ""
+      "Princess"
     ]
   },
   "aigisMod:Julia": {
@@ -1199,7 +1316,7 @@
     "DESCRIPTION": "Deal !D! aigismod:true_Damage.",
     "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. On first use: gain a random Relic for the combat.",
     "EXTENDED_DESCRIPTION" : [
-      ""
+      "Princess"
     ]
   },
   "aigisMod:Renge": {
@@ -1804,7 +1921,7 @@
     "DESCRIPTION": "Gain 1 Block for each Imperial card in Master Deck. NL (Gain !B! block)",
     "UPGRADE_DESCRIPTION": "Gain 1 Dexterity. NL Gain 1 Block for each Imperial card in Master Deck. NL (Gain !B! block)",
     "EXTENDED_DESCRIPTION" : [
-      "",
+      "Princess",
       "Gain 1 Block for each Imperial card in Master Deck. NL Gain 1 blur. NL (Gain !B! block)"
     ]
   },
@@ -1928,8 +2045,8 @@
   },
   "aigisMod:Keitridge": {
     "NAME": "Keitridge",
-    "DESCRIPTION": "Deal !D! damage. NL If you have no Block deal !M! more damage.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If you have no Block deal !M! more damage.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL If you have no Block deal !M! more damage.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL If you have no Block deal !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Pilot"
     ]
@@ -1937,8 +2054,8 @@
 
   "aigisMod:AirSignal": {
     "NAME": "Air Signal",
-    "DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next damage coming from yourself. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next !M! damages coming from yourself. NL Exhaust.",
+    "DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next damage coming from yourself this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Add 1 Aerial from Discard Pile to hand and reduce its cost by !M! this turn. NL Negate the next !M! damages coming from yourself this turn. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2033,7 +2150,7 @@
   "aigisMod:Lily": {
     "NAME": "Lily",
     "DESCRIPTION": "You can Play 1 Imperial or Demon card in hand. NL Gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "You can Play 1 Imperial or Demon card in hand. NL Gain !B! Block. NL Ethereal",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL You can Play 1 Imperial or Demon card in hand. NL Gain !B! Block.",
     "EXTENDED_DESCRIPTION" : [
       "Majin's Illegitimate Child"
     ]
@@ -2421,8 +2538,8 @@
   },
   "aigisMod:Keitridge2": {
     "NAME": "Keitridge",
-    "DESCRIPTION": "Gain !B! Block. NL aigismod:Cooldown: !M! Gain 1 Strength.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL aigismod:Cooldown: !M! Gain 1 Strength.",
+    "DESCRIPTION": "aigismod:Aerial NL Gain !B! Block. NL aigismod:Cooldown: !M! Gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Gain !B! Block. NL aigismod:Cooldown: !M! Gain 1 Strength.",
     "EXTENDED_DESCRIPTION" : [
       "Imperial Pilot"
     ]
@@ -2754,11 +2871,11 @@
   },
   "aigisMod:Hakunokami": {
     "NAME": "Hakunokami",
-    "DESCRIPTION": "At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks.",
-    "UPGRADE_DESCRIPTION": "Heal 8 HP. NL At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks.",
+    "DESCRIPTION": "At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks.",
+    "UPGRADE_DESCRIPTION": "Heal 8 HP. NL At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks.",
     "EXTENDED_DESCRIPTION" : [
       "Ancient Dragon",
-      "At the end of your turn, ALL enemies lose !M! Hp for each of their debuff stacks."
+      "At the end of your turn, ALL enemies lose !M! HP for each of their debuff stacks."
     ]
   },
   "aigisMod:Echidna": {
@@ -3434,6 +3551,56 @@
   "aigisMod:CursedGem": {
     "NAME": "Cursed Gem",
     "DESCRIPTION": "Lose 9 HP to exhaust this card. NL At the end of your turn, ALL enemies gain 1 Strength."
+  },
+
+  "aigisMod:Calope": {
+    "NAME": "Calope",
+    "DESCRIPTION": "Deal !D! aigismod:archer damage !M! times. NL Add 2 Wounds to your discard pile.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage !M! times. NL Add 2 Wounds to your discard pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "Animal-eared Archer"
+    ]
+  },
+  "aigisMod:Spica": {
+    "NAME": "Spica",
+    "DESCRIPTION": "If target enemy has a debuff, Archers gain 1 more damage. NL Deal !D! aigismod:archer damage",
+    "UPGRADE_DESCRIPTION": "If target enemy has a debuff, Archers gain 1 more damage. NL Deal !D! aigismod:archer damage.",
+    "EXTENDED_DESCRIPTION" : [
+      "Elf Village Archer"
+    ]
+  },
+  "aigisMod:Ashlyn": {
+    "NAME": "Ashlyn",
+    "DESCRIPTION": "Whenever you exhaust an Undead or Curse, gain 1 Strength. NL aigismod:Undead: Gain this power.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you exhaust an Undead or Curse, gain 1 Strength. NL aigismod:Undead: Gain this power.",
+    "EXTENDED_DESCRIPTION" : [
+      "Overnight Chef"
+    ]
+  },
+  "aigisMod:Cruz": {
+    "NAME": "Cruz",
+    "DESCRIPTION": "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand and discard pile.",
+    "EXTENDED_DESCRIPTION" : [
+      "Explorer of Old Castles",
+      "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand."
+    ]
+  },
+  "aigisMod:Maglica": {
+    "NAME": "Maglica",
+    "DESCRIPTION": "Gain !B! Block. NL Discard 1 card. If a Curse or Status was discarded, gain !M! Block and !M! Vigor.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Discard 1 card. If a Curse or Status was discarded, gain !M! Block and !M! Vigor.",
+    "EXTENDED_DESCRIPTION" : [
+      "Urban Chef"
+    ]
+  },
+  "aigisMod:Tyr": {
+    "NAME": "Tyr",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add !M! Golem Fragment to exhaust pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add !M! Golem Fragment to exhaust pile. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Steel-Sealing Swordswoman"
+    ]
   },
 
 
@@ -4387,7 +4554,7 @@
   "aigisMod:Blanche": {
     "NAME": "Blanche",
     "DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain 1 Strength.",
-    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain 1 Strength. NL Apply 1 Weak to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "aigismod:Beast_tamer NL When you play a Hellbeast gain 1 Strength.",
     "EXTENDED_DESCRIPTION": [
       "Beast Tamer"
     ]
@@ -4402,24 +4569,24 @@
   },
   "aigisMod:Fine": {
     "NAME": "Fine",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL Gain [E] equal to your aigismod:Water_Pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL Gain [E] equal to your aigismod:Water_Pressure.",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL If it kills an enemy, gain [E] equal to your aigismod:Water_Pressure.",
+    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! Damage. NL If it kills an enemy, gain [E] equal to your aigismod:Water_Pressure.",
     "EXTENDED_DESCRIPTION": [
       "Emerald Deep Sea Soldier"
     ]
   },
   "aigisMod:Murua": {
     "NAME": "Murua",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! + aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! + aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! or more aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
+    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! or more aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
     "EXTENDED_DESCRIPTION": [
       "Scarlet Gem's Corporal"
     ]
   },
   "aigisMod:Ritva2": {
     "NAME": "Ritva",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure.",
-    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure +1.",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure -1.",
+    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Gain [E] next turn. NL Draw cards equal to your aigismod:Water_pressure.",
     "EXTENDED_DESCRIPTION": [
       "Pink Deep Sea Soldier"
     ]
@@ -4443,7 +4610,7 @@
   },
   "aigisMod:Muiru": {
     "NAME": "Muiru",
-    "DESCRIPTION": "aigismod:Deep_Sea NL Draw !M! cards. NL Apply Weak equal to your aigismod:Water_pressure.",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Draw !M! card. NL Apply Weak equal to your aigismod:Water_pressure.",
     "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Draw !M! cards. NL Apply Weak equal to your aigismod:Water_pressure.",
     "EXTENDED_DESCRIPTION": [
       "Prudent Sea Miko"
@@ -4515,97 +4682,107 @@
   },
   "aigisMod:Lasithi": {
     "NAME": "Lasithi",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL Deal !M! damage to ALL enemies when you play Air Signal.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage to ALL enemies. NL Deal !M! damage to ALL enemies when you play Air Signal.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL Deal !M! damage to ALL enemies when you play Air Signal.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage to ALL enemies. NL Deal !M! damage to ALL enemies when you play Air Signal.",
     "EXTENDED_DESCRIPTION" : [
       "Black-Winged Elite Archer"
     ]
   },
   "aigisMod:Krehl": {
     "NAME": "Krehl",
-    "DESCRIPTION": "Discard !M! cards to gain 1 Intangible. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Discard !M! card to gain 1 Intangible. NL Exhaust.",
+    "DESCRIPTION": "aigismod:Aerial NL Discard !M! cards to gain 1 Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Discard !M! card to gain 1 Intangible. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Aviation Commander"
     ]
   },
+  "aigisMod:Krehl2": {
+    "NAME": "Krehl",
+    "DESCRIPTION": "aigismod:Aerial NL Discard !M! cards to gain 1 Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Discard !M! card to gain 1 Intangible. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Aviation Commander",
+      "aigismod:Aerial NL Discard !M! card to gain 1 Intangible. NL Exhaust. (cost-1)"
+    ]
+  },
+
   "aigisMod:Oviely": {
     "NAME": "Oviely",
-    "DESCRIPTION": "Apply 1 Weak to enemies with attack intent. NL Gain 1 Block for each Air Signal Exhausted.",
-    "UPGRADE_DESCRIPTION": "Apply 1 Weak to enemies with attack intent. NL Gain 1 Block for each Air Signal Exhausted +2.",
+    "DESCRIPTION": "aigismod:Aerial NL Apply 1 Weak to enemies with attack intent. NL Gain 1 Block for each Air Signal Exhausted.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Apply 1 Weak to enemies with attack intent. NL Gain 1 Block for each Air Signal Exhausted +2.",
     "EXTENDED_DESCRIPTION" : [
       "First Pilot"
     ]
   },
   "aigisMod:Pallios": {
     "NAME": "Pallios",
-    "DESCRIPTION": "Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
     "EXTENDED_DESCRIPTION" : [
       "White-Winged Warrior"
     ]
   },
   "aigisMod:Rhyno": {
     "NAME": "Rhyno",
-    "DESCRIPTION": "Deal !D! damage. NL Gain 1 Blur.",
-    "UPGRADE_DESCRIPTION": "Creates 1 more Air Signal. NL Deal !D! damage. NL Gain 1 Blur.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL Gain 1 Blur.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Creates 1 more Air Signal. NL Deal !D! damage. NL Gain 1 Blur.",
     "EXTENDED_DESCRIPTION" : [
       "White-Winged Warrior"
     ]
   },
   "aigisMod:Aero": {
     "NAME": "Aero",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Cooldown: !M! Deal damage three times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL aigismod:Cooldown: !M! Deal damage three times.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL aigismod:Cooldown: !M! Deal damage three times.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL aigismod:Cooldown: !M! Deal damage three times.",
     "EXTENDED_DESCRIPTION" : [
       "Sparrow-Winged Archer"
     ]
   },
   "aigisMod:Orku": {
     "NAME": "Orku",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage twice.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage twice.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage twice.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage twice.",
     "EXTENDED_DESCRIPTION" : [
       "Osprey Archer"
     ]
   },
   "aigisMod:Pheasant": {
     "NAME": "Pheasant",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage. NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage. NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL You can place 1 card in hand to the bottom of the draw pile to draw 1 card.",
     "EXTENDED_DESCRIPTION" : [
       "Black-Winged Archer"
     ]
   },
   "aigisMod:Potal": {
     "NAME": "Potal",
-    "DESCRIPTION": "Creates 1 more Air Signal. NL You can send !M! Aerial card from Draw Pile to Discard Pile.",
-    "UPGRADE_DESCRIPTION": "Creates 1 more Air Signal. NL You can send up to !M! Aerial cards from Draw Pile to Discard Pile.",
+    "DESCRIPTION": "aigismod:Aerial NL Creates 1 more Air Signal. NL You can send !M! Aerial card from Draw Pile to Discard Pile.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Creates 1 more Air Signal. NL You can send up to !M! Aerial cards from Draw Pile to Discard Pile.",
     "EXTENDED_DESCRIPTION" : [
       "Horned Owl-Winged Warrior"
     ]
   },
   "aigisMod:Lela": {
     "NAME": "Lela",
-    "DESCRIPTION": "When you play an Air Signal, gain 1 Temporal HP.",
-    "UPGRADE_DESCRIPTION": "Add 1 Air Signal to hand. NL When you play an Air Signal, gain 1 Temporal HP.",
+    "DESCRIPTION": "aigismod:Aerial NL When you play an Air Signal, gain 2 Temporal HP.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Add 1 Air Signal to hand. NL When you play an Air Signal, gain 2 Temporal HP.",
     "EXTENDED_DESCRIPTION" : [
       "Pigeon-Winged Healer"
     ]
   },
   "aigisMod:Kania": {
     "NAME": "Kania",
-    "DESCRIPTION": "When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
-    "UPGRADE_DESCRIPTION": "When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
+    "DESCRIPTION": "aigismod:Aerial NL When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable.",
     "EXTENDED_DESCRIPTION" : [
       "Hawk-Winged Healer",
-      "Add 1 Air Signal to your hand. NL When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable."
+      "aigismod:Aerial NL Add 1 Air Signal to your hand. NL When you play Air Signal, apply 1 Vulnerable to a random enemy and remove your Weak and Vulnerable."
     ]
   },
   "aigisMod:Lefka": {
     "NAME": "Lefka",
-    "DESCRIPTION": "Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
+    "DESCRIPTION": "aigismod:Aerial NL Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Gain !M! Temporal HP. NL Add 1 Air Signal to hand. NL Exhaust.",
     "EXTENDED_DESCRIPTION" : [
       "Osprey-Winged Healer"
     ]
@@ -4729,8 +4906,8 @@
   },
   "aigisMod:Sabrina": {
     "NAME": "Sabrina",
-    "DESCRIPTION": "Deal !D! damage 3 times. NL Exhaust NL aigismod:Sailor 1: Gain [E]",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage 3 times. NL aigismod:Sailor 1: Gain [E]",
+    "DESCRIPTION": "Deal !D! damage 3 times. NL Exhaust NL aigismod:Sailor 2: Gain [E]",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage 3 times. NL aigismod:Sailor 2: Gain [E]",
     "EXTENDED_DESCRIPTION" : [
       "Corsair Captain"
     ]
@@ -4805,7 +4982,7 @@
     "DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
     "UPGRADE_DESCRIPTION": "Choose 1 of !M! Aigis character cards to add to hand, it becomes cost 0. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
-      "Traveling Priestess"
+      "Temple Secretary"
     ]
   },
   "aigisMod:Patra": {
@@ -4911,7 +5088,7 @@
     "UPGRADE_DESCRIPTION": "Innate NL Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand.",
     "EXTENDED_DESCRIPTION" : [
       "Light Spirit User",
-      "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental or discard pile from draw pile to hand."
+      "Add 1 Light Elemental to hand. NL You can add 1 Light Elemental from draw pile or discard pile to hand."
     ]
   },
   "aigisMod:LightElemental": {
@@ -5030,15 +5207,15 @@
   "aigisMod:Solano2": {
     "NAME": "Solano",
     "DESCRIPTION": "Draw !M! card. NL Shuffle 1 Ifrit to draw pile. NL Exhaust",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 1 Ifrit in draw pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 1 Ifrit to draw pile. NL Exhaust",
     "EXTENDED_DESCRIPTION" : [
       "Summoner"
     ]
   },
   "aigisMod:Ifrit": {
     "NAME": "Ifrit",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaustive: !stslib:ex!",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Exhaustive: !stslib:ex!",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! aigismod:Burn. NL Exhaustive: !stslib:ex!",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL Apply !M! aigismod:Burn. NL Exhaustive: !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "Summoned"
     ]
@@ -5175,67 +5352,18 @@
   },
 
 
-  "aigisMod:Note1": {
-    "NAME": "Vincent substitute cards",
-    "DESCRIPTION": "implement these 6 cards for ver5",
-    "EXTENDED_DESCRIPTION" : [
-      "Ferocious C"
-    ]
-  },
-
-
-  "aigisMod:Calope": {
-    "NAME": "Calope",
-    "DESCRIPTION": "Deal !D! aigismod:archer damage !M! times. NL Add 2 Wounds to your discard pile.",
-    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:archer damage !M! times. NL Add 2 Wounds to your discard pile.",
-    "EXTENDED_DESCRIPTION" : [
-      "Animal-eared Archer"
-    ]
-  },
-  "aigisMod:Spica": {
-    "NAME": "Spica",
-    "DESCRIPTION": "If target enemy has a debuff, Archers gain 1 more damage. NL Deal !D! aigismod:archer damage",
-    "UPGRADE_DESCRIPTION": "If target enemy has a debuff, Archers gain 1 more damage. NL Deal !D! aigismod:archer damage.",
-    "EXTENDED_DESCRIPTION" : [
-      "Elf Village Archer"
-    ]
-  },
-  "aigisMod:Ashlyn": {
-    "NAME": "Ashlyn",
-    "DESCRIPTION": "Whenever you exhaust an Undead or Curse, gain 1 Strength. NL aigismod:Undead: Gain this power.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you exhaust an Undead or Curse, gain 1 Strength. NL aigismod:Undead: Gain this power.",
-    "EXTENDED_DESCRIPTION" : [
-      "Overnight Chef"
-    ]
-  },
-  "aigisMod:Cruz": {
-    "NAME": "Cruz",
-    "DESCRIPTION": "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand and discard pile.",
-    "EXTENDED_DESCRIPTION" : [
-      "Explorer of Old Castles",
-      "Gain !B! Block for each of your relics. NL You can exhaust 1 card from your hand."
-    ]
-  },
-  "aigisMod:Maglica": {
-    "NAME": "Maglica",
-    "DESCRIPTION": "Gain !B! Block. NL Discard 1 card. If a Curse or Status was discarded, gain !M! Block and !M! Vigor.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Discard 1 card. If a Curse or Status was discarded, gain !M! Block and !M! Vigor.",
-    "EXTENDED_DESCRIPTION" : [
-      "Urban Chef"
-    ]
-  },
-  "aigisMod:Tyr": {
-    "NAME": "Tyr",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add !M! Golem Fragment to exhaust pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add !M! Golem Fragment to exhaust pile. NL Exhaust.",
-    "EXTENDED_DESCRIPTION" : [
-      "Steel-Sealing Swordswoman"
-    ]
-  },
 
 
 
+
+  "aigisMod:Note": {
+    "NAME": "Remaining Hero cards, august update",
+    "DESCRIPTION": "implement these: Atnates, Lanche, Vidya, Xuhua, Ivril, Deadman, Ildona, Alcou, Symbol of Dread, Oshen",
+    "UPGRADE_DESCRIPTION": "They are on the top of the file",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
 
 
 
@@ -5383,13 +5511,280 @@
       ""
     ]
   },
-
-
-
-
+  "aigisMod:TsukikoTuda": {
+    "NAME": "Tsukiko Tuda",
+    "DESCRIPTION": "Gain !M! 4 aigismod:damage_aura. NL Exhaust 1 card from draw pile to gain aigismod:damage_aura and Metallicize equal to its cost. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! 6 aigismod:damage_aura. NL Exhaust 1 card from draw pile to gain aigismod:damage_aura and Metallicize equal to its cost +1. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Songstresses"
+    ]
+  },
+  "aigisMod:EthEith": {
+    "NAME": "Eth Eith",
+    "DESCRIPTION": "Apply 1 Vulnerable to ALL enemies. NL Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Apply 1 Vulnerable to ALL enemies. NL Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "EXTENDED_DESCRIPTION" : [
+      "Makaidol"
+    ]
+  },
+  "aigisMod:Krippe": {
+    "NAME": "Krippe",
+    "DESCRIPTION": "Defend cards gain 3 Block. NL The next 3 times you play Strike or Defend, heal 2 HP.",
+    "UPGRADE_DESCRIPTION": "Defend cards gain 5 Block. NL The next 3 times you play Strike or Defend, heal 3 HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Holy Shield Knight",
+      "Defend cards gain 3 Block. NL The next 4 times you play Strike or Defend, heal 4 HP."
+    ]
+  },
+  "aigisMod:Orphie": {
+    "NAME": "Orphie",
+    "DESCRIPTION": "Exhaust 1 card in hand. NL Deal 10 damage. NL Apply 1 Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Exhaust 1 card in hand. NL Deal 15 damage. NL Apply 1 Vulnerable.",
+    "EXTENDED_DESCRIPTION" : [
+      "Underworld Miko",
+      "Exhaust 1 card in hand. NL Deal 11 damage. NL Apply 3 Vulnerable."
+    ]
+  },
+  "aigisMod:Labrys": {
+    "NAME": "Labrys",
+    "DESCRIPTION": "Gain 3 Thorns. NL Shuffle X Labrys Illusion to draw pile. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Gain 5 Thorns. NL Shuffle X Labrys Illusion to draw pile. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "Demigod of Order",
+      "Gain 3 Thorns. NL Shuffle X+1 Labrys Illusion to draw pile. NL Exhaust"
+    ]
+  },
+  "aigisMod:LabrysIllusion": {
+    "NAME": "Labrys",
+    "DESCRIPTION": "Retain NL Gain 10 Block. NL Gain 10 aigismod:counter.",
+    "UPGRADE_DESCRIPTION": "Retain NL Gain 14 Block. NL Gain 14 aigismod:counter.",
+    "EXTENDED_DESCRIPTION" : [
+      "Illusion"
+    ]
+  },
+  "aigisMod:Kindreich": {
+    "NAME": "Kindreich",
+    "DESCRIPTION": "Deal 5 !D! damage. NL You can exhaust 1 character card in draw pile. Exhaustive:2.",
+    "UPGRADE_DESCRIPTION": "Deal 5 !D! damage. NL You can exhaust 1 character card in draw pile. Exhaustive:3.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Hunting Dog"
+    ]
+  },
+  "aigisMod:Ritue": {
+    "NAME": "Ritue",
+    "DESCRIPTION": "Deal 10 !D! damage. NL You can exhaust 1 card in discard pile. NL Increase this card cost by 1.",
+    "UPGRADE_DESCRIPTION": "Deal 10 !D! damage. NL You can exhaust 1 card in discard pile. NL Increase this card cost by 1.",
+    "EXTENDED_DESCRIPTION" : [
+      "Underworld Patrolling Knight"
+    ]
+  },
+  "aigisMod:Judithe": {
+    "NAME": "Judithe",
+    "DESCRIPTION": "Heal 2 HP. NL You can add 1 Imperial card from discard pile to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Heal 2 HP. NL You can add 1 Imperial card from discard pile to your hand. NL Exhaustive:2.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Medical Officer"
+    ]
+  },
 
 
   "aigisMod:Note3": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "Nimue3 is rework",
+    "EXTENDED_DESCRIPTION" : [
+      "Ferocious C"
+    ]
+  },
+  "aigisMod:Yoyuki2": {
+    "NAME": "Yoyuki",
+    "DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Yagyou-san's Current Leader",
+      "The next time you play a card with an original cost of 4, refill your energy. NL Add 2 Yagyou Warashi to discard pile. NL Exhaust."
+    ]
+  },
+  "aigisMod:YagyouWarashiA": {
+    "NAME": "Yagyou Warashi",
+    "DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Gain !B! Block. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Gain !B! Block. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:YagyouWarashiB": {
+    "NAME": "Yagyou Warashi",
+    "DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Gain !B! Block. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "The next time you play a card with an original cost of 4, refill your energy. NL Gain !B! Block. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:Ethnea2": {
+    "NAME": "Ethnea",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength.",
+    "EXTENDED_DESCRIPTION" : [
+      "Black-Winged Demon Soldier",
+      "Deal !D! aigismod:true_damage. When Exhausted: Increase this card damage by !M! and gain 1 Strength."
+    ]
+  },
+  "aigisMod:Harmonia2": {
+    "NAME": "Harmonia",
+    "DESCRIPTION": "Deal !D! damage. NL If you have a demon in Exhaust Pile this card reduces 1 cost.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL If you have a demon in Exhaust Pile this card reduces 1 cost.",
+    "EXTENDED_DESCRIPTION" : [
+      "Demon General of Arbitration",
+      "Deal !D! damage. NL If you have a demon in Exhaust Pile this card reduces 1 cost."
+    ]
+  },
+  "aigisMod:Hecatie2": {
+    "NAME": "Hecatie",
+    "DESCRIPTION": "Ethereal. NL At the start of your turn you can add 1 Imperial character from Discard Pile to hand.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL At the start of your turn you can add 1 Imperial character from Discard Pile to hand.",
+    "EXTENDED_DESCRIPTION" : [
+      "Underworld Magician",
+      "Retain. NL At the start of your turn you can add 1 Imperial character from Discard Pile to hand."
+    ]
+  },
+  "aigisMod:Marleen2": {
+    "NAME": "Marleen",
+    "DESCRIPTION": "When you play Barricade deal !M! damage to a random enemy. NL Add 1 Barricade to hand.",
+    "UPGRADE_DESCRIPTION": "When you play Barricade deal !M! damage to a random enemy. NL Add 1 Barricade to hand.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Engineer",
+      "When you play Barricade deal !M! damage to a random enemy. NL Add 1 Barricade+ to hand."
+    ]
+  },
+  "aigisMod:ShengPu2": {
+    "NAME": "Jin-Guang Sheng-Pu",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL aigismod:Cursed: add 1 Sheng-Pu Clone to draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL aigismod:Cursed: add 1 Sheng-Pu Clone to draw pile. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      "",
+      "Deal !D! damage to ALL enemies. NL aigismod:Cursed: add 1 Sheng-Pu Clone+ to draw pile. NL Exhaust."
+    ]
+  },
+  "aigisMod:Nimue2": {
+    "NAME": "Nimue",
+    "DESCRIPTION": "At the end of your turn, you can exhaust 1 card in hand to apply 1 Weak to ALL enemies. Has !M! uses. aigismod:Undead: Gain this power.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, you can exhaust 1 card in hand to apply 1 Weak to ALL enemies. Has !M! uses. aigismod:Undead: Gain this power.",
+    "EXTENDED_DESCRIPTION" : [
+      "Lonely Guardian of the Labyrinth",
+      "At the end of your turn, you can exhaust 1 card in hand to apply 1 Weak to ALL enemies. Has !M! uses. aigismod:Undead: Gain this power."
+    ]
+  },
+  "aigisMod:Nimue3": {
+    "NAME": "Nimue",
+    "DESCRIPTION": "At the start of your next 3 (M) turns, add 1 Ghost to hand. aigismod:Undead: Gain this power.",
+    "UPGRADE_DESCRIPTION": "cost0 At the start of your next 3 (M) turns, add 1 Ghost to hand. aigismod:Undead: Gain this power.",
+    "EXTENDED_DESCRIPTION" : [
+      "Lonely Guardian of the Labyrinth",
+      "At the start of your next 5 (M) turns, add 1 Ghost to hand. aigismod:Undead: Gain this power."
+    ]
+  },
+  "aigisMod:Ghost": {
+    "NAME": "Ghost",
+    "DESCRIPTION": "You can exhaust 1 card in your hand. NL Exhaust NL aigismod:Undead: Apply 1 weak to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "You can exhaust up to 2 cards in your hand. NL Exhaust NL aigismod:Undead: Apply 1 weak to ALL enemies.",
+    "EXTENDED_DESCRIPTION" : [
+    ]
+  },
+  "aigisMod:Tsugumi2": {
+    "NAME": "Tsugumi",
+    "DESCRIPTION": "Exhaust 1 Curse or Status in hand, if you do, add 1 card from Discard Pile to hand.",
+    "UPGRADE_DESCRIPTION": "Exhaust 1 Curse or Status in hand, if you do, add 1 card from Discard Pile to hand.",
+    "EXTENDED_DESCRIPTION" : [
+      "Nocturnal Bird",
+      "Retain. NL Exhaust 1 Curse or Status in hand, if you do, add 1 card from Discard Pile to hand."
+    ]
+  },
+  "aigisMod:Alta2": {
+    "NAME": "Alta",
+    "DESCRIPTION": "Ethereal. NL Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Automatic Doll of Roses",
+      "Target enemy takes !M! damage when any Block is gained. NL Increase this debuff by !aigisMod:SecondMagic! permanently. NL Exhaust."
+    ]
+  },
+  "aigisMod:Meshina2": {
+    "NAME": "Meshina",
+    "DESCRIPTION": "aigismod:Deep_Sea NL When you gain aigismod:Water_pressure gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Innate. NL aigismod:Deep_Sea NL When you gain aigismod:Water_pressure gain 1 Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "Demigod of Whirling Tides",
+      "aigismod:Deep_Sea NL When you gain aigismod:Water_pressure gain 1 Strength."
+    ]
+  },
+  "aigisMod:Murua2": {
+    "NAME": "Murua",
+    "DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! or more aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
+    "UPGRADE_DESCRIPTION": "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! or more aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat.",
+    "EXTENDED_DESCRIPTION": [
+      "Scarlet Gem's Corporal",
+      "aigismod:Deep_Sea NL Deal !D! damage 3 times. NL If you have !M! or more aigismod:Water_pressure, reduce the cost of cards in hand by 1 for the combat."
+    ]
+  },
+  "aigisMod:Otohime2": {
+    "NAME": "Otohime",
+    "DESCRIPTION": "aigismod:Deep_Sea NL You take no damage from aigismod:Water_pressure. NL When you gain aigismod:Water_pressure apply 1 Weak to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Innate. NL aigismod:Deep_Sea NL You take no damage from aigismod:Water_pressure. NL When you gain aigismod:Water_pressure apply 1 Weak to ALL enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "Great Sea God's Daughter",
+      "aigismod:Deep_Sea NL You take no damage from aigismod:Water_pressure. NL When you gain aigismod:Water_pressure apply 1 Weak to ALL enemies."
+    ]
+  },
+  "aigisMod:Pallios2": {
+    "NAME": "Pallios",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! damage. NL Against bosses and elites deal !M! more damage.",
+    "EXTENDED_DESCRIPTION" : [
+      "White-Winged Warrior",
+      "aigismod:Aerial NL Deal !D! damage. NL Against bosses and elites deal !M! more damage."
+    ]
+  },
+  "aigisMod:AigisShrine": {
+    "NAME": "Aigis Shrine",
+    "DESCRIPTION": "Add 1 Aigis Statue to hand. NL It becomes cost 0.",
+    "UPGRADE_DESCRIPTION": "Add 1 Aigis Statue to hand. NL All Aigis Statue in hand become cost 0.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:Arlette2": {
+    "NAME": "Arlette",
+    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it.",
+    "UPGRADE_DESCRIPTION": "Innate NL Whenever a card is created during combat, Upgrade it.",
+    "EXTENDED_DESCRIPTION" : [
+      "Super Ancient Inventor",
+      "Whenever a card is created during combat, Upgrade it."
+    ]
+  },
+  "aigisMod:Augusta2": {
+    "NAME": "Augusta",
+    "DESCRIPTION": "At the start of your turn, gain !M! Strength and Dexterity.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain !M! Strength and 1 Dexterity.",
+    "EXTENDED_DESCRIPTION" : [
+      "Heavenly Chef",
+      "At the start of your turn, gain !M! Strength and 1 Dexterity."
+    ]
+  },
+  "aigisMod:Tatsumi2": {
+    "NAME": "Tatsumi",
+    "DESCRIPTION": "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
+    "UPGRADE_DESCRIPTION": "Innate NL Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur.",
+    "EXTENDED_DESCRIPTION": [
+      "Shadow Flame Miko",
+      "Gain 1 Blur when a card is exhausted. NL At the end of turn deal !M! damage to a random enemy if you have Blur."
+    ]
+  },
+
+
+
+
+  "aigisMod:Note4": {
     "NAME": "some ideas and names",
     "DESCRIPTION": "do not implement the cards below",
     "UPGRADE_DESCRIPTION": "",

@@ -12,8 +12,10 @@
       "[Fight] #gUpgrade #gan #gUncommon #gHero #gCard #gto #gRare.",
       "[Leave]",
       "Choose a Hero card to add to your deck.",
-      "[Recruit] #gGain #ga #grare #gHero #gCard.",
-      "[LOCKED] You don't have a Hero card to upgrade to rare."
+      "[Recruit] #gGain #ga #gRare #gHero #gCard.",
+      "[LOCKED] You don't have a Hero card to upgrade to Rare.",
+      "[Recruit and Fight] Use the #yHero #yCrystal relic before fighting.",
+      "[LOCKED] You can't use or don't have the Hero Crystal relic."
     ]
   },
 

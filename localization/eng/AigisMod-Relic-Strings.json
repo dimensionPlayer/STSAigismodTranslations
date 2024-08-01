@@ -524,7 +524,7 @@
     "FLAVOR": "Ritva: There are many strong warriors in the deep sea. I must learn from them...!",
     "DESCRIPTIONS": [
       "At the start of the combat, apply #b1 #yWater #yPressure to ALL #yenemies.",
-      "Whenever you play #yDeep #bSea, deal #y3 #ydamage to a #yrandom #yenemy."
+      "Whenever you play #yDeep #bSea, deal #b3 #ydamage to a #yrandom #yenemy."
     ]
   },
   "aigisMod:FiringCommand": {
@@ -539,7 +539,7 @@
     "FLAVOR": "Nicole: First of all, let's convert this place into an atelier. Assistant, can you bring my luggage?",
     "DESCRIPTIONS": [
       "#yCancel any #yDamage coming from yourself during the #yfirst #b2 #yturns of each combat. ",
-      "Gain #y1 #yPotion #ySlot."
+      "Gain #b1 #yPotion #ySlot."
     ]
   },
   "aigisMod:AigisStatue": {
@@ -582,8 +582,6 @@
       "Receive an extra #ycard #yreward on normal and elite combats, which contains up to #b3 cards from the other #yAigis characters."
     ]
   },
-
-
   "aigisMod:AigisShrineMiracle": {
     "NAME": "Aigis Shrine",
     "FLAVOR": "The people built a large, solitary shrine for their hero, a shrine to deify the goddess Aigis.",
