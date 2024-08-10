@@ -143,7 +143,7 @@
       "Corpse_marionette",
       "corpse_marionette"
     ],
-    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数。回合开始时，如果 #y层数 为#b0 ，眩晕所有敌人并移除此效果。"
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数。回合开始时，如果 #y层数 为 #b0 ，眩晕所有敌人并移除此效果。"
   },
   {
     "PROPER_NAME": "被伏击的商队",
@@ -166,7 +166,7 @@
       "Assassination",
       "assassination"
     ],
-    "DESCRIPTION": " 用此卡 #y打败 敌人时, 将其返回 #y手牌 ，本回合其耗能变为 #b0 。"
+    "DESCRIPTION": " 用此牌 #y打败 敌人时, 将其返回 #y手牌 ，本回合其耗能变为 #b0 。"
   },
   {
     "NAMES": [
@@ -240,7 +240,7 @@
       "Ninjutsu",
       "ninjutsu"
     ],
-    "DESCRIPTION": "每回合开始时获得 #b1 张 #y手里剑 。每打出一次额外的 #y忍术提升 #y手里剑 的攻击次数 #b1 次。"
+    "DESCRIPTION": "每回合开始时获得 #b1 张 #y手里剑 。每打出一次额外的 #y忍术 提升 #y手里剑 的攻击次数 #b1 次。"
   },
   {
     "NAMES": [
@@ -285,7 +285,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y主牌堆 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
+    "DESCRIPTION": "你的 #y牌组 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
   },
   {
     "NAMES": [
@@ -335,7 +335,7 @@
       "Dark_fighter",
       "dark_fighter"
     ],
-    "DESCRIPTION": "当你获得时 #y格挡时，你 #y手牌 中的此卡本回合耗能减少 #b1 点。"
+    "DESCRIPTION": "当你获得时 #y格挡 时，你 #y手牌 中的此牌本回合耗能减少 #b1 点。"
   },
   {
     "PROPER_NAME": "生命连接",
@@ -398,7 +398,7 @@
       "Deep_sea",
       "deep_sea"
     ],
-    "DESCRIPTION": "当你抽到此卡时+, 将 #b1 张 #y深海 加入手牌。"
+    "DESCRIPTION": "当你抽到此卡时, 将 #b1 张 #y深海 加入手牌。"
   },
   {
     "PROPER_NAME": "水压",
@@ -411,10 +411,10 @@
     "DESCRIPTION": "在角色回合开始时，失去 #yHP 。 如果到达 #b7 层, 则改为失去所有 #yHP 。"
   },
   {
-    "PROPER_NAME": "水兵",
+    "PROPER_NAME": "海员",
     "NAMES": [
-      "水兵",
-      "水兵",
+      "海员",
+      "海员",
       "Sailor.",
       "Sailor:"
     ],

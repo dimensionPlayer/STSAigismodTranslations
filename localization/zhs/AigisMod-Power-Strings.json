@@ -542,8 +542,8 @@
                 "DESCRIPTIONS": ["额外受到 #b", " 点来自 #y攻击牌 的伤害。 在回合结束时，获得 #b", " 点 #y格挡 。"]
         },
         "aigisMod:KnightsOfTheRound": {
-                "NAME": "Knights of the Round",
-                "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
+                "NAME": "圆桌骑士",
+                "DESCRIPTIONS": ["回合开始时，选择 #b", " 张手牌，本回合减少其耗能1点。"]
         },
 
 
