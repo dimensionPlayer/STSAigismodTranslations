@@ -408,7 +408,7 @@
   },
   "aigisMod:DreadSymbol": {
     "NAME": "Symbol of Dread",
-    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 2 Max HP."
+    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 1 Max HP."
   },
   "aigisMod:OshenPlatinum": {
     "NAME": "Oshen",

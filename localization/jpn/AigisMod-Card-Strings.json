@@ -320,14 +320,14 @@
   },
   "aigisMod:LanchePlatinum": {
     "NAME": "ランシェ",
-    "DESCRIPTION": "最大HP を 敵の数だけ 増加する。 NL 無形 1 を得る。 筋力 !M! を失わせる。 NL 廃棄",
+    "DESCRIPTION": "最大HPを敵の数だけ増加する。 NL 無形 1 を得る。 NL 対象の敵の 筋力 を !M! 減らす。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "勝利へ導く者"
     ]
   },
   "aigisMod:LancheBlack": {
     "NAME": "ランシェ",
-    "DESCRIPTION": "最大HP を 敵の数ｘ 2 だけ増加する。 NL 無形 1 を得る。 筋力 !M! を失わせる。 NL aigismod:残り回数 : !stslib:ex!",
+    "DESCRIPTION": "最大HPを敵の数ｘ2だけ増加する。 NL 無形 1 を得る。 NL 対象の敵の 筋力 を !M! 減らす。 NL aigismod:残り回数 : !stslib:ex!",
     "EXTENDED_DESCRIPTION" : [
       "勝利へ導く者"
     ]
@@ -341,7 +341,7 @@
   },
   "aigisMod:VidyaBlack": {
     "NAME": "ヴィディア",
-    "DESCRIPTION": "天賦 NL ターン開始時に手札のカードのコストをこのターンの間 1 下げる。",
+    "DESCRIPTION": "天賦 NL ターン開始時に手札のカードのコスト !M! 枚をこのターンの間 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "戦禍を断つ者"
     ]
@@ -369,14 +369,14 @@
   },
   "aigisMod:IvrilBlack": {
     "NAME": "イヴリール",
-    "DESCRIPTION": "aigismod:深海兵 NL 敵全体に !D! ダメージを与える。 NL 毒 !M! を与える。 NL aigismod:水兵 1: デッドマン号 1 枚 を山札に加える。",
+    "DESCRIPTION": "aigismod:深海兵 NL 敵全体に !D! ダメージを与える。 NL 敵全体に 毒 !M! を与える。 NL aigismod:水兵 1: デッドマン号 1 枚 を山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "大海を征く者"
     ]
   },
   "aigisMod:Deadman": {
     "NAME": "デッドマン号",
-    "DESCRIPTION": "エセリアル NL aigismod:水圧 7 を得る。 NL カードを 2 枚引く。 NL 気力 !M! を得る。 NL 廃棄"
+    "DESCRIPTION": "エセリアル NL aigismod:水圧 7 を得る。 NL カードを 2 枚引く。 NL 活力 !M! を得る。 NL 廃棄"
   },
   "aigisMod:IldonaPlatinum": {
     "NAME": "イルドナ",
@@ -393,35 +393,35 @@
     ]
   },
   "aigisMod:AlcouPlatinum": {
-    "NAME": "Alcou",
-    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 10% of its max HP.",
+    "NAME": "アルコゥ",
+    "DESCRIPTION": "畏怖の象徴 2 枚を捨て札に加える。 NL 脱力 !M! と 弱体 !M! を与える。 NL 敵 の 最大HPの 10 % を失わせる。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Sits Upon the Summit"
+      "頂に座す者"
     ]
   },
   "aigisMod:AlcouBlack": {
-    "NAME": "Alcou",
-    "DESCRIPTION": "Add 2 Symbol of Dread to discard pile. NL Apply !M! Vulnerable and !M! Weak. NL Enemy loses 20% of its max HP.",
+    "NAME": "アルコゥ",
+    "DESCRIPTION": "畏怖の象徴 2 枚を捨て札に加える。 NL 脱力 !M! と 弱体 !M! を与える。 NL 敵 の 最大HPの 20 % を失わせる。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Sits Upon the Summit"
+      "頂に座す者"
     ]
   },
   "aigisMod:DreadSymbol": {
-    "NAME": "Symbol of Dread",
-    "DESCRIPTION": "Take 5 fixed damage. NL If this card is in your hand at the end of your turn, lose 2 Max HP."
+    "NAME": "畏怖の象徴",
+    "DESCRIPTION": "5 固定のダメージを受ける。 NL このカードが手札にある状態でターンを終了した時は 最大HP が 1 減少する。"
   },
   "aigisMod:OshenPlatinum": {
-    "NAME": "Oshen",
-    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "NAME": "オーシェン",
+    "DESCRIPTION": "aigismod:ライフリンク !M! を与える。 NL 敵全体に !D! aigismod:貫通 ダメージを与える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Inherits the Light"
+      "光を継ぐ者"
     ]
   },
   "aigisMod:OshenBlack": {
-    "NAME": "Oshen",
-    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL Deal !D! aigismod:true_damage to ALL enemies. NL Gain !B! Block.",
+    "NAME": "オーシェン",
+    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL 敵全体に !D! aigismod:貫通 ダメージを与える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
-      "She Who Inherits the Light"
+      "光を継ぐ者"
     ]
   },
 
@@ -5205,8 +5205,8 @@
   },
   "aigisMod:Undine": {
     "NAME": "ウンディーネ",
-    "DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
+    "DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる。 NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "aigismod:水圧 を持つ 敵 の 最大HPの !M! % を失わせる。 NL aigismod:水圧 1 を全員に与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "召喚獣"
     ]

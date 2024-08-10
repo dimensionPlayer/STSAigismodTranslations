@@ -408,7 +408,7 @@
   },
   "aigisMod:DreadSymbol": {
     "NAME": "畏怖的象征",
-    "DESCRIPTION": "受到5 点固定伤害。 NL 在你的回合结束时，如果此牌仍在手牌中，失去2点最大生命。"
+    "DESCRIPTION": "受到5 点固定伤害。 NL 在你的回合结束时，如果此牌仍在手牌中，失去1点最大生命。"
   },
   "aigisMod:OshenPlatinum": {
     "NAME": "奥辛",
@@ -1565,7 +1565,7 @@
   "aigisMod:Sagiri": {
     "NAME": "狭雾",
     "DESCRIPTION": "造成 !D! 点伤害两次。 NL aigismod:搭档 ： 霞/志乃。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次。  NL aigismod:搭档 ： 霞/志乃。 他们的耗能本回合变为 0  。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次。 NL aigismod:搭档 ： 霞/志乃。 他们的耗能本回合变为 0 。",
     "EXTENDED_DESCRIPTION": [
       "滑头鬼的女儿"
     ]
@@ -2646,8 +2646,8 @@
   },
   "aigisMod:Golem": {
     "NAME": "魔像部件",
-    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL  消耗 。",
-    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL  消耗 。",
+    "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 共计消耗4 魔像部件 时, 对随机敌人造成 !D! 点伤害。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
