@@ -334,14 +334,14 @@
   },
   "aigisMod:VidyaPlatinum": {
     "NAME": "ヴィディア",
-    "DESCRIPTION": "ターン開始時に手札のカードのコスト !M! 枚をこのターンの間 1 下げる。",
+    "DESCRIPTION": "ターン開始時に手札 !M! 枚を選び 、このターンの間コストを 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "戦禍を断つ者"
     ]
   },
   "aigisMod:VidyaBlack": {
     "NAME": "ヴィディア",
-    "DESCRIPTION": "天賦 NL ターン開始時に手札のカードのコスト !M! 枚をこのターンの間 1 下げる。",
+    "DESCRIPTION": "天賦 NL ターン開始時に手札 !M! 枚を選び 、このターンの間コストを 1 下げる。",
     "EXTENDED_DESCRIPTION" : [
       "戦禍を断つ者"
     ]
@@ -419,7 +419,7 @@
   },
   "aigisMod:OshenBlack": {
     "NAME": "オーシェン",
-    "DESCRIPTION": "Apply !M! aigismod:lifelink. NL 敵全体に !D! aigismod:貫通 ダメージを与える。 NL !B! ブロック を得る。",
+    "DESCRIPTION": "aigismod:ライフリンク !M! を与える。 NL 敵全体に !D! aigismod:貫通 ダメージを与える。 NL !B! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "光を継ぐ者"
     ]
@@ -2101,8 +2101,8 @@
 
   "aigisMod:AirSignal": {
     "NAME": "エアーシグナル",
-    "DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを無効化する。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚 を このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを 2回 無効化する。 NL 廃棄",
+    "DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚選び、 このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを無効化する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "保留 NL 捨て札 の 飛行隊 カード を 1枚選び、 このターンの間コストを !M! 減らして手札に加える。 NL このターン、次に受ける自傷ダメージを 2回 無効化する。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]

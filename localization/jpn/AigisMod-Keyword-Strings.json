@@ -7,7 +7,7 @@
       "Skill_charge",
       "skill_charge"
     ],
-    "DESCRIPTION": "#y保留 の効果を持つ。保留した時、以下の効果を持つ。"
+    "DESCRIPTION": "#y保留 の効果を持つ。保留した時、以下の効果を発動する。"
   },
   {
     "PROPER_NAME": "帝国騎士",
@@ -48,7 +48,7 @@
       "Bloom_petal",
       "bloom_petal"
     ],
-    "DESCRIPTION": "パワーを得た2ターン後に敵全体にダメージと #b2 #y脱力 と #b2 #y弱体 を与え、その後このパワーは取り除かれる。"
+    "DESCRIPTION": "パワーを得た2ターン後に敵全体にダメージと #y脱力 #b2 と #y弱体 #b2 を与え、その後このパワーは取り除かれる。"
   },
   {
     "PROPER_NAME": "呪われた儀式",
@@ -102,7 +102,7 @@
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "敵が #y攻撃 したとき、その敵は #y筋力 を #b1 失う。 #y 退魔の霊符 は、あなたのターン開始時に #b1 減少する。"
+    "DESCRIPTION": "敵が #y攻撃 したとき、その敵は #y筋力 を #b1 失う。 あなたのターン開始時に #b1 減少する。"
   },
   {
     "PROPER_NAME": "操屍人",
@@ -124,7 +124,7 @@
       "Ambushed_caravan",
       "ambushed_caravan"
     ],
-    "DESCRIPTION": " #y呪い 。 使用不可 。 保留 。デッキから除くことができない。 #y防御できなかった ダメージ を受けたとき、 #b8 #yゴールドを失う"
+    "DESCRIPTION": " #r呪い 。 使用不可 。 保留 。デッキから除くことができない。 #y防御できなかった ダメージ を受けたとき、 #b8 #yゴールドを失う"
   },
   {
     "PROPER_NAME": "暗殺",
@@ -173,7 +173,7 @@
       "Cooldown",
       "cooldown"
     ],
-    "DESCRIPTION": "このカードをプレイするたび、 #b1 減少する。値が #b0 の時、このカードをプレイした時に追加の効果が発動して値は初期値に戻る。"
+    "DESCRIPTION": "このカードをプレイするたび、 #b1 減少する。値が #b0 でこのカードをプレイした時、以下の効果が発動して値は初期値に戻る。"
   },
   {
     "PROPER_NAME": "ペア",
@@ -243,7 +243,7 @@
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": " #yデッキ にある #b呪い の枚数分、以下の効果を発動する。"
+    "DESCRIPTION": " #yデッキ にある #r呪い の枚数分、以下の効果を発動する。"
   },
   {
     "PROPER_NAME": "撃破",
@@ -392,7 +392,7 @@
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "ターン開始時に #gHP を失う。スタックが #b7 つ以上の場合、 全ての #gHP を失う(エリートとボスは除く)。"
+    "DESCRIPTION": "ターン終了時に #gHP を失う。スタックが #b7 つ以上の場合、 全ての #gHP を失う(エリートとボスは除く)。"
   },
   {
     "PROPER_NAME": "水兵",
