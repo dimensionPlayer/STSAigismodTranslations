@@ -4359,6 +4359,15 @@
       "名刀付丧神"
     ]
   },
+  "aigisMod:Fujimurasaki2": {
+    "NAME": "藤紫",
+    "DESCRIPTION": "获得 !M! 层 荆棘 。 NL 本回合每打出一张牌获得 1 层 残影 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 荆棘 。 NL 本回合每打出一张牌获得 1 层 残影 。 NL 消耗 。",
+    "EXTENDED_DESCRIPTION": [
+      "名刀付丧神",
+      "获得 !M! 层 荆棘 。 NL 本回合每打出一张牌获得 1 层 残影 。 NL 消耗 。"
+    ]
+  },
   "aigisMod:Rinne2": {
     "NAME": "轮回",
     "DESCRIPTION": "获得 X 层 残影 。 NL 获得 X 层 金属化 。 NL 将 1 张 避祸预知的镜影 加入到手牌。",
@@ -4681,6 +4690,15 @@
     "UPGRADE_DESCRIPTION": "aigismod:空域 NL 队所有敌人造成 !D! 点 aigismod:弓箭手 伤害。 NL 当你打出空中标记时，对所有敌人造成 !M! 点伤害。",
     "EXTENDED_DESCRIPTION" : [
       "黑翼的精锐射手"
+    ]
+  },
+  "aigisMod:Lasithi2": {
+    "NAME": "拉什蒂",
+    "DESCRIPTION": "aigismod:空域 NL 造成 !D! 点 aigismod:弓箭手 伤害。 NL 当你打出空中标记时，对所有敌人造成 !M! 点伤害。",
+    "UPGRADE_DESCRIPTION": "aigismod:空域 NL 造成 !D! 点 aigismod:弓箭手 伤害。 NL 当你打出空中标记时，对所有敌人造成 !M! 点伤害。",
+    "EXTENDED_DESCRIPTION" : [
+      "黑翼的精锐射手",
+      "aigismod:空域 NL 队所有敌人造成 !D! 点 aigismod:弓箭手 伤害。 NL 当你打出空中标记时，对所有敌人造成 !M! 点伤害。"
     ]
   },
   "aigisMod:AirSignal": {

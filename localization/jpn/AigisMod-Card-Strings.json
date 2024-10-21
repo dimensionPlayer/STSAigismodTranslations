@@ -4417,6 +4417,15 @@
       "名刀付喪神"
     ]
   },
+  "aigisMod:Fujimurasaki2": {
+    "NAME": "フジムラサキ",
+    "DESCRIPTION": "トゲ !M! を得る。 NL このターンプレイしたカードの枚数だけブラー 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "トゲ !M! を得る。 NL このターンプレイしたカードの枚数だけブラー 1 を得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "名刀付喪神",
+      "トゲ !M! を得る。 NL このターンプレイしたカードの枚数だけブラー 1 を得る。 NL 廃棄"
+    ]
+  },
   "aigisMod:Rinne2": {
     "NAME": "リンネ",
     "DESCRIPTION": "ブラー X を得る。 NL 金属化 X を得る。 NL 避禍予見の鏡影を1枚手札に加える。",
@@ -4736,6 +4745,15 @@
     "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL 敵全体に !D! aigismod:弓 ダメージを与える。 NL エアーシグナルをプレイした時、 敵全体に !M! ダメージを与える。",
     "EXTENDED_DESCRIPTION" : [
       "黒翼の精鋭射手"
+    ]
+  },
+  "aigisMod:Lasithi2": {
+    "NAME": "ラシティ",
+    "DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL エアーシグナル をプレイした時、 敵全体に !M! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL !D! aigismod:弓 ダメージを与える NL エアーシグナル をプレイした時、 敵全体に !M! ダメージを与える。",
+    "EXTENDED_DESCRIPTION" : [
+      "黒翼の精鋭射手",
+      "aigismod:飛行隊 NL 敵全体に !D! aigismod:弓 ダメージを与える。 NL エアーシグナルをプレイした時、 敵全体に !M! ダメージを与える。"
     ]
   },
   "aigisMod:Krehl": {

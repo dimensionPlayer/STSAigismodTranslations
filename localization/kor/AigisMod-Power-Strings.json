@@ -544,7 +544,7 @@
         },
         "aigisMod:KnightsOfTheRound": {
                 "NAME": "Knights of the Round",
-                "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
+                "DESCRIPTIONS": ["턴 시작시 손패의 카드를 #b", " 장 코스트를 #b1 감소시킵니다."]
         },
 
 

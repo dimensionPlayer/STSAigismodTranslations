@@ -1699,7 +1699,7 @@
   },
   "aigisMod:Lapis": {
     "NAME": "Lapis",
-    "DESCRIPTION": "Gain !aigisMod:SecondMagic! Strength and !aigisMod:SecondMagic! Dexterity. NL Gain !M! aigismod:Damage_aura",
+    "DESCRIPTION": "Gain !aigisMod:SecondMagic! Strength and !aigisMod:SecondMagic! Dexterity. NL Gain !M! aigismod:Damage_aura.",
     "UPGRADE_DESCRIPTION": "Gain !aigisMod:SecondMagic! Strength and !aigisMod:SecondMagic! Dexterity. NL Gain !M! aigismod:Damage_aura.",
     "EXTENDED_DESCRIPTION" : [
       "Great Demon Summoner",
@@ -4368,6 +4368,15 @@
       "Famous Sword Tsukumogami"
     ]
   },
+  "aigisMod:Fujimurasaki2": {
+    "NAME": "Fujimurasaki",
+    "DESCRIPTION": "Gain !M! Thorns. NL Gain 1 Blur for each card played this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Thorns. NL Gain 1 Blur for each card played this turn. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Famous Sword Tsukumogami",
+      "Gain !M! Thorns. NL Gain 1 Blur for each card played this turn. NL Exhaust."
+    ]
+  },
   "aigisMod:Rinne2": {
     "NAME": "Rinne",
     "DESCRIPTION": "Gain X Blur. NL Gain X Metalicize. NL Add 1 Calamity Averting Mirage to your hand.",
@@ -4686,6 +4695,15 @@
     "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage to ALL enemies. NL Deal !M! damage to ALL enemies when you play Air Signal.",
     "EXTENDED_DESCRIPTION" : [
       "Black-Winged Elite Archer"
+    ]
+  },
+  "aigisMod:Lasithi2": {
+    "NAME": "Lasithi",
+    "DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL Deal !M! damage to ALL enemies when you play Air Signal.",
+    "UPGRADE_DESCRIPTION": "aigismod:Aerial NL Deal !D! aigismod:archer damage. NL Deal !M! damage to ALL enemies when you play Air Signal.",
+    "EXTENDED_DESCRIPTION" : [
+      "Black-Winged Elite Archer",
+      "aigismod:Aerial NL Deal !D! aigismod:archer damage to ALL enemies. NL Deal !M! damage to ALL enemies when you play Air Signal."
     ]
   },
   "aigisMod:Krehl": {
@@ -5586,6 +5604,66 @@
       "Imperial Medical Officer"
     ]
   },
+  "aigisMod:AdamasStatue": {
+    "NAME": "Adamas Statue",
+    "DESCRIPTION": "Add 1 random Imperial character card to hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add 1 random Imperial character card to hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION" : [
+      ""
+    ]
+  },
+  "aigisMod:Zamiel": {
+    "NAME": "Zamiel",
+    "DESCRIPTION": "Gain !M! aigismod:Damage_aura. NL All enemies lose 10% of their current HP.",
+    "UPGRADE_DESCRIPTION": "Gain !M! aigismod:Damage_aura. NL All enemies lose 10% of their current HP.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Demon Summoner"
+    ]
+  },
+  "aigisMod:Rusti": {
+    "NAME": "Rusti",
+    "DESCRIPTION": "Apply !M! aigismod:Lifelink. NL Reduce the cost of an Imperial attack card in hand by 1 for this turn.",
+    "UPGRADE_DESCRIPTION": "Apply !M! aigismod:Lifelink. NL Reduce the cost of an Imperial attack card in hand by 1 for this turn.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Life Chain User"
+    ]
+  },
+  "aigisMod:Agna": {
+    "NAME": "Agna",
+    "DESCRIPTION": "Deal !D! aigismod:true_damage. NL If you have !M! % or less HP, reduce the cost of this card by 1 permanently.",
+    "UPGRADE_DESCRIPTION": "Deal !D! aigismod:true_damage. NL If you have !M! % or less HP, reduce the cost of this card by 1 permanently.",
+    "EXTENDED_DESCRIPTION" : [
+      "Imperial Gladiator"
+    ]
+  },
+  "aigisMod:Suize": {
+    "NAME": "Suize",
+    "DESCRIPTION": "Exhaust 1 character card from draw pile. NL Apply 2 Weak.",
+    "UPGRADE_DESCRIPTION": "Exhaust up to 2 character cards from draw pile. NL Apply 2 Weak.",
+    "EXTENDED_DESCRIPTION" : [
+      "Miko of the Dark Garden"
+    ]
+  },
+  "aigisMod:Wilahelm": {
+    "NAME": "Wilahelm",
+    "DESCRIPTION": "Add 1 Strike from draw pile and it gains 5 damage. NL When exhausted: strike cards gain !M! damage.",
+    "UPGRADE_DESCRIPTION": "Add 1 Strike from draw pile and it gains 5 damage. NL When exhausted: strike cards gain !M! damage.",
+    "EXTENDED_DESCRIPTION" : [
+      "First White Emperor",
+      "Add up to 3 Strikes from draw pile and those gain 7 damage. NL When exhausted: strike cards gain !M! damage."
+    ]
+  },
+  "aigisMod:Hazel": {
+    "NAME": "Hazel",
+    "DESCRIPTION": "aigismod:Imperial_knight: Strike cards gain 1 damage. NL Deal !D! to ALL enemies for each of your Relics.",
+    "UPGRADE_DESCRIPTION": "aigismod:Imperial_knight: Strike cards gain 1 damage. NL Deal !D! to ALL enemies for each of your Relics.",
+    "EXTENDED_DESCRIPTION" : [
+      "First Imperial Knight Commander",
+      "aigismod:Imperial_knight: Strike cards gain 2 damage. NL Deal !D! to ALL enemies for each of your Relics."
+    ]
+  },
+
+
 
 
   "aigisMod:Note3": {
