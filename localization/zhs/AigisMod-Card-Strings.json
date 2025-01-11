@@ -2745,11 +2745,11 @@
   },
   "aigisMod:Akira": {
     "NAME": "明",
-    "DESCRIPTION": "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 和 2 层 金属化 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 , 2 层 金属化 并回复2点生命。 NL 消耗 。",
+    "DESCRIPTION": "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 和 2 层 多层护甲 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 , 2 层 多层护甲 并回复2点生命。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "符术士",
-      "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 , 2 层 金属化 。 NL 消耗 。"
+      "aigismod:诅咒 : 获得 !M! 层 aigismod:伤害光环 , 2 层 多层护甲 。 NL 消耗 。"
     ]
   },
   "aigisMod:Shiro2": {
