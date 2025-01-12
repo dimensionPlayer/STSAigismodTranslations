@@ -424,6 +424,38 @@
       "She Who Inherits the Light"
     ]
   },
+  "aigisMod:FuqiPlatinum": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun. (Weaving of Fuhua) ",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:FuqiBlack": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:Daode": {
+    "NAME": "Daode Tianzun",
+    "DESCRIPTION": "Deal !D! damage 3 times."
+  },
+  "aigisMod:FinessePlatinum": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
+    ]
+  },
+  "aigisMod:FinesseBlack": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaustive: 2",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
+    ]
+  },
 
 
 
@@ -1341,6 +1373,15 @@
     "UPGRADE_DESCRIPTION": "버린 카드 더미에서 1 장을 선택하여 효과를 복사합니다. NL 모든 적에게 2 약화를 부여합니다. NL 소멸.",
     "EXTENDED_DESCRIPTION" : [
       "요괴 너구리"
+    ]
+  },
+  "aigisMod:Yashima2": {
+    "NAME": "야시마",
+    "DESCRIPTION": "버린 카드 더미에서 1 장을 선택하여 효과를 복사합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "버린 카드 더미에서 1 장을 선택하여 효과를 복사합니다. NL 최대 체력이 2 증가합니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION" : [
+      "요괴 너구리",
+      "버린 카드 더미에서 1 장을 선택하여 효과를 복사합니다. NL 이번 턴 힘을 2 얻습니다. NL 소멸."
     ]
   },
   "aigisMod:Yukari": {
@@ -2822,6 +2863,15 @@
     "UPGRADE_DESCRIPTION": "뽑을 카드 더미에 아형의 사자 1 장을 섞어 넣습니다. NL 저주나 상태이상 카드를 뽑았을 경우 카드를 1 장 뽑고 !M! 방어도를 얻습니다.",
     "EXTENDED_DESCRIPTION" : [
       "코마이누"
+    ]
+  },
+  "aigisMod:Koma2": {
+    "NAME": "코마",
+    "DESCRIPTION": "뽑을 카드 더미에 아형의 사자 1 장을 섞어 넣습니다. NL 저주나 상태이상 카드를 뽑았을 경우 카드를 1 장 뽑고 !M! 방어도를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "뽑을 카드 더미에 아형의 사자+ 1 장을 섞어 넣습니다. NL 저주나 상태이상 카드를 뽑았을 경우 카드를 1 장 뽑고 !M! 방어도를 얻습니다.",
+    "EXTENDED_DESCRIPTION" : [
+      "코마이누",
+      "뽑을 카드 더미에 아형의 사자 1 장을 섞어 넣습니다. NL 저주나 상태이상 카드를 뽑았을 경우 카드를 1 장 뽑고 !M! 방어도를 얻습니다."
     ]
   },
   "aigisMod:Shishi": {

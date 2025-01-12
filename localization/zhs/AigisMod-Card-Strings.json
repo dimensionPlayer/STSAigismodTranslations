@@ -85,14 +85,14 @@
   },
   "aigisMod:AlvaPlatinum": {
     "NAME": "阿尔瓦",
-    "DESCRIPTION": "自动打出 。 对随机敌人造成 !D! 点伤害。 NL 获得 !M! 金属化 (一场战斗生效一次)。",
+    "DESCRIPTION": "自动打出 。 对随机敌人造成 !D! 点伤害。 NL 获得 !M! 层 多层护甲 (一场战斗生效一次)。",
     "EXTENDED_DESCRIPTION" : [
       "身负万刃者"
     ]
   },
   "aigisMod:AlvaBlack": {
     "NAME": "阿尔瓦",
-    "DESCRIPTION": "自动打出 。 对随机敌人造成 !D! 点伤害。 NL 获得 !M! 金属化 。 每次打出，获得的金属化减少2层。",
+    "DESCRIPTION": "自动打出 。 对随机敌人造成 !D! 点伤害。 NL 获得 !M! 层 多层护甲 。 每次打出，获得的金属化减少2层。",
     "EXTENDED_DESCRIPTION" : [
       "身负万刃者"
     ]
@@ -422,6 +422,38 @@
     "DESCRIPTION": "施加 !M! 层 aigismod:生命连接 。 NL 对所有敌人造成 !D! 点 aigismod:真实 伤害。 NL 获得 !B! 点 格挡 。",
     "EXTENDED_DESCRIPTION" : [
       "光之继承者"
+    ]
+  },
+  "aigisMod:FuqiPlatinum": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun. (Weaving of Fuhua) ",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:FuqiBlack": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:Daode": {
+    "NAME": "Daode Tianzun",
+    "DESCRIPTION": "Deal !D! damage 3 times."
+  },
+  "aigisMod:FinessePlatinum": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
+    ]
+  },
+  "aigisMod:FinesseBlack": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaustive: 2",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
     ]
   },
 
@@ -1343,6 +1375,15 @@
     "UPGRADE_DESCRIPTION": "选择一张弃牌堆中的牌， NL 此牌的效果变为那张牌。 NL 对所有敌人施加 2 层 虚弱 。 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "妖狸"
+    ]
+  },
+  "aigisMod:Yashima2": {
+    "NAME": "雾岛",
+    "DESCRIPTION": "选择一张弃牌堆中的牌， NL 此牌的效果变为那张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "选择一张弃牌堆中的牌， NL 此牌的效果变为那张牌。 NL 获得 2点最大生命。 NL 消耗 。",
+    "EXTENDED_DESCRIPTION" : [
+      "妖狸",
+      "选择一张弃牌堆中的牌， NL 此牌的效果变为那张牌。 NL 本回合获得2点 力量 。 NL 消耗 。"
     ]
   },
   "aigisMod:Yukari": {

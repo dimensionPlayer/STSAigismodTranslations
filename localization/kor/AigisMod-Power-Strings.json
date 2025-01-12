@@ -546,7 +546,10 @@
                 "NAME": "Knights of the Round",
                 "DESCRIPTIONS": ["턴 시작시 손패의 카드를 #b", " 장 코스트를 #b1 감소시킵니다."]
         },
-
+        "aigisMod:WeavingofFuwa": {
+                "NAME": "Weaving of Fuhua",
+                "DESCRIPTIONS": ["When you receive a debuff, gain #b", " #yStrength. At the start of turn, add #b1 #yDaode #yTianzun."]
+        },
 
 
 

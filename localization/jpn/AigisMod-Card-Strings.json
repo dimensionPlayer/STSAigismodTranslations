@@ -424,6 +424,38 @@
       "光を継ぐ者"
     ]
   },
+  "aigisMod:FuqiPlatinum": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun. (Weaving of Fuhua) ",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:FuqiBlack": {
+    "NAME": "Fuqi",
+    "DESCRIPTION": "When you gain a debuff, gain !M! Strength. NL At the start of turn, add 1 Daode Tianzun.",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Is the Foundation of Dahua"
+    ]
+  },
+  "aigisMod:Daode": {
+    "NAME": "Daode Tianzun",
+    "DESCRIPTION": "Deal !D! damage 3 times."
+  },
+  "aigisMod:FinessePlatinum": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaust",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
+    ]
+  },
+  "aigisMod:FinesseBlack": {
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !M! Max HP. NL Add 1 card from draw pile to your hand, it becomes cost 0 for the combat. NL Exhaustive: 2",
+    "EXTENDED_DESCRIPTION" : [
+      "She Who Weaves the Battlefield"
+    ]
+  },
 
 
 
@@ -1342,6 +1374,15 @@
     "UPGRADE_DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 敵全体に NL 脱力 2 を与える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "妖狸"
+    ]
+  },
+  "aigisMod:Yashima2": {
+    "NAME": "ヤシマ",
+    "DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "捨て札を 1 枚選び、同じ効果をプレイする。 NL 最大 HP を 2 増加する。 NL 廃棄",
+    "EXTENDED_DESCRIPTION" : [
+      "妖狸",
+      "捨て札を 1 枚選び、同じ効果をプレイする。 NL 筋力 2 を得る。 NL 廃棄"
     ]
   },
   "aigisMod:Yukari": {
@@ -2875,6 +2916,15 @@
     "UPGRADE_DESCRIPTION": "阿形の獅子を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "狛犬"
+    ]
+  },
+  "aigisMod:Koma2": {
+    "NAME": "コマ",
+    "DESCRIPTION": "阿形の獅子を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "阿形の獅子+を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "EXTENDED_DESCRIPTION" : [
+      "狛犬",
+      "阿形の獅子を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。"
     ]
   },
   "aigisMod:Shishi": {
@@ -5411,8 +5461,8 @@
 
 
   "aigisMod:Note": {
-    "NAME": "Remaining Hero cards, august update",
-    "DESCRIPTION": "implement these: Atnates, Lanche, Vidya, Xuhua, Ivril, Deadman, Ildona, Alcou, Symbol of Dread, Oshen",
+    "NAME": "",
+    "DESCRIPTION": "implement these: ",
     "UPGRADE_DESCRIPTION": "They are on the top of the file",
     "EXTENDED_DESCRIPTION" : [
       ""
