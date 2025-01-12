@@ -545,7 +545,10 @@
                 "NAME": "圆桌骑士",
                 "DESCRIPTIONS": ["回合开始时，选择 #b", " 张手牌，本回合减少其耗能1点。"]
         },
-
+        "aigisMod:WeavingofFuwa": {
+                "NAME": "Weaving of Fuhua",
+                "DESCRIPTIONS": ["When you receive a debuff, gain #b", " #yStrength. At the start of turn, add #b1 #yDaode #yTianzun."]
+        },
 
 
         "aigisMod:Strength ForTheTurnPower": {

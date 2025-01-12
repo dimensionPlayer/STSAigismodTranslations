@@ -544,7 +544,10 @@
                 "NAME": "ナイツオブラウンド",
                 "DESCRIPTIONS": ["ターン開始時に、手札からカードを #b", " 枚選ぶ、 このターン中、コストを #b1 減少。"]
         },
-
+        "aigisMod:WeavingofFuwa": {
+                "NAME": "Weaving of Fuhua",
+                "DESCRIPTIONS": ["When you receive a debuff, gain #b", " #yStrength. At the start of turn, add #b1 #yDaode #yTianzun."]
+        },
 
 
         "aigisMod:StrengthForTheTurnPower": {

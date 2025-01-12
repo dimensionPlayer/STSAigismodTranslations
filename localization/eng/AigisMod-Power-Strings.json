@@ -534,7 +534,10 @@
                 "NAME": "Knights of the Round",
                 "DESCRIPTIONS": ["At the start of turn, choose #b", " cards in hand, reduce their cost by 1 this turn."]
         },
-
+        "aigisMod:WeavingofFuwa": {
+                "NAME": "Weaving of Fuhua",
+                "DESCRIPTIONS": ["When you receive a debuff, gain #b", " #yStrength. At the start of turn, add #b1 #yDaode #yTianzun."]
+        },
 
 
         "aigisMod:StrengthForTheTurnPower": {
