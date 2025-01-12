@@ -2820,6 +2820,15 @@
       "狛犬"
     ]
   },
+  "aigisMod:Koma2": {
+    "NAME": "狛",
+    "DESCRIPTION": "将1张阿形的狮子 洗入抽牌堆。 NL 当你抽到状态 牌或 诅咒 牌时,抽1张牌 并 获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "将1张阿形的狮子+ 洗入抽牌堆。 NL 当你抽到状态 牌或 诅咒 牌时,抽1张牌 并 获得 !M! 点 格挡 。",
+    "EXTENDED_DESCRIPTION" : [
+      "狛犬",
+      "将1张阿形的狮子 洗入抽牌堆。 NL 当你抽到状态 牌或 诅咒 牌时,抽1张牌 并 获得 !M! 点 格挡 。"
+    ]
+  },
   "aigisMod:Shishi": {
     "NAME": "阿形的狮子",
     "DESCRIPTION": "造成 !D! 点伤害 NL 抽1张牌。 NL 将 !M! 张 眩晕 洗入抽牌堆。",
