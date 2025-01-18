@@ -3,85 +3,67 @@
     "PROPER_NAME": "技能充能",
     "NAMES": [
       "技能充能",
-      "技能充能",
-      "技能充能",
       "Skill Charge",
       "Skill_charge",
       "skill_charge"
     ],
-    "DESCRIPTION": " #y保留 。保留时提升此卡牌属性."
+    "DESCRIPTION": " #y保留 。保留时改变此卡牌属性。"
   },
   {
     "PROPER_NAME": "帝国骑士",
     "NAMES": [
       "帝国骑士",
-      "帝国骑士",
-      "帝国骑士",
       "Imperial Knight",
       "Imperial_knight",
       "imperial_knight"
     ],
-    "DESCRIPTION": "在手牌时 #y每回合触发一次，打出 #y帝国牌 时产生效果。"
+    "DESCRIPTION": "在手牌时 #y每回合触发一次 ，打出 #y帝国 牌时产生效果。"
   },
   {
     "PROPER_NAME": "伤害光环",
     "NAMES": [
       "伤害光环",
-      "伤害光环",
-      "伤害光环",
       "Damage Aura",
       "Damage_aura",
       "damage_aura"
     ],
-    "DESCRIPTION": "每回合结束时，根据数值对所有敌人造成 #y伤害。"
+    "DESCRIPTION": "每回合结束时，对所有敌人造成对应层数的 #y伤害 。"
   },
   {
-    "PROPER_NAME": "真实",
+    "PROPER_NAME": "真实伤害",
     "NAMES": [
-      "真实",
-      "真实",
-      "真实",
       "真实伤害",
-      "真实伤害.",
       "True Damage",
       "True_damage",
       "true_damage"
 
     ],
-    "DESCRIPTION": "这张牌的攻击无视格挡和  #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
+    "DESCRIPTION": "这张牌的攻击无视 #y格挡 、 #y荆棘 、 #y生气 、 #y锋利外甲 和 #y蜷身 。"
   },
   {
     "PROPER_NAME": "开花阵",
     "NAMES": [
       "开花阵",
-      "开花阵",
-      "开花阵",
       "Bloom Petal",
       "Bloom_petal",
       "bloom_petal"
     ],
-    "DESCRIPTION": "在你获得此能力的第二个回合：所有敌人受到伤害(根据开花阵的数值）, 施加 #b2  层 #y虚弱 和 #b2  层 #y易伤 , 之后移除此能力。"
+    "DESCRIPTION": "在你获得此能力的第二个回合结束时：所有敌人受到开花阵层数的伤害，施加 #b2 层 #y虚弱 和 #b2 层 #y易伤 ，之后移除此能力。"
   },
   {
     "PROPER_NAME": "诅咒仪式",
     "NAMES": [
-      "诅咒仪式",
-      "诅咒仪式.",
-      "诅咒仪式",
       "诅咒仪式",
       "Cursed Rite",
       "Cursed_rite.",
       "Cursed_rite",
       "cursed_rite"
     ],
-    "DESCRIPTION": "你无法回血。"
+    "DESCRIPTION": "你无法回复生命。"
   },
   {
     "PROPER_NAME": "诅咒之声",
     "NAMES": [
-      "诅咒之声",
-      "诅咒之声.",
-      "诅咒之声",
       "诅咒之声",
       "Cursed Voice",
       "Cursed_voice.",
@@ -94,74 +76,58 @@
     "PROPER_NAME": "风元素",
     "NAMES": [
       "风元素",
-      "风元素.",
-      "风元素",
-      "风元素",
       "Air_elemental.",
       "Air_elemental",
       "air_elemental"
     ],
-    "DESCRIPTION": "当你打出 #y技能 牌时，敌人根据层数 #y失去 HP。回合结束时如果敌人进行过攻击则移除 #b1 层。"
+    "DESCRIPTION": "当你打出 #y技能 牌时，敌人根据层数 #y失去 生命值。回合结束时如果敌人进行过攻击则移除 #b1 层。"
   },
   {
     "PROPER_NAME": "游侠陷阱",
     "NAMES": [
-      "游侠陷阱",
-      "游侠陷阱.",
-      "游侠陷阱",
       "游侠陷阱",
       "Ranger Trap",
       "Ranger_trap.",
       "Ranger_trap",
       "ranger_trap"
     ],
-    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时，对那名敌人造成此能力 #y数值 的伤害，并且 #y失去 此能力。"
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时，对那名敌人造成此能力 #y层数 的伤害，并且 #y失去 此能力。"
   },
   {
     "PROPER_NAME": "退魔守护灵符",
     "NAMES": [
-      "退魔守护灵符",
-      "退魔守护灵符.",
-      "退魔守护灵符",
       "退魔守护灵符",
       "Seal Talisman",
       "Seal_talisman.",
       "Seal_talisman",
       "seal_talisman"
     ],
-    "DESCRIPTION": "当敌人 #y攻击 时, 失去 #b1 点 #y力量 。每回合开始时 #y退魔守护灵符 减少 #b1 层。"
+    "DESCRIPTION": "当敌人 #y攻击 时，失去 #b1 点 #y力量 。每回合开始时 #y退魔守护灵符 减少 #b1 层。"
   },
   {
     "PROPER_NAME": "操尸人",
     "NAMES": [
-      "操尸人",
-      "操尸人.",
-      "操尸人",
       "操尸人",
       "Corpse Marionette",
       "Corpse_marionette.",
       "Corpse_marionette",
       "corpse_marionette"
     ],
-    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时, 根据伤害量减少相应的 #y层数。回合开始时，如果 #y层数 为 #b0 ，眩晕所有敌人并移除此效果。"
+    "DESCRIPTION": "当你受到 #y未被格挡 的伤害时，根据伤害量减少相应的 #y层数 。回合开始时，如果 #y层数 为 #b0 ，眩晕所有敌人并移除此效果。"
   },
   {
     "PROPER_NAME": "被伏击的商队",
     "NAMES": [
-      "被伏击的商队",
-      "被伏击的商队.",
-      "被伏击的商队",
       "被伏击的商队",
       "Ambushed Caravan",
       "Ambushed_caravan.",
       "Ambushed_caravan",
       "ambushed_caravan"
     ],
-    "DESCRIPTION": "#y诅咒 。不能被打出 , 保留 , 固有 , 不能从牌组中移除. 当你受到 #y未被格挡 的伤害时, 失去 #b8  #y金币 。"
+    "DESCRIPTION": "#y诅咒 。 不能被打出 ，保留 ，固有 ，不能从牌组中移除。 当你受到 #y未被格挡 的伤害时，失去 #b8 #y金币 。"
   },
   {
     "NAMES": [
-      "暗杀",
       "暗杀",
       "Assassination",
       "assassination"
@@ -171,8 +137,6 @@
   {
     "NAMES": [
       "减速",
-      "减速",
-      "减速.",
       "Sluggish",
       "sluggish",
       "sluggish."
@@ -182,24 +146,16 @@
   {
   "NAMES": [
     "反击",
-    "反击",
-    "反击.",
-    "反击.",
     "Counter",
     "counter",
     "Counter.",
     "counter."
   ],
-  "DESCRIPTION": " #y被攻击 时, 根据反击层数对敌人造成伤害。自己的回合开始时移除。"
+  "DESCRIPTION": " #y被攻击 时，根据层数对敌人造成伤害。自己的回合开始时移除。"
   },
   {
     "NAMES": [
       "溅射",
-      "溅射",
-      "溅射.",
-      "溅射伤害",
-      "溅射伤害.",
-      "溅射伤害。",
       "Splash",
       "splash",
       "splash."
@@ -209,7 +165,6 @@
   {
     "NAMES": [
       "冷却",
-      "冷却",
       "Cooldown",
       "cooldown"
     ],
@@ -218,15 +173,13 @@
   {
     "NAMES": [
       "搭档",
-      "搭档",
       "Pair",
       "pair"
     ],
-    "DESCRIPTION": "将 #b1 张记有名字的卡牌从 #y抽牌堆 加入 #y手牌 。"
+    "DESCRIPTION": "将 #b1 张拥有此名的卡牌从 #y抽牌堆 加入 #y手牌 。"
   },
   {
     "NAMES": [
-      "弓箭手",
       "弓箭手",
       "Archer",
       "archer"
@@ -236,15 +189,13 @@
   {
     "NAMES": [
       "忍术",
-      "忍术",
       "Ninjutsu",
       "ninjutsu"
     ],
-    "DESCRIPTION": "每回合开始时获得 #b1 张 #y手里剑 。每打出一次额外的 #y忍术 提升 #y手里剑 的攻击次数 #b1 次。"
+    "DESCRIPTION": "每回合开始时获得 #b1 张 #y手里剑 。每获得一层额外的 #y忍术 ，提升 #y手里剑 的攻击次数 #b1 次。"
   },
   {
     "NAMES": [
-      "缠身",
       "缠身",
       "Entangled",
       "entangled"
@@ -255,9 +206,6 @@
   {
     "NAMES": [
       "不死族",
-      "不死族",
-      "不死族:",
-      "不死族:",
       "Undead",
       "undead",
       "Undead:",
@@ -268,7 +216,6 @@
   {
     "NAMES": [
       "吸血鬼",
-      "吸血鬼",
       "Vampire",
       "vampire"
     ],
@@ -277,22 +224,16 @@
   {
     "NAMES": [
       "诅咒",
-      "诅咒",
-      "诅咒:",
-      "诅咒:",
       "Cursed",
       "cursed",
       "Cursed:",
       "cursed:"
     ],
-    "DESCRIPTION": "你的 #y牌组 中每有一张 #b诅咒 , 打出卡片时便施加描述效果。"
+    "DESCRIPTION": "你的 #y牌组 中每有一张 #b诅咒 , 打出卡牌时便施加描述效果。"
   },
   {
     "NAMES": [
       "灼伤",
-      "灼伤",
-      "灼伤:",
-      "灼伤:",
       "Burn",
       "burn",
       "Burn:",
@@ -304,7 +245,6 @@
     "PROPER_NAME": "魔导生命体",
     "NAMES": [
       "魔导生命体",
-      "魔导生命体.",
       "Magical Ignition",
       "Magical_ignition.",
       "Magical_ignition",
@@ -316,7 +256,6 @@
     "PROPER_NAME": "流星",
     "NAMES": [
       "流星",
-      "流星。",
       "Meteor",
       "Meteor.",
       "meteor",
@@ -328,7 +267,6 @@
     "PROPER_NAME": "暗黑斗士",
     "NAMES": [
       "暗黑斗士",
-      "暗黑斗士。",
 	  "Dark Fighter",
       "Dark_Fighter",
       "Dark_fighter.",
@@ -341,52 +279,48 @@
     "PROPER_NAME": "生命连接",
     "NAMES": [
       "生命连接",
-      "生命连接。",
       "Lifelink",
       "Lifelink.",
       "lifelink",
       "lifelink."
     ],
-    "DESCRIPTION": "敌人失去你完全格挡的伤害数值的HP， 当你打出耗能为 #b1 以上的攻击牌时减少 #b1 层。"
+    "DESCRIPTION": "敌人失去你完全格挡的伤害数值的生命值， 当你打出耗能为 #b1 以上的攻击牌时减少 #b1 层。"
   },
   {
     "PROPER_NAME": "要塞",
     "NAMES": [
       "要塞",
-      "要塞:",
       "Fortress",
       "Fortress:",
       "fortress",
       "fortress:"
 
     ],
-    "DESCRIPTION": "当你的格挡值不低于此值时，触发效果。"
+    "DESCRIPTION": "当你的 #y格挡 值不低于此值时，触发效果。"
   },
   {
     "PROPER_NAME": "装甲",
     "NAMES": [
       "装甲",
-      "装甲:",
       "Armor",
       "Armor:",
       "armor",
       "armor:"
 
     ],
-    "DESCRIPTION": "当你的格挡值不低于此值时才能被打出。"
+    "DESCRIPTION": "当你的 #y格挡 值不低于此值时才能被打出。"
   },
   {
     "PROPER_NAME": "解放",
     "NAMES": [
       "解放",
-      "解放:",
       "Release",
       "Release:",
       "release",
       "release:"
 
     ],
-    "DESCRIPTION": "当你格挡值为0或有 #y残影 时，触发效果。"
+    "DESCRIPTION": "当你的 #y格挡 值为0或有 #y残影 时，触发效果。"
   },
 
 
@@ -394,37 +328,33 @@
     "PROPER_NAME": "深海",
     "NAMES": [
       "深海",
-      "深海。",
       "Deep_sea",
       "deep_sea"
     ],
-    "DESCRIPTION": "当你抽到此卡时, 将 #b1 张 #y深海 加入手牌。"
+    "DESCRIPTION": "当你抽到此卡时，将 #b1 张 #y深海 加入手牌。"
   },
   {
     "PROPER_NAME": "水压",
     "NAMES": [
       "水压",
-      "水压。",
       "Water_pressure",
       "water_pressure"
     ],
-    "DESCRIPTION": "在角色回合开始时，失去 #yHP 。 如果到达 #b7 层, 则改为失去所有 #yHP 。"
+    "DESCRIPTION": "在角色回合开始时，失去等量 #y生命值 。 NL 如果到达 #b7 层, 则改为失去所有 #y生命值 。"
   },
   {
     "PROPER_NAME": "海员",
     "NAMES": [
       "海员",
-      "海员",
       "Sailor.",
       "Sailor:"
     ],
-    "DESCRIPTION": "根据其数值减少你的水压层数并获得额外效果。"
+    "DESCRIPTION": "根据其数值减少你的 #y水压 层数并获得额外效果。"
   },
   {
     "PROPER_NAME": "魔物使",
     "NAMES": [
       "魔物使",
-      "魔物使。",
       "Beast_tamer",
       "beast_tamer"
     ],
@@ -434,7 +364,6 @@
     "PROPER_NAME": "咒影",
     "NAMES": [
       "咒影",
-      "咒影。",
       "Cursed_shadows",
       "cursed_shadows"
     ],
@@ -444,7 +373,6 @@
     "PROPER_NAME": "空域",
     "NAMES": [
       "空域",
-      "空域。",
       "Aerial.",
       "Aerial:"
     ],
