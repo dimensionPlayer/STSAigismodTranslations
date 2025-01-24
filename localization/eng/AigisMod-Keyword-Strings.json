@@ -342,5 +342,14 @@
       "Aerial:"
     ],
     "DESCRIPTION": "When played, shuffle #b1 #yAir #ySignal to your Draw Pile."
+  },
+  {
+    "PROPER_NAME": "Princess",
+    "NAMES": [
+      "Princess",
+      "princess",
+      "Princess."
+    ],
+    "DESCRIPTION": "When you add this card to your Master Deck, gain #b2 #yMax #yHP."
   }
 ]

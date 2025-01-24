@@ -485,5 +485,14 @@
       "Aerial:"
     ],
     "DESCRIPTION": "이 카드를 사용했을 때, #b1 #y에어 #y시그널을 뽑을 카드 더미에 섞어 넣습니다."
+  },
+  {
+    "PROPER_NAME": "프린세스",
+    "NAMES": [
+      "프린세스",
+      "princess",
+      "Princess."
+    ],
+    "DESCRIPTION": "이 카드를 덱에 추가했을 때 #y최대 #y체력이 #b2 증가합니다."
   }
 ]

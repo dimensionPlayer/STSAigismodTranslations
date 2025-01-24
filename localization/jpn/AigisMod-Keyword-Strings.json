@@ -436,5 +436,14 @@
       "Aerial:"
     ],
     "DESCRIPTION": "プレイした時、 #yエアーシグナル を #b1 枚山札に加える。"
+  },
+  {
+    "PROPER_NAME": "プリンセス",
+    "NAMES": [
+      "プリンセス",
+      "princess",
+      "Princess."
+    ],
+    "DESCRIPTION": "あなたの #yデッキ にこのカードを1枚加えた時、 #y最大 #yHP が #b2 増加する。"
   }
 ]

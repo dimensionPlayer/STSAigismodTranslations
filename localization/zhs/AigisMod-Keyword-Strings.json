@@ -377,6 +377,14 @@
       "Aerial:"
     ],
     "DESCRIPTION": "当打出此牌时，将1张 #y空中标记 洗入抽牌堆。"
+  },
+  {
+    "PROPER_NAME": "公主",
+    "NAMES": [
+      "公主",
+      "princess.",
+      "Princess"
+    ],
+    "DESCRIPTION": "当你此牌加入卡组时，获得 #b2 点 #y最大生命 。"
   }
-
 ]

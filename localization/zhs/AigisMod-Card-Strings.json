@@ -749,16 +749,16 @@
   },
   "aigisMod:Drania": {
     "NAME": "多妮亚",
-    "DESCRIPTION": "aigismod:技能充能 ：本场战斗 NL 减少此牌耗能1点。 NL 将1张 *安雅 加入手牌。 NL 消耗 。 ",
-    "UPGRADE_DESCRIPTION": "aigismod:技能充能 ：本场战斗 NL 减少此牌耗能1点。 NL 将1张 *安雅+ 加入手牌。 NL 消耗 。",
+    "DESCRIPTION": "aigismod:公主 NL aigismod:技能充能 ：本场战斗 NL 减少此牌耗能1点。 NL 将1张 *安雅 加入手牌。 NL 消耗 。 ",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL aigismod:技能充能 ：本场战斗 NL 减少此牌耗能1点。 NL 将1张 *安雅+ 加入手牌。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "封印的"
     ]
   },
   "aigisMod:Anya": {
     "NAME": "安雅",
-    "DESCRIPTION": "获得 !B! 点 格挡 ，然后 NL 对随机敌人造成 NL 当前 格挡 值的伤害。",
-    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 ，然后 NL 对所有敌人造成 NL 当前 格挡 值的伤害。",
+    "DESCRIPTION": "aigismod:公主 NL 获得 !B! 点 格挡 ，然后 NL 对随机敌人造成 NL 当前 格挡 值的伤害。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 获得 !B! 点 格挡 ，然后 NL 对所有敌人造成 NL 当前 格挡 值的伤害。",
     "EXTENDED_DESCRIPTION" : [
       "龙姬",
       "(造成 ", " 点伤害)"
@@ -776,11 +776,11 @@
 
   "aigisMod:Olivier": {
     "NAME": "奥莉薇尔",
-    "DESCRIPTION": "失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "你和所有敌人失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。",
+    "DESCRIPTION": "aigismod:公主 NL 失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 你和所有敌人失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。"
+      "aigismod:公主 NL 失去 8 点生命。 NL 获得1层 无实体 。 NL 消耗 。"
     ]
   },
   "aigisMod:Lychnos": {
@@ -801,11 +801,11 @@
   },
   "aigisMod:Teeny": {
     "NAME": "蒂尼",
-    "DESCRIPTION": "当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。",
-    "UPGRADE_DESCRIPTION": "当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。",
+    "DESCRIPTION": "aigismod:公主 NL 当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "矮人公主",
-      "获得1点 力量 和 敏捷 。 NL 当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。"
+      "aigismod:公主 NL 获得1点 力量 和 敏捷 。 NL 当打出 攻击牌/技能牌时, 本回合内分别获得1点 力量 / 敏捷 。"
     ]
   },
   "aigisMod:Carat": {
@@ -886,11 +886,11 @@
 
   "aigisMod:Sybilla": {
     "NAME": "施比拉",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 。 NL aigismod:搭档 ： *帕特尔 。 aigismod:暗杀 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 。 NL aigismod:搭档 ： *帕特尔 并且本回合其耗能变为1。 aigismod:暗杀 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 。 NL aigismod:搭档 ： *帕特尔 。 aigismod:暗杀 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 。 NL aigismod:搭档 ： *帕特尔 并且本回合其耗能变为1。 aigismod:暗杀 。",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 和 易伤 。 NL aigismod:搭档 ： *帕特尔 并且本回合其耗能变为0。 aigismod:暗杀 。"
+      "aigismod:公主 NL 造成 !D! 点伤害。 NL 对所有敌人施加 !M! 层 虚弱 和 易伤 。 NL aigismod:搭档 ： *帕特尔 并且本回合其耗能变为0。 aigismod:暗杀 。"
     ]
   },
   "aigisMod:Uzume": {
@@ -1003,8 +1003,8 @@
   },
   "aigisMod:Rozette": {
     "NAME": "罗洁特",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 本场战斗中,升级所有普通牌。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成 !D! 点伤害。 NL 本场战斗中,升级所有普通牌。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 本场战斗中,升级所有普通牌。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 固有 。 NL 造成 !D! 点伤害。 NL 本场战斗中,升级所有普通牌。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1149,8 +1149,8 @@
   },
   "aigisMod:Louise": {
     "NAME": "路易丝",
-    "DESCRIPTION": "获得 1 点 敏捷 。 NL 获得 !B! 点 格挡 。 NL 本回合,所有手牌耗能翻倍。",
-    "UPGRADE_DESCRIPTION": "获得 1 点 敏捷 。 NL 获得 !B! 点 格挡 。 NL 本回合,所有手牌耗能翻倍。",
+    "DESCRIPTION": "aigismod:公主 NL 获得 1 点 敏捷 。 NL 获得 !B! 点 格挡 。 NL 本回合,所有手牌耗能翻倍。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 获得 1 点 敏捷 。 NL 获得 !B! 点 格挡 。 NL 本回合,所有手牌耗能翻倍。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1298,8 +1298,8 @@
   },
   "aigisMod:Patel": {
     "NAME": "帕特尔",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:搭档 ： *施比拉 。 NL aigismod:暗杀 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:搭档 ： *施比拉 并且本回合此牌耗能变为0。 NL aigismod:暗杀 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL aigismod:搭档 ： *施比拉 。 NL aigismod:暗杀 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL aigismod:搭档 ： *施比拉 并且本回合此牌耗能变为0。 NL aigismod:暗杀 。",
     "EXTENDED_DESCRIPTION" : [
       "公主骑士"
     ]
@@ -1314,33 +1314,33 @@
   },
   "aigisMod:Yoshino": {
     "NAME": "吉野",
-    "DESCRIPTION": "从抽牌堆中抽 !M! 张 东国 NL 牌并至少抽一张牌时,获得 [E]",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 从抽牌堆中抽 !M! 张 东国 NL 牌，至少抽一张牌时,获得 [E]",
+    "DESCRIPTION": "aigismod:公主 NL 从抽牌堆中抽 !M! 张 东国 NL 牌并至少抽一张牌时,获得 [E]",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 固有 。 NL 从抽牌堆中抽 !M! 张 东国 NL 牌，至少抽一张牌时,获得 [E]",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "最多从抽牌堆中抽 !M! 张 东国 牌，至少抽一张牌 NL 时, 获得 [E]"
+      "aigismod:公主 NL 最多从抽牌堆中抽 !M! 张 东国 牌，至少抽一张牌 NL 时, 获得 [E]"
     ]
   },
   "aigisMod:Kaguya": {
     "NAME": "辉夜",
-    "DESCRIPTION": "抽1张牌。 NL 本回合,手牌中的 东国 牌耗能减少 !M! 点。",
-    "UPGRADE_DESCRIPTION": "抽1张牌。 NL 本回合,手牌中的 东国 牌耗能减少 !M! 点。",
+    "DESCRIPTION": "aigismod:公主 NL 抽1张牌。 NL 本回合,手牌中的 东国 牌耗能减少 !M! 点。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 抽1张牌。 NL 本回合,手牌中的 东国 牌耗能减少 !M! 点。",
     "EXTENDED_DESCRIPTION" : [
       "月姬"
     ]
   },
   "aigisMod:Themis": {
     "NAME": "忒弥斯",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:冷却 !M! ：造成3倍伤害。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL aigismod:冷却 !M! ：造成3倍伤害。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL aigismod:冷却 !M! ：造成3倍伤害。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL aigismod:冷却 !M! ：造成3倍伤害。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
   },
   "aigisMod:Melvina": {
     "NAME": "梅尔维纳",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 虚弱 和 !M! 层 易伤 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 虚弱 和 !M! 层 易伤 。 NL 消耗 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 施加 !M! 层 虚弱 和 !M! 层 易伤 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 施加 !M! 层 虚弱 和 !M! 层 易伤 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -1486,25 +1486,25 @@
   },
   "aigisMod:Karmaplat": {
     "NAME": "卡尔玛",
-    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复 !M! 点。 NL 消耗性 !stslib:ex! NL aigismod:不死族 : 将1张卡尔玛 洗入抽牌堆。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复 !M! 点。 NL 消耗性 !stslib:ex! NL aigismod:不死族 : 将1张卡尔玛 洗入抽牌堆。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复 !M! 点。 NL 消耗性 !stslib:ex! NL aigismod:不死族 : 将1张卡尔玛 洗入抽牌堆。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复 !M! 点。 NL 消耗性 !stslib:ex! NL aigismod:不死族 : 将1张卡尔玛 洗入抽牌堆。",
     "EXTENDED_DESCRIPTION" : [
       "黑衣新娘"
     ]
   },
   "aigisMod:Karmablack": {
     "NAME": "卡尔玛",
-    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。",
     "EXTENDED_DESCRIPTION" : [
       "白衣新娘",
-      "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。"
+      "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 回复本回合受到伤害一半的生命。 NL aigismod:不死族 : 获得 !M! 层 无实体 。"
     ]
   },
   "aigisMod:Tokoyo": {
     "NAME": "常世",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 将1张辉夜 从抽牌堆或弃牌堆加入手牌。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将1张辉夜 从抽牌堆或弃牌堆加入手牌并且本回合其耗能变为0。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 将1张辉夜 从抽牌堆或弃牌堆加入手牌。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 将1张辉夜 从抽牌堆或弃牌堆加入手牌并且本回合其耗能变为0。",
     "EXTENDED_DESCRIPTION" : [
       "降魔战姬"
     ]
@@ -1679,8 +1679,8 @@
   },
   "aigisMod:Julia2": {
     "NAME": "朱莉娅",
-    "DESCRIPTION": "本场战斗 NL 随机获得1个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "本场战斗 NL 随机获得1个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
+    "DESCRIPTION": "aigismod:公主 NL 本场战斗 NL 随机获得1个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 本场战斗 NL 随机获得1个遗物。 NL 获得 !M! 金币 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       ""
     ]
@@ -2000,11 +2000,11 @@
   },
   "aigisMod:Angeline": {
     "NAME": "安洁莉娜",
-    "DESCRIPTION": "牌组中每有1张帝国牌就获得1点 格挡 。 NL （获得 !B! 点 格挡 ）",
-    "UPGRADE_DESCRIPTION": "获得1点 敏捷 。 NL 牌组中每有1张帝国牌就获得1点 格挡 。 NL （获得 !B! 点 格挡 ）",
+    "DESCRIPTION": "aigismod:公主 NL 牌组中每有1张帝国牌就获得1点 格挡 。 NL （获得 !B! 点 格挡 ）",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 获得1点 敏捷 。 NL 牌组中每有1张帝国牌就获得1点 格挡 。 NL （获得 !B! 点 格挡 ）",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "牌组中每有1张帝国牌就获得1点 格挡 。 NL 获得1层残影。 NL （获得 !B! 点 格挡 ）"
+      "aigismod:公主 NL 牌组中每有1张帝国牌就获得1点 格挡 。 NL 获得1层残影。 NL （获得 !B! 点 格挡 ）"
     ]
   },
   "aigisMod:Christa": {
@@ -2571,8 +2571,8 @@
 
   "aigisMod:Charme2": {
     "NAME": "莎姆",
-    "DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 加入手牌。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 加入手牌。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 加入手牌。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:溅射 伤害。 NL 将1张 莉莉 从抽牌堆 或 弃牌堆 加入手牌。",
     "EXTENDED_DESCRIPTION" : [
       "火龙皇女"
     ]
@@ -2595,8 +2595,8 @@
   },
   "aigisMod:Meer2": {
     "NAME": "梅亚",
-    "DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E]  NL 本场战斗中,随机 打击 牌获得: 获得 [E]  NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] [E]  NL 本场战斗中,随机 打击 牌获得: 获得 [E]  NL 消耗 。",
+    "DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] NL 本场战斗中,随机 打击 牌获得: 获得 [E] NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害, 如果击败敌人则获得 [E] [E] NL 本场战斗中,随机 打击 牌获得: 获得 [E] NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "帝国枪骑士"
     ]
@@ -3033,16 +3033,16 @@
   },
   "aigisMod:Anelia": {
     "NAME": "爱纳莉亚",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 如果敌人有负面效果则受到 !M! 点额外伤害。 NL aigismod:搭档 ： *伊梅莉亚 ",
-    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 如果敌人有负面效果则受到 !M! 点额外伤害。 NL aigismod:搭档 ： *伊梅莉亚 并且本回合其耗能变为0",
+    "DESCRIPTION": "aigismod:公主 NL 对所有敌人造成 !D! 点伤害。 NL 如果敌人有负面效果则受到 !M! 点额外伤害。 NL aigismod:搭档 ： *伊梅莉亚 ",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 对所有敌人造成 !D! 点伤害。 NL 如果敌人有负面效果则受到 !M! 点额外伤害。 NL aigismod:搭档 ： *伊梅莉亚 并且本回合其耗能变为0",
     "EXTENDED_DESCRIPTION" : [
       "姬海贼"
     ]
   },
   "aigisMod:Imelia": {
     "NAME": "伊梅莉亚",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 格挡 或 人工制品 则造成双倍伤害。 NL aigismod:搭档 ： *爱纳莉亚 ",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有 格挡 或 人工制品 则造成双倍伤害。 NL aigismod:搭档 ： *爱纳莉亚 并且本回合其耗能变为0",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 如果敌人有 格挡 或 人工制品 则造成双倍伤害。 NL aigismod:搭档 ： *爱纳莉亚 ",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 如果敌人有 格挡 或 人工制品 则造成双倍伤害。 NL aigismod:搭档 ： *爱纳莉亚 并且本回合其耗能变为0",
     "EXTENDED_DESCRIPTION" : [
       "姬山贼"
     ]
@@ -3057,8 +3057,8 @@
   },
   "aigisMod:Shizuka": {
     "NAME": "静香",
-    "DESCRIPTION": "弃掉1张 东国 牌, 获得 7X 点 格挡 。X为弃牌的耗能。 NL 获得 !M! 层 aigismod:反击 。",
-    "UPGRADE_DESCRIPTION": "弃掉1张 东国 牌, 获得 7X 点 格挡 。X为弃牌的耗能。 NL 获得 !M! 层 aigismod:反击 。",
+    "DESCRIPTION": "aigismod:公主 NL 弃掉1张 东国 牌, 获得 7X 点 格挡 。X为弃牌的耗能。 NL 获得 !M! 层 aigismod:反击 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 弃掉1张 东国 牌, 获得 7X 点 格挡 。X为弃牌的耗能。 NL 获得 !M! 层 aigismod:反击 。",
     "EXTENDED_DESCRIPTION" : [
       "姬武士"
     ]
@@ -3073,11 +3073,11 @@
   },
   "aigisMod:Alice": {
     "NAME": "爱丽丝",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
-    "UPGRADE_DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 保留 。 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。",
     "EXTENDED_DESCRIPTION" : [
       "武王姬",
-      "造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。"
+      "aigismod:公主 NL 造成 !D! 点伤害。 NL 获得等同于未被格挡伤害的 aigismod:反击 。"
     ]
   },
   "aigisMod:Estelle": {
@@ -3248,8 +3248,8 @@
   },
   "aigisMod:Maryfa": {
     "NAME": "玛莉芙",
-    "DESCRIPTION": "将1 张生命之树加入手牌。 NL 对所有敌人施加  !M! 层 易伤 。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "将1 张生命之树加入手牌。 NL 对所有敌人施加  !M! 层 易伤 。 NL 消耗 。",
+    "DESCRIPTION": "将1 张生命之树加入手牌。 NL 对所有敌人施加 !M! 层 易伤 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将1 张生命之树加入手牌。 NL 对所有敌人施加 !M! 层 易伤 。 NL 消耗 。",
     "EXTENDED_DESCRIPTION" : [
       "沉睡的森林巫女"
     ]
@@ -3313,16 +3313,16 @@
   },
   "aigisMod:Yuffe": {
     "NAME": "尤菲",
-    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 获得 !aigisMod:SecondMagic! 层 aigismod:反击 。 NL aigismod:不死族 : 获得 !M! 层 荆棘 ",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 获得 !aigisMod:SecondMagic! 层 aigismod:反击 。 NL aigismod:不死族 : 获得 !M! 层 荆棘 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 获得 !aigisMod:SecondMagic! 层 aigismod:反击 。 NL aigismod:不死族 : 获得 !M! 层 荆棘 ",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 获得 !aigisMod:SecondMagic! 层 aigismod:反击 。 NL aigismod:不死族 : 获得 !M! 层 荆棘 。",
     "EXTENDED_DESCRIPTION" : [
       "红剑的不死族姬"
     ]
   },
   "aigisMod:Estrie": {
     "NAME": "伊斯托莉",
-    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 可以消耗弃牌堆中1张不死族牌。 NL aigismod:不死族 : 获得 !M! 点临时生命。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL 可以消耗弃牌堆中1张不死族牌。 NL aigismod:不死族 : 获得 !M! 点临时生命。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 可以消耗弃牌堆中1张不死族牌。 NL aigismod:不死族 : 获得 !M! 点临时生命。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL 可以消耗弃牌堆中1张不死族牌。 NL aigismod:不死族 : 获得 !M! 点临时生命。",
     "EXTENDED_DESCRIPTION" : [
       "娇怜的吸血姬"
     ]
@@ -3371,11 +3371,11 @@
   },
   "aigisMod:Silvia": {
     "NAME": "希尔薇亚",
-    "DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。",
+    "DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。",
+    "UPGRADE_DESCRIPTION": "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。",
     "EXTENDED_DESCRIPTION" : [
       "红血的皇女",
-      "造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。"
+      "aigismod:公主 NL 造成 !D! 点 aigismod:吸血鬼 伤害。 NL aigismod:技能充能 : 提升此牌 !M! 点伤害 NL aigismod:不死族 : 获得 !aigisMod:SecondMagic! 点 敏捷 。"
     ]
   },
 
@@ -3974,8 +3974,8 @@
   },
   "aigisMod:Niel2": {
     "NAME": "尼尔",
-    "DESCRIPTION": "将 1 张耗能为 1 或更低的攻击牌从弃牌堆中加入手牌。 NL aigismod:解放 : 本回合获得 2 点 力量 。",
-    "UPGRADE_DESCRIPTION": "将 1 张耗能为 1 或更低的攻击牌从弃牌堆中加入手牌。 NL aigismod:解放 : 本回合获得 4 点 力量 。",
+    "DESCRIPTION": "将 1 张耗能为 1 或更低的攻击牌从弃牌堆中加入手牌。 NL aigismod:解放 : 本回合获得 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "将 1 张耗能为 1 或更低的攻击牌从弃牌堆中加入手牌。 NL aigismod:解放 : 本回合获得 !M! 点 力量 。",
     "EXTENDED_DESCRIPTION": [
       "堕天使"
     ]
