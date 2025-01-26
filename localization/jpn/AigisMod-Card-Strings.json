@@ -426,7 +426,7 @@
   },
   "aigisMod:FuqiPlatinum": {
     "NAME": "伏綺",
-    "DESCRIPTION": "デバフを受けた時に 筋力 !M! を得る。 NL ターン開始時、 *巽風 を 1 枚 手札に加える。 (綺織の伏華) ",
+    "DESCRIPTION": "デバフを受けた時に 筋力 !M! を得る。 NL ターン開始時、 *巽の風 を 1 枚 手札に加える。 (綺織の伏華) ",
     "EXTENDED_DESCRIPTION" : [
       "大華の礎たる者"
     ]
