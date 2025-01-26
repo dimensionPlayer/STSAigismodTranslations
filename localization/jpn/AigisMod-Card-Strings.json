@@ -4842,7 +4842,7 @@
   "aigisMod:Rhyno": {
     "NAME": "ライノー",
     "DESCRIPTION": "aigismod:飛行隊 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
-    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル 1枚 を 山札に生成する。 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル 1枚 を 山札に加える。 NL !D! ダメージを与える。 NL ブラー 1 を得る。",
     "EXTENDED_DESCRIPTION" : [
       "鷲翼の戦士"
     ]
@@ -4873,8 +4873,8 @@
   },
   "aigisMod:Potal": {
     "NAME": "ポタル",
-    "DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル を 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
-    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル を 1 枚山札に生成する。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
+    "DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル を 1 枚山札に加える。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
+    "UPGRADE_DESCRIPTION": "aigismod:飛行隊 NL *エアーシグナル を 1 枚山札に加える。 NL 山札の 飛行隊 カード を !M! 枚捨てることができる。",
     "EXTENDED_DESCRIPTION" : [
       "木兎翼の戦士"
     ]
