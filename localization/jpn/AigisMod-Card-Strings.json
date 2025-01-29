@@ -229,14 +229,14 @@
   },
   "aigisMod:RivenPlatinum": {
     "NAME": "リヴン",
-    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : *リヴンの幻影 を 1 枚山札に混ぜる。",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : *リヴンの幻影 を 1 枚山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "永夜の始祖たる者"
     ]
   },
   "aigisMod:RivenBlack": {
     "NAME": "リヴン",
-    "DESCRIPTION": "敵全体に !D! aigismod:麻痺 ダメージを与える。 NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : *リヴンの幻影 を 1 枚山札に混ぜる。",
+    "DESCRIPTION": "敵全体に !D! aigismod:麻痺 ダメージを与える。 NL aigismod:呪術 ： 筋力 1 と 敏捷性 1 を得る。 NL aigismod:アンデッド : *リヴンの幻影 を 1 枚山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "永夜の始祖たる者"
     ]
@@ -362,14 +362,14 @@
   },
   "aigisMod:IvrilPlatinum": {
     "NAME": "イヴリール",
-    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL 毒 !M! を与える。 NL aigismod:水兵 1: *デッドマン 号 1 枚 を山札に混ぜる。",
+    "DESCRIPTION": "aigismod:深海兵 NL !D! ダメージを与える。 NL 毒 !M! を与える。 NL aigismod:水兵 1: *デッドマン 号 1 枚 を山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "大海を征く者"
     ]
   },
   "aigisMod:IvrilBlack": {
     "NAME": "イヴリール",
-    "DESCRIPTION": "aigismod:深海兵 NL 敵全体に !D! ダメージを与える。 NL 敵全体に 毒 !M! を与える。 NL aigismod:水兵 1: *デッドマン 号 1 枚 を山札に混ぜる。",
+    "DESCRIPTION": "aigismod:深海兵 NL 敵全体に !D! ダメージを与える。 NL 敵全体に 毒 !M! を与える。 NL aigismod:水兵 1: *デッドマン 号 1 枚 を山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "大海を征く者"
     ]
@@ -1236,7 +1236,7 @@
 
   "aigisMod:Prim": {
     "NAME": "プリム",
-    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 1戦闘に1回、山札に *プリズムミラー 1 枚を混ぜる。",
+    "DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 1戦闘に1回、山札に *プリズムミラー 1 枚を加える。",
     "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL aigismod:鈍足 を与える。 NL 1戦闘に1回、山札に *プリズムミラー 1 枚を混ぜ、このカードのコストを戦闘中 0 にする。",
     "EXTENDED_DESCRIPTION" : [
       "幻光の魔女"
@@ -2912,19 +2912,19 @@
 
   "aigisMod:Koma": {
     "NAME": "コマ",
-    "DESCRIPTION": "*阿形の獅子 を 1 枚 山札に混ぜる。 NL 呪いか状態異常を引いたとき、カードを 1 枚引いて !M! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "*阿形の獅子 を 1 枚 山札に混ぜる。 NL 呪いか状態異常を引いたとき、カードを 1 枚引いて !M! ブロック を得る。",
+    "DESCRIPTION": "*阿形の獅子 を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引いて !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "*阿形の獅子 を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引いて !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "狛犬"
     ]
   },
   "aigisMod:Koma2": {
     "NAME": "コマ",
-    "DESCRIPTION": "*阿形の獅子 を 1 枚 山札に混ぜる。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
-    "UPGRADE_DESCRIPTION": "*阿形の獅子+ を 1 枚 山札に混ぜる。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "DESCRIPTION": "*阿形の獅子 を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "*阿形の獅子+ を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。",
     "EXTENDED_DESCRIPTION" : [
       "狛犬",
-      "*阿形の獅子 を 1 枚 山札に混ぜる。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。"
+      "*阿形の獅子 を 1 枚 山札に加える。 NL 呪いか状態異常を引いたとき、カードを 1 枚引き、 !M! ブロック を得る。"
     ]
   },
   "aigisMod:Shishi": {
@@ -3446,11 +3446,11 @@
   },
   "aigisMod:Ema": {
     "NAME": "エマ",
-    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚 山札に混ぜる。 NL aigismod:アンデッド : HPを !M! 回復する。",
-    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚山札に混ぜる。 NL aigismod:アンデッド : HPを !M! 回復する。",
+    "DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚 山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
+    "UPGRADE_DESCRIPTION": "!D! aigismod:麻痺 ダメージを与える。 NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。",
     "EXTENDED_DESCRIPTION" : [
       "絢爛の吸血鬼",
-      "!D! aigismod:麻痺 ダメージを与える NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚山札に混ぜる。 NL aigismod:アンデッド : HPを !M! 回復する。"
+      "!D! aigismod:麻痺 ダメージを与える NL 1 戦闘に 1 回、 *鏡花水月 を 1 枚山札に加える。 NL aigismod:アンデッド : HPを !M! 回復する。"
     ]
   },
   "aigisMod:MirrorFlower": {
@@ -4646,7 +4646,7 @@
   "aigisMod:Moltena": {
     "NAME": "モルテナ",
     "DESCRIPTION": "aigismod:魔物使い NL *魔獣 のダメージを !M! 増加して コスト を 0 にする。",
-    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL *魔獣 のダメージを !M! 増加して コスト を 0 にする。 NL *魔獣 を 1 枚 山札に混ぜる。",
+    "UPGRADE_DESCRIPTION": "aigismod:魔物使い NL *魔獣 のダメージを !M! 増加して コスト を 0 にする。 NL *魔獣 を 1 枚 山札に加える。",
     "EXTENDED_DESCRIPTION": [
       "魔物使い",
       "aigismod:魔物使い NL *魔獣 のダメージを !M! 増加して コスト を 0 にする。"
@@ -5143,8 +5143,8 @@
   },
   "aigisMod:Clarice": {
     "NAME": "クラリーチェ",
-    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL *闇霊 を 1枚 山札に混ぜる。",
-    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL *闇霊 を 1枚 山札に混ぜる。",
+    "DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL *闇霊 を 1枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! aigismod:貫通 ダメージを与える。 NL *闇霊 を 1枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "闇霊使い"
     ]
@@ -5159,8 +5159,8 @@
   },
   "aigisMod:Loretta": {
     "NAME": "ロレッタ",
-    "DESCRIPTION": "気力 !M! を得る。 *火霊 を 1枚 山札に混ぜる。",
-    "UPGRADE_DESCRIPTION": "気力 !M! を得る。 *火霊 を 1枚 山札に混ぜる。",
+    "DESCRIPTION": "気力 !M! を得る。 *火霊 を 1枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "気力 !M! を得る。 *火霊 を 1枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "火霊使い"
     ]
@@ -5258,15 +5258,15 @@
   "aigisMod:Latour": {
     "NAME": "ラトゥール",
     "DESCRIPTION": "手札 を 1 枚選ぶ。 それ以外を捨てて同じ枚数引く。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "手札 を 1 枚選ぶ。 それ以外を捨てて同じ枚数引く。 NL *ラトゥール を 1 枚山札に混ぜる。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "手札 を 1 枚選ぶ。 それ以外を捨てて同じ枚数引く。 NL *ラトゥール を 1 枚山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "不敗の賭博師"
     ]
   },
   "aigisMod:Aquamarie": {
     "NAME": "アクアマリー",
-    "DESCRIPTION": "*ウンディーネ を 1 枚 山札に混ぜる。 NL 次のターンでカード を !M! 枚追加で引く。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "*ウンディーネ を 1 枚 山札に混ぜる。 NL 次のターンでカード を !M! 枚追加で引く。 NL 廃棄",
+    "DESCRIPTION": "*ウンディーネ を 1 枚 山札に加える。 NL 次のターンでカード を !M! 枚追加で引く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "*ウンディーネ を 1 枚 山札に加える。 NL 次のターンでカード を !M! 枚追加で引く。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "召喚士"
     ]
@@ -5314,8 +5314,8 @@
   },
   "aigisMod:Solano2": {
     "NAME": "ソラノ",
-    "DESCRIPTION": "カードを !M! 枚引く。 NL *イフリート を 1 枚 山札に混ぜる。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL *イフリート を 1 枚 山札に混ぜる。 NL 廃棄",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL *イフリート を 1 枚 山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "カードを !M! 枚引く。 NL *イフリート を 1 枚 山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "召喚士"
     ]
@@ -5330,8 +5330,8 @@
   },
   "aigisMod:Charles2": {
     "NAME": "シャルル",
-    "DESCRIPTION": "[E] [E] を得る。 NL *軟化の秘術 を 1 枚 山札に混ぜる。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "[E] [E] を得る。 NL *軟化の秘術 を 1 枚 山札に混ぜる。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
+    "DESCRIPTION": "[E] [E] を得る。 NL *軟化の秘術 を 1 枚 山札に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "[E] [E] を得る。 NL *軟化の秘術 を 1 枚 山札に加える。 NL このターン終了時に HPを !M! 失う。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "神秘の術士"
     ]
@@ -5386,11 +5386,11 @@
   },
   "aigisMod:Machina": {
     "NAME": "マキナ",
-    "DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に混ぜる。",
-    "UPGRADE_DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に混ぜる。",
+    "DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に加える。",
+    "UPGRADE_DESCRIPTION": "ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に加える。",
     "EXTENDED_DESCRIPTION" : [
       "錬金技工士",
-      "天賦 NL ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に混ぜる。"
+      "天賦 NL ポーション使用時に 全員が !M! ダメージを受ける。 NL *スチームタンク を 1 枚 山札に加える。"
     ]
   },
   "aigisMod:SteamTank": {
@@ -5539,8 +5539,8 @@
   },
   "aigisMod:Haruka2": {
     "NAME": "ハルカ",
-    "DESCRIPTION": "占術 !M! NL *風霊 を 1 枚 山札 に混ぜる。",
-    "UPGRADE_DESCRIPTION": "占術 !M! NL *風霊 を 1 枚 山札 に混ぜる。",
+    "DESCRIPTION": "占術 !M! NL *風霊 を 1 枚 山札 に加える。",
+    "UPGRADE_DESCRIPTION": "占術 !M! NL *風霊 を 1 枚 山札 に加える。",
     "EXTENDED_DESCRIPTION" : [
       "帝国風霊使い"
     ]
@@ -5770,11 +5770,11 @@
   },
   "aigisMod:ShengPu2": {
     "NAME": "金光聖菩",
-    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身) を 1 枚 山札に混ぜる。 NL 廃棄",
-    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身) を 1 枚 山札に混ぜる。 NL 廃棄",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身) を 1 枚 山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身) を 1 枚 山札に加える。 NL 廃棄",
     "EXTENDED_DESCRIPTION" : [
       "",
-      "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身)+ を 1 枚 山札に混ぜる。 NL 廃棄"
+      "敵全体に !D! ダメージを与える。 NL aigismod:呪術 : *金光聖菩(分身)+ を 1 枚 山札に加える。 NL 廃棄"
     ]
   },
   "aigisMod:Nimue2": {
